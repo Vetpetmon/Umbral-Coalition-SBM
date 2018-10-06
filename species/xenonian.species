@@ -80,11 +80,16 @@
 	  ]
   },
 
+
   "altOptionAsUndyColor" : true,
+  "headOptionAsHairColor" : true,
   "altOptionAsHairColor" : true,
-  "headOptionAsBodyColor" : true,
-  "hairColorAsBodyColor" : true,
   "hairColorAsBodySubColor" : true,
+  //"altOptionAsUndyColor" : true,
+  //"altOptionAsHairColor" : true,
+  //"headOptionAsBodyColor" : true,
+  //"hairColorAsBodyColor" : true,
+  //"hairColorAsBodySubColor" : true,
 
   "genders" : [
     {
