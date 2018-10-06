@@ -81,8 +81,10 @@
   },
 
   "altOptionAsUndyColor" : true,
+  "altOptionAsHairColor" : true,
   "headOptionAsBodyColor" : true,
   "hairColorAsBodyColor" : true,
+  "hairColorAsBodySubColor" : true,
 
   "genders" : [
     {
@@ -124,7 +126,7 @@
     //Brown
     { "ffc181" : "86644a", "d39c6c" : "684431", "c7815b" : "40271d" },
     //Cake-ish Brown
-    { "ffc181" : "805e28", "d39c6c" : "b18237", "c7815b" : "cfa767" },
+    { "ffc181" : "cfa767", "d39c6c" : "b18237", "c7815b" : "805e28" },
     //Deep Red
     { "ffc181" : "4d1e0e", "d39c6c" : "3b190d", "c7815b" : "29150d" },
     //Chocolate Brown
