@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/xenonian",
+		"value" : [
+		    "/ships/xenonian/xenoniant0.structure",
+			"/ships/xenonian/xenoniant1.structure",
+			"/ships/xenonian/xenoniant2.structure",
+			"/ships/xenonian/xenoniant3.structure",
+			"/ships/xenonian/xenoniant4.structure",
+			"/ships/xenonian/xenoniant5.structure",
+			"/ships/xenonian/xenoniant6.structure",
+			"/ships/xenonian/xenoniant7.structure",
+			"/ships/xenonian/xenoniant8.structure"
+		]
+	}
+]

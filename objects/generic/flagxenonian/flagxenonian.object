@@ -1,0 +1,51 @@
+{
+  "objectName" : "flagxenonian",
+  "colonyTags" : ["xenonian"],
+  "printable" : false,
+  "rarity" : "Common",
+  "objectType" : "teleporter",
+  "category" : "teleportMarker",
+  "price" : 70,
+  "radioMessagesOnPickup" : [ "pickupflag" ],
+
+  "description" : "The flag of the Umbral Coalition. Use ^green;[E]^white; to bookmark a teleportation location.",
+  "shortdescription" : "Umbral Coalition Marker",
+  "race" : "xenonian",
+  "apexDescription" : "A flag of the Umbral Coalition. I can use this as a waypoint for teleportation.",
+  "avianDescription" : "This Umbral Coalition marker can be bookmarked as a destination for my ship teleporter.",
+  "floranDescription" : "Purple flag makess good point to teleport back to ussing teleporter",
+  "glitchDescription" : "Observant. A small locator module attached to this marker allows it to be bookmarked for teleportation.",
+  "humanDescription" : "This marker can be saved as a location for my teleporter. Then I can return to it at any time.",
+  "hylotlDescription" : "This marker can act as a way point, enabling me to return to this point using a teleporter.",
+  "novakidDescription" : "I can bookmark this marker for quick teleportin'.",
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/destinationonly.config",
+  "inventoryIcon" : "flagxenonianicon.png",
+  "category" : "light",
+  "lightColor" : [10, 30, 30],
+  "flickerDistance" : 0.2,
+  "flickerStrength" : 0.2,
+  "flickerTiming" : 4,
+  "orientations" : [
+    {
+      "image" : "flagxenonian.png:<color>.<frame>",
+      "flipImages" : true,
+      "direction" : "left",
+      "imagePosition" : [-16, 0],
+      "frames" : 2,
+      "animationCycle" : 4.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "flagxenonian.png:<color>.<frame>",
+      "direction" : "right",
+      "imagePosition" : [0, 0],
+      "frames" : 2,
+      "animationCycle" : 4.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+  //"soundEffect" : "/sfx/objects/flag_flap_loop.ogg"
+}

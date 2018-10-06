@@ -1,0 +1,22 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel"],
+      "maxFuel" : 1000,
+      "crewSize" : 2
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "xenonianT2.png",
+      "position" : [8, 14],
+      "fullbright" : true
+    },
+    {
+      "image" : "xenonianT2lit.png",
+      "position" : [8, 14]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "xenonianT2blocks.png"
+}

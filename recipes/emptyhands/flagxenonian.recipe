@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "copperbar", "count" : 6 },
+    { "item" : "ironbar", "count" : 6 },
+    { "item" : "torch", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "flagxenonian",
+    "count" : 1
+  },
+  "groups" : [ "plain", "all" ]
+}

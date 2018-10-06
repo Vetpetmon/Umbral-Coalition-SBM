@@ -1,0 +1,3 @@
+[
+{ "op" : "add", "path" : "/defaultCodexes/xenonian", "value" : [ "protectorate1", "protectorate2" ] }
+]

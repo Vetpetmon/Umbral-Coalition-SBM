@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/xenonian",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/xenonian",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]

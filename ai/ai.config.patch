@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/xenonian",
+		"value" : {
+			"aiFrames" : "xenonianAI.png",
+			"portraitFrames" : "portraits/xenonianportrait.png",
+			"staticFrames" : "staticxenonian.png"	
+		}
+	}
+]

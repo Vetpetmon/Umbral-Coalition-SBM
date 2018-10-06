@@ -1,0 +1,13 @@
+{
+	"id" : "xenonianwelcomeguide",
+	"title" : "Welcome to Xen-789!",
+	"description" : "Simply put, it's a guide to how to not die on Xen-789.",
+	"icon" : "humancover7.png",
+	"contentPages" : [
+    "Lore here."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

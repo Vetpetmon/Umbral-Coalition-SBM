@@ -1,0 +1,231 @@
+{
+  "kind" : "xenonian",
+	"charCreationTooltip" : {
+	"title" : "xenonian",
+	"subTitle" : "O2",
+	"description" : "The Xenonians are a race of slug-like creatures who love their toxic and polluted homeworld, Xen-789."
+  },
+  "nameGen" : [ "/species/xenoniannamegen.config:names", "/species/xenoniannamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/xenonianhurt_male1.ogg", "/sfx/humanoid/xenonianhurt_female1.ogg" ],
+  "charGenTextLabels" : [ "Skin colour", "Antenna", "Shirt", "Legwear", "Bioluminescence", "Hair colour", "Shirt colour", "Legwear colour", "XENONIAN", "Personality" ],
+  "skull" : "/humanoid/xenonian/dead.png",
+  "effectDirectives" : "?replace=FEFFFFFF=1d1d1dFF?replace=9bd4ffFF=1a1a1aFF?replace=31a6ffFF=151515FF",
+  "defaultBlueprints" : {
+    "tier1" : [
+
+  // Empty Hands
+      { "item" : "flagxenonian" },
+
+// Anvil
+      { "item" : "humantier1head" },
+      { "item" : "humantier1chest" },
+      { "item" : "humantier1pants" },
+      { "item" : "humantier2head" },
+      { "item" : "humantier2chest" },
+      { "item" : "humantier2pants" },
+      { "item" : "xenoniansword" },
+      { "item" : "ironshortsword" },
+      { "item" : "ironbroadsword" },
+      { "item" : "tungstenaxe" },
+      { "item" : "tungstenhammer" },
+// Anvil2
+      { "item" : "humantier3head" },
+      { "item" : "humantier3chest" },
+      { "item" : "humantier3pants" },
+      { "item" : "humantier4head" },
+      { "item" : "humantier4chest" },
+      { "item" : "humantier4pants" },
+      { "item" : "titaniumdagger" },
+      { "item" : "titaniumspear" },
+      { "item" : "durasteelbroadsword" },
+      { "item" : "durasteelshortsword" },
+// Anvil3
+      { "item" : "humantier5ahead" },
+      { "item" : "humantier5achest" },
+      { "item" : "humantier5apants" },
+      { "item" : "humantier6ahead" },
+      { "item" : "humantier6achest" },
+      { "item" : "humantier6apants" },
+      { "item" : "humantier5mhead" },
+      { "item" : "humantier5mchest" },
+      { "item" : "humantier5mpants" },
+      { "item" : "humantier6mhead" },
+      { "item" : "humantier6mchest" },
+      { "item" : "humantier6mpants" },
+      { "item" : "humantier5shead" },
+      { "item" : "humantier5schest" },
+      { "item" : "humantier5spants" },
+      { "item" : "humantier6shead" },
+      { "item" : "humantier6schest" },
+      { "item" : "humantier6spants" },
+      { "item" : "aegisaltpistol" },
+      { "item" : "aegisaltbow" },
+      { "item" : "feroziumwand" },
+      { "item" : "feroziumstaff" },
+      { "item" : "violiumshortsword" },
+      { "item" : "violiumbroadsword" },
+// Furniture Table 2
+      { "item" : "humanstoragelocker" },
+      { "item" : "xenonianshipdoor" },
+      { "item" : "xenonianshiphatch" },
+// Spinning Wheel
+      { "item" : "xenonianoutfit1chest" },
+      { "item" : "xenonianoutfit1legs" },
+      { "item" : "xenonianoutfit2chest" },
+      { "item" : "xenonianoutfit2legs" },
+      { "item" : "xenonianoutfit3chest" },
+      { "item" : "xenonianoutfit3legs" },
+      { "item" : "xenonianoutfit4chest" },
+      { "item" : "xenonianoutfit4legs" }
+	  ]
+  },
+
+  "altOptionAsUndyColor" : true,
+  "headOptionAsBodyColor" : true,
+  "hairColorAsBodyColor" : true,
+
+  "genders" : [
+    {
+       "name" : "male",
+      "image" : "/interface/title/xenonianmaleico.png",
+      "characterImage" : "/interface/title/xenonianmale.png",
+      "hair" : [ "1", "2", "3", "4", "5", "6" ],
+      "shirt" : [ "xenonianoutfit1chest", "xenonianoutfit2chest", "xenonianoutfit3chest", "xenonianoutfit4chest" ],
+      "pants" : [ "xenonianoutfit1legs", "xenonianoutfit2legs", "xenonianoutfit3legs", "xenonianoutfit4legs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/xenonianfemico.png",
+      "characterImage" : "/interface/title/xenonianfemale.png",
+      "hair" : [ "1", "2", "3", "4", "5", "6" ],
+      "shirt" : [ "xenonianoutfit1chest", "xenonianoutfit2chest", "xenonianoutfit3chest", "xenonianoutfit4chest" ],
+      "pants" : [ "xenonianoutfit1legs", "xenonianoutfit2legs", "xenonianoutfit3legs", "xenonianoutfit4legs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    }
+  ],
+  "bodyColor" : [
+    // BASE COLOR
+    //ffc181 2nd shade
+    //d39c6c 3rd shade
+    //c7815b 4th shade
+    //White
+    { "ffc181" : "f4f4f4", "d39c6c" : "cdcdcd", "c7815b" : "ababab" },
+    //Deep Purple
+    { "ffc181" : "3d0f49", "d39c6c" : "2d0b36", "c7815b" : "220829" },
+    //Black
+    { "ffc181" : "837667", "d39c6c" : "665D56", "c7815b" : "46403E" },
+    //Brown
+    { "ffc181" : "86644a", "d39c6c" : "684431", "c7815b" : "40271d" },
+    //Cake-ish Brown
+    { "ffc181" : "805e28", "d39c6c" : "b18237", "c7815b" : "cfa767" },
+    //Deep Red
+    { "ffc181" : "4d1e0e", "d39c6c" : "3b190d", "c7815b" : "29150d" },
+    //Chocolate Brown
+    { "ffc181" : "502814", "d39c6c" : "3d1f11", "c7815b" : "2f180c" },
+    //Ginger
+    { "ffc181" : "c88959", "d39c6c" : "9e6a4d", "c7815b" : "784930" },
+    //Dirty Orange
+    { "ffc181" : "a6671d", "d39c6c" : "915622", "c7815b" : "743e1d" },
+    //Rusty
+    { "ffc181" : "BE471B", "d39c6c" : "9B2F0C", "c7815b" : "702710" },
+    //Cinnamon Brown
+    { "ffc181" : "835955", "d39c6c" : "5a4a53", "c7815b" : "3f414f" },
+    //Anomaly 0-0t
+    { "ffc181" : "B0D1CD", "d39c6c" : "98C7C1", "c7815b" : "85BEB7" },
+    //Dirty Blonde
+    { "ffc181" : "eaa758", "d39c6c" : "cd8b3d", "c7815b" : "93682c" }
+  ],
+  "undyColor" : [
+    { "dc1f00" : "b7ffd9", "be1b00" : "7affce" }, //Toothpaste Green
+    { "dc1f00" : "ffe062", "be1b00" : "ffbe62" }, //Bright Orange
+    { "dc1f00" : "B8FD99", "be1b00" : "7CF49A" }, //Bright Green
+    { "dc1f00" : "d8fffd", "be1b00" : "9ffff9" }, //Bright Blue
+    { "dc1f00" : "4d76ad", "be1b00" : "395187", "951500" : "20325b" },
+    { "dc1f00" : "7c41b8", "be1b00" : "6c2f90", "951500" : "471962" },
+    { "dc1f00" : "c63442", "be1b00" : "9b2724", "951500" : "6a1210" },
+    { "dc1f00" : "eaa245", "be1b00" : "b47020", "951500" : "834a0c" },
+    { "dc1f00" : "e3e13a", "be1b00" : "a8a614", "951500" : "848008" },
+    { "dc1f00" : "6ab841", "be1b00" : "45902f", "951500" : "296219" },
+    { "dc1f00" : "535353", "be1b00" : "363636", "951500" : "111111" },
+    { "dc1f00" : "e6e6e6", "be1b00" : "979797", "951500" : "6f6f6f" },
+    { "dc1f00" : "9e9e9e", "be1b00" : "6e6e6e", "951500" : "434343" },
+    { "dc1f00" : "f794f8", "be1b00" : "d355c1", "951500" : "b72c95" }
+  ],
+  "hairColor" : [
+    // SECONDARY COLOR
+    //fff8b5 1st shade
+    //fde03f 2nd shade
+    //f6b919 3rd shade
+    //LIGHT RED
+    { "fff8b5" : "E86D46", "fde03f" : "D1422E", "f6b919" : "96201B" },
+    //RED
+    { "fff8b5" : "CD1C38", "fde03f" : "982441", "f6b919" : "69243F" },
+    //DARK RED
+    { "fff8b5" : "ad2716", "fde03f" : "8f1f1b", "f6b919" : "731a1a" },
+    //RUSTY RED
+    { "fff8b5" : "BE471B", "fde03f" : "9B2F0C", "f6b919" : "702710" },
+    //BROWN
+    { "fff8b5" : "7d3c1c", "fde03f" : "4d240b", "f6b919" : "2d1606" },
+    //LIGHT BROWN
+    { "fff8b5" : "7f5a39", "fde03f" : "5b3523", "f6b919" : "3b1f15" },
+    //DIRTY ORANGE
+    { "fff8b5" : "a6671d", "fde03f" : "915622", "f6b919" : "743e1d" },
+    //ORANGE
+    { "fff8b5" : "efa838", "fde03f" : "be6d1d", "f6b919" : "834012" },
+    //DIRTY BLONDE
+    { "fff8b5" : "eaa758", "fde03f" : "cd8b3d", "f6b919" : "93682c" },
+    //YELLOW
+    { "fff8b5" : "e6e756", "fde03f" : "c7ac3f", "f6b919" : "a9882f" },
+    //BLONDE
+    { "fff8b5" : "f1d992", "fde03f" : "daba5e", "f6b919" : "b59a4d" },
+    //LIGHT YELLOW
+    { "fff8b5" : "f2eba3", "fde03f" : "dcd28c", "f6b919" : "c2b677" },
+    //TOOTHPASTE GREEN
+    { "fff8b5" : "f2ffed", "fde03f" : "b7ffd9", "f6b919" : "4abc80" },
+    //LIGHT GREEN
+    { "fff8b5" : "A7D13D", "fde03f" : "83AD22", "f6b919" : "6B880B" },
+    //GREEN
+    { "fff8b5" : "4ece61", "fde03f" : "34ae47", "f6b919" : "228a38" },
+    //DARK GREEN
+    { "fff8b5" : "3b7f44", "fde03f" : "2e6a38", "f6b919" : "1d4b28" },
+    //TORQUOISE
+    { "fff8b5" : "5BD5B6", "fde03f" : "4AA9AD", "f6b919" : "237082" },
+    //LIGHT TURQUOISE
+    { "fff8b5" : "49E193", "fde03f" : "3BA380", "f6b919" : "197C81" },
+    //LIGHT BLUE
+    { "fff8b5" : "61BCDE", "fde03f" : "5381CC", "f6b919" : "2C489E" },
+    //BLUE
+    { "fff8b5" : "5d8bc7", "fde03f" : "4d55b0", "f6b919" : "2e2a73" },
+    //DARK BLUE
+    { "fff8b5" : "425879", "fde03f" : "343965", "f6b919" : "242247" },
+    //DARK PURPLE
+    { "fff8b5" : "7f3b6d", "fde03f" : "6a2e53", "f6b919" : "4b1d30" },
+    //PURPLE
+    { "fff8b5" : "653b7f", "fde03f" : "562e6a", "f6b919" : "3f1d4b" },
+    //HOT PINK
+    { "fff8b5" : "cd72d9", "fde03f" : "ac4da6", "f6b919" : "913b86" },
+    //PINK
+    { "fff8b5" : "D26BA4", "fde03f" : "A54669", "f6b919" : "89334D" },
+    //LIGHT PURPLE
+    { "fff8b5" : "ad68e2", "fde03f" : "8d41b0", "f6b919" : "6a2980" },
+    //BROWN GREY
+    { "fff8b5" : "50422f", "fde03f" : "36261e", "f6b919" : "170f0d" },
+    // DARK GREY
+    { "fff8b5" : "525252", "fde03f" : "363636", "f6b919" : "161616" },
+    // GREY
+    { "fff8b5" : "74726f", "fde03f" : "53504d", "f6b919" : "2a251e" },
+    // GREY BLUE
+    { "fff8b5" : "6f6d85", "fde03f" : "525269", "f6b919" : "3e4352" },
+    // LIGHT GREY
+    { "fff8b5" : "b8b8b8", "fde03f" : "828282", "f6b919" : "555555" },
+    // WHITE
+    { "fff8b5" : "eaeaea", "fde03f" : "b8b8b8", "f6b919" : "828282" }
+  ]
+}
