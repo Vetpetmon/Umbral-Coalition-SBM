@@ -9,7 +9,7 @@
   "category" : "ucinjector",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","broadsword"],
-  "inventoryIcon" : "xenoniansword.png",
+  "inventoryIcon" : "ucxeninjectordefunct.png",
   "animation" : "/items/active/weapons/melee/spear/spear.animation",
   "animationParts" : {
     "handle" : "",
