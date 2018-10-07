@@ -4,6 +4,6 @@
     { "item" : "smallbattery", "count" : 1 },
     { "item" : "wire", "count" : 5 }
   ],
-  "output" : { "item" : "sktestshipdoor", "count" : 1 },
+  "output" : { "item" : "xenonianshipdoor", "count" : 1 },
   "groups" : [ "craftingfurniture2", "doors", "all" ]
 }
