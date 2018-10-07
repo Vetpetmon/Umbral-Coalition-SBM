@@ -1,0 +1,20 @@
+{
+  "itemName" : "ucstrawberry",
+  "rarity" : "Common",
+  "price" : 10,
+  "category" : "food",
+  "eventCategory" : "eventCrop",
+  "inventoryIcon" : "strawberry.png",
+  "description" : "Hydrating and sweet. Makes deserts healthy[ier]!",
+  "shortdescription" : "Strawberry",
+  "foodValue" : 1,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 0.9,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup" : [ "ucstrawberryjam" ]
+}

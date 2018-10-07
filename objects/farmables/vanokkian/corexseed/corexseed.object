@@ -1,0 +1,66 @@
+{
+  "objectName" : "webcorexseed",
+  "colonyTags" : ["nature", "farmer"],
+  "rarity" : "Common",
+  "category" : "seed",
+  "description" : "Corex plants slowly produce a meat-like fruit.",
+  "shortdescription" : "Corex Seed",
+  "objectType" : "farmable",
+  "printable" : false,
+  "price" : 15,
+
+  "apexDescription" : "This is a wonderous plant. It seems to grow fruit that's similar to meat.",
+  "avianDescription" : "Questionable.",
+  "floranDescription" : "Weird plant.",
+  "glitchDescription" : "Curious. This is a very strange plant, I must investigate further.",
+  "humanDescription" : "Plants growing... Meat?",
+  "hylotlDescription" : "An odd plant",
+  "novakidDescription" : "What is this lil' plant?",
+
+  "webberDescription" : "Breadon is a favorite. Poke a hole, pinch on the bottom, and there's food!",
+  "fiiDescription" : "Click, an alien plant.",
+
+  "inventoryIcon" : "corexseedicon.png",
+
+  "tooltipKind" : "seed",
+  "largeImage" : "corexseed.png:default.3.0",
+
+
+  "orientations" : [
+    {
+      "dualImage" : "corexseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaces" : [ [1, 0], [0, 0], [1, 1], [0, 1] ],
+      "requireTilledAnchors" : true,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "radioMessagesOnPickup" : [ "pickupseed" ],
+
+  "stages" : [
+    {
+      "duration" : [70, 100] //1
+    },
+    {
+      "duration" : [90, 140] //2
+    },
+    {
+      "duration" : [200, 240] //3
+    },
+    {
+      "duration" : [300, 340] //4
+    },
+    {
+      "alts" : 1,
+      "harvestPool" : "webCorexHarvest", //5
+      "resetToStage" : 3
+    }
+  ],
+
+  "maxImmersion" : 0.125
+}

@@ -1,0 +1,70 @@
+{
+  "objectName" : "candacocoaberryseed",
+  "colonyTags" : ["nature", "farmer"],
+  "rarity" : "Common",
+  "category" : "seed",
+  "description" : "Cocoa berry plants are one of the many sources of chocolate.",
+  "shortdescription" : "Cocoa Berry Seed",
+  "objectType" : "farmable",
+  "printable" : false,
+  "price" : 15,
+
+  "apexDescription" : "What an odd looking plant. It's fruit is toxic to canines.",
+  "avianDescription" : "Cocoa pods and cocoa berries. What's next?",
+  "floranDescription" : "Purple plant perplexesss floran.",
+  "glitchDescription" : "Statement. This is a cocoa berry plant.",
+  "humanDescription" : "So what's real chocolate, anymore?",
+  "hylotlDescription" : "This must be a cocoa berry plant from Candavas.",
+  "novakidDescription" : "It'sa cocoa berry.",
+
+  "webberDescription" : "A tart kind of chocolate. Not very appitizing.",
+  "candavaswebberDescription" : "A traditional favorite, cocoa berries!",
+
+  "inventoryIcon" : "cocoaberryseedicon.png",
+
+  "tooltipKind" : "seed",
+  "largeImage" : "cocoaberryseed.png:default.3.0",
+
+  "learnBlueprintsOnPickup" : [ "candacocoaberryseed" ],
+
+  "orientations" : [
+    {
+      "dualImage" : "cocoaberryseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaces" : [ [1, 0], [0, 0], [1, 1], [0, 1] ],
+      "requireTilledAnchors" : true,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "radioMessagesOnPickup" : [ "pickupseed" ],
+
+  "stages" : [
+    {
+      "duration" : [100, 120] //1
+    },
+    {
+      "duration" : [100, 140] //2
+    },
+    {
+      "duration" : [200, 240] //3
+    },
+    {
+      "duration" : [200, 240] //4
+    },
+    {
+      "duration" : [300, 340] //5
+    },
+    {
+      "alts" : 1,
+      "harvestPool" : "candacocoaberryharvest", //6
+      "resetToStage" : 3
+    }
+  ],
+
+  "maxImmersion" : 0.125
+}

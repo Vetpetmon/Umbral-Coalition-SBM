@@ -1,0 +1,79 @@
+{
+  "objectName" : "ucwildstrawberry",
+  "colonyTags" : ["nature", "farmer"],
+  "rarity" : "Common",
+  "category" : "seed",
+  "description" : "Imported straight from Earth.",
+  "shortdescription" : "Strawberry Seed",
+  "objectType" : "farmable",
+  "printable" : false,
+  "price" : 15,
+  "hasObjectItem" : false,
+
+  "apexDescription" : "From my research, strawberries contain important chemicals for medicine.",
+  "avianDescription" : "Look! They have tiny little seeds on the outside!",
+  "floranDescription" : "Bright red fruitsss.",
+  "glitchDescription" : "Nervous. These fruits are colored red and could mean danger.",
+  "humanDescription" : "Hey, strawberries are still around the universe!",
+  "hylotlDescription" : "Beautifully red fruits imported from Earth.",
+  "novakidDescription" : "If they're called strawberries, then why ain't they got straws?",
+
+  "ucDescription" : "These work great as toppings on deserts and pizzas.",
+
+  "inventoryIcon" : "strawberryseedicon.png",
+
+  "tooltipKind" : "seed",
+  "largeImage" : "strawberryseed.png:default.3.0",
+
+
+  "orientations" : [
+    {
+      "dualImage" : "strawberryseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaces" : [ [1, 0], [0, 0], [1, 1], [0, 1] ],
+      "requireTilledAnchors" : false,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "radioMessagesOnPickup" : [ "pickupseed" ],
+
+  "stages" : [
+    {
+      "duration" : [100, 140] //1
+    },
+    {
+      "duration" : [100, 140] //2
+    },
+    {
+      "duration" : [100, 140] //3
+    },
+    {
+      "duration" : [100, 140] //4
+    },
+    {
+      "duration" : [140, 180] //5
+    },
+    {
+      "duration" : [180, 240], //6
+      "alts" : 1,
+      "harvestPool" : "ucstrawberryunripeHarvest",
+      "resetToStage" : 4
+    },
+    {
+      "alts" : 1,
+      "harvestPool" : "ucstrawberryHarvest",
+      "resetToStage" : 4
+    }
+  ],
+  "breakDropOptions" : [
+    [ [ "ucstrawberryseed", 1, { } ] ]
+],
+
+  "maxImmersion" : 0.125,
+  "consumeSoilMoisture" : false
+}

@@ -1,0 +1,66 @@
+{
+  "objectName" : "webkaradiancarrotseed",
+  "colonyTags" : ["nature", "farmer"],
+  "rarity" : "Common",
+  "category" : "seed",
+  "description" : "Karadian carrots, native to the Karadian Swamp on Vanokk, are some of the worst tasting plants in existence.",
+  "shortdescription" : "Karadian Carrot Seed",
+  "objectType" : "farmable",
+  "printable" : false,
+  "price" : 15,
+
+  "apexDescription" : "Smells revolting.",
+  "avianDescription" : "Questionable.",
+  "floranDescription" : "Weird plant.",
+  "glitchDescription" : "Curious. This is a very strange plant, I must investigate further.",
+  "humanDescription" : "A nasty plant that grows in a nasty swamp.",
+  "hylotlDescription" : "An odd plant",
+  "novakidDescription" : "What is this lil' plant?",
+
+  "webberDescription" : "Karadian carrots are an aquired taste.",
+  "fiiDescription" : "Click, an alien plant.",
+
+  "inventoryIcon" : "karadiancarrotseedicon.png",
+
+  "tooltipKind" : "seed",
+  "largeImage" : "karadiancarrotseed.png:default.3.0",
+
+
+  "orientations" : [
+    {
+      "dualImage" : "karadiancarrotseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "requireTilledAnchors" : true,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "radioMessagesOnPickup" : [ "pickupseed" ],
+
+  "stages" : [
+    {
+      "duration" : [70, 100] //1
+    },
+    {
+      "duration" : [90, 140] //2
+    },
+    {
+      "duration" : [200, 240] //3
+    },
+    {
+      "duration" : [300, 340] //4
+    },
+    {
+      "alts" : 2,
+      "harvestPool" : "webKaradiancarrotHarvest", //5
+      "resetToStage" : 1
+    }
+  ],
+
+  "maxImmersion" : 1.0
+}

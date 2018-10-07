@@ -1,0 +1,21 @@
+{
+  "itemName" : "ucbreadon",
+  "rarity" : "Common",
+  "price" : 40,
+  "category" : "food",
+  "eventCategory" : "eventCrop",
+  "inventoryIcon" : "breadon.png",
+  "description" : "A famous vegetable from Vanokk, Breadon is a traditional favorite in the Vanokkian diet.",
+  "shortdescription" : "Breadon",
+  //"effects" : [ ],
+  "foodValue" : 9,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.2,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup" : [ "ucstuffedbreadonstrawberry" ]
+}

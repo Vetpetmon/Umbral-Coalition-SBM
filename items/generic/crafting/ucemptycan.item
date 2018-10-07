@@ -1,0 +1,10 @@
+{
+  "itemName": "ucemptycan",
+  "rarity": "common",
+  "price": 100,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "ucemptycan.png",
+  "description" : "Put something in it, already!",
+  "shortdescription" : "Empty Can",
+  "itemTags" : [ "reagent" ]
+}

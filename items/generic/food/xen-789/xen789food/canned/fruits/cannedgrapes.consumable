@@ -1,0 +1,18 @@
+{
+  "itemName" : "uccannedgrapes",
+  "rarity" : "Common",
+  "price" : 30,
+  "category" : "preparedFood",
+  "inventoryIcon" : "purplecan.png",
+  "description" : "Preserved grapes.",
+  "shortdescription" : "Canned Grapes",
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 4.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

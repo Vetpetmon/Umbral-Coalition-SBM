@@ -1,0 +1,73 @@
+{
+  "objectName" : "sugarreedseed",
+  "colonyTags" : ["nature", "farmer"],
+  "rarity" : "Common",
+  "category" : "seed",
+  "description" : "Sugar Reeds, a plant that is resistant to weather and commonly used as a building material.",
+  "shortdescription" : "Sugar Reed Seed",
+  "objectType" : "farmable",
+  "printable" : false,
+  "price" : 10,
+
+  "apexDescription" : "This plant contains unsafe levels of sugar.",
+  "avianDescription" : "Sickeningly sugary.",
+  "floranDescription" : "Sssugar Reedsss resssemblesss bamboo.",
+  "glitchDescription" : "Statement. This is a Sugar Reed.",
+  "humanDescription" : "Sorta looks like bamboo, only less flexible.",
+  "hylotlDescription" : "It's colored like ocean.",
+  "novakidDescription" : "Seems to be a bit like bamboo.",
+
+  "webberDescription" : "These contain far more sugar than sugarcane.",
+  "candavaswebberDescription" : "We valued these plants for the shelters we could build with them. In return, we helped them thrive around every village.",
+
+  "inventoryIcon" : "sugarreedseedicon.png",
+
+  "tooltipKind" : "seed",
+  "largeImage" : "sugarreedseed.png:default.3.0",
+
+  "learnBlueprintsOnPickup" : [ "sugarreedseed" ],
+
+  "orientations" : [
+    {
+      "dualImage" : "sugarreedseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaces" : [ [1, 0], [0, 0], [1, 1], [0, 1], [1, 2], [0, 2], [1, 3], [0, 3] ],
+      "requireTilledAnchors" : true,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "radioMessagesOnPickup" : [ "pickupseed" ],
+
+  "stages" : [
+    {
+      "duration" : [100, 140] //1
+    },
+    {
+      "duration" : [140, 180] //2
+    },
+    {
+      "duration" : [140, 180] //3
+    },
+    {
+      "duration" : [140, 180] //4
+    },
+    {
+      "duration" : [280, 300] //5
+    },
+    {
+      "duration" : [300, 340] //6
+    },
+    {
+      "alts" : 6,
+      "harvestPool" : "candasugarreedharvest", //7
+      "resetToStage" : 2
+    }
+  ],
+
+  "maxImmersion" : 0.125
+}

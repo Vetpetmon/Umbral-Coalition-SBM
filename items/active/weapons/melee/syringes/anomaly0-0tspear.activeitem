@@ -1,0 +1,52 @@
+{
+  "itemName" : "vanokkanomaly0dash0tsyringe",
+  "price" : 500,
+  "level" : 5,
+  "maxStack" : 1,
+  "rarity" : "legendary",
+  "description" : "A giant syringe full of Anomaly 0-0t.
+
+  \"Great taste and no side effects!\" ",
+  "shortdescription" : "Syringe (Anomaly 0-0t)",
+  "tooltipKind" : "sword",
+  "category" : "syringe",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","melee","spear"],
+  "inventoryIcon" : "anomaly0-0tspear.png",
+  "animation" : "/items/active/weapons/melee/spear/spear.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "anomaly0-0tspear.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : [ "/sfx/melee/swing_spear.ogg" ]
+    }
+  },
+
+  "scripts" : [
+  "/items/active/weapons/melee/meleeweapon.lua"
+  ],
+
+  "elementalType" : "poison",
+
+  "aimOffset" : -1.0,
+  "primaryAbilityType" : "spearstab",
+  "primaryAbility" : {
+    "scripts" : [],
+
+    "fireTime" : 0.8,
+    "baseDps" : 5.0,
+    "damageConfig" : {
+      "statusEffects" : [ "anomaly2syringe" ],
+      "knockback" : 5
+    }
+  },
+
+  //FU crit stats
+  "critChance" : 4,
+  "critBonus" : 3,
+
+  "altAbilityType" : "spearspin", //placeholder alt
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

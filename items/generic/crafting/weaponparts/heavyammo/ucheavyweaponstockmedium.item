@@ -1,0 +1,10 @@
+{
+  "itemName": "ucheavyweaponstockmedium",
+  "rarity": "common",
+  "price": 200,
+  "category": "ucweaponpart",
+  "inventoryIcon" : "ucheavyweaponstocksmall.png",
+  "description" : "This holds a good amount of heavy ammo, for when explosions are prefered.",
+  "shortdescription" : "Medium Heavy Stock",
+  "itemTags" : [ "reagent" ]
+}

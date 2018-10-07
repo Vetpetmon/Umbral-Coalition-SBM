@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "plantfibre", "count" : 1 },
+    { "item" : "kyroxsugarreedstalk", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "kyroxsugarreedwall",
+    "count" : 25
+  },
+  "duration" : 0.4,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

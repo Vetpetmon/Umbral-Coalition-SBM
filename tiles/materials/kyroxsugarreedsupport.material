@@ -1,0 +1,28 @@
+{
+  "materialId" : 25504,
+  "materialName" : "kyroxsugarreedsupport",
+  "frames" : "kyroxsugarreedsupport.png",
+  "particleColor" : [89, 127, 52, 255],
+  "variants" : 1,
+  "itemDrop" : "kyroxsugarreedsupport",
+  "description" : "Sugar reed is rich in sugar and is a sturdy building material.",
+  "shortdescription" : "Sugar Reed Support",
+  "glitchDescription" : "Impressed. Sugar reed can be used as a building material.",
+  "floranDescription" : "Sssugar reed is rich in sssugar and isss sssturdy building material.",
+  "novakidDescription" : "How does this make any sense? It's made out of sugar!",
+  "ucDescription" : "Too much sugar. We bet that we'd knock it down by simply leaning on it.",
+  "kyroxvasucDescription": "Sugar reed is one of our most treasured plants. It helped shelter our ancestors long ago.",
+  "footstepSound" : "/sfx/blocks/footstep_ice.ogg",
+  "health" : 6,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/girdertemplate.config",
+  "renderParameters" : {
+    "texture" : "kyroxsugarreedsupport.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 3320
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "itemName": "uclaminatedwoodenstick",
+  "rarity": "common",
+  "price": 200,
+  "category": "ucweaponpart",
+  "inventoryIcon" : "uclaminatedwoodenstick.png",
+  "description" : "A very strong and shiny wood stick.",
+  "shortdescription" : "Laminated Wooden Stick",
+  "itemTags" : [ "reagent" ]
+}

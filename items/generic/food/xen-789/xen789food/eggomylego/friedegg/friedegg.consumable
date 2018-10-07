@@ -1,0 +1,21 @@
+
+{
+  "itemName" : "ucfriedegg",
+  "rarity" : "Common",
+  "price" : 0,
+  "category" : "preparedFood",
+  "inventoryIcon" : "friedegg.png",
+  "description" : "It's a fried egg. Has no seasonings on it at all.",
+  "shortdescription" : "Fried Egg",
+  //"effects" : [ ],
+  "foodValue" : 15,
+  "tooltipKind" : "food",
+  "learnBlueprintsOnPickup" : [ "ucfriedegg", "uceggonaleggo" ],
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 5,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "itemName" : "kyroxchocolatedrop",
+  "rarity" : "Common",
+  "price" : 10,
+  "category" : "preparedFood",
+  "inventoryIcon" : "chocolatedrop.png",
+  "description" : "100% pure chocolate.",
+  "shortdescription" : "Pure Chocolate",
+  //"effects" : [ [ ] ],
+  "foodValue" : 5,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 2.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

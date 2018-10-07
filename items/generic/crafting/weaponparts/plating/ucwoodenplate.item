@@ -1,0 +1,11 @@
+{
+  "itemName": "ucwoodenplate",
+  "rarity": "common",
+  "price": 200,
+  "category": "ucweaponpart",
+  "inventoryIcon" : "ucwoodenplate.png",
+  "description" : "For when you want to hide the insides of your gun.",
+  "learnBlueprintsOnPickup" : [ "uctungstenplating" ],
+  "shortdescription" : "Wooden Plate",
+  "itemTags" : [ "reagent" ]
+}

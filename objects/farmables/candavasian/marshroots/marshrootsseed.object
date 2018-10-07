@@ -1,0 +1,73 @@
+{
+  "objectName" : "candamarshrootsseed",
+  "colonyTags" : ["nature", "farmer"],
+  "rarity" : "Common",
+  "category" : "seed",
+  "description" : "Marsh roots store a soft, sugary vegetable underground.",
+  "shortdescription" : "Marsh Roots Seed",
+  "objectType" : "farmable",
+  "printable" : false,
+  "price" : 10,
+
+  "apexDescription" : "This plant contains unsafe levels of sugar.",
+  "avianDescription" : "Sickeningly sugary.",
+  "floranDescription" : "Marsssh rootsss sssmell odd.",
+  "glitchDescription" : "Statement. This is a marsh root.",
+  "humanDescription" : "Not to be confused with a marshmallow.",
+  "hylotlDescription" : "I like the bright orange leaves this plant has.",
+  "novakidDescription" : "It'sa marsh root.",
+
+  "webberDescription" : "These contain more sugar than sugarcane.",
+  "candavaswebberDescription" : "Marsh root is a valued plant that provides us with a better source of glucose. It's also tastier than the dirt on Candavas.",
+
+  "inventoryIcon" : "marshrootsseedicon.png",
+
+  "tooltipKind" : "seed",
+  "largeImage" : "marshrootsseed.png:default.3.0",
+
+  "learnBlueprintsOnPickup" : [ "candamarshrootsseed" ],
+
+  "orientations" : [
+    {
+      "dualImage" : "marshrootsseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaces" : [ [1, 0], [0, 0], [1, 1], [0, 1] ],
+      "requireTilledAnchors" : true,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "radioMessagesOnPickup" : [ "pickupseed" ],
+
+  "stages" : [
+    {
+      "duration" : [140, 180] //1
+    },
+    {
+      "duration" : [140, 180] //2
+    },
+    {
+      "duration" : [140, 180] //3
+    },
+    {
+      "duration" : [140, 180] //4
+    },
+    {
+      "duration" : [360, 380] //5
+    },
+    {
+      "duration" : [400, 440] //6
+    },
+    {
+      "alts" : 3,
+      "harvestPool" : "candamarshrootharvest", //7
+      "resetToStage" : 1
+    }
+  ],
+
+  "maxImmersion" : 0.125
+}

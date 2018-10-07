@@ -1,0 +1,86 @@
+{
+  "itemName" : "ucucstungunnpc566873529546781",
+  "price" : 100,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "Why. Why do you have this? Carrying this without your UC Officier license is a crime against society. This can be turned into a deadly weapon in enough hits.",
+  "shortdescription" : "UC-issued Stungun",
+  "tooltipKind" : "gun",
+  "category" : "uniqueWeapon",
+  "twoHanded" : false,
+  "itemTags" : ["weapon","ranged","uc", "stunning"],
+  "level" : 8,
+
+  "inventoryIcon" : "ucucstungun.png",
+
+  "animation" : "/items/active/weapons/ranged/gun.animation",
+
+    "animationParts" : {
+      "butt" : "",
+      "middle" : "ucucstungun.png",
+      "barrel" : "",
+      "muzzleFlash" : "/items/active/weapons/ranged/muzzleflash.png"
+    },
+
+    "animationCustom" : {
+      "sounds" : {
+        "fire" : ["/sfx/gun/electricrailgun1.ogg"]
+      }
+  },
+  "baseOffset" : [0.5, 0.5],
+    "muzzleOffset" : [1.5, 0.125],
+
+    "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+    "elementalType" : "electric",
+
+    "primaryAbility" : {
+      "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+      "class" : "GunFire",
+
+      "fireTime" : 0.1,
+      "baseDps" : 3.0,
+      "energyUsage" : 200.5,
+      "inaccuracy" : 0.002,
+
+      "projectileCount" : 1,
+      "fireType" : "auto",
+
+      "projectileType" : "railgunlightning",
+      "projectileParameters" : {
+        "knockback" : 1,
+        "speed" : 50,
+        "statusEffects" : [ "combatucstunned1" ]
+      },
+      "stances" : {
+        "idle" : {
+          "armRotation" : 0,
+          "weaponRotation" : 0,
+          "twoHanded" : false,
+
+          "allowRotate" : true,
+          "allowFlip" : true
+        },
+        "fire" : {
+          "duration" : 0,
+          "armRotation" : 1,
+          "weaponRotation" : 1,
+          "twoHanded" : false,
+
+          "allowRotate" : false,
+          "allowFlip" : false
+        },
+        "cooldown" : {
+          "duration" : 0.15,
+          "armRotation" : 0.8,
+          "weaponRotation" : 0.8,
+          "twoHanded" : false,
+
+          "allowRotate" : false,
+          "allowFlip" : false
+        }
+      }
+    },
+
+    "builder" : "/items/buildscripts/buildunrandweapon.lua"
+  }

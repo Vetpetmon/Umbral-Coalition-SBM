@@ -1,0 +1,18 @@
+{
+  "itemName" : "uccannedbreadon",
+  "rarity" : "Common",
+  "price" : 95,
+  "category" : "preparedFood",
+  "inventoryIcon" : "browncan.png",
+  "description" : "Breadon-in-a-can. A famous vegetable from Vanokk, now in a can!",
+  "shortdescription" : "Canned Breadon",
+  "foodValue" : 20,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 4.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

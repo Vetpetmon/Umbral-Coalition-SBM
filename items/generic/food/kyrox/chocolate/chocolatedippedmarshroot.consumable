@@ -1,0 +1,19 @@
+{
+  "itemName" : "kyroxchocolatedippedmarshroot",
+  "rarity" : "Common",
+  "price" : 10,
+  "category" : "preparedFood",
+  "inventoryIcon" : "chocolatedippedmarshroot.png",
+  "description" : "A marsh root pod dipped in rich chocolate.",
+  "shortdescription" : "Chocolate-dipped Marsh Root",
+  //"effects" : [ [ ] ],
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.3,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

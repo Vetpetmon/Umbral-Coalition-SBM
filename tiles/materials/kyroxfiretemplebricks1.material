@@ -1,0 +1,27 @@
+{
+  "materialId" : 25512,
+  "materialName" : "kyroxfiretemplebricks1",
+  "frames" : "kyroxfiretemplebricks1.png",
+  "particleColor" : [14, 35, 21, 255],
+  "itemDrop" : "kyroxfiretemplebricks1",
+  "description" : "Firey sugar bricks.",
+  "shortdescription" : "Fire Temple Bricks",
+  "glitchDescription" : "Cautious. These cinnamon bricks are at dangerously high temperatures.",
+  "floranDescription" : "Firey.",
+  "novakidDescription" : "Firey bricks.",
+  "ucDescription" : "No thanks, I'm not touching those.",
+  "kyroxvasucDescription": "The bricks of a fire temple.",
+  "footstepSound" : "/sfx/blocks/footstep_stone2.ogg",
+  "health" : 14,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "kyroxfiretemplebricks1.png",
+    "variants" : 6,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 130
+  }
+}

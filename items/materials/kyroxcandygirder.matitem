@@ -1,0 +1,16 @@
+{
+  "itemName" : "kyroxcandygirder",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "kyroxcandygirder.png",
+  "description" : "A girder made out of rock candy. Not as edible as it looks.",
+  "shortdescription" : "Candy Girder",
+  "glitchDescription" : "Interested. It can hold up the most grand of buildings.",
+  "floranDescription" : "Candy girder isss great conssstruction material.",
+  "novakidDescription" : "How does this support anythin'? It's made out of candy!",
+  "ucDescription" : "Rock candy seems tasty, should we lick it?",
+  "kyroxvasucDescription": "Rock candy is a very useful contruction material.",
+
+  "materialId" : 25501
+}

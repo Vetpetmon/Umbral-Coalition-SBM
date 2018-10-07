@@ -1,0 +1,16 @@
+{
+  "itemName" : "kyroxfiretemplebricks1",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "kyroxfiretemplebricks1.png",
+  "description" : "Firey sugar bricks.",
+  "shortdescription" : "Fire Temple Bricks",
+  "glitchDescription" : "Cautious. These cinnamon bricks are at dangerously high temperatures.",
+  "floranDescription" : "Firey.",
+  "novakidDescription" : "Firey bricks.",
+  "ucDescription" : "No thanks, I'm not touching those.",
+  "kyroxvasucDescription": "The bricks of a fire temple.",
+
+  "materialId" : 25512
+}

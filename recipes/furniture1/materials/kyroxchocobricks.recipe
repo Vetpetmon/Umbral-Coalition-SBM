@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "kyroxchocobrick", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "kyroxchocobricks",
+    "count" : 30
+  },
+  "duration" : 0.5,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

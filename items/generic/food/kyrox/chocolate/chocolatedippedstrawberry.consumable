@@ -1,0 +1,19 @@
+{
+  "itemName" : "kyroxchocolatedippedstrawberry",
+  "rarity" : "Common",
+  "price" : 10,
+  "category" : "preparedFood",
+  "inventoryIcon" : "chocolatedippedstrawberry.png",
+  "description" : "A strawberry dipped in rich chocolate.",
+  "shortdescription" : "Chocolate-dipped Strawberry",
+  //"effects" : [ [ ] ],
+  "foodValue" : 7,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.5,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

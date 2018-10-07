@@ -1,0 +1,52 @@
+{
+  "itemName" : "candkyroxvasianbloodspear",
+  "price" : 500,
+  "level" : 3,
+  "maxStack" : 1,
+  "rarity" : "legendary",
+  "description" : "A giant syringe full of kyroxvasian blood.
+
+  \"Is it really blood if it's just sugar and nightmares?\" ",
+  "shortdescription" : "Syringe (kyroxvasian Blood)",
+  "tooltipKind" : "sword",
+  "category" : "syringe",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","melee","spear"],
+  "inventoryIcon" : "kyroxvasianbloodspear.png",
+  "animation" : "/items/active/weapons/melee/spear/spear.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "kyroxvasianbloodspear.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : [ "/sfx/melee/swing_spear.ogg" ]
+    }
+  },
+
+  "scripts" : [
+  "/items/active/weapons/melee/meleeweapon.lua"
+  ],
+
+  "elementalType" : "poison",
+
+  "aimOffset" : -1.0,
+  "primaryAbilityType" : "spearstab",
+  "primaryAbility" : {
+    "scripts" : [],
+
+    "fireTime" : 0.8,
+    "baseDps" : 4.5,
+    "damageConfig" : {
+      "statusEffects" : [ "anomaly1syringe" ],
+      "knockback" : 5
+    }
+  },
+
+  //FU crit stats
+  "critChance" : 4,
+  "critBonus" : 3,
+
+  "altAbilityType" : "spearspin", //placeholder alt
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

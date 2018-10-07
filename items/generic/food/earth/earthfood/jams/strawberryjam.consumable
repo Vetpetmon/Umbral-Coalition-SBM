@@ -1,0 +1,19 @@
+
+{
+  "itemName" : "ucstrawberryjam",
+  "rarity" : "Common",
+  "price" : 40,
+  "category" : "preparedFood",
+  "inventoryIcon" : "strawberryjam.png",
+  "description" : "I wonder who found 5060304 strawberries just to turn into jam...",
+  "shortdescription" : "Strawberry Jam",
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

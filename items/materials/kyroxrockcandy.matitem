@@ -1,0 +1,17 @@
+//kyroxrockcandy
+{
+  "itemName" : "kyroxrockcandy",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "kyroxrockcandy.png",
+  "description" : "Rock candy.",
+  "shortdescription" : "Rock Candy",
+  "glitchDescription" : "Curious. Candy... rock?",
+  "floranDescription" : "Candied rocksss.",
+  "novakidDescription" : "It's rock candy.",
+  "ucDescription" : "Inedible sugar.",
+  "kyroxvasucDescription": "Rock candy is some of the toughest stuff on kyroxvas.",
+
+  "materialId" : 25507
+}

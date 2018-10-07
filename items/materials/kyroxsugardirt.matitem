@@ -1,0 +1,17 @@
+//kyroxsugardirt
+{
+  "itemName" : "kyroxsugardirt",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "kyroxsugardirt.png",
+  "description" : "Sugar clumped into bigger peices. Makes for a great soil for some types of plants.",
+  "shortdescription" : "Sugary Dirt",
+  "glitchDescription" : "Statement. It's sugar.",
+  "floranDescription" : "Sssugar",
+  "novakidDescription" : "This wouldn't be a good soil to grow anythin' in that I know of.",
+  "ucDescription" : "It's just sugar... But why?",
+  "kyroxvasucDescription": "Sugar dirt is a good thing to bring along for food!",
+
+  "materialId" : 25508
+}

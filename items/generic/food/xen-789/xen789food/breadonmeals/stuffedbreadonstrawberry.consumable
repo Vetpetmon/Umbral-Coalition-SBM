@@ -1,0 +1,18 @@
+{
+  "itemName" : "ucstuffedbreadonstrawberry",
+  "rarity" : "Common",
+  "price" : 10,
+  "category" : "preparedFood",
+  "inventoryIcon" : "stuffedbreadonstrawberry.png",
+  "description" : "Breadon filled with strawberry jam.",
+  "shortdescription" : "Stuffed Breadon",
+  "foodValue" : 18,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.4,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

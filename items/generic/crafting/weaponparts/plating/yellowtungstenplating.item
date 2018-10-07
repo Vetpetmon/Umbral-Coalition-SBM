@@ -1,0 +1,16 @@
+{
+  "itemName": "uctungstenplatingyellow",
+  "rarity": "common",
+  "price": 200,
+  "category": "ucweaponpart",
+  "inventoryIcon" : "yellowtungstenplating.png",
+  "description" : "For when you want to hide the insides of your gun.",
+  "learnBlueprintsOnPickup" : [
+    "uctungsteonhandlegunlargeclipheavyammobarrel",
+    "uctungsteonhandlegunmaxedammo",
+    "uctungsteonhandlegunmediumclip",
+    "uctungsteonhandlegunsmallclip"
+  ],
+  "shortdescription" : "Yellow Tungsten Plate",
+  "itemTags" : [ "reagent" ]
+}

@@ -1,0 +1,30 @@
+{
+  "itemName" : "kyroxblacklico",
+  "rarity" : "Common",
+  "price" : 10,
+  "category" : "food",
+  "eventCategory" : "eventCrop",
+  "inventoryIcon" : "blacklico.png",
+  "description" : "A tough strand of black lico. ^red;It's extremely poisonous.^reset;",
+  "shortdescription" : "Black Lico",
+  "effects" : [ [
+    {
+        "effect" : "kyroxheavypoison",
+        "duration" : 120
+    },
+    {
+        "effect" : "badtaste",
+        "duration" : 30
+    }
+  ] ],
+  "foodValue" : 2,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 4.0,
+  "learnBlueprintsOnPickup" : [ "kyroxstarbornhead", "kyroxstarbornchest" ],
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

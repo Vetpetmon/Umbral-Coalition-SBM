@@ -1,0 +1,20 @@
+{
+  "itemName" : "kyroxcocoaberry",
+  "rarity" : "Common",
+  "price" : 10,
+  "category" : "food",
+  "eventCategory" : "eventCrop",
+  "inventoryIcon" : "cocoaberry.png",
+  "description" : "An alternative to chocolate.",
+  "shortdescription" : "Cocoa Berry",
+  "foodValue" : 2,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.1,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup" : [ "chocolate" , "kyroxchocolatedrop" ]
+}

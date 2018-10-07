@@ -1,0 +1,27 @@
+{
+  "materialId" : 25510,
+  "materialName" : "kyroxicetemplebricks1",
+  "frames" : "kyroxicetemplebricks1.png",
+  "particleColor" : [14, 35, 21, 255],
+  "itemDrop" : "kyroxicetemplebricks1",
+  "description" : "Icy sugar bricks.",
+  "shortdescription" : "Ice Temple Bricks",
+  "glitchDescription" : "Informal. These bricks are made of sugar and ice.",
+  "floranDescription" : "Icy.",
+  "novakidDescription" : "Icy bricks.",
+  "ucDescription" : "It's a little bit slippery.",
+  "kyroxvasucDescription": "The bricks of an ice temple.",
+  "footstepSound" : "/sfx/blocks/footstep_ice.ogg",
+  "health" : 14,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "kyroxicetemplebricks1.png",
+    "variants" : 6,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 130
+  }
+}

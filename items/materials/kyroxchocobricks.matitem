@@ -1,0 +1,17 @@
+//kyroxchocobricks2
+{
+  "itemName" : "kyroxchocobricks",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "kyroxchocobricks.png",
+  "description" : "Chocolate shaped into bricks.",
+  "shortdescription" : "Chocolate Bricks",
+  "glitchDescription" : "Curious. How does one make chocolate this compact?",
+  "floranDescription" : "Compresssed chocolate.",
+  "novakidDescription" : "It's just some chocholate made inta' bricks.",
+  "ucDescription" : "... Why is chocolate being used as bricks? It's clearly meant to be food.",
+  "kyroxvasucDescription": "Chocolate is a great renewable source of building materials.",
+
+  "materialId" : 25505
+}

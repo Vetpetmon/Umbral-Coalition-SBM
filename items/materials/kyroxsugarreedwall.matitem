@@ -1,0 +1,17 @@
+//kyroxsugarreedwall
+{
+  "itemName" : "kyroxsugarreedwall",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "kyroxsugarreedwall.png",
+  "description" : "Sugar reed is rich in sugar and is a sturdy building material.",
+  "shortdescription" : "Sugar Reed Wall",
+  "glitchDescription" : "Impressed. Sugar reed can be used as a building material.",
+  "floranDescription" : "Sssugar reed is rich in sssugar and isss a sssturdy building material.",
+  "novakidDescription" : "How does this make any sense? It's made out of sugar!",
+  "ucDescription" : "Too much sugar. We bet that we'd knock it down by simply leaning on it.",
+  "kyroxvasucDescription": "Sugar reed is one of our most treasured plants. It helped shelter our ancestors long ago.",
+
+  "materialId" : 25503
+}

@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "sugar", "count" : 30 }
+  ],
+  "output" : {
+    "item" : "kyroxsugardirt",
+    "count" : 15
+  },
+  "duration" : 0.5,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

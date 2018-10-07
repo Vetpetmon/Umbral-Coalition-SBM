@@ -1,0 +1,26 @@
+{
+  "itemName" : "uckaradiancarrot",
+  "rarity" : "Common",
+  "price" : 40,
+  "category" : "food",
+  "eventCategory" : "eventCrop",
+  "inventoryIcon" : "karadiancarrot.png",
+  "description" : "Rich in iron and calcium, karadian carrots were once a staple when living in the swamps of Vanokk.",
+  "shortdescription" : "Karadian Carrot",
+  "effects" : [
+    {
+      "effect" : "badtaste",
+      "duration" : 50
+    }
+  ],
+  "foodValue" : 5,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.6,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+  //"learnBlueprintsOnPickup" : [ "" ]
+}

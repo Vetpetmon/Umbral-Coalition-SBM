@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "candyblock", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "kyroxcandyplatform",
+    "count" : 5
+  },
+  "duration" : 0.5,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

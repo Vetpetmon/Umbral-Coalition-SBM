@@ -1,0 +1,11 @@
+{
+  "itemName": "kyroxamberore",
+  "rarity": "common",
+  "price": 100,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "amber.png",
+  "description" : "A bright, shiny stone made of dried sap.",
+  "shortdescription" : "Amber",
+  //"learnBlueprintsOnPickup" : [ ],
+  "itemTags" : [ "reagent" ]
+}

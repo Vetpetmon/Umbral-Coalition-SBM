@@ -1,0 +1,11 @@
+{
+  "itemName": "kyroxchocobrick",
+  "rarity": "common",
+  "price": 50,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "kyroxchocobrick.png",
+  "description" : "A brick made from pure chocoberries.",
+  "shortdescription" : "Pure Choco Brick",
+  "learnBlueprintsOnPickup" : [ "kyroxchocobricks", "kyroxchocobricks2" ],
+  "itemTags" : [ "reagent" ]
+}

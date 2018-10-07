@@ -1,0 +1,29 @@
+{
+  "materialId" : 25502,
+  "materialName" : "kyroxcandyplatform",
+  "collisionKind" : "platform",
+  "frames" : "kyroxcandyplatform.png",
+  "particleColor" : [69, 60, 62, 255],
+  "variants" : 1,
+  "itemDrop" : "kyroxcandyplatform",
+  "description" : "A platform made out of pure sugar.",
+  "shortdescription" : "Candy Platform",
+  "glitchDescription" : "Interested. How come this has stood in good condition despite being edible?",
+  "floranDescription" : "Candy isss great conssstruction material sometimes.",
+  "novakidDescription" : "How does this support anythin'? It's made out of candy!",
+  "ucDescription" : "It's a platform made out of sugar. Too much sugar.",
+  "kyroxvasucDescription": "Condensed sugar is a very useful contruction material.",
+  "footstepSound" : "/sfx/blocks/footstep_lightwood.ogg",
+  "health" : 3,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/platformtemplate.config",
+  "renderParameters" : {
+    "texture" : "kyroxcandyplatform.png",
+    "variants" : 3,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

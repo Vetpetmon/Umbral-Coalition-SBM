@@ -1,0 +1,11 @@
+{
+  "itemName": "ucshotgunstockt1",
+  "rarity": "common",
+  "price": 100,
+  "category": "ucweaponpart",
+  "inventoryIcon" : "ucshotgunstockt1.png",
+  "description" : "A poorly made stock for a shotgun of sorts.",
+  "shortdescription" : "Sticky Shotgun Stock",
+  "radioMessagesOnPickup" : [ "pickupShotgunStockT1" ],
+  "itemTags" : [ "reagent" ]
+}

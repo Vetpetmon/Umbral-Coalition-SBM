@@ -1,0 +1,92 @@
+{
+  "itemName" : "kyroxfrosterstaff",
+  "price" : 500,
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Escape the heat of battle with some ice.",
+  "shortdescription" : "Froster",
+  "tooltipKind" : "staff",
+  "category" : "wand",
+  "twoHanded" : false,
+  "itemTags" : ["weapon","wand"],
+  "inventoryIcon" : "froster.png",
+
+  "animation" : "/items/active/weapons/staff/generated/generatedstaff.animation",
+  "animationParts" : {
+    "handle" : "froster.png",
+    "crown" : "frosterna.png",
+    "stone" : "frosterna.png",
+    "chargeEffect" : "/items/active/weapons/wand/t0/froster/frosterglow.png"
+  },
+  "animationCustom" : {
+    "lights" : {
+      "glow" : {
+        "color" : [15, 15, 82]
+      }
+    },
+    "particleEmitters" : {
+      "icecharge" : {
+        "active" : false,
+        "transformationGroups" : ["weapon"],
+        "emissionRate" : 10,
+        "offsetRegion" : [-0.5, 1.0, 0.5, 2.5],
+        "particles" : [
+          {"particle" : "icethrowertrail"}
+        ]
+      }
+    }
+  },
+
+  "scripts" : ["/items/active/weapons/staff/staff.lua"],
+
+  "stances" : {
+    "idle" : {
+      "armRotation" : -90,
+      "weaponRotation" : 0,
+      "twoHanded" : false,
+
+      "allowRotate" : false,
+      "allowFlip" : true
+    },
+    "charge" : {
+      "duration" : 1.4,
+      "armRotation" : 20,
+      "weaponRotation" : -20,
+      "twoHanded" : false,
+
+      "allowRotate" : false,
+      "allowFlip" : true
+    },
+    "charged" : {
+      "armRotation" : 20,
+      "weaponRotation" : -20,
+      "twoHanded" : false,
+
+      "allowRotate" : false,
+      "allowFlip" : true
+    },
+    "discharge" : {
+      "duration" : 0.5,
+      "armRotation" : -10,
+      "weaponRotation" : -50,
+      "twoHanded" : false,
+
+      "allowRotate" : true,
+      "allowFlip" : true
+    },
+    "cooldown" : {
+      "duration" : 0.5,
+      "armRotation" : -45,
+      "weaponRotation" : 0,
+      "twoHanded" : false,
+
+      "allowRotate" : false,
+      "allowFlip" : true
+    }
+  },
+  "elementalType" : "ice",
+  "primaryAbilityType" : "ucstaffarcticchill",
+  "primaryAbility" : {},
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

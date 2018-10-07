@@ -1,0 +1,64 @@
+{
+  "objectName" : "candablacklicoseed",
+  "colonyTags" : ["nature", "farmer"],
+  "rarity" : "Common",
+  "category" : "seed",
+  "description" : "Grows black lico, a great material for clothing and tents.",
+  "shortdescription" : "Black Lico Seed",
+  "objectType" : "farmable",
+  "printable" : false,
+  "price" : 15,
+
+  "apexDescription" : "Black lico is extremely dangerous to consume.",
+  "avianDescription" : "An extremely toxic plant. The toxins can be cooked out, however.",
+  "floranDescription" : "Purple plant perplexesss floran.",
+  "glitchDescription" : "Cautious. This plant contains several known toxins.",
+  "humanDescription" : "Obviously unsafe to consume.",
+  "hylotlDescription" : "This must be a toxic black lico plant from Candavas.",
+  "novakidDescription" : "Somethin's fishy with this plant.",
+
+  "webberDescription" : "Smells poisonous. We shouldn't eat it.",
+  "candavaswebberDescription" : "It may be poisonous, but that doesn't mean we can't use it to protect ourselves!",
+
+  "inventoryIcon" : "blacklicoseedicon.png",
+
+  "tooltipKind" : "seed",
+  "largeImage" : "blacklicoseed.png:default.3.0",
+
+  "learnBlueprintsOnPickup" : [ "candablacklicoseed" ],
+
+  "orientations" : [
+    {
+      "dualImage" : "blacklicoseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaces" : [ [1, 0], [0, 0], [1, 1], [0, 1] ],
+      "requireTilledAnchors" : true,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "radioMessagesOnPickup" : [ "pickupseed" ],
+
+  "stages" : [
+    {
+      "duration" : [200, 220] //1
+    },
+    {
+      "duration" : [200, 240] //2
+    },
+    {
+      "duration" : [400, 440] //3
+    },
+    {
+      "alts" : 1,
+      "harvestPool" : "candablacklicoharvest", //7
+      "resetToStage" : 2
+    }
+  ],
+
+  "maxImmersion" : 0.125
+}

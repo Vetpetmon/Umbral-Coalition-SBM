@@ -1,0 +1,16 @@
+{
+  "itemName" : "kyroxcandyplatform",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "kyroxcandyplatform.png",
+  "description" : "A platform made out of pure sugar.",
+  "shortdescription" : "Candy Platform",
+  "glitchDescription" : "Interested. How come this has stood in good condition despite being edible?",
+  "floranDescription" : "Candy isss great conssstruction material sometimes.",
+  "novakidDescription" : "How does this support anythin'? It's made out of candy!",
+  "ucDescription" : "It's a platform made out of sugar. Too much sugar.",
+  "kyroxvasucDescription": "Condensed sugar is a very useful contruction material.",
+
+  "materialId" : 25502
+}

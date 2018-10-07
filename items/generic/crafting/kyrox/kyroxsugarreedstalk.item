@@ -1,0 +1,11 @@
+{
+  "itemName": "kyroxsugarreedstalk",
+  "rarity": "common",
+  "price": 10,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "kyroxsugarreedstalk.png",
+  "description" : "It's a stalk from a Sugar Reed plant. ^cyan;Can be used for contruction or extraction^white;",
+  "shortdescription" : "Sugar Reed Stalk",
+  "learnBlueprintsOnPickup" : [ "kyroxsugarreedsupport", "kyroxsugarreedwall", "kyroxsugarreedflooring" ],
+  "itemTags" : [ "reagent" ]
+}

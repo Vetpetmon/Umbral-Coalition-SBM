@@ -1,0 +1,23 @@
+{
+  "ability" : {
+    "type" : "ucstaffarcticchill",
+    "name" : "Arctic Chill",
+    "scripts" : ["/items/active/weapons/staff/abilities/controlprojectile/plasmabarrage.lua"],
+    "class" : "ControlProjectile",
+
+    "energyCost" : 24,
+
+    "maxCastRange" : 15,
+
+    "projectileCount" : 3,
+    "projectileDistance" : 0,
+    "projectileType" : "ucstaffarcticchill",
+    "projectileParameters" : {
+      "baseDamage" : 17
+    },
+    "triggerSound" : ["/sfx/projectiles/largesnowball_impact.ogg"],
+
+    "projectileDelayFirst" : 0.55,
+    "projectileDelayEach" : 0.33
+  }
+}

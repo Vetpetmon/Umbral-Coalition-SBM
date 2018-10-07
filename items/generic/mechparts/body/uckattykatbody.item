@@ -1,0 +1,15 @@
+{
+  "itemName" : "uckattykatbody",
+  "price" : 6400,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mechPart",
+  "tooltipKind" : "mechbody",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "uckattykatbody.png",
+  "description" : "A standard civilian-grade kyroxvasian mech body.",
+  "shortdescription" : "KATTY-KAT",
+  "itemTags" : [ ],
+
+  "mechPart" : ["body", "uckattykatbody"]
+}

@@ -1,0 +1,28 @@
+{
+  "materialId" : 25511,
+  "materialName" : "kyroxicetemplebricks2",
+  "frames" : "kyroxicetemplebricks2.png",
+  "particleColor" : [14, 35, 21, 255],
+  "itemDrop" : "kyroxicetemplebricks2",
+  "description" : "Icy sugar bricks.",
+  "shortdescription" : "Glowing Ice Temple Bricks",
+  "glitchDescription" : "Informal. These bricks are made of sugar and ice.",
+  "floranDescription" : "Icy.",
+  "novakidDescription" : "Icy bricks.",
+  "ucDescription" : "It's a little bit slippery.",
+  "kyroxvasucDescription": "The bricks of an ice temple. These are storing the energy of the arctic itself.",
+  "footstepSound" : "/sfx/blocks/footstep_ice.ogg",
+  "health" : 14,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "kyroxicetemplebricks2.png",
+    "variants" : 6,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 130,
+    "radiantLight" : [30, 30, 100]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "itemName": "kyroxchocopaste",
+  "rarity": "common",
+  "price": 20,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "kyroxchocopaste.png",
+  "description" : "Sticky chocolate. Works like glue, but takes a while to dry.",
+  "shortdescription" : "Chocolate Paste",
+  "itemTags" : [ "reagent" ]
+}

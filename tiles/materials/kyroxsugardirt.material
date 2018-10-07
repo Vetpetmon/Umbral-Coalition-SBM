@@ -1,0 +1,29 @@
+{
+  "materialId" : 25508,
+  "materialName" : "kyroxsugardirt",
+  "frames" : "kyroxsugardirt.png",
+  "particleColor" : [14, 35, 21, 255],
+  "itemDrop" : "kyroxsugardirt",
+  "description" : "Sugar clumped into bigger peices. Makes for a great soil for some types of plants.",
+  "shortdescription" : "Sugary Dirt",
+  "glitchDescription" : "Statement. It's sugar.",
+  "floranDescription" : "Sssugar",
+  "novakidDescription" : "This wouldn't be a good soil to grow anythin' in that I know of.",
+  "ucDescription" : "It's just sugar... But why?",
+  "kyroxvasucDescription": "Sugar dirt is a good thing to bring along for food!",
+  "footstepSound" : "/sfx/blocks/footstep_dirt.ogg",
+  "tillableMod" : 32,
+  "soil" : true,
+  "health" : 3,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "kyroxsugardirt.png",
+    "variants" : 6,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 3030
+  }
+}

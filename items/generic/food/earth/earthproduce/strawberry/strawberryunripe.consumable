@@ -1,0 +1,25 @@
+{
+  "itemName" : "ucstrawberryunripe",
+  "rarity" : "Common",
+  "price" : 5,
+  "category" : "food",
+  "eventCategory" : "eventCrop",
+  "inventoryIcon" : "strawberryunripe.png",
+  "description" : "There's no way this'll sell on the market, but they still have use. Maybe.",
+  "shortdescription" : "Unripe Strawberry",
+  "effects" : [ [
+    {
+      "effect" : "badtaste",
+      "duration" : 50
+    }
+  ] ],
+  "foodValue" : 1,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 0.7,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "itemName": "ucammoclipsmall",
+  "rarity": "common",
+  "price": 200,
+  "category": "ucweaponpart",
+  "inventoryIcon" : "ucammoclipsmall.png",
+  "description" : "A small ammo clip for smaller generic guns.",
+  "learnBlueprintsOnPickup" : [ "ucammoclipmedium" ],
+  "shortdescription" : "Small Ammo Clip",
+  "itemTags" : [ "reagent" ]
+}

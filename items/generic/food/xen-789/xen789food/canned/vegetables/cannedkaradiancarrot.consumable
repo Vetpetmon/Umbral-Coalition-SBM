@@ -1,0 +1,18 @@
+{
+  "itemName" : "uccannedkaradiancarrot",
+  "rarity" : "Common",
+  "price" : 50,
+  "category" : "preparedFood",
+  "inventoryIcon" : "darkgreencan.png",
+  "description" : "Karakian carrots, sliced up nicely. Still tastes like swamp water, however.",
+  "shortdescription" : "Canned Karadian Carrots",
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 4.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

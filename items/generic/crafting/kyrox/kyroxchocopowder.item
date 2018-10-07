@@ -1,0 +1,10 @@
+{
+  "itemName": "kyroxchocopowder",
+  "rarity": "common",
+  "price": 10,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "kyroxchocopowder.png",
+  "description" : "Chocolate powder. Don't accidentially breathe it in!",
+  "shortdescription" : "Chocolate Powder",
+  "itemTags" : [ "reagent" ]
+}

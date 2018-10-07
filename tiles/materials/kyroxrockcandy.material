@@ -1,0 +1,27 @@
+{
+  "materialId" : 25507,
+  "materialName" : "kyroxrockcandy",
+  "frames" : "kyroxrockcandy.png",
+  "particleColor" : [14, 35, 21, 255],
+  "itemDrop" : "kyroxrockcandy",
+  "description" : "Rock candy.",
+  "shortdescription" : "Rock Candy",
+  "glitchDescription" : "Curious. Candy... rock?",
+  "floranDescription" : "Candied rocksss.",
+  "novakidDescription" : "It's rock candy.",
+  "ucDescription" : "Inedible sugar.",
+  "kyroxvasucDescription": "Rock candy is some of the toughest stuff on kyroxvas.",
+  "footstepSound" : "/sfx/blocks/footstep_stone2.ogg",
+  "health" : 12,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "kyroxrockcandy.png",
+    "variants" : 7,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 1230
+  }
+}

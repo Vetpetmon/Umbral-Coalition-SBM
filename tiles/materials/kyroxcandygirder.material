@@ -1,0 +1,28 @@
+{
+  "materialId" : 25501,
+  "materialName" : "kyroxcandygirder",
+  "frames" : "kyroxcandygirder.png",
+  "particleColor" : [89, 127, 52, 255],
+  "variants" : 1,
+  "itemDrop" : "kyroxcandygirder",
+  "description" : "A girder made out of rock candy. Not as edible as it looks.",
+  "shortdescription" : "Candy Girder",
+  "glitchDescription" : "Interested. It can hold up the most grand of buildings.",
+  "floranDescription" : "Candy girder isss great conssstruction material.",
+  "novakidDescription" : "How does this support anythin'? It's made out of candy!",
+  "ucDescription" : "Rock candy seems tasty, should we lick it?",
+  "kyroxvasucDescription": "Rock candy is a very useful contruction material.",
+  "footstepSound" : "/sfx/blocks/footstep_ice.ogg",
+  "health" : 15,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/girdertemplate.config",
+  "renderParameters" : {
+    "texture" : "kyroxcandygirder.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 3320
+  }
+}
