@@ -85,12 +85,6 @@
   "headOptionAsHairColor" : true,
   "altOptionAsHairColor" : true,
   "hairColorAsBodySubColor" : true,
-  //"bodyColorAsHairColor" : true,
-  //"altOptionAsUndyColor" : true,
-  //"altOptionAsHairColor" : true,
-  //"headOptionAsBodyColor" : true,
-  //"hairColorAsBodyColor" : true,
-  //"hairColorAsBodySubColor" : true,
 
   "genders" : [
     {
