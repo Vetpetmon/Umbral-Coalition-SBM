@@ -9,7 +9,7 @@
   \"Great taste and no side effects!\" ",
   "shortdescription" : "Syringe (Anomaly 0-0t)",
   "tooltipKind" : "sword",
-  "category" : "syringe",
+  "category" : "ucsyringe",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","spear"],
   "inventoryIcon" : "anomaly0-0tspear.png",

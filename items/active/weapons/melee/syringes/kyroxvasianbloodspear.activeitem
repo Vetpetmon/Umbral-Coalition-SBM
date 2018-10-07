@@ -9,7 +9,7 @@
   \"Is it really blood if it's just sugar and nightmares?\" ",
   "shortdescription" : "Syringe (kyroxvasian Blood)",
   "tooltipKind" : "sword",
-  "category" : "syringe",
+  "category" : "ucsyringe",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","spear"],
   "inventoryIcon" : "kyroxvasianbloodspear.png",

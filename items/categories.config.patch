@@ -7,12 +7,17 @@
   },
   {
     "op": "add",
-    "path": "/labels/handlegun",
+    "path": "/labels/uchandlegun",
     "value": "Handlegun"
  },
  {
    "op": "add",
    "path": "/labels/ucinjector",
    "value": "Injector"
+ },
+ {
+   "op": "add",
+   "path": "/labels/ucsyringe",
+   "value": "Syringe"
  }
 ]

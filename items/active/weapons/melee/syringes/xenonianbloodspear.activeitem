@@ -9,7 +9,7 @@
   \"It's tasty until you learn about what they eat.\" ",
   "shortdescription" : "Syringe (uc Blood)",
   "tooltipKind" : "sword",
-  "category" : "syringe",
+  "category" : "ucsyringe",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","spear"],
   "inventoryIcon" : "chocolatespear.png",
