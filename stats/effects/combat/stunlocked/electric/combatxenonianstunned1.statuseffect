@@ -1,0 +1,15 @@
+{
+
+  "name" : "combatucstunned1",
+
+  "effectConfig" : {},
+
+  "defaultDuration" : 1,
+
+  "scripts" : [
+    "combatucstunned1.lua"
+  ],
+
+  "label" : "Stunlocked - You've been shocked by a high-power stungun and can not move!",
+  "icon" : "/interface/statuses/stunlock.png"
+}

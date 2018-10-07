@@ -1,0 +1,14 @@
+{
+  "name" : "ucmeat",
+
+  "effectConfig" : {
+  },
+  "defaultDuration" : 6,
+
+  "scripts" : [
+    "ucmeat.lua"
+  ],
+
+  "label" : "Plagued Food",
+  "icon" : "/interface/statuses/plaguegreen.png"
+}

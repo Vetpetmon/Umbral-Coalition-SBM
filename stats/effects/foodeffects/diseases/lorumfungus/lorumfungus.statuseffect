@@ -1,0 +1,14 @@
+{
+  "name" : "lorumillness",
+
+  "effectConfig" : {
+  },
+  "defaultDuration" : 120,
+
+  "scripts" : [
+    "lorumfungus.lua"
+  ],
+
+  "label" : "Lorum Illness",
+  "icon" : "/interface/statuses/plaguegreen.png"
+}

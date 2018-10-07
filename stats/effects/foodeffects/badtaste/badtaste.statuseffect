@@ -1,0 +1,18 @@
+{
+
+  "name" : "badtaste",
+
+  "effectConfig" : {
+  },
+
+  "defaultDuration" : 30,
+	"scriptDelta" : 0,
+
+  "scripts" : [
+    "badtaste.lua"
+  ],
+
+  "label" : "Terrible Food",
+  "icon" : "/interface/statuses/badfood.png"
+
+}

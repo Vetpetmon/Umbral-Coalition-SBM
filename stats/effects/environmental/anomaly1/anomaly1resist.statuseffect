@@ -1,0 +1,14 @@
+{
+  "name" : "lesseranomalyImmunity",
+
+  "effectConfig" : {
+  },
+  "defaultDuration" : 1,
+
+  "scripts" : [
+    "anomaly1resist.lua"
+  ]
+
+  //"label" : "Class I Anomaly Resistance",
+  //"icon" : "/interface/statuses/anomaly1.png"
+}

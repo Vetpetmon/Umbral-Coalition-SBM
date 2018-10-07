@@ -1,0 +1,15 @@
+{
+
+  "name" : "combatucstunned2",
+
+  "effectConfig" : {},
+
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "combatucstunned2.lua"
+  ],
+
+  "label" : "Chilled - Slowed down considerably.",
+  "icon" : "/interface/statuses/ice.png"
+}

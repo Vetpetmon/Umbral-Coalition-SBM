@@ -1,0 +1,15 @@
+{
+  "name" : "sugarinfection",
+  "blockingStat" : "poisonStatusImmunity",
+
+  "effectConfig" : {
+  },
+  "defaultDuration" : 20,
+
+  "scripts" : [
+    "sugarinfection.lua"
+  ],
+
+  "label" : "Sugar-accelerated Infection",
+  "icon" : "/interface/statuses/sugaracceleratedinfection.png"
+}

@@ -1,0 +1,24 @@
+{
+  "name" : "anomaly1syringe",
+
+  "effectConfig" : {
+    "directives" : "fade=00ffb4=0.5",
+    "movementModifiers" : {
+      "speedModifier" : 0.9,
+      "airJumpModifier" : 0.9
+    },
+    "tickRate" : 20,
+    "energyCost" : 2.5,
+    "healthDamage" : 2
+  },
+  "defaultDuration" : 30,
+
+  "scripts" : [
+    "anomaly1syringe.lua"
+  ],
+
+  //"animationConfig" : "anomaly0-0tsyringe.animation",
+
+  "label" : "Insanity",
+  "icon" : "/interface/statuses/anomaly1.png"
+}

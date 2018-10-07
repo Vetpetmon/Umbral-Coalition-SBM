@@ -1,0 +1,15 @@
+{
+  "name" : "kyroxheavypoison",
+  "blockingStat" : "poisonStatusImmunity",
+
+  "effectConfig" : {
+  },
+  "defaultDuration" : 120,
+
+  "scripts" : [
+    "heavypoison.lua"
+  ],
+
+  "label" : "Severe Toxins",
+  "icon" : "/interface/statuses/doomed.png"
+}

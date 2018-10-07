@@ -1,0 +1,25 @@
+{
+  "name" : "biomeanomaly1",
+  "blockingStat" : "lesseranomalyImmunity",
+
+  "effectConfig" : {
+    "directives" : "fade=2C2C2C=0.3",
+    "movementModifiers" : {
+      "speedModifier" : 0.6,
+      "airJumpModifier" : 0.6
+    },
+    "tickRate" : 20,
+    "energyCost" : 3.5,
+    "healthDamage" : 1
+  },
+  "defaultDuration" : 3,
+
+  "scripts" : [
+    "anomaly1.lua"
+  ],
+
+  //"animationConfig" : "anomaly1.animation",
+
+  "label" : "Minor Mental Collaspe",
+  "icon" : "/interface/statuses/anomaly1.png"
+}

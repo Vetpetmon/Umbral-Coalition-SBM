@@ -1,0 +1,15 @@
+{
+
+  "name" : "combatucstunned3",
+
+  "effectConfig" : {},
+
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "combatucstunned3.lua"
+  ],
+
+  "label" : "Frozen Solid!",
+  "icon" : "/interface/statuses/frozen.png"
+}
