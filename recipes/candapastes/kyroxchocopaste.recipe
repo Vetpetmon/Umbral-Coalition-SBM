@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "kyroxchocopowder", "count" : 6 },
+    { "item" : "liquidwater", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "kyroxchocopaste",
+    "count" : 1
+  },
+  "duration" : 0.5,
+  "groups"  : [ "kyroxvasmixing", "kyroxpastes", "all" ]
+}

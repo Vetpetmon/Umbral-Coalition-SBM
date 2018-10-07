@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "kyroxmarshroot", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "sugar",
+    "count" : 1
+  },
+  "duration" : 0.3,
+  "groups"  : [ "kyroxvascrushing", "kyroxcrusher", "all" ]
+}

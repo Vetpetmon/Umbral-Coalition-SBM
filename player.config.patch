@@ -1,3 +1,14 @@
 [
-{ "op" : "add", "path" : "/defaultCodexes/xenonian", "value" : [ "protectorate1", "protectorate2" ] }
+  //kyrox crafting materials
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "kyroxchocobrick" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "kyroxchocopowder" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "kyroxchocopaste" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "sugar" } },
+
+  //regular food
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ucfriedegg" } },
+  //seeds
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "eecstrawberryseed" } },
+  //racial codex
+  { "op" : "add", "path" : "/defaultCodexes/xenonian", "value" : [ "protectorate1", "protectorate2" ] }
 ]
