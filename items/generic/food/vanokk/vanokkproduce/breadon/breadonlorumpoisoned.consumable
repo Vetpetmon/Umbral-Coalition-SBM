@@ -1,24 +1,29 @@
 {
-  "itemName" : "uckaradiancarrot",
+  "itemName" : "gfowbreadonlorumdiseased",
   "rarity" : "Common",
-  "price" : 40,
+  "price" : 0,
   "category" : "food",
   "eventCategory" : "eventCrop",
-  "inventoryIcon" : "karadiancarrot.png",
-  "description" : "Rich in iron and calcium, karadian carrots were once a staple when living in the swamps of Vanokk.",
-  "shortdescription" : "Karadian Carrot",
-  "effects" : [
+  "inventoryIcon" : "breadonlorumpoisoned.png",
+  "description" : "Something's not right with this breadon vegetable...",
+  "shortdescription" : "Odd Breadon",
+  "effects" : [ [
+    {
+      "effect" : "lorumillness",
+      "duration" : 60
+    },
     {
       "effect" : "badtaste",
       "duration" : 50
     }
+  ]
   ],
-  "foodValue" : 5,
+  "foodValue" : 2,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
   "itemAgingScripts" : ["/scripts/items/rotting.lua"],
-  "rottingMultiplier" : 1.6,
+  "rottingMultiplier" : 0.4,
   "blockingEffects" : [
     "wellfed"
   ]

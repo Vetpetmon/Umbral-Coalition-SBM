@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "kyroxchocopowder", "count" : 10 },
+    { "item" : "sugar", "count" : 3 }
+  ],
+  "output" : { "item" : "chocolate", "count" : 1 },
+  "groups" : [ "craftingfood", "desserts" ]
+}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "eecstrawberry", "count" : 11 },
+    { "item" : "sugar", "count" : 1 }
+  ],
+  "output" : { "item" : "eecstrawberryjam", "count" : 1 },
+  "groups" : [ "craftingfood", "condiments" ]
+}

@@ -3,14 +3,14 @@
   "price" : 100,
   "maxStack" : 1,
   "rarity" : "Common",
-  "description" : "A broken Injector of the Xy-B model. Can be fixed.",
+  "description" : "A broken Injector of the Xy-B model. It can be fixed.",
   "shortdescription" : "Injector Xy-B (Broken)",
   "tooltipKind" : "sword",
   "category" : "ucinjector",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","broadsword"],
   "inventoryIcon" : "ucxeninjectordefunct.png",
-  "animation" : "/items/active/weapons/melee/spear/spear.animation",
+  "animation" : "/items/active/weapons/melee/dagger/dagger.animation",
   "animationParts" : {
     "handle" : "",
     "blade" : "ucxeninjectordefunct.png"
@@ -22,11 +22,54 @@
 },
   "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
   "elementalType" : "physical",
-  "primaryAbilityType" : "spearstab",
+  "aimOffset" : -1.0,
   "primaryAbility" : {
-    "fireTime" : 0.89,
-    "baseDps" : 6
+    "scripts" : ["/items/active/weapons/melee/meleeslash.lua"],
+    "class" : "MeleeSlash",
+
+    "fireTime" : 0.32,
+    "baseDps" : 6.0,
+    "damageConfig" : {
+      "damageSourceKind" : "dagger",
+      "statusEffects" : [ ],
+      "knockbackMode" : "aim",
+      "knockback" : 10,
+      "timeoutGroup" : "primary"
+    },
+    "stances" : {
+      "idle" : {
+        "armRotation" : -90,
+        "weaponRotation" : -10,
+        "weaponOffset" : [0.1, 2.25],
+
+        "allowFlip" : true,
+        "allowRotate" : true
+      },
+      "windup" : {
+        "duration" : 0.05,
+        "armRotation" : -20,
+        "weaponRotation" : -20,
+        "weaponOffset" : [0.1, 2.25],
+
+        "allowFlip" : true,
+        "allowRotate" : true
+      },
+      "fire" : {
+        "duration" : 0.2,
+        "armRotation" : -135,
+        "weaponRotation" : 40,
+        "weaponOffset" : [0.1, 2.5],
+
+        "allowFlip" : true,
+        "allowRotate" : true
+      }
+    }
   },
+
+  //FU crit stats
+  "critChance" : 1,
+  "critBonus" : 4,
+
   "altAbilityType" : "spearspin",
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
 }

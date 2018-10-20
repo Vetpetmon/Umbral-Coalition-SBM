@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "gfowstrawberryjam", "count" : 1 },
+    { "item" : "gfowbreadon", "count" : 1 }
+  ],
+  "output" : { "item" : "gfowstuffedbreadonstrawberry", "count" : 1 },
+  "groups" : [ "craftingfood", "desserts" ]
+}

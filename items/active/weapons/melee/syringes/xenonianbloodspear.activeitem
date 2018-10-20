@@ -4,9 +4,9 @@
   "level" : 3,
   "maxStack" : 1,
   "rarity" : "legendary",
-  "description" : "A giant syringe full of uc blood.
+  "description" : "A giant syringe full of Xenonian blood.
 
-  \"It's tasty until you learn about what they eat.\" ",
+  \"It's toxic, but you dare to taste it?\" ",
   "shortdescription" : "Syringe (uc Blood)",
   "tooltipKind" : "sword",
   "category" : "ucsyringe",
