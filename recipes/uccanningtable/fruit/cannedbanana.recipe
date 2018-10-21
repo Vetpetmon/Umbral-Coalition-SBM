@@ -1,9 +1,9 @@
 {
   "input" : [
-    { "item" : "uckaradiancarrot", "count" : 5 },
+    { "item" : "banana", "count" : 5 },
     { "item" : "rice", "count" : 1 },
     { "item" : "ucemptycan", "count" : 1 }
   ],
-  "output" : { "item" : "cannedkaradiancarrot", "count" : 1 },
+  "output" : { "item" : "uccannedbanana", "count" : 1 },
   "groups" : [ "uccanned" ]
 }

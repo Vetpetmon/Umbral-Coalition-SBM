@@ -6,7 +6,7 @@
   "inventoryIcon" : "redcan.png",
   "description" : "Preserved pearlpeas.",
   "shortdescription" : "Canned Pearlpeas",
-  "foodValue" : 9,
+  "foodValue" : 12,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1,

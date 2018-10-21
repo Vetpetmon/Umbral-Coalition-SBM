@@ -6,7 +6,7 @@
   "inventoryIcon" : "redcan.png",
   "description" : "Who even cans apples?",
   "shortdescription" : "Canned Apples",
-  "foodValue" : 11,
+  "foodValue" : 12,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1,

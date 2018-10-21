@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "grapes", "count" : 6 },
+    { "item" : "grapes", "count" : 5 },
     { "item" : "rice", "count" : 1 },
     { "item" : "ucemptycan", "count" : 1 }
   ],

@@ -6,7 +6,7 @@
   "inventoryIcon" : "redcan.png",
   "description" : "It's boneboo stuffed into a can.",
   "shortdescription" : "Canned Boneboo",
-  "foodValue" : 9,
+  "foodValue" : 13,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1,

@@ -6,7 +6,7 @@
   "inventoryIcon" : "redcan.png",
   "description" : "It's tomato paste. Famously known for being pizza sauce.",
   "shortdescription" : "Tomato Paste",
-  "foodValue" : 5,
+  "foodValue" : 8,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1,
