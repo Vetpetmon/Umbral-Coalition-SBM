@@ -1,0 +1,18 @@
+{
+  "itemName" : "uccannedstrawberries",
+  "rarity" : "Common",
+  "price" : 35,
+  "category" : "preparedFood",
+  "inventoryIcon" : "redcan.png",
+  "description" : "Strawberries, canned to keep for a long time.",
+  "shortdescription" : "Canned Strawberries",
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 4.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

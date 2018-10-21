@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "rottenfood", "count" : 4 },
+    { "item" : "snowball", "count" : 10 },
+    { "item" : "alienmeat", "count" : 2 },
+    { "item" : "ucemptycan", "count" : 1 }
+  ],
+  "output" : { "item" : "ucjunkfoodinacanimproved", "count" : 1 },
+  "groups" : [ "uccanned" ]
+}

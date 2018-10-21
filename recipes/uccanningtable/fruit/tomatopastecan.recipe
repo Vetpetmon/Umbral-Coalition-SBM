@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "tomato", "count" : 5 },
+    { "item" : "carrot", "count" : 1 },
+    { "item" : "liquidwater", "count" : 1 },
+    { "item" : "ucemptycan", "count" : 1 }
+  ],
+  "output" : { "item" : "uctomatopastecan", "count" : 1 },
+  "groups" : [ "uccanned" ]
+}

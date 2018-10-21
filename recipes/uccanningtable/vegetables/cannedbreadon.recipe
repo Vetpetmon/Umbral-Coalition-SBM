@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "ucbreadon", "count" : 3 },
+    { "item" : "rice", "count" : 1 },
+    { "item" : "ucemptycan", "count" : 1 }
+  ],
+  "output" : { "item" : "uccannedbreadon", "count" : 1 },
+  "groups" : [ "uccanned" ]
+}
