@@ -60,12 +60,12 @@
     {
       "duration" : [280, 340], //6
       "alts" : 1,
-      "harvestPool" : "ucstrawberryunripeHarvest",
+      "harvestPool" : "eecstrawberryunripeHarvest",
       "resetToStage" : 4
     },
     {
       "alts" : 1,
-      "harvestPool" : "ucstrawberryHarvest", //7
+      "harvestPool" : "eecstrawberryHarvest", //7
       "resetToStage" : 4
     }
   ],

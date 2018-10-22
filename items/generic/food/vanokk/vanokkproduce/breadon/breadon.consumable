@@ -17,5 +17,5 @@
   "blockingEffects" : [
     "wellfed"
   ],
-  "learnBlueprintsOnPickup" : [ "ucstuffedbreadonstrawberry" ]
+  "learnBlueprintsOnPickup" : [ "gfowstuffedbreadonstrawberry" ]
 }

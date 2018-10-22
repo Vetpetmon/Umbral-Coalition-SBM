@@ -1,12 +1,11 @@
 {
   "author" : "Vetpetmon",
-  "description" : "",
+  "description" : "THIS MOD IS IN ALPHA AND CONTAINS CONTENT PORTED OVER FROM GFOW. IT MAY NOT WORK WITH EITHER ONE OF THE GFOW BUILDS AT THE MOMENT, THIS WILL BE FIXED!\n\nDO NOT SUBSCRIBE WITHOUT READING:\nUmbral Coalition contains new blocks, species, and weapons. In a future not long away, UC will become a one-point trip to your saves. ALWAYS back up your saves! This goes for any other mod you use!\n\nUmbral Coalition is an all-original revamp of GFOW, featuring 3 original works in total.\nVERSION: v0.1 ALPHA\n\nFeatures:\n- Canning foods\n- Xenonians: A playable race\n- In-mod racial bonuses\n\nBUG REPORTS GO HERE: https://github.com/Vetpetmon-Labs/Umbral-Coalition/issues\n!PROVIDE YOUR STARBOUND.LOG OR THERE WON'T BE A FIX!\n\nJoin the official Umbral Coalition discord to recieve news on updates, events, and more: https://discord.gg/wqKXbCA \n\n-",
   "friendlyName" : "Umbral Coalition",
+  "includes" : [],
   "link" : "",
   "name" : "UmbralCoalition",
   "path" : ".",
   "steamContentId" : "",
-  "includes" : [],
-  "tags" : "",
   "version" : "0.1"
 }

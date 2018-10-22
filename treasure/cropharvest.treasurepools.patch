@@ -1,0 +1,173 @@
+[
+  { "op" : "add",
+  "path" : "/candasugarreedharvest",
+  "value" : [
+    [0, {
+    "pool" : [
+      {"weight" : 0.3, "item" : ["kyroxsugarreedstalk", 3]},
+      {"weight" : 0.3, "item" : ["kyroxsugarreedstalk", 2]},
+      {"weight" : 0.3, "item" : ["kyroxsugarreedstalk", 1]},
+      {"weight" : 0.1, "item" : ["plantfibre", 1]}
+    ],
+    "poolRounds" : [
+      [0.7, 1],
+      [0.3, 2]
+    ]
+    } ]
+  ]
+  },
+  { "op" : "add",
+  "path" : "/candabeanjellharvest",
+  "value" : [
+    [0, {
+    "pool" : [
+      {"weight" : 0.2, "item" : ["kyroxbeanjellpetal", 3]},
+      {"weight" : 0.7, "item" : ["kyroxbeanjellpetal", 2]},
+      {"weight" : 0.1, "item" : ["plantfibre", 1]}
+    ],
+    "poolRounds" : [
+      [0.5, 1],
+      [0.5, 2]
+    ]
+    } ]
+  ]
+  },
+  { "op" : "add",
+  "path" : "/candamarshrootharvest",
+  "value" : [
+    [0, {
+    "pool" : [
+      {"weight" : 0.3, "item" : ["kyroxmarshroot", 2]},
+      {"weight" : 0.6, "item" : ["kyroxmarshroot", 1]},
+      {"weight" : 0.1, "item" : ["plantfibre", 1]}
+    ],
+    "poolRounds" : [
+      [0.8, 1],
+      [0.2, 2]
+    ]
+    } ]
+  ]
+  },
+  { "op" : "add",
+  "path" : "/candacocoaberryharvest",
+  "value" : [
+    [0, {
+    "pool" : [
+      {"weight" : 0.2, "item" : ["kyroxcocoaberry", 4]},
+      {"weight" : 0.3, "item" : ["kyroxcocoaberry", 3]},
+      {"weight" : 0.4, "item" : ["kyroxcocoaberry", 2]},
+      {"weight" : 0.1, "item" : ["plantfibre", 1]}
+    ],
+    "poolRounds" : [
+      [0.8, 1],
+      [0.2, 2]
+    ]
+    } ]
+  ]
+  },
+  { "op" : "add",
+  "path" : "/candablacklicoharvest",
+  "value" : [
+    [0, {
+    "pool" : [
+      {"weight" : 0.1, "item" : ["kyroxblacklico", 3]},
+      {"weight" : 0.2, "item" : ["kyroxblacklico", 2]},
+      {"weight" : 0.6, "item" : ["kyroxblacklico", 1]},
+      {"weight" : 0.1, "item" : ["plantfibre", 1]}
+    ],
+    "poolRounds" : [
+      [0.8, 1],
+      [0.2, 2]
+    ]
+    } ]
+  ]
+  },
+
+
+
+  { "op" : "add",
+	"path" : "/webBreadonHarvest",
+	"value" : [
+	  [0, {
+		"pool" : [
+		  {"weight" : 0.40, "item" : ["gfowbreadon", 3]},
+      {"weight" : 0.30, "item" : ["gfowbreadon", 2]},
+      {"weight" : 0.197, "item" : ["gfowbreadon", 1]},
+      {"weight" : 0.002, "item" : ["gfowbreadonlorumdiseased", 1]},
+      {"weight" : 0.001, "item" : ["gfowbreadonlorumdiseased", 2]},
+		  {"weight" : 0.1, "item" : ["plantfibre", 1]}
+		],
+		"poolRounds" : [
+		  [0.6, 1],
+		  [0.4, 2]
+		]
+	  } ]
+	]
+},
+{ "op" : "add",
+"path" : "/webCorexHarvest",
+"value" : [
+  [0, {
+  "pool" : [
+    {"weight" : 0.9, "item" : ["gfowcorexpod", 1]},
+    {"weight" : 0.1, "item" : ["plantfibre", 1]}
+  ],
+  "poolRounds" : [
+    [0.9, 1],
+    [0.1, 2]
+  ]
+  } ]
+]
+},
+{ "op" : "add",
+"path" : "/webKaradiancarrotHarvest",
+"value" : [
+  [0, {
+  "pool" : [
+    {"weight" : 0.9, "item" : ["gfowkaradiancarrot", 1]},
+    {"weight" : 0.1, "item" : ["plantfibre", 1]}
+  ],
+  "poolRounds" : [
+    [0.8, 1],
+    [0.2, 2]
+  ]
+  } ]
+]
+},
+
+
+  { "op" : "add",
+	"path" : "/eecstrawberryHarvest",
+	"value" : [
+	  [0, {
+		"pool" : [
+		  {"weight" : 0.20, "item" : ["eecstrawberry", 4]},
+      {"weight" : 0.30, "item" : ["eecstrawberry", 3]},
+      {"weight" : 0.40, "item" : ["eecstrawberry", 2]},
+		  {"weight" : 0.1, "item" : ["plantfibre", 2]}
+		],
+		"poolRounds" : [
+		  [0.6, 1],
+		  [0.4, 2]
+		]
+	  } ]
+	]
+},
+{ "op" : "add",
+"path" : "/eecstrawberryunripeHarvest",
+"value" : [
+  [0, {
+  "pool" : [
+    {"weight" : 0.20, "item" : ["eecstrawberryunripe", 4]},
+    {"weight" : 0.30, "item" : ["eecstrawberryunripe", 3]},
+    {"weight" : 0.40, "item" : ["eecstrawberryunripe", 2]},
+    {"weight" : 0.1, "item" : ["plantfibre", 4]}
+  ],
+  "poolRounds" : [
+    [0.6, 1],
+    [0.4, 2]
+  ]
+  } ]
+]
+}
+]
