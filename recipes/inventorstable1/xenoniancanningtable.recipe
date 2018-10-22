@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 12 },
+    { "item" : "darkwoodmaterial", "count" : 20 },
+    { "item" : "logblock", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "xenoniancanningtable",
+    "count" : 1
+  },
+  "duration" : 4,
+  "groups" : [ "inventorstable", "craftingstations", "all" ]
+}

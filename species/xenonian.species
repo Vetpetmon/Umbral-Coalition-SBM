@@ -76,7 +76,9 @@
       { "item" : "xenonianoutfit3chest" },
       { "item" : "xenonianoutfit3legs" },
       { "item" : "xenonianoutfit4chest" },
-      { "item" : "xenonianoutfit4legs" }
+      { "item" : "xenonianoutfit4legs" },
+      //inventing table
+      { "item" : "xenoniancanningtable"}
 	  ]
   },
 

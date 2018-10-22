@@ -1,11 +1,13 @@
 function init()
     self.species=world.entitySpecies(entity.id()) --check player's species
 
-  if self.species ~= "uc" then --if not a uc
-    self.effectHandler=effect.addStatModifierGroup({{stat = "foodDelta", baseMultiplier = 40.0}}) --40x the hunger drain.
+  if self.species == "xenonian" then --Xenonians have immunity
+    status.removeEphemeralEffect("lorumillness",math.huge)
+  elseif self.species ~= "webber" then
+    self.effectHandler=effect.addStatModifierGroup({{stat = "foodDelta", baseMultiplier = 30.0}}) --30x the hunger drain.
     world.sendEntityMessage(entity.id(), "queueRadioMessage", "uclorumsickness",1) --SAIL screams at you. good job.
     status.removeEphemeralEffect("wellfed",math.huge)
-  else --if a uc
+  elseif self.species == "webber" then--if a webber (From GFOW)
     self.effectHandler=effect.addStatModifierGroup({{stat = "foodDelta", baseMultiplier = 20.0}}) --20x because there's smth worse
     world.sendEntityMessage(entity.id(), "queueRadioMessage", "uclorumsicknessucs",1) --SAIL screams at you differently
     status.removeEphemeralEffect("wellfed",math.huge) --math is huge af dude
@@ -19,7 +21,7 @@ function init()
 end
 -- Stinky banana
 function update(dt)
-  if self.species == "uc" then --only update if player is a uc otherwise, the update function does not take effect
+  if self.species == "webber" then --only update if player is a webber. otherwise, the update function does not take effect
     self.tickTimer = self.tickTimer - dt
     if self.tickTimer <= 0 then
       self.tickTimer = self.tickTime
