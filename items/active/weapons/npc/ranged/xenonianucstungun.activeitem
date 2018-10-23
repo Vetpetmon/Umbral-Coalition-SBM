@@ -1,9 +1,9 @@
 {
-  "itemName" : "ucucstungunnpc566873529546781",
+  "itemName" : "ucstungunnpc566873529546781",
   "price" : 100,
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "description" : "Why. Why do you have this? Carrying this without your UC Officier license is a crime against society. This can be turned into a deadly weapon in enough hits.",
+  "description" : "Why. Why do you have this? Carrying this without your UC Officer license is a crime against society. This can be turned into a deadly weapon in enough hits.",
   "shortdescription" : "UC-issued Stungun",
   "tooltipKind" : "gun",
   "category" : "uniqueWeapon",
@@ -39,7 +39,7 @@
       "class" : "GunFire",
 
       "fireTime" : 0.1,
-      "baseDps" : 3.0,
+      "baseDps" : 5.0,
       "energyUsage" : 200.5,
       "inaccuracy" : 0.002,
 
