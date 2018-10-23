@@ -10,8 +10,8 @@
       {"weight" : 0.1, "item" : ["plantfibre", 1]}
     ],
     "poolRounds" : [
-      [0.7, 1],
-      [0.3, 2]
+      [0.4, 1],
+      [0.6, 2]
     ]
     } ]
   ]
@@ -59,8 +59,8 @@
       {"weight" : 0.1, "item" : ["plantfibre", 1]}
     ],
     "poolRounds" : [
-      [0.8, 1],
-      [0.2, 2]
+      [0.4, 1],
+      [0.6, 2]
     ]
     } ]
   ]
@@ -76,8 +76,8 @@
       {"weight" : 0.1, "item" : ["plantfibre", 1]}
     ],
     "poolRounds" : [
-      [0.8, 1],
-      [0.2, 2]
+      [0.5, 1],
+      [0.5, 2]
     ]
     } ]
   ]
@@ -141,14 +141,15 @@
 	"value" : [
 	  [0, {
 		"pool" : [
-		  {"weight" : 0.20, "item" : ["eecstrawberry", 4]},
-      {"weight" : 0.30, "item" : ["eecstrawberry", 3]},
-      {"weight" : 0.40, "item" : ["eecstrawberry", 2]},
+      {"weight" : 0.1, "item" : ["eecstrawberry", 5]},
+		  {"weight" : 0.2, "item" : ["eecstrawberry", 4]},
+      {"weight" : 0.3, "item" : ["eecstrawberry", 3]},
+      {"weight" : 0.3, "item" : ["eecstrawberry", 2]},
 		  {"weight" : 0.1, "item" : ["plantfibre", 2]}
 		],
 		"poolRounds" : [
-		  [0.6, 1],
-		  [0.4, 2]
+		  [0.5, 1],
+		  [0.5, 2]
 		]
 	  } ]
 	]
@@ -158,14 +159,15 @@
 "value" : [
   [0, {
   "pool" : [
-    {"weight" : 0.20, "item" : ["eecstrawberryunripe", 4]},
-    {"weight" : 0.30, "item" : ["eecstrawberryunripe", 3]},
-    {"weight" : 0.40, "item" : ["eecstrawberryunripe", 2]},
+    {"weight" : 0.1, "item" : ["eecstrawberryunripe", 5]},
+    {"weight" : 0.1, "item" : ["eecstrawberryunripe", 4]},
+    {"weight" : 0.2, "item" : ["eecstrawberryunripe", 3]},
+    {"weight" : 0.5, "item" : ["eecstrawberryunripe", 2]},
     {"weight" : 0.1, "item" : ["plantfibre", 4]}
   ],
   "poolRounds" : [
-    [0.6, 1],
-    [0.4, 2]
+    [0.5, 1],
+    [0.5, 2]
   ]
   } ]
 ]
