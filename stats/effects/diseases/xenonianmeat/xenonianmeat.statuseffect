@@ -6,7 +6,7 @@
   "defaultDuration" : 6,
 
   "scripts" : [
-    "ucmeat.lua"
+    "xenonianmeat.lua"
   ],
 
   "label" : "Plagued Food",

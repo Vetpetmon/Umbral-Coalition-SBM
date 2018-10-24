@@ -10,7 +10,7 @@
         "title" : "Canning Table",
         "subtitle" : "Can produce to extend their shelf life.",
         "icon" : {
-          "file" : "/interface/crafting/canningtableicon.png"
+          "file" : "/interface/crafting/uccanningtableicon.png"
         }
       }
     },
