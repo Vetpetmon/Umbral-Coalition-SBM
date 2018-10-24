@@ -4,7 +4,7 @@
   "rarity" : "Essential",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
-    "config" : "/interface/windowconfig/xenoniancanningtable.config",
+    "config" : "/interface/windowconfig/xencanningtable.config",
     "paneLayoutOverride" : {
       "windowtitle" : {
         "title" : "Canning Table",
