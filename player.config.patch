@@ -7,6 +7,19 @@
 
   //regular food
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ucfriedegg" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedapples" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedboneboo" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedbanana" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedgrapes" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedpearlpea" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedpineapple" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedstrawberries" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uctomatopastecan" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccanneducjunkfoodinacan" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ucjunkfoodinacanimporved" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedbreadon" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedcacti" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedkaradiancarrot" } },
   //seeds
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "eecstrawberryseed" } },
   //racial codex
