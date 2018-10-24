@@ -3,6 +3,6 @@
     { "item" : "ucfriedegg", "count" : 1 },
     { "item" : "redtoyblock", "count" : 1 }
   ],
-  "output" : { "item" : "webeggonaleggo", "count" : 1 },
+  "output" : { "item" : "uceggonaleggo", "count" : 1 },
   "groups" : [ "craftingfood", "sides" ]
 }

@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "gfowstrawberryjam", "count" : 1 },
+    { "item" : "eecstrawberryjam", "count" : 1 },
     { "item" : "gfowbreadon", "count" : 1 }
   ],
   "output" : { "item" : "gfowstuffedbreadonstrawberry", "count" : 1 },
