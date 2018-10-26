@@ -4,6 +4,6 @@
     { "item" : "rice", "count" : 1 },
     { "item" : "ucemptycan", "count" : 1 }
   ],
-  "output" : { "item" : "cannedkaradiancarrot", "count" : 1 },
+  "output" : { "item" : "uccannedkaradiancarrot", "count" : 1 },
   "groups" : [ "uccanned" ]
 }
