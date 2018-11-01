@@ -1,6 +1,6 @@
 function init()
 
-  self.iskyroxvasuc = world.entitySpecies(entity.id()) == "kyroxvasuc"
+  self.iskyrox = world.entitySpecies(entity.id()) == "kyrox"
 
   self.species=world.entitySpecies(entity.id())
 	--sb.logInfo("race: %s",self.species)--if called while the player is logging in, will return nil
@@ -10,7 +10,7 @@ function init()
 	end
   
   if not self.postpone then
-    if not self.iskyroxvasuc then
+    if not self.iskyrox then
     effect.setParentDirectives(config.getParameter("directives", ""))
 
     self.movementModifiers = config.getParameter("movementModifiers", {})
@@ -42,7 +42,7 @@ function update(dt)
 		return
 	end
 
-    if self.iskyroxvasuc then
+    if self.iskyrox then
       status.removeEphemeralEffect("biomeanomaly1",math.huge) --apply immunity
     else
       mcontroller.controlModifiers(self.movementModifiers)

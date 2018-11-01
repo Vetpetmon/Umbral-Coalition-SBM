@@ -7,7 +7,7 @@
   "tooltipKind" : "mechbody",
   "builder" : "/items/buildscripts/buildmechpart.lua",
   "inventoryIcon" : "uckattykatbody.png",
-  "description" : "A standard civilian-grade kyroxvasian mech body.",
+  "description" : "A standard civilian-grade kyroxian mech body.",
   "shortdescription" : "KATTY-KAT",
   "itemTags" : [ ],
 

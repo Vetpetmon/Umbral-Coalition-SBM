@@ -1,22 +1,22 @@
 {
-  "itemName" : "candkyroxvasianbloodspear",
+  "itemName" : "candkyroxianbloodspear",
   "price" : 500,
   "level" : 3,
   "maxStack" : 1,
   "rarity" : "legendary",
-  "description" : "A giant syringe full of Kyroxvasian blood.
+  "description" : "A giant syringe full of kyroxian blood.
 
   \"Is it really blood if it's just sugar and nightmares?\" ",
-  "shortdescription" : "Syringe (kyroxvasian Blood)",
+  "shortdescription" : "Syringe (kyroxian Blood)",
   "tooltipKind" : "sword",
   "category" : "ucsyringe",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","spear"],
-  "inventoryIcon" : "kyroxvasianbloodspear.png",
+  "inventoryIcon" : "kyroxianbloodspear.png",
   "animation" : "/items/active/weapons/melee/spear/spear.animation",
   "animationParts" : {
     "handle" : "",
-    "blade" : "kyroxvasianbloodspear.png"
+    "blade" : "kyroxianbloodspear.png"
   },
   "animationCustom" : {
     "sounds" : {
