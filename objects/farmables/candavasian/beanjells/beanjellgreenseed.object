@@ -1,10 +1,10 @@
 {
-  "objectName" : "kyroxbeanjellseed",
+  "objectName" : "kyroxbeanjellgreenseed",
   "colonyTags" : ["nature", "farmer"],
   "rarity" : "Common",
   "category" : "seed",
   "description" : "This'll grow into a flower. It's fruit are the petals itself.",
-  "shortdescription" : "Bean Jell Seed",
+  "shortdescription" : "Green Bean Jell Seed",
   "objectType" : "farmable",
   "printable" : false,
   "price" : 15,
@@ -19,13 +19,13 @@
   "inventoryIcon" : "beanjellseedicon.png",
 
   "tooltipKind" : "seed",
-  "largeImage" : "beanjellseed.png:default.3.0",
+  "largeImage" : "beanjellgreenseed.png:default.3.0",
 
-  "learnBlueprintsOnPickup" : [ "candabeanjellseed" ],
+  "learnBlueprintsOnPickup" : [ "candabeanjellgreenseed" ],
 
   "orientations" : [
     {
-      "dualImage" : "beanjellseed.png:<color>.<stage>.<alt>",
+      "dualImage" : "beanjellgreenseed.png:<color>.<stage>.<alt>",
       "imagePosition" : [0, 0],
       "frames" : 1,
       "animationCycle" : 0.5,
