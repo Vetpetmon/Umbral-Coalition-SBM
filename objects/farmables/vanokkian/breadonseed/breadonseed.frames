@@ -2,9 +2,9 @@
 
   "frameGrid" : {
     "size" : [16, 32],
-    "dimensions" : [9, 1],
+    "dimensions" : [13, 1],
     "names" : [
-      [ "default.0.0", "default.1.0", "default.2.0", "default.3.0", "default.4.0", "default.5.0", "default.6.0", "default.7.0", "default.8.0" ]
+      [ "default.0.0", "default.1.0", "default.2.0", "default.3.0", "default.4.0", "default.5.0", "default.6.0", "default.7.0", "default.8.0", "default.8.1", "default.8.2", "default.8.3", "default.8.4" ]
     ]
   },
 

@@ -68,7 +68,7 @@
       "duration" : [580, 600] //8
     },
     {
-      "alts" : 1,
+      "alts" : 5,
       "harvestPool" : "webBreadonHarvest", //9
       "resetToStage" : 6
     }
