@@ -6,7 +6,7 @@
   "animationCycle" : 0.2,
   "lightColor" : [20, 20, 120],
   "frameNumber" : 1,
-  "statusEffects" : [ "combatwebstunned2" ],
+  "statusEffects" : [ "combatucstunned2" ],
   "speed" : 0,
   "power" : 30,
   "damageKind" : "ice",
