@@ -54,7 +54,7 @@
       "duration" : [400, 440] //3
     },
     {
-      "alts" : 1,
+      "alts" : 6,
       "harvestPool" : "candablacklicoharvest", //7
       "resetToStage" : 2
     }
