@@ -21,7 +21,7 @@
   "tooltipKind" : "seed",
   "largeImage" : "beanjellseed.png:default.3.0",
 
-  "learnBlueprintsOnPickup" : [ "candabeanjellseed" ],
+  "learnBlueprintsOnPickup" : [ "kyroxbeanjellseed" ],
 
   "orientations" : [
     {

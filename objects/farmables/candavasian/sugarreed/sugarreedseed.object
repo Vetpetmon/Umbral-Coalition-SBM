@@ -25,7 +25,7 @@
   "tooltipKind" : "seed",
   "largeImage" : "sugarreedseed.png:default.3.0",
 
-  "learnBlueprintsOnPickup" : [ "sugarreedseed" ],
+  "learnBlueprintsOnPickup" : [ "kyroxsugarreedseed" ],
 
   "orientations" : [
     {

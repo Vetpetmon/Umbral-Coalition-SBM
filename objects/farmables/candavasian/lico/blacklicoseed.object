@@ -25,7 +25,7 @@
   "tooltipKind" : "seed",
   "largeImage" : "blacklicoseed.png:default.3.0",
 
-  "learnBlueprintsOnPickup" : [ "candablacklicoseed" ],
+  "learnBlueprintsOnPickup" : [ "kyroxblacklicoseed" ],
 
   "orientations" : [
     {
