@@ -23,7 +23,7 @@
   "inventoryIcon" : "breadonseedicon.png",
 
   "tooltipKind" : "seed",
-  "largeImage" : "breadonseed.png:default.3.0",
+  "largeImage" : "breadonseed.png:default.4.0",
 
 
   "orientations" : [
