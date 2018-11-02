@@ -4,7 +4,8 @@
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "kyroxchocopowder" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "kyroxchocopaste" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "sugar" } },
-
+  //Crafting stations
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ucwoodencanningtable" } },
   //regular food
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ucfriedegg" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedapples" } },
@@ -21,7 +22,8 @@
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedcacti" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedkaradiancarrot" } },
   //seeds
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "eecstrawberryseed" } },
+  //EXTENDED EARTH CROPS
+  //{ "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "eecstrawberryseed" } },
   //racial codex
   { "op" : "add", "path" : "/defaultCodexes/xenonian", "value" : [ "protectorate1", "protectorate2" ] }
 ]
