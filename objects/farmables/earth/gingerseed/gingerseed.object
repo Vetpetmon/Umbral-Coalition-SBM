@@ -1,0 +1,55 @@
+{
+  "objectName" : "eecgingerseed",
+  "colonyTags" : ["nature", "farmer"],
+  "rarity" : "Common",
+  "category" : "seed",
+  "description" : "Imported straight from Earth, ginger is a popular spice on the maket.",
+  "shortdescription" : "Sprouting Ginger",
+  "objectType" : "farmable",
+  "printable" : false,
+  "price" : 40,
+
+  "inventoryIcon" : "gingerseedicon.png",
+
+  "tooltipKind" : "seed",
+  "largeImage" : "gingerseed.png:default.4.0",
+
+
+  "orientations" : [
+    {
+      "dualImage" : "gingerseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "requireTilledAnchors" : true,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "radioMessagesOnPickup" : [ "pickupseed" ],
+
+  "stages" : [
+    {
+      "duration" : [90, 120] //1
+    },
+    {
+      "duration" : [100, 140] //2
+    },
+    {
+      "duration" : [140, 180] //3
+    },
+    {
+      "duration" : [200, 240] //4
+    },
+    { //5
+      "alts" : 17,
+      "harvestPool" : "eecGingerHarvest",
+      "resetToStage" : 1
+    }
+  ],
+
+  "maxImmersion" : 0.25
+}
