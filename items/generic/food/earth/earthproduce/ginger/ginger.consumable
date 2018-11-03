@@ -1,0 +1,20 @@
+{
+  "itemName" : "eecginger",
+  "rarity" : "Common",
+  "price" : 50,
+  "category" : "food",
+  "eventCategory" : "eventCrop",
+  "inventoryIcon" : "ginger.png",
+  "description" : "The root of a ginger plant. Commonly used as a spice.",
+  "shortdescription" : "Ginger",
+  "foodValue" : 1,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 4.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+  //"learnBlueprintsOnPickup" : [ "" ]
+}
