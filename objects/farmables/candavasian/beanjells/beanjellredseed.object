@@ -1,0 +1,65 @@
+{
+  "objectName" : "kyroxbeanjellredseed",
+  "colonyTags" : ["nature", "farmer"],
+  "rarity" : "Common",
+  "category" : "seed",
+  "description" : "This'll grow into a flower. It's fruit are the petals itself.
+  ^green;Growth^reset;: 1
+  ^green;Harvest^reset;: 1",
+  "shortdescription" : "Red Bean Jell Seed",
+  "objectType" : "farmable",
+  "printable" : false,
+  "price" : 15,
+
+  "floranDescription" : "Sssugary flowersss.",
+  "glitchDescription" : "Statement. This is a bean jell plant.",
+  "novakidDescription" : "This is an odd lil' flower, ain't it?",
+
+  "webberDescription" : "Is it a fruit or a flower? The world may never know.",
+  "candavaswebberDescription" : "A very common flower found in every garden, none are complete without a handful of them!",
+
+  "inventoryIcon" : "beanjellredseedicon.png",
+
+  "tooltipKind" : "seed",
+  "largeImage" : "beanjellredseed.png:default.3.0",
+
+  "learnBlueprintsOnPickup" : [ "kyroxbeanjellredseed" ],
+
+  "orientations" : [
+    {
+      "dualImage" : "beanjellredseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "requireTilledAnchors" : true,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "radioMessagesOnPickup" : [ "pickupseed" ],
+
+  "stages" : [
+    {
+      "duration" : [30, 40] //1
+    },
+    {
+      "duration" : [130, 140] //2
+    },
+    {
+      "duration" : [130, 140] //3
+    },
+    {
+      "duration" : [160, 180] //4
+    },
+    {
+      "alts" : 4,
+      "harvestPool" : "candabeanjellharvest", //5
+      "resetToStage" : 2
+    }
+  ],
+
+  "maxImmersion" : 0.125
+}
