@@ -3,7 +3,9 @@
   "colonyTags" : ["nature", "farmer"],
   "rarity" : "Common",
   "category" : "seed",
-  "description" : "This'll grow into a flower. It's fruit are the petals itself.",
+  "description" : "This'll grow into a flower. It's fruit are the petals itself.
+  ^green;Growth^reset;: 1
+  ^green;Harvest^reset;: 1",
   "shortdescription" : "Bean Jell Seed",
   "objectType" : "farmable",
   "printable" : false,
@@ -44,13 +46,13 @@
       "duration" : [30, 40] //1
     },
     {
-      "duration" : [30, 40] //2
+      "duration" : [130, 140] //2
     },
     {
-      "duration" : [30, 40] //3
+      "duration" : [130, 140] //3
     },
     {
-      "duration" : [60, 80] //4
+      "duration" : [160, 180] //4
     },
     {
       "alts" : 4,
