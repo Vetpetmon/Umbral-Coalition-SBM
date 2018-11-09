@@ -7,11 +7,12 @@
   "inventoryIcon" : "karadiancarrot.png",
   "description" : "Rich in iron and calcium, karadian carrots were once a staple when living in the swamps of Vanokk.",
   "shortdescription" : "Karadian Carrot",
-  "effects" : [
-    {
-      "effect" : "badtaste",
-      "duration" : 50
-    }
+  "effects" : [ [
+      {
+        "effect" : "badtaste",
+        "duration" : 50
+      }
+    ]
   ],
   "foodValue" : 5,
   "tooltipKind" : "food",
