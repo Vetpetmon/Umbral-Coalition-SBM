@@ -59,11 +59,14 @@
       "duration" : [340, 380] //5
     },
     {
-      "duration" : [400, 480] //6
+      "duration" : [340, 380] //6
+    },
+    {
+      "duration" : [400, 480] //7
     },
     {
       "alts" : 5,
-      "harvestPool" : "webBreadonHarvest", //9
+      "harvestPool" : "webBreadonHarvest", //8
       "resetToStage" : 6
     }
   ],
