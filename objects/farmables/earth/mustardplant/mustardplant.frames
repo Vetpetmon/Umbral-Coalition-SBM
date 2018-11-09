@@ -4,7 +4,7 @@
     "size" : [16, 32],
     "dimensions" : [13, 1],
     "names" : [
-      [ "default.0.0", "default.1.0", "default.2.0", "default.3.0", "default.4.0", "default.5.0", "default.6.1", "default.6.2", "default.6.3", "default.6.4", "default.6.5", "default.6.6" ]
+      [ "default.0.0", "default.1.0", "default.2.0", "default.3.0", "default.4.0", "default.5.0", "default.6.0", "default.6.1", "default.6.2", "default.6.3", "default.6.4", "default.6.5", "default.6.6" ]
     ]
   },
 

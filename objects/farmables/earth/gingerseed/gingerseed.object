@@ -41,6 +41,9 @@
     {
       "duration" : [240, 280] //3
     },
+    {
+      "duration" : [240, 280] //4
+    },
     { //5
       "alts" : 17,
       "harvestPool" : "eecGingerHarvest",
@@ -48,5 +51,5 @@
     }
   ],
 
-  "maxImmersion" : 0.25
+  "maxImmersion" : 0.125
 }
