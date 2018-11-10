@@ -1,0 +1,86 @@
+{
+  "itemName" : "ucxeninjectorstarterempty",
+  "price" : 100,
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A Injector of the Xy-B model. Nothing is in it.",
+  // VALID SUBSTANCES:
+  // Water
+  // Chocolate
+  // Lorum Virus
+  // T1 Juices
+  // Blood
+  // Poison
+  // Coolant
+  // Milk
+  // Swamp Water
+  // Honey
+  "shortdescription" : "Injector Xy-B (Empty)",
+  "tooltipKind" : "sword",
+  "category" : "ucinjector",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","melee","broadsword"],
+  "inventoryIcon" : "ucxeninjectordefunct.png",
+  "animation" : "/items/active/weapons/melee/dagger/dagger.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "ucxeninjectorstarterempty.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : [ "/sfx/melee/swing_spear.ogg" ]
+    }
+},
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+  "elementalType" : "physical",
+  "aimOffset" : -1.0,
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/melee/meleeslash.lua"],
+    "class" : "MeleeSlash",
+
+    "fireTime" : 0.32,
+    "baseDps" : 6.0,
+    "damageConfig" : {
+      "damageSourceKind" : "dagger",
+      "statusEffects" : [ ],
+      "knockbackMode" : "aim",
+      "knockback" : 10,
+      "timeoutGroup" : "primary"
+    },
+    "stances" : {
+      "idle" : {
+        "armRotation" : -90,
+        "weaponRotation" : -10,
+        "weaponOffset" : [0.1, 2.25],
+
+        "allowFlip" : true,
+        "allowRotate" : true
+      },
+      "windup" : {
+        "duration" : 0.05,
+        "armRotation" : -20,
+        "weaponRotation" : -20,
+        "weaponOffset" : [0.1, 2.25],
+
+        "allowFlip" : true,
+        "allowRotate" : true
+      },
+      "fire" : {
+        "duration" : 0.2,
+        "armRotation" : -135,
+        "weaponRotation" : 40,
+        "weaponOffset" : [0.1, 2.5],
+
+        "allowFlip" : true,
+        "allowRotate" : true
+      }
+    }
+  },
+
+  //FU crit stats
+  "critChance" : 3,
+  "critBonus" : 4,
+
+  "altAbilityType" : "spearspin",
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

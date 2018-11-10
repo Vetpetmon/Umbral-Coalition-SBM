@@ -2,7 +2,7 @@
   "name" : "anomaly1syringe",
 
   "effectConfig" : {
-    "directives" : "fade=00ffb4=0.5",
+    "directives" : "fade=00ffb4=0.1",
     "movementModifiers" : {
       "speedModifier" : 0.9,
       "airJumpModifier" : 0.9

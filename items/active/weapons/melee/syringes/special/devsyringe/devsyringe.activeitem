@@ -1,22 +1,22 @@
 {
-  "itemName" : "vanokkanomaly0dash0tsyringe",
+  "itemName" : "ucdevsyringe574htgbhjdiuy45hd9diouzaoaqw",
   "price" : 500,
-  "level" : 5,
+  "level" : 6,
   "maxStack" : 1,
-  "rarity" : "legendary",
-  "description" : "A giant syringe full of Anomaly 0-0t.
-
-  \"CHAOS! CHAOS!\" ",
-  "shortdescription" : "Syringe (Anomaly 0-0t)",
+  "rarity" : "Essential",
+  "description" : "Something tells you that whatever is in this isn't safe for consumption...
+  ^orange;DEV ITEM^reset;
+  \"Great taste and no side effects!\" ",
+  "shortdescription" : "Syringe (Suspcious Syrup)",
   "tooltipKind" : "sword",
   "category" : "ucsyringe",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","spear"],
-  "inventoryIcon" : "anomaly0-0tspear.png",
+  "inventoryIcon" : "devsyringe.png",
   "animation" : "/items/active/weapons/melee/spear/spear.animation",
   "animationParts" : {
     "handle" : "",
-    "blade" : "anomaly0-0tspear.png"
+    "blade" : "devsyringe.png"
   },
   "animationCustom" : {
     "sounds" : {
@@ -35,17 +35,17 @@
   "primaryAbility" : {
     "scripts" : [],
 
-    "fireTime" : 0.8,
-    "baseDps" : 5.0,
+    "fireTime" : 0.7,
+    "baseDps" : 15.0,
     "damageConfig" : {
       "statusEffects" : [ "anomaly2syringe" ],
-      "knockback" : 5
+      "knockback" : 4
     }
   },
 
   //FU crit stats
-  "critChance" : 4,
-  "critBonus" : 3,
+  "critChance" : 8,
+  "critBonus" : 5,
 
   "altAbilityType" : "spearspin", //placeholder alt
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
