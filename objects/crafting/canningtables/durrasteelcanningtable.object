@@ -1,5 +1,5 @@
 {
-  "objectName" : "ucwoodencanningtable",
+  "objectName" : "ucdurrasteelcanningtable",
   "colonyTags" : [ "cooking", "foodfactory" ],
   "rarity" : "Essential",
   "interactAction" : "OpenCraftingInterface",
@@ -50,7 +50,7 @@
   "inventoryIcon" : "canningtableicon.png",
   "orientations" : [
     {
-      "dualImage" : "woodencanningtable.png:<color>",
+      "dualImage" : "durrasteelcanningtable.png:<color>",
 
       "imagePosition" : [-16, 0],
       "frames" : 1,
