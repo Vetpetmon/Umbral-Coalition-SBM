@@ -19,5 +19,10 @@
    "op": "add",
    "path": "/labels/ucsyringe",
    "value": "Syringe"
+ },
+ {
+   "op": "add",
+   "path": "/labels/ucspraycan",
+   "value": "Spray Can"
  }
 ]
