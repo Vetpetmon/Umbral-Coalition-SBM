@@ -1,0 +1,10 @@
+{
+  "itemName": "ucemptyspraycan",
+  "rarity": "common",
+  "price": 40,
+  "category": "ucweaponpart",
+  "inventoryIcon" : "emptyspraycan.png",
+  "description" : "It doesn't have a use if you don't put anything in it.",
+  "shortdescription" : "Empty Spray Can",
+  "itemTags" : [ "reagent" ]
+}
