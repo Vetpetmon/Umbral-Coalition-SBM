@@ -24,7 +24,9 @@
 
     "animationCustom" : {
       "sounds" : {
-        "fire" : ["/sfx/gun/electricrailgun1.ogg"]
+        "fireStart" : [ "/sfx/weapon/spraycan/spraycan-shake.ogg" ],
+        "fireLoop" : [ "/sfx/weapon/spraycan/spraycan-spray-loop.ogg" ],
+        "fireEnd" : [ "/sfx/weapon/spraycan/spraycan-spray-end.ogg" ]
       }
   },
   "baseOffset" : [0.5, 0.5],
@@ -32,7 +34,7 @@
 
     "scripts" : ["/items/active/weapons/ranged/gun.lua"],
 
-    "elementalType" : "electric",
+    "elementalType" : "physical",
 
     "primaryAbility" : {
       "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
@@ -46,7 +48,7 @@
       "projectileCount" : 1,
       "fireType" : "auto",
 
-      "projectileType" : "railgunlightning",
+      "projectileType" : "",
       "projectileParameters" : {
         "knockback" : 1,
         "speed" : 50
