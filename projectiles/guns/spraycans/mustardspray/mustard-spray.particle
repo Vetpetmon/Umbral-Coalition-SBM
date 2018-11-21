@@ -1,0 +1,23 @@
+{
+  "projectileName" : "ucmustardspray",
+  "image" : "mustard-spray-particle.png",
+  "physics" : "flame",
+  "animationCycle" : 1,
+  "animationLoops" : false,
+  "frameNumber" : 12,
+  "winddownFrames" : 3,
+  "intangibleWinddown" : true,
+  "power" : 50,
+  "speed" : 40,
+  "timeToLive" : 1.0,
+  "bounces" : 4,
+  "piercing" : false,
+  "damagePoly" : [ [-5, 0], [-4, -4], [0, -5], [4, -4], [5, 0], [4, 4], [0, 5], [-4, 4] ],
+  "lightColor" : [0, 0, 0],
+  "damageKind" : "spray",
+  /*"damageKindImage" : "/interface/statuses/.png",
+  "statusEffects" : [
+    ""
+  ],*/
+  "hydrophobic" : false
+}
