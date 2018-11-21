@@ -14,7 +14,7 @@
   "piercing" : false,
   "damagePoly" : [ [-5, 0], [-4, -4], [0, -5], [4, -4], [5, 0], [4, 4], [0, 5], [-4, 4] ],
   "lightColor" : [0, 0, 0],
-  "damageKind" : "spray",
+  "damageKind" : "default",
   /*"damageKindImage" : "/interface/statuses/.png",
   "statusEffects" : [
     ""
