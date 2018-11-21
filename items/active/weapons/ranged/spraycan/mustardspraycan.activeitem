@@ -19,7 +19,7 @@
       "butt" : "",
       "middle" : "mustard-spraycan.png",
       "barrel" : "",
-      "muzzleFlash" : "/items/active/weapons/ranged/muzzleflash.png"
+      "muzzleFlash" : ""
     },
 
     "animationCustom" : {
