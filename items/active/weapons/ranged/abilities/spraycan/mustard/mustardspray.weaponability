@@ -1,0 +1,48 @@
+{
+  "ability" : {
+    "name" : "UCSprayCanMustard",
+    "type" : "ucspraycanmustard",
+    "scripts" : ["/items/active/weapons/ranged/abilities/flamethrower/flamethrower.lua"],
+    "class" : "UCSprayCanMustardAttack",
+
+    "baseDps" : 2,
+    "energyUsage" : 14,
+    "fireTime" : 0.065,
+    "inaccuracy" : 0.08,
+
+    "projectileCount" : 1,
+    "fireType" : "auto",
+
+    "projectileType" : "ucmustardsprayparticle",
+    "projectileParameters" : { },
+
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : false,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 0.05,
+        "weaponRotation" : 0.05,
+        "twoHanded" : false,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "cooldown" : {
+        "duration" : 0.05,
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : false,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      }
+    }
+  }
+}

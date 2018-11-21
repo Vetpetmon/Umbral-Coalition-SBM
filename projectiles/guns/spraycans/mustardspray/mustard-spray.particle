@@ -1,5 +1,5 @@
 {
-  "projectileName" : "ucmustardspray",
+  "projectileName" : "ucmustardsprayparticle",
   "image" : "mustard-spray-particle.png",
   "physics" : "flame",
   "animationCycle" : 1,
