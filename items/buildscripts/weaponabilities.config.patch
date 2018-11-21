@@ -1,14 +1,14 @@
 [
   //staves
   {
-	   "op": "add",
-	    "path": "/ucstaffarcticchill",
-	     "value": "/items/active/weapons/staff/ability/controlprojectile/xenonianstaffarcticchill.weaponability"
+	  "op": "add",
+	  "path": "/ucstaffarcticchill",
+	  "value": "/items/active/weapons/staff/ability/controlprojectile/xenonianstaffarcticchill.weaponability"
   },
 // spray cans
   {
     "op": "add",
     "path": "/ucspraycanmustard",
-    "value": "items/active/weapons/ranged/abilities/spraycan/mustard/mustardspray.weaponability"
+    "value": "/items/active/weapons/ranged/abilities/spraycan/mustard/mustardspray.weaponability"
   }
 ]

@@ -1,6 +1,6 @@
 require "/items/active/weapons/ranged/gunfire.lua"
 
-FlamethrowerAttack = GunFire:new()
+UCSprayCanMustardAttack = GunFire:new()
 
 function UCSprayCanMustardAttack:init()
   GunFire.init(self)

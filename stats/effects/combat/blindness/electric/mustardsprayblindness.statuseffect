@@ -1,0 +1,15 @@
+{
+
+  "name" : "ucmustardsprayblindness",
+
+  "effectConfig" : {},
+
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "mustardsprayblindness.lua"
+  ],
+
+  "label" : "Blinded",
+  "icon" : "/interface/statuses/sprayblindness.png"
+}

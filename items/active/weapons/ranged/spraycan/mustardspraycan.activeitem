@@ -19,7 +19,7 @@
       "butt" : "",
       "middle" : "mustard-spraycan.png",
       "barrel" : "",
-      "muzzleFlash" : ""
+      "muzzleFlash" : "/items/active/weapons/ranged/muzzleflash.png"
     },
 
     "animationCustom" : {
@@ -29,8 +29,8 @@
         "fireEnd" : [ "/sfx/weapon/spraycan/spraycan-spray-end.ogg" ]
       }
     },
-    "baseOffset" : [0.0, -0.8],
-    "muzzleOffset" : [1.5, 0.0],
+    "baseOffset" : [0.0, -0.4],
+    "muzzleOffset" : [1.5, 0.125],
 
     "scripts" : ["/items/active/weapons/ranged/gun.lua"],
 
@@ -38,7 +38,7 @@
 
     "primaryAbilityType" : "ucspraycanmustard",
     "primaryAbility" : {
-      "baseDps" : 2,
+      "baseDps" : 4,
       "energyUsage" : 15
     },
 

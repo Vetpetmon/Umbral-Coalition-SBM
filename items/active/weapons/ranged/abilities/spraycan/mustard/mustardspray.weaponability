@@ -2,7 +2,7 @@
   "ability" : {
     "name" : "UCSprayCanMustard",
     "type" : "ucspraycanmustard",
-    "scripts" : ["items/active/weapons/ranged/abilities/spraycan/mustard/mustardspray.lua"],
+    "scripts" : ["/items/active/weapons/ranged/abilities/spraycan/mustard/mustardspray.lua"],
     "class" : "UCSprayCanMustardAttack",
 
     "baseDps" : 2,
@@ -27,8 +27,8 @@
       },
       "fire" : {
         "duration" : 0,
-        "armRotation" : 0.05,
-        "weaponRotation" : 0.05,
+        "armRotation" : 0.1,
+        "weaponRotation" : 0.1,
         "twoHanded" : false,
 
         "allowRotate" : true,

@@ -4,20 +4,20 @@
   "physics" : "flame",
   "animationCycle" : 1,
   "animationLoops" : false,
-  "frameNumber" : 9,
+  "frameNumber" : 6,
   "winddownFrames" : 3,
   "intangibleWinddown" : true,
   "power" : 50,
-  "speed" : 40,
+  "speed" : 25,
   "timeToLive" : 1.0,
   "bounces" : 1,
   "piercing" : false,
   "damagePoly" : [ [-5, 0], [-4, -4], [0, -5], [4, -4], [5, 0], [4, 4], [0, 5], [-4, 4] ],
   "lightColor" : [0, 0, 0],
   "damageKind" : "default",
-  /*"damageKindImage" : "/interface/statuses/.png",
+  "damageKindImage" : "/interface/statuses/sprayblindness.png",
   "statusEffects" : [
-    ""
-  ],*/
+    "ucmustardsprayblindness"
+  ],
   "hydrophobic" : false
 }
