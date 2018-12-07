@@ -8,7 +8,7 @@
   "tooltipKind" : "gun",
   "category" : "assaultRifle",
   "twoHanded" : true,
-  "itemTags" : ["weapon","ranged","candavasian","assaultRifle"],
+  "itemTags" : ["weapon","ranged","kyrox","assaultRifle"],
   "level" : 3,
 
   "inventoryIcon" : "candycornar.png",
