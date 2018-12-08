@@ -1,0 +1,30 @@
+{
+  "materialId" : 25514,
+  "materialName" : "ucwebplatform",
+  "collisionKind" : "platform",
+  "frames" : "ucwebplatform.png",
+  "particleColor" : [60, 60, 60, 255],
+  "variants" : 1,
+  "itemDrop" : "ucwebplatform",
+  "description" : "Silk that has been weaved into a platform",
+  "shortdescription" : "Silk Platform",
+  "glitchDescription" : "Disgusted. Giant spiders must've constructed this web.",
+  "floranDescription" : "Sssilky platform. Floran thinksss it leadsss to trap.",
+  "novakidDescription" : "A silk platform, but is it risky ta' walk on?",
+  "xenonianDescription" : "Silk is too sticky. It's certainly not slime.",
+  "webberDescription" : "A silk platform used in contructing our webs.",
+  "candavaswebberDescription": "Be it silky or be it sugary, it's a platform.",
+  "footstepSound" : "/sfx/blocks/footstep_wetclay.ogg",
+  "health" : 3,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/platformtemplate.config",
+  "renderParameters" : {
+    "texture" : "ucwebplatform.png",
+    "variants" : 3,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

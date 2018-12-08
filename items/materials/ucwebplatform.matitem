@@ -1,0 +1,17 @@
+{
+  "itemName" : "ucwebplatform",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "ucwebplatform.png",
+  "description" : "Silk that has been weaved into a platform",
+  "shortdescription" : "Silk Platform",
+  "glitchDescription" : "Disgusted. Giant spiders must've constructed this web.",
+  "floranDescription" : "Sssilky platform. Floran thinksss it leadsss to trap.",
+  "novakidDescription" : "A silk platform, but is it risky ta' walk on?",
+  "xenonianDescription" : "Silk is too sticky. It's certainly not slime.",
+  "webberDescription" : "A silk platform used in contructing our webs.",
+  "candavaswebberDescription": "Be it silky or be it sugary, it's a platform.",
+
+  "materialId" : 25514
+}
