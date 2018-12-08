@@ -1,0 +1,15 @@
+{
+  "itemName" : "ucnightmaricconcentrate",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "nightmaric-concentrate.png",
+  "description" : "This is what physical nightmares are made of. ^red;Be prepared to handle this^reset;",
+  "shortdescription" : "Nightmaric Concentrate",
+  "currency" : "ucnightmaricconcentrate",
+  "value" : 1,
+  "pickupSoundsSmall" : [ "/sfx/other/nightmaricconcentrate/pickupsmall1.ogg", "/sfx/other/nightmaricconcentrate/pickupsmall2.ogg" ],
+  "pickupSoundsMedium" : [ "/sfx/other/nightmaricconcentrate/pickupmedium.ogg" ],
+  "pickupSoundsLarge" : [ "/sfx/other/nightmaricconcentrate/pickuplarge.ogg" ],
+  "smallStackLimit" : 999,
+  "mediumStackLimit" : 4999,
+  "maxStack" : 16777216
+}
