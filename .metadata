@@ -1,6 +1,6 @@
 {
   "author" : "Vetpetmon",
-  "description" : "THIS MOD IS IN ALPHA AND CONTAINS CONTENT PORTED OVER FROM GFOW. IT MAY NOT WORK WITH EITHER ONE OF THE GFOW BUILDS AT THE MOMENT, THIS WILL BE FIXED!\n\nDO NOT SUBSCRIBE WITHOUT READING:\nUmbral Coalition contains new blocks, species, and weapons. In a future not long away, UC will become a one-point trip to your saves. ALWAYS back up your saves! This goes for any other mod you use!\n\nUmbral Coalition is an all-original revamp of GFOW, featuring 3 original works in total.\nVERSION: v0.1.3 ALPHA\n\nFeatures:\n- Canning foods\n- A playable race: Xenonians, slug-like aliens from the extremely toxic and mutated planet called Xen-789\n- In-mod racial bonuses\n- Frackin' Races support\n\nBUG REPORTS GO HERE: https://github.com/Vetpetmon-Labs/Umbral-Coalition/issues\n!PROVIDE YOUR STARBOUND.LOG OR THERE WON'T BE A FIX!\n\nJoin the official Umbral Coalition discord to recieve news on updates, events, know how to contribute to the mod, and more: https://discord.gg/wqKXbCA ",
+  "description" : "THIS MOD IS IN ALPHA AND CONTAINS CONTENT PORTED OVER FROM GFOW. IT MAY NOT WORK WITH EITHER ONE OF THE GFOW BUILDS AT THE MOMENT, THIS WILL BE FIXED!\n\nDO NOT SUBSCRIBE WITHOUT READING:\nUmbral Coalition contains new blocks, species, and weapons. In a future not long away, UC will become a one-point trip to your saves. ALWAYS back up your saves! This goes for any other mod you use!\n\nUmbral Coalition is an all-original revamp of GFOW, featuring 3 original works in total.\nVERSION: v0.1.3.1 ALPHA\n\nFeatures:\n- Canning foods\n- A playable race: Xenonians, slug-like aliens from the extremely toxic and mutated planet called Xen-789\n- In-mod racial bonuses\n- Frackin' Races support\n\nBUG REPORTS GO HERE: https://github.com/Vetpetmon-Labs/Umbral-Coalition/issues\n!PROVIDE YOUR STARBOUND.LOG OR THERE WON'T BE A FIX!\n\nJoin the official Umbral Coalition discord to recieve news on updates, events, know how to contribute to the mod, and more: https://discord.gg/wqKXbCA ",
   "friendlyName" : "Umbral Coalition",
   "includes" : [],
   "link" : "steam://url/CommunityFilePage/1545786562",
@@ -8,5 +8,5 @@
   "path" : ".",
   "steamContentId" : "1545786562",
   "tags" : "Crafting and Building|Weapons|Species|Furniture and Objects|Food and Farming|Mechanics",
-  "version" : "0.1.3"
+  "version" : "0.1.3.1"
 }

@@ -1,3 +1,13 @@
 [
-  { "op" : "add", "path" : "/interactData/items/-", "value" : {"item" : ["eecstrawberryseed", 1] } }
+  { "op" : "add", "path" : "/interactData/items/-", "value" : {"item" : ["cornseed", 1] } },
+  { "op" : "add", "path" : "/interactData/items/-", "value" : {"item" : ["cottonseed", 1] } },
+  { "op" : "add", "path" : "/interactData/items/-", "value" : {"item" : ["coffeeseed", 1] } },
+  { "op" : "add", "path" : "/interactData/items/-", "value" : {"item" : ["cocoaseed", 1] } },
+  { "op" : "add", "path" : "/interactData/items/-", "value" : {"item" : ["potatoseed", 1] } },
+  { "op" : "add", "path" : "/interactData/items/-", "value" : {"item" : ["riceseed", 1] } },
+  { "op" : "add", "path" : "/interactData/items/-", "value" : {"item" : ["sugarcaneseed", 1] } },
+  { "op" : "add", "path" : "/interactData/items/-", "value" : {"item" : ["wheatseed", 1] } },
+  { "op" : "add", "path" : "/interactData/items/-", "value" : {"item" : ["eecstrawberryseed", 1] } },
+  { "op" : "add", "path" : "/interactData/items/-", "value" : {"item" : ["eecmustardseed", 1] } },
+  { "op" : "add", "path" : "/interactData/items/-", "value" : {"item" : ["eecgingerseed", 1] } }
 ]
