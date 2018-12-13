@@ -7,7 +7,7 @@
   "defaultDuration" : 5,
 
   "scripts" : [
-    "combatucstunned2.lua"
+    "combatxenonianstunned2.lua"
   ],
 
   "label" : "Chilled - Slowed down considerably.",
