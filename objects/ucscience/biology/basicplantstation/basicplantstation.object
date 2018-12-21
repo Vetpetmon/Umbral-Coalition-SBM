@@ -1,0 +1,47 @@
+{
+  "objectName" : "ucbasicplantgerminationtable",
+  "colonyTags" : [ "cooking", "kitchen" ],
+  "rarity" : "Essential",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/xencanningtable.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "Germination Table",
+        "subtitle" : "Turns produce into more plants.",
+        "icon" : {
+          "file" : "/interface/crafting/seedgermination/ucplantstationico.png"
+        }
+      }
+    },
+    "filter" : [ "ucseeds" ]
+  },
+  "printable" : false,
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 350,
+  "description" : "Turn produce into more plants. Plant clippings also work.",
+  "subtitle" : "Turns produce into more plants.",
+  "shortdescription" : "^orange;Plant Germination Lab^reset;",
+
+  "floranDescription" : "Floran can make new plantsss here.",
+  "glitchDescription" : "Curious. A faster way to make new plants.",
+  "novakidDescription" : "Turns produce into new plants. Might be somethin' important to know.",
+
+  "xenonianDescription": "Turn fruits and clippings into new plants. Seems promising enough to me.",
+
+  "inventoryIcon" : "plantstationico.png",
+  "orientations" : [
+    {
+      "dualImage" : "durrasteelcanningtable.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
