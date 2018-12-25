@@ -1,0 +1,16 @@
+{
+	"id" : "uccsentry112",
+	"title" : "Entry #112",
+	"description" : "It's so tiny and illegible that you have to let your SAIL read this for you. Appears to be written by that strange swarmer.",
+	"icon" : "curiousswarmercodex.png",
+	"contentPages" : [
+    "Entry #112
+
+		It appears that I have been catured by a bunch of those giant, hairy fleshlings for their own science project. They told me that if I do whatever they want me to do, they'll give me a space ship!",
+		"Seems promising enough to me..."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

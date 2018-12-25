@@ -1,0 +1,16 @@
+{
+	"id" : "uccsentry455601",
+	"title" : "Entry #455601",
+	"description" : "It's so tiny and illegible that you have to let your SAIL read this for you. Appears to be written by that strange swarmer.",
+	"icon" : "curiousswarmercodex.png",
+	"contentPages" : [
+    "Entry #455601:
+
+		It's unknown where the Garagonju came from. However, they prove immune to my medicine, which means they aren't made out of DNA! However, prolonged exposure to their breath drives anything alive into complete madness... As evident with me killing Specimen 41 with a knife for unknown reasons.",
+		"They seem to worship this \"god\" who is apparently named \"Cthulhu.\" Further investigation needed."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

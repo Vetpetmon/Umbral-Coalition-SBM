@@ -1,0 +1,16 @@
+{
+	"id" : "uccsentry4555012",
+	"title" : "Entry #4555012",
+	"description" : "It's so tiny and illegible that you have to let your SAIL read this for you. Appears to be written by that strange swarmer.",
+	"icon" : "curiousswarmercodex.png",
+	"contentPages" : [
+    "Entry #455601:
+
+		It appears that via the scientific Law of Paradoxes, specimen 55, a Voidtop, was turned back into a normal Poptop when entering our universe. Curiously enough, it lost all special properties, as well as most of it's life signs.",
+		"Maybe the giant fleshling could survive the transformation, but at what cost?"
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}
