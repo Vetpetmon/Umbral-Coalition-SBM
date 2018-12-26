@@ -4,7 +4,7 @@
   "rarity" : "Essential",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
-    "config" : "/interface/windowconfig/xencanningtable.config",
+    "config" : "/interface/windowconfig/ucseedgerminationstation.config",
     "paneLayoutOverride" : {
       "windowtitle" : {
         "title" : "Germination Table",
