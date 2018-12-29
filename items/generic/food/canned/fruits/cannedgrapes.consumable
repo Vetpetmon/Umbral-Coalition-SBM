@@ -3,7 +3,7 @@
   "rarity" : "Common",
   "price" : 30,
   "category" : "preparedFood",
-  "inventoryIcon" : "purplecan.png",
+  "inventoryIcon" : "items/generic/food/canned/purplecan.png",
   "description" : "Preserved grapes.",
   "shortdescription" : "Canned Grapes",
   "foodValue" : 10,

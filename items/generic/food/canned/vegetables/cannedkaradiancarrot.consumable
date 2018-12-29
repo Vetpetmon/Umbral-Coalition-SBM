@@ -3,7 +3,7 @@
   "rarity" : "Common",
   "price" : 50,
   "category" : "preparedFood",
-  "inventoryIcon" : "darkgreencan.png",
+  "inventoryIcon" : "items/generic/food/canned/darkgreencan.png",
   "description" : "Karadian carrots, sliced up nicely. Still tastes like swamp water, however.",
   "shortdescription" : "Canned Karadian Carrots",
   "foodValue" : 13,
