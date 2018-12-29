@@ -1,0 +1,18 @@
+{
+	"id" : "uccsentry2",
+	"title" : "Entry #2",
+	"description" : "It's so tiny and illegible that you have to let your SAIL read this for you. Appears to be written by that strange swarmer.",
+	"icon" : "curiousswarmercodex.png",
+	"contentPages" : [
+    "Entry #2:
+
+		Everyone is taking a different identity and acting weirdly in other ways that I've never seen before.
+
+		They're trying to tell me that I'm a \"swarmer\" now, and that I should bow down to \"Cory.\" ",
+		"Who is this \"Cory,\" and why do I have to live under a different identity?"
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

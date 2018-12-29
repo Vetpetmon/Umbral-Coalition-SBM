@@ -1,0 +1,16 @@
+{
+	"id" : "uccsentry3",
+	"title" : "Entry #3",
+	"description" : "It's so tiny and illegible that you have to let your SAIL read this for you. Appears to be written by that strange swarmer.",
+	"icon" : "curiousswarmercodex.png",
+	"contentPages" : [
+    "Entry #3:
+
+		I'm accepting this new identity, just in case...",
+		"I'm just watching several giant goat-things getting absolutely torn apart in seconds. I know that people aren't that agressive enough to do THAT."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"id" : "uccsentry39",
+	"title" : "Entry #39",
+	"description" : "It's so tiny and illegible that you have to let your SAIL read this for you. Appears to be written by that strange swarmer.",
+	"icon" : "curiousswarmercodex.png",
+	"contentPages" : [
+    "Entry #39:
+
+		It's curious how this world works so much more differently than ours. Yes, the fleshlings are huge, and yes, somehow I am still made of magic (as much as I don't want to admit it.)",
+		"However, in this world, magic does not exist natively, and everything is not composed of carbohydrates... Bummer.
+
+		I could fix that, though."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}
