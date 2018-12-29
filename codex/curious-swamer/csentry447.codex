@@ -1,0 +1,16 @@
+{
+	"id" : "uccsentry447",
+	"title" : "Entry #447",
+	"description" : "It's so tiny and illegible that you have to let your SAIL read this for you. Appears to be written by that strange swarmer.",
+	"icon" : "curiousswarmercodex.png",
+	"contentPages" : [
+    "Entry #447:
+
+		I have discovered the purpose of the fleshy parts that humans have upon looking at the fluid in them with a compound microscope.",
+		"I'm prescribing myself some bleach at this point. Science has gone too far. TOO FAR!"
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

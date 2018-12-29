@@ -1,0 +1,17 @@
+{
+	"id" : "uccsentry874",
+	"title" : "Entry #874",
+	"description" : "It's so tiny and illegible that you have to let your SAIL read this for you. Appears to be written by that strange swarmer.",
+	"icon" : "curiousswarmercodex.png",
+	"contentPages" : [
+    "Entry #874:
+
+		Vampire bats aren't actually vampires. Dang, I wanted to live a different life.
+
+		Guess I'm stuck as a mortal being..."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

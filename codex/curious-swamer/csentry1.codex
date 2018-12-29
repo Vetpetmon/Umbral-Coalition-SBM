@@ -1,0 +1,17 @@
+{
+	"id" : "uccsentry1",
+	"title" : "Entry #1",
+	"description" : "It's so tiny and illegible that you have to let your SAIL read this for you. Appears to be written by that strange swarmer.",
+	"icon" : "curiousswarmercodex.png",
+	"contentPages" : [
+    "Entry #1:
+
+		I seemed to have been dragged into a strange portal? Whatever it was, it really just selected me, amongst many others.",
+		"Unfortunately, it didn't bring along my pet, nor my lab, which means I've lost all of my notebooks, and I forgot the number of my last entry...  Number 780000, I'm guessing?",
+		"I guess I'm starting from scratch now.  I might just stay here a while and study the other end of the portal."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}
