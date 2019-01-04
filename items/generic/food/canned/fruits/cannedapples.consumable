@@ -3,7 +3,7 @@
   "rarity" : "Common",
   "price" : 65,
   "category" : "preparedFood",
-  "inventoryIcon" : "items/generic/food/canned/redcan.png",
+  "inventoryIcon" : "/items/generic/food/canned/redcan.png",
   "description" : "Who even cans apples?",
   "shortdescription" : "Canned Apples",
   "foodValue" : 12,

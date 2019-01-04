@@ -4,7 +4,7 @@
   "rarity" : "Common",
   "price" : 5,
   "category" : "preparedFood",
-  "inventoryIcon" : "items/generic/food/canned/junkfoodcan.png",
+  "inventoryIcon" : "/items/generic/food/canned/junkfoodcan.png",
   "description" : "Is it as bad as fast food or it literally just preserved rot in a can? ^red;Lethal bacteria detected.^reset;",
   "shortdescription" : "Junk Food in a Can",
   "effects" : [ [

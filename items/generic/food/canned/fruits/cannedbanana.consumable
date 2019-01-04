@@ -3,7 +3,7 @@
   "rarity" : "Common",
   "price" : 35,
   "category" : "preparedFood",
-  "inventoryIcon" : "items/generic/food/canned/yellowcan.png",
+  "inventoryIcon" : "/items/generic/food/canned/yellowcan.png",
   "description" : "What is the purpose of canning bananas? And why?",
   "shortdescription" : "Canned Banana",
   "foodValue" : 10,

@@ -3,7 +3,7 @@
   "rarity" : "Common",
   "price" : 35,
   "category" : "preparedFood",
-  "inventoryIcon" : "items/generic/food/canned/redcan.png",
+  "inventoryIcon" : "/items/generic/food/canned/redcan.png",
   "description" : "Strawberries, canned to keep for a long time.",
   "shortdescription" : "Canned Strawberries",
   "foodValue" : 10,

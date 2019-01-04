@@ -3,7 +3,7 @@
   "rarity" : "Common",
   "price" : 85,
   "category" : "preparedFood",
-  "inventoryIcon" : "items/generic/food/canned/greencan.png",
+  "inventoryIcon" : "/items/generic/food/canned/greencan.png",
   "description" : "Guaranteed to not poke your insides out.",
   "shortdescription" : "Canned Cacti",
   "foodValue" : 12,

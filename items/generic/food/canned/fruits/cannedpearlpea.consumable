@@ -3,7 +3,7 @@
   "rarity" : "Common",
   "price" : 35,
   "category" : "preparedFood",
-  "inventoryIcon" : "items/generic/food/canned/redcan.png",
+  "inventoryIcon" : "/items/generic/food/canned/redcan.png",
   "description" : "Preserved pearlpeas.",
   "shortdescription" : "Canned Pearlpeas",
   "foodValue" : 12,

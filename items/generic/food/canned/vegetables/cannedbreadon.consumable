@@ -3,7 +3,7 @@
   "rarity" : "Common",
   "price" : 95,
   "category" : "preparedFood",
-  "inventoryIcon" : "items/generic/food/canned/browncan.png",
+  "inventoryIcon" : "/items/generic/food/canned/browncan.png",
   "description" : "Breadon-in-a-can. A famous vegetable from Vanokk, now in a can!",
   "shortdescription" : "Canned Breadon",
   "foodValue" : 20,

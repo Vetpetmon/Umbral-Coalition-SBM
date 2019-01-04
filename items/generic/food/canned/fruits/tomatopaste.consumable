@@ -3,7 +3,7 @@
   "rarity" : "Common",
   "price" : 25,
   "category" : "preparedFood",
-  "inventoryIcon" : "items/generic/food/canned/specialredcan.png",
+  "inventoryIcon" : "/items/generic/food/canned/specialredcan.png",
   "description" : "It's tomato paste. Famously known for being pizza sauce.",
   "shortdescription" : "Tomato Paste",
   "foodValue" : 8,
