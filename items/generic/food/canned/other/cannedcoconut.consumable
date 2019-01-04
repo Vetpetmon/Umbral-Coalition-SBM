@@ -1,0 +1,18 @@
+{
+  "itemName" : "uccannedcoconut",
+  "rarity" : "Common",
+  "price" : 105,
+  "category" : "preparedFood",
+  "inventoryIcon" : "/items/generic/food/canned/browncan.png",
+  "description" : "Now with 100% real coconut oil!",
+  "shortdescription" : "Canned Coconut",
+  "foodValue" : 24,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 4.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}
