@@ -1,0 +1,20 @@
+﻿{
+	"id" : "uccsentry650",
+	"title" : "Entry #650",
+	"description" : "It's so tiny and illegible that you have to let your SAIL read this for you. Appears to be written by that strange swarmer.",
+	"icon" : "curiousswarmercodex.png",
+	"contentPages" : [
+    "Entry #650:
+
+		After days of searching online for a source of information for my research online, I believe to have found a goldmine on Alpha Deutrim!",
+		"Gagroil Archive
+		URL: www.gagroilarchive.gov
+		Coordinates: 31,057ly 35°
+		Planet: Alpha Deutrim
+		Reference point: Sun"
+	],
+		"itemConfig" : {
+		"rarity" : "rare",
+		"price" : 25
+	}
+}
