@@ -5,23 +5,24 @@ CREDITS FOR THOSE WHO HAVE WORKED ON AND HELPED WITH THE DEVELOPMENT OF UC
 Making the mod:
 
 Vetpetmon - Sprites, scripts, writing, lore, running the whole project, and pretty much running the whole entire mod while sacrificing her sanity. Also, the memes.
+Opaque - Lore and sprites
+Rain - Lore
 ZimberZimber - Made Ztarbound.
 Shinigami Apples - Sprites for objects and weapons, code for objects.
 Valo - Sprited Tungsten Handlegun
-TankSlayer2 - Made some of the concepts for uc that were migrated to here.
-Arcticcloud - Lore.
+TankSlayer2 - Made some of the concepts for GFOW that were migrated to here.
+Arcticcloud - Lore
 Sky - Sprited the Candy Corn Assault Rifle, Candy knife, and Gumball MACHINE-gun.
-Kherae - Helping out with FR stats and abilities for the races in GFOW.
 Slugbait - Kyroxian Seed Germination Station sprite
 
 Testers:
 Slugbait
 Vetpetmon
 TankSlayer2
-(PLEASE contact Vetpetmon if you have tested GFOW/UC's git build and your name is not on here!)
+(PLEASE contact Vetpetmon if you have tested UC's git build and your name is not on here!)
 
 Special thanks:
 
-GitHub, for hosting pre-release builds of uc/UC and helping with catching errors early on.
-The Frackin' Universe mod and community, for helping me out throughout the mod and teaching me how EVERYTHING in Starbound works.
+GitHub, for hosting pre-release builds of UC and helping with catching errors early on.
+The Starbound modding community, for helping modders learn how to mod Starbound.
 Chucklefish, for making Starbound.
