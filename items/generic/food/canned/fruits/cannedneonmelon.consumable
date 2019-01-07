@@ -4,7 +4,7 @@
   "price" : 235,
   "category" : "preparedFood",
   "inventoryIcon" : "/items/generic/food/canned/bluecan.png",
-  "description" : "Tryign to keep neonmelons preserved while keeping the flavor is harder than it seems.",
+  "description" : "Trying to keep neonmelons preserved while keeping the flavor is harder than it seems.",
   "shortdescription" : "Canned Neonmelon",
   "foodValue" : 22,
   "tooltipKind" : "food",
