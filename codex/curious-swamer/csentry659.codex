@@ -1,0 +1,21 @@
+{
+	"id" : "uccsentry659",
+	"title" : "Entry #659",
+	"description" : "It's so tiny and illegible that you have to let your SAIL read this for you. Appears to be written by that strange swarmer.",
+	"icon" : "curiousswarmercodex.png",
+	"contentPages" : [
+    "Entry #659:
+
+		I have researched more about humans and their culture, through an online article museum, Gagroil Archive, on the planet Alpha Deutrim.",
+		"Some of the articles about their issues and how they dealt with them is pretty... Entertaining. Humans are so silly when it comes to solving problems!",
+		"One of my favorite articles is one about their dairy farms producing far too much than what the entire population consumed. Instead of lowering the price of dairy, they bumped up the recommended daily consumption of dairy and forced kids at school to take it!",
+		"What could've been done to get rid of the excess of dairy is to not make pounds upon pounds of cheese, but to lower the overall price of dairy products, including cheesecake!",
+		"None of them understand! Many humans back in the 2000's never bought dairy products because milk was $4.99 a gallon on average in America! Cheesecake? $35! Inconceivable!",
+		"Considering how a USD equals 659.777 pixels today, a cheesecake would cost 23,092 (rounded down) pixels! Holy sausages! Now, how do people afford that? Only 7% of Americans can afford cheesecake on a regular basis, and only 1% can buy it every day!",
+		"Simply put, if you want to create demand for a product that you make too much of, lower the prices of it! It's not that hard... Or is it?"
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}
