@@ -7,7 +7,7 @@
   "shortdescription" : "Mustard Seeds",
   "objectType" : "farmable",
   "printable" : false,
-  "price" : 75,
+  "price" : 15,
 
   "inventoryIcon" : "mustardplanticon.png",
 
