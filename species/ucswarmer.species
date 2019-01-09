@@ -1,20 +1,17 @@
 {
-  "kind" : "xenonian",
+  "kind" : "ucswarmer",
 	"charCreationTooltip" : {
-	"title" : "xenonian",
+	"title" : "swarmer",
 	"subTitle" : "O2",
-	"description" : "The Xenonians are a race of slug-like creatures who love their toxic and polluted homeworld, Xen-789."
+	"description" : "Tiny little curious creatures from another universe. They may be tiny, but pose a great risk when in large numbers. They are the only beings known in the universe for actually having real friendships and teamwork"
   },
   "nameGen" : [ "/species/xenoniannamegen.config:names", "/species/xenoniannamegen.config:names" ],
-  "ouchNoises" : [ "/sfx/humanoid/xenonianhurt_male1.ogg", "/sfx/humanoid/xenonianhurt_female1.ogg" ],
-  "charGenTextLabels" : [ "Skin color", "NONE", "Shirt", "Legwear", "Bioluminescence", "Hair color", "Shirt color", "Legwear color", "XENONIAN", "Personality" ],
+  "ouchNoises" : [ "/sfx/humanoid/swarmerhurt.ogg", "/sfx/humanoid/swarmerhurt.ogg" ],
+  "charGenTextLabels" : [ "Color", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "SWARMER", "Personality" ],
   "skull" : "/humanoid/xenonian/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=1d1d1dFF?replace=9bd4ffFF=1a1a1aFF?replace=31a6ffFF=151515FF",
   "defaultBlueprints" : {
     "tier1" : [
-
-  // Empty Hands
-      { "item" : "flagxenonian" },
 
 // Anvil
       { "item" : "humantier1head" },
@@ -65,37 +62,18 @@
       { "item" : "violiumshortsword" },
       { "item" : "violiumbroadsword" },
 // Furniture Table 2
-      { "item" : "humanstoragelocker" },
-      { "item" : "xenonianshipdoor" },
-      { "item" : "xenonianshiphatch" },
-// Spinning Wheel
-      { "item" : "xenonianoutfit1chest" },
-      { "item" : "xenonianoutfit1legs" },
-      { "item" : "xenonianoutfit2chest" },
-      { "item" : "xenonianoutfit2legs" },
-      { "item" : "xenonianoutfit3chest" },
-      { "item" : "xenonianoutfit3legs" },
-      { "item" : "xenonianoutfit4chest" },
-      { "item" : "xenonianoutfit4legs" },
-      //inventing table
-      { "item" : "xenoniancanningtable"}
+      { "item" : "humanstoragelocker" }
 	  ]
   },
-
-
-  "altOptionAsUndyColor" : true,
-  "headOptionAsHairColor" : true,
-  "altOptionAsHairColor" : true,
-  "hairColorAsBodySubColor" : true,
 
   "genders" : [
     {
        "name" : "male",
       "image" : "/interface/title/xenonianmaleico.png",
-      "characterImage" : "/interface/title/xenonianmale.png",
+      "characterImage" : "/interface/title/swarmer.png",
       "hair" : [ "0" ],
-      "shirt" : [ "xenonianoutfit1chest", "xenonianoutfit2chest", "xenonianoutfit3chest", "xenonianoutfit4chest" ],
-      "pants" : [ "xenonianoutfit1legs", "xenonianoutfit2legs", "xenonianoutfit3legs", "xenonianoutfit4legs" ],
+      "shirt" : [ "ucinvisiblechest" ],
+      "pants" : [ "ucinvisiblelegs" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",
@@ -104,10 +82,10 @@
     {
       "name" : "female",
       "image" : "/interface/title/xenonianfemico.png",
-      "characterImage" : "/interface/title/xenonianfemale.png",
+      "characterImage" : "/interface/title/swarmer.png",
       "hair" : [ "0" ],
-      "shirt" : [ "xenonianoutfit1chest", "xenonianoutfit2chest", "xenonianoutfit3chest", "xenonianoutfit4chest" ],
-      "pants" : [ "xenonianoutfit1legs", "xenonianoutfit2legs", "xenonianoutfit3legs", "xenonianoutfit4legs" ],
+      "shirt" : [ "ucinvisiblechest" ],
+      "pants" : [ "ucinvisiblelegs" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",
@@ -119,48 +97,95 @@
     //ffc181 2nd shade
     //d39c6c 3rd shade
     //c7815b 4th shade
-    //White
+    //No Flavor
     { "ffc181" : "f4f4f4", "d39c6c" : "cdcdcd", "c7815b" : "ababab" },
-    //Deep Purple
-    { "ffc181" : "3d0f49", "d39c6c" : "2d0b36", "c7815b" : "220829" },
-    //Black
-    { "ffc181" : "837667", "d39c6c" : "665D56", "c7815b" : "46403E" },
-    //Brown
-    { "ffc181" : "86644a", "d39c6c" : "684431", "c7815b" : "40271d" },
-    //Cake-ish Brown
-    { "ffc181" : "cfa767", "d39c6c" : "b18237", "c7815b" : "805e28" },
-    //Deep Red
-    { "ffc181" : "4d1e0e", "d39c6c" : "3b190d", "c7815b" : "29150d" },
-    //Chocolate Brown
-    { "ffc181" : "502814", "d39c6c" : "3d1f11", "c7815b" : "2f180c" },
-    //Ginger
+    //Gingerbread
     { "ffc181" : "c88959", "d39c6c" : "9e6a4d", "c7815b" : "784930" },
-    //Dirty Orange
-    { "ffc181" : "a6671d", "d39c6c" : "915622", "c7815b" : "743e1d" },
-    //Rusty
-    { "ffc181" : "BE471B", "d39c6c" : "9B2F0C", "c7815b" : "702710" },
-    //Cinnamon Brown
+    //Bright Gingerbread
+    { "ffc181" : "cfa767", "d39c6c" : "b18237", "c7815b" : "805e28" },
+    //Milk Chocolate
+    { "ffc181" : "86644a", "d39c6c" : "684431", "c7815b" : "40271d" },
+    //Deep Purple (Candavas regular)
+    { "ffc181" : "3d0f49", "d39c6c" : "2d0b36", "c7815b" : "220829" },
+    //Chocolate
+    { "ffc181" : "502814", "d39c6c" : "3d1f11", "c7815b" : "2f180c" },
+    //Blue Cotton Candy
+    { "ffc181" : "d9efef", "d39c6c" : "bdd7d7", "c7815b" : "aec6c6" },
+    //Pink Cotton Candy
+    { "ffc181" : "f9e5f9", "d39c6c" : "e7cce7", "c7815b" : "c3b0c3" },
+    //Mint
+    { "ffc181" : "eef3ec", "d39c6c" : "dde8da", "c7815b" : "cad7c6" },
+    //Chili Pepper
+    { "ffc181" : "cb420d", "d39c6c" : "b13a0c", "c7815b" : "a2350b" },
+    //Cinnamon
     { "ffc181" : "835955", "d39c6c" : "5a4a53", "c7815b" : "3f414f" },
+    //Blueberry
+    { "ffc181" : "7c769f", "d39c6c" : "625d7d", "c7815b" : "434057" },
+    //Strawberry
+    { "ffc181" : "EF7674", "d39c6c" : "EC5766", "c7815b" : "DA344D" },
+    //Grape
+    { "ffc181" : "5A426B", "d39c6c" : "352A54", "c7815b" : "080628" },
+    //Forest
+    { "ffc181" : "607744", "d39c6c" : "34623f", "c7815b" : "1e2f23" },
+    //Gum
+    { "ffc181" : "4f7b8a", "d39c6c" : "1e485f", "c7815b" : "063753" },
+    //Pumpkin
+    { "ffc181" : "DC6C29", "d39c6c" : "CB4D35", "c7815b" : "741D13" },
+    //Peppermint
+    { "ffc181" : "f9e9e8", "d39c6c" : "f1bfbe", "c7815b" : "ef7674" },
+    //Lemon
+    { "ffc181" : "fbed04", "d39c6c" : "dcc400", "c7815b" : "b2940e" },
+    //Wasabi
+    { "ffc181" : "9E9E00", "d39c6c" : "708200", "c7815b" : "303800" },
+    //Toothpaste Green
+    { "ffc181" : "19ffab", "d39c6c" : "0ee798", "c7815b" : "08b375" },
+    //Pistachio
+    { "ffc181" : "acc8b0", "d39c6c" : "86b28d", "c7815b" : "66836b" },
+    //Fire Temple
+    { "ffc181" : "4d1e0e", "d39c6c" : "3b190d", "c7815b" : "29150d" },
+    //Ice Temple
+    { "ffc181" : "88a4c1", "d39c6c" : "698aac", "c7815b" : "507194" },
     //Anomaly 0-0t
     { "ffc181" : "B0D1CD", "d39c6c" : "98C7C1", "c7815b" : "85BEB7" },
-    //Dirty Blonde
-    { "ffc181" : "eaa758", "d39c6c" : "cd8b3d", "c7815b" : "93682c" }
+    //Hot Sauce
+    { "ffc181" : "ef4c13", "d39c6c" : "d04514", "c7815b" : "d01414" },
+    { "ffc181" : "ffffff", "d39c6c" : "f4f4f4" }, //White (Gingerbread/milk chocolate)
+    { "ffc181" : "feffdd", "d39c6c" : "f3f4d6" }, //regular (not saturated yellow)
+    { "ffc181" : "dbfbd3", "d39c6c" : "c6e7bd" }, //Mint
+    { "ffc181" : "e7dfbd", "d39c6c" : "bcad80" }, //Milk
+    { "ffc181" : "6a3b23", "d39c6c" : "40271d" }, //Bright(er) Chocolate
+    { "ffc181" : "d8fffd", "d39c6c" : "9ffff9" }, //Cotton Candy Blue
+    { "ffc181" : "ffe062", "d39c6c" : "ffbe62" }, //Chili Pepper
+    { "ffc181" : "c0ab5e", "d39c6c" : "6b5509" }, //Dark Caramel
+    { "ffc181" : "80fff2", "d39c6c" : "65e1d4" }, //Blueberry
+    { "ffc181" : "745d3b", "d39c6c" : "362000" }, //Chocolate
+    { "ffc181" : "ac3c10", "d39c6c" : "a2350b" }, //Cinnamon
+    { "ffc181" : "fffca7", "d39c6c" : "fff600" }, //Forest
+    { "ffc181" : "5e5e5e", "d39c6c" : "272727" }, //Pumpkin
+    { "ffc181" : "B8FD99", "d39c6c" : "7CF49A" }, //Pistachio
+    { "ffc181" : "19a20b", "d39c6c" : "188a0c" }, //Strawberry
+    { "ffc181" : "ecd3ff", "d39c6c" : "f1bfff" }, //Grape
+    { "ffc181" : "FFC4A9", "d39c6c" : "FF8C7A" }, //Peppermint
+    { "ffc181" : "b7ffd9", "d39c6c" : "7affce" }, //Toothpaste Green
+    { "ffc181" : "0ee798", "d39c6c" : "359a64" }, //Eldritch Teal
+    { "ffc181" : "b7ffd9", "d39c6c" : "62b83c" }, //Hot Sauce
+    { "ffc181" : "f794f8", "d39c6c" : "ff65e7" } //Cottton Candy Pink
   ],
   "undyColor" : [
-    { "dc1f00" : "b7ffd9", "be1b00" : "7affce" }, //Toothpaste Green
-    { "dc1f00" : "ffe062", "be1b00" : "ffbe62" }, //Bright Orange
-    { "dc1f00" : "B8FD99", "be1b00" : "7CF49A" }, //Bright Green
-    { "dc1f00" : "d8fffd", "be1b00" : "9ffff9" }, //Bright Blue
-    { "dc1f00" : "4d76ad", "be1b00" : "395187", "951500" : "20325b" },
-    { "dc1f00" : "7c41b8", "be1b00" : "6c2f90", "951500" : "471962" },
-    { "dc1f00" : "c63442", "be1b00" : "9b2724", "951500" : "6a1210" },
-    { "dc1f00" : "eaa245", "be1b00" : "b47020", "951500" : "834a0c" },
-    { "dc1f00" : "e3e13a", "be1b00" : "a8a614", "951500" : "848008" },
-    { "dc1f00" : "6ab841", "be1b00" : "45902f", "951500" : "296219" },
-    { "dc1f00" : "535353", "be1b00" : "363636", "951500" : "111111" },
-    { "dc1f00" : "e6e6e6", "be1b00" : "979797", "951500" : "6f6f6f" },
-    { "dc1f00" : "9e9e9e", "be1b00" : "6e6e6e", "951500" : "434343" },
-    { "dc1f00" : "f794f8", "be1b00" : "d355c1", "951500" : "b72c95" }
+    { "ffc181" : "b7ffd9", "d39c6c" : "7affce" }, //Toothpaste Green
+    { "ffc181" : "ffe062", "d39c6c" : "ffbe62" }, //Bright Orange
+    { "ffc181" : "B8FD99", "d39c6c" : "7CF49A" }, //Bright Green
+    { "ffc181" : "d8fffd", "d39c6c" : "9ffff9" }, //Bright Blue
+    { "ffc181" : "4d76ad", "d39c6c" : "395187", "951500" : "20325b" },
+    { "ffc181" : "7c41b8", "d39c6c" : "6c2f90", "951500" : "471962" },
+    { "ffc181" : "c63442", "d39c6c" : "9b2724", "951500" : "6a1210" },
+    { "ffc181" : "eaa245", "d39c6c" : "b47020", "951500" : "834a0c" },
+    { "ffc181" : "e3e13a", "d39c6c" : "a8a614", "951500" : "848008" },
+    { "ffc181" : "6ab841", "d39c6c" : "45902f", "951500" : "296219" },
+    { "ffc181" : "535353", "d39c6c" : "363636", "951500" : "111111" },
+    { "ffc181" : "e6e6e6", "d39c6c" : "979797", "951500" : "6f6f6f" },
+    { "ffc181" : "9e9e9e", "d39c6c" : "6e6e6e", "951500" : "434343" },
+    { "ffc181" : "f794f8", "d39c6c" : "d355c1", "951500" : "b72c95" }
   ],
   "hairColor" : [
     // SECONDARY COLOR

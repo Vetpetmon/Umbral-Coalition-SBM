@@ -1,0 +1,14 @@
+{
+  "itemName" : "ucinvisiblelegs",
+  "price" : 100,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "legwear",
+  "description" : "Hides your legwear.",
+  "shortdescription" : "Invisible Legwear",
+  "tooltipKind" : "armor",
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
+  "level" : 1
+}
