@@ -25,5 +25,6 @@
   //EXTENDED EARTH CROPS
   //{ "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "eecstrawberryseed" } },
   //racial codex
-  { "op" : "add", "path" : "/defaultCodexes/xenonian", "value" : [ "protectorate1", "protectorate2" ] }
+  { "op" : "add", "path" : "/defaultCodexes/xenonian", "value" : [ "protectorate1", "protectorate2" ] },
+  { "op" : "add", "path" : "/defaultCodexes/ucswarmer", "value" : [ "protectorate1", "protectorate2" ] }
 ]

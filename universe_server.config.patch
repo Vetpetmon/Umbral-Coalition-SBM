@@ -12,5 +12,19 @@
 			"/ships/xenonian/xenoniant7.structure",
 			"/ships/xenonian/xenoniant8.structure"
 		]
+	},
+	{ "op" : "add",
+		"path" : "/speciesShips/ucswarmer",
+		"value" : [
+		    "/ships/xenonian/fiit0.structure",
+			"/ships/xenonian/fiit1.structure",
+			"/ships/xenonian/fiit2.structure",
+			"/ships/xenonian/fiit3.structure",
+			"/ships/xenonian/fiit4.structure",
+			"/ships/xenonian/fiit5.structure",
+			"/ships/xenonian/fiit6.structure",
+			"/ships/xenonian/fiit7.structure",
+			"/ships/xenonian/fiit8.structure"
+		]
 	}
 ]

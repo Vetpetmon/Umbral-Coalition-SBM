@@ -13,5 +13,20 @@
 			"male": "neutral",
 			"female": "neutral"
 		}
+	},
+	{
+		"op": "add",
+		"path": "/initialquests/ucswarmer",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/ucswarmer",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
 	}
 ]
