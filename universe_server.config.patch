@@ -2,7 +2,7 @@
 	{ "op" : "add",
 		"path" : "/speciesShips/xenonian",
 		"value" : [
-		    "/ships/xenonian/xenoniant0.structure",
+		  "/ships/xenonian/xenoniant0.structure",
 			"/ships/xenonian/xenoniant1.structure",
 			"/ships/xenonian/xenoniant2.structure",
 			"/ships/xenonian/xenoniant3.structure",
@@ -16,7 +16,7 @@
 	{ "op" : "add",
 		"path" : "/speciesShips/ucswarmer",
 		"value" : [
-		    "/ships/fii/fiit0.structure",
+		  "/ships/fii/fiit0.structure",
 			"/ships/fii/fiit1.structure",
 			"/ships/fii/fiit2.structure",
 			"/ships/fii/fiit3.structure",

@@ -4,7 +4,16 @@
 		"value" : {
 			"aiFrames" : "xenonianAI.png",
 			"portraitFrames" : "portraits/xenonianportrait.png",
-			"staticFrames" : "staticxenonian.png"	
+			"staticFrames" : "staticxenonian.png"
 		}
-	}
+	},
+	{
+			"op" : "add",
+			"path" : "/species/ucswarmer",
+			"value" : {
+				"aiFrames" : "xenonianAI.png",
+				"portraitFrames" : "portraits/xenonianportrait.png",
+				"staticFrames" : "staticxenonian.png"
+			}
+		}
 ]
