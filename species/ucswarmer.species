@@ -5,6 +5,7 @@
 	"subTitle" : "O2",
 	"description" : "Tiny little curious creatures from another universe. They may be tiny, but pose a great risk when in large numbers. They are the only beings known in the universe for actually having real friendships and teamwork"
   },
+  "humanoidConfig" : "/species/ucswarmeriod.config",
   "nameGen" : [ "/species/xenoniannamegen.config:names", "/species/xenoniannamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/swarmerhurt.ogg", "/sfx/humanoid/swarmerhurt.ogg" ],
   "charGenTextLabels" : [ "Color", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "SWARMER", "Personality" ],
