@@ -5,16 +5,16 @@ function init()
     status.removeEphemeralEffect("lorumillness",math.huge)
   elseif self.species ~= "webber" then
     self.effectHandler=effect.addStatModifierGroup({{stat = "foodDelta", baseMultiplier = 30.0}}) --30x the hunger drain.
-    world.sendEntityMessage(entity.id(), "queueRadioMessage", "uclorumsickness",1) --SAIL screams at you. good job.
+    world.sendEntityMessage(entity.id(), "queueRadioMessage", "uclorumsickness",1)
     status.removeEphemeralEffect("wellfed",math.huge)
   elseif self.species == "webber" then--if a webber (From GFOW)
-    self.effectHandler=effect.addStatModifierGroup({{stat = "foodDelta", baseMultiplier = 20.0}}) --20x because there's smth worse
-    world.sendEntityMessage(entity.id(), "queueRadioMessage", "uclorumsicknessucs",1) --SAIL screams at you differently
-    status.removeEphemeralEffect("wellfed",math.huge) --math is huge af dude
+    self.effectHandler=effect.addStatModifierGroup({{stat = "foodDelta", baseMultiplier = 20.0}})
+    world.sendEntityMessage(entity.id(), "queueRadioMessage", "uclorumsicknessucs",1)
+    status.removeEphemeralEffect("wellfed",math.huge)
 
     script.setUpdateDelta(5)
 
-    self.tickDamagePercentage = 0.050 --05%???? right???
+    self.tickDamagePercentage = 0.050 --5%???? right???
     self.tickTime = 1.0
     self.tickTimer = self.tickTime
   end
@@ -25,9 +25,9 @@ function update(dt)
     self.tickTimer = self.tickTimer - dt
     if self.tickTimer <= 0 then
       self.tickTimer = self.tickTime
-      status.applySelfDamageRequest({ --damage the guy who ate smelly bread
+      status.applySelfDamageRequest({
           damageType = "IgnoresDef",
-          damage = math.floor(status.resourceMax("health") * self.tickDamagePercentage) + 10, -- I multiplied c:<
+          damage = math.floor(status.resourceMax("health") * self.tickDamagePercentage) + 10,
           damageSourceKind = "poison",
           sourceEntityId = entity.id()
         })
