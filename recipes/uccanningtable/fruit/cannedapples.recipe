@@ -1,7 +1,6 @@
 {
   "input" : [
     { "item" : "greenapple", "count" : 5 },
-    { "item" : "rice", "count" : 1 },
     { "item" : "ucemptycan", "count" : 1 }
   ],
   "output" : { "item" : "uccannedapples", "count" : 1 },
