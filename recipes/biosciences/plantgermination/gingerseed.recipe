@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "eecginger", "count" : 1 },
+    { "item" : "dirt", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "eecgingerseed",
+    "count" : 1
+  },
+  "duration" : 0.5,
+  "groups"  : [ "ucseedroots", "all" ]
+}
