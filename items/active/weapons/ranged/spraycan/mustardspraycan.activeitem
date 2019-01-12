@@ -9,7 +9,7 @@
   "category" : "ucspraycan",
   "twoHanded" : false,
   "itemTags" : ["weapon","ranged","spraycan"],
-  "level" : 2,
+  "level" : 3,
 
   "inventoryIcon" : "mustard-spraycan.png",
 
@@ -38,8 +38,8 @@
 
     "primaryAbilityType" : "ucspraycanmustard",
     "primaryAbility" : {
-      "baseDps" : 4,
-      "energyUsage" : 15
+      "baseDps" : 3,
+      "energyUsage" : 25
     },
 
     "builder" : "/items/buildscripts/buildunrandweapon.lua"
