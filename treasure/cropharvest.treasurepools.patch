@@ -141,10 +141,10 @@
 	"value" : [
 	  [0, {
 		"pool" : [
-      {"weight" : 0.1, "item" : ["eecstrawberry", 5]},
-		  {"weight" : 0.2, "item" : ["eecstrawberry", 4]},
-      {"weight" : 0.3, "item" : ["eecstrawberry", 3]},
-      {"weight" : 0.3, "item" : ["eecstrawberry", 2]},
+      {"weight" : 0.05, "item" : ["eecstrawberry", 5]},
+		  {"weight" : 0.1, "item" : ["eecstrawberry", 4]},
+      {"weight" : 0.2, "item" : ["eecstrawberry", 3]},
+      {"weight" : 0.55, "item" : ["eecstrawberry", 2]},
 		  {"weight" : 0.1, "item" : ["plantfibre", 2]}
 		],
 		"poolRounds" : [
