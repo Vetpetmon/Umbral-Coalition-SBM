@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "dirt", "count" : 30 },
+    { "item" : "dirtmaterial", "count" : 30 },
     { "item" : "glass", "count" : 10 },
     { "item" : "darkwoodmaterial", "count" : 20 },
     { "item" : "logblock", "count" : 7 }

@@ -35,7 +35,7 @@
   "inventoryIcon" : "plantstationico.png",
   "orientations" : [
     {
-      "dualImage" : "durrasteelcanningtable.png:<color>",
+      "dualImage" : "basicplantstation.png:<color>",
 
       "imagePosition" : [-16, 0],
       "frames" : 1,

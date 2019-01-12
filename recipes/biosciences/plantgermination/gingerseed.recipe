@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "eecginger", "count" : 1 },
-    { "item" : "dirt", "count" : 1 }
+    { "item" : "dirtmaterial", "count" : 1 }
   ],
   "output" : {
     "item" : "eecgingerseed",
