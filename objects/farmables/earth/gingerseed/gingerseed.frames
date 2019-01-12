@@ -9,6 +9,6 @@
   },
  //17 alts
   "aliases" : {
-    "default.default.default" : "default.0.0" //DEFAULT DEFAULT DEFAULT DEFAULT DEFAULT DEFAULT DEFAULT DEFAULT
+    "default.default.default" : "default.0.0"
   }
 }
