@@ -12,7 +12,7 @@
   "inventoryIcon" : "beetseedicon.png",
 
   "tooltipKind" : "seed",
-  "largeImage" : "beetseed.png:default.4.0",
+  "largeImage" : "beetseed.png:default.3.0",
 
 
   "orientations" : [
