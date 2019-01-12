@@ -8,5 +8,5 @@
     "count" : 3
   },
   "duration" : 0.5,
-  "groups"  : [ "ucseedroots", "all" ]
+  "groups"  : [ "ucseedroots", "ucseeds", "all" ]
 }

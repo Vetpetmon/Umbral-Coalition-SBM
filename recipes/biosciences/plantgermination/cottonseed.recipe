@@ -8,5 +8,5 @@
     "count" : 4
   },
   "duration" : 0.5,
-  "groups"  : [ "ucseedresource", "all" ]
+  "groups"  : [ "ucseedresource", "ucseeds", "all" ]
 }

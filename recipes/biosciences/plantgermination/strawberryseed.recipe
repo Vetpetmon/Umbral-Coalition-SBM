@@ -8,5 +8,5 @@
     "count" : 3
   },
   "duration" : 0.5,
-  "groups"  : [ "ucseedfruits", "all" ]
+  "groups"  : [ "ucseedfruits", "ucseeds", "all" ]
 }
