@@ -30,6 +30,8 @@
 
   "xenonianDescription": "Turn fruits and clippings into new plants. Seems promising enough to me.",
 
+  "radioMessagesOnPickup" : [ "ucgerminationlab" ],
+
   "inventoryIcon" : "plantstationico.png",
   "orientations" : [
     {

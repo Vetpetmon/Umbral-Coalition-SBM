@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "coffeebeans", "count" : 1 },
+    { "item" : "dirt", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "coffeeseed",
+    "count" : 1
+  },
+  "duration" : 0.5,
+  "groups"  : [ "ucseedvegtable", "all" ]
+}

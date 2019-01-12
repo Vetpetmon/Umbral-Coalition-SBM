@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "cotton", "count" : 1 },
+    { "item" : "dirt", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "cottonseed",
+    "count" : 4
+  },
+  "duration" : 0.5,
+  "groups"  : [ "ucseedresource", "all" ]
+}
