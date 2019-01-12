@@ -1,0 +1,20 @@
+{
+  "itemName" : "eecbeet",
+  "rarity" : "Common",
+  "price" : 30,
+  "category" : "food",
+  "eventCategory" : "eventCrop",
+  "inventoryIcon" : "beet.png",
+  "description" : "The root of a beetroot plant.",
+  "shortdescription" : "Beet",
+  "foodValue" : 3,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 2.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+  //"learnBlueprintsOnPickup" : [ "" ]
+}

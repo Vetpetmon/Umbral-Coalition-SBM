@@ -1,0 +1,52 @@
+{
+  "objectName" : "eecbeetseed",
+  "colonyTags" : ["nature", "farmer"],
+  "rarity" : "Common",
+  "category" : "seed",
+  "description" : "Commonly known as \"beetroot,\" beets have more uses than just as a food colorant.",
+  "shortdescription" : "Beet seed",
+  "objectType" : "farmable",
+  "printable" : false,
+  "price" : 20,
+
+  "inventoryIcon" : "beetseedicon.png",
+
+  "tooltipKind" : "seed",
+  "largeImage" : "beetseed.png:default.4.0",
+
+
+  "orientations" : [
+    {
+      "dualImage" : "beetseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "requireTilledAnchors" : true,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "radioMessagesOnPickup" : [ "pickupseed" ],
+
+  "stages" : [
+    {
+      "duration" : [200, 220] //1
+    },
+    {
+      "duration" : [200, 240] //2
+    },
+    {
+      "duration" : [340, 380] //3
+    },
+    { //4
+      "alts" : 9,
+      "harvestPool" : "eecBeetseedHarvest",
+      "resetToStage" : 1
+    }
+  ],
+
+  "maxImmersion" : 0.125
+}
