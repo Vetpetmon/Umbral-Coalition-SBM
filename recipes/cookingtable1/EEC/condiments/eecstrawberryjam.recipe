@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "eecstrawberry", "count" : 11 },
+    { "item" : "eecstrawberry", "count" : 12 },
     { "item" : "sugar", "count" : 1 }
   ],
   "output" : { "item" : "eecstrawberryjam", "count" : 1 },

@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "rottenfood", "count" : 2 },
-    { "item" : "snowball", "count" : 1 },
+    { "item" : "snowball", "count" : 5 },
     { "item" : "alienmeat", "count" : 1 },
     { "item" : "ucemptycan", "count" : 1 }
   ],

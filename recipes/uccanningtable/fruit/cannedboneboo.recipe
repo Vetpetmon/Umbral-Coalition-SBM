@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "boneboo", "count" : 5 },
+    { "item" : "boneboo", "count" : 7 },
     { "item" : "ucemptycan", "count" : 1 }
   ],
   "output" : { "item" : "uccannedboneboo", "count" : 1 },

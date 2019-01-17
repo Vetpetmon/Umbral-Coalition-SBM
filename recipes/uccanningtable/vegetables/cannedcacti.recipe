@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "cacti", "count" : 5 },
+    { "item" : "cacti", "count" : 7 },
     { "item" : "ucemptycan", "count" : 1 }
   ],
   "output" : { "item" : "uccannedcacti", "count" : 1 },

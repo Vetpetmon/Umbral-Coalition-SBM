@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "eecstrawberry", "count" : 10 },
+    { "item" : "eecstrawberry", "count" : 12 },
     { "item" : "ucemptycan", "count" : 1 }
   ],
   "output" : { "item" : "uccannedstrawberries", "count" : 1 },

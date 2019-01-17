@@ -1,8 +1,8 @@
 {
   "input" : [
-    { "item" : "copperbar", "count" : 3 },
+    { "item" : "copperbar", "count" : 10 },
     { "item" : "ironbar", "count" : 6 },
-    { "item" : "torch", "count" : 1 }
+    { "item" : "torch", "count" : 2 }
   ],
   "output" : {
     "item" : "flagxenonian",
