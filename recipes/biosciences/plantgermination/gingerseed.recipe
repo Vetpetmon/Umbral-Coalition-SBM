@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "eecginger", "count" : 1 },
+    { "item" : "eecginger", "count" : 4 },
     { "item" : "dirtmaterial", "count" : 1 }
   ],
   "output" : {
