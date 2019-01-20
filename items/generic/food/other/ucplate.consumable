@@ -1,0 +1,13 @@
+{
+  "itemName" : "ucconsumableplate",
+  "rarity" : "Common",
+  "price" : 20,
+  "category" : "preparedFood",
+  "inventoryIcon" : "ucplate.png",
+  "shortdescription" : "Plate",
+  "description" : "Only gremlins would eat plates.
+
+  ^orange;Someone might have an interest in these...^reset;",
+  "foodValue" : 10,
+  "maxStack" : 1
+}
