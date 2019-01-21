@@ -1,5 +1,5 @@
 {
-  "objectName" : "uclimboaccessteleporter",
+  "objectName" : "uclimboteleporter",
   "colonyTags" : ["teleporter"],
   "printable" : false,
   "rarity" : "Essential",
@@ -56,7 +56,7 @@ Needs to be powered with a ^green;large nuclear core^reset;.",
   "flickerTiming" : 4,
 
 
-  "health" : 20,
+  "health" : 200000000,
   "interactAction" : "OpenTeleportDialog",
   "interactData" : {
     "canBookmark" : false,
@@ -71,7 +71,7 @@ Needs to be powered with a ^green;large nuclear core^reset;.",
     ],
     "includePlayerBookmarks" : false
   },
-  "inventoryIcon" : "vanokkaccessteleportericon.png",
+  "inventoryIcon" : "uclimboaccessteleportericon.png",
   "orientations" : [
     {
       "image" : { "image" : "limboaccessteleporter.png:<color>", "fullbright" : true },
