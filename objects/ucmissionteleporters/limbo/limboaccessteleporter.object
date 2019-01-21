@@ -5,6 +5,7 @@
   "rarity" : "Essential",
   "consumeOnPickup" : true,
   "unbreakable" : true,
+  "category" : "other",
   "description" : "Where does this even go to?
 
 Needs to be powered with a ^green;large nuclear core^reset;.",
@@ -51,32 +52,12 @@ Needs to be powered with a ^green;large nuclear core^reset;.",
 
 Needs to be powered with a ^green;large nuclear core^reset;.",
 
-  "category" : "light",
-  "lightColor" : [10, 50, 10],
-  "flickerDistance" : 0.2,
-  "flickerStrength" : 0.2,
-  "flickerTiming" : 4,
-
 
   "health" : 200000000,
-  "interactAction" : "OpenTeleportDialog",
-  "interactData" : {
-    "canBookmark" : false,
-    "destinations" : [
-      {
-        "name" : "Hyperbeam to",
-        "planetName" : "???",
-        "mission" : false,
-        "warpAction" : "InstanceWorld:uclimbo",
-        "icon" : "default"
-      }
-    ],
-    "includePlayerBookmarks" : false
-  },
   "inventoryIcon" : "uclimboaccessteleportericon.png",
   "orientations" : [
     {
-      "image" : { "image" : "limboaccessteleporter.png:<color>", "fullbright" : true },
+      "image" : { "image" : "limboaccessteleporter.png:<color>", "fullbright" : false },
       "imagePosition" : [-32, 0],
       "frames" : 1,
       "animationCycle" : 0.5,
@@ -85,5 +66,27 @@ Needs to be powered with a ^green;large nuclear core^reset;.",
       "collision" : "solid",
       "collisionSpaces" : [ [-2, 0], [-1, 0], [0, 0], [1, 0] ]
     }
-  ]
+  ],
+  "animation" : "/objects/ucmissionteleporters/limbo/limboteleporter.animation",
+  "animationParts" : {
+    "bg" : "limboaccessteleporter.png"
+  },
+  "uniqueId" : "uclimboteleporter",
+
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/limbowarp.config",
+
+  "inactiveInteractAction" : "ScriptPane",
+  "inactiveInteractData" : "/interface/scripted/limboteleporter/limboteleportergui.config",
+
+  //Limbo teleporter option(s), will add more if I plan for there to be more than one Limbo dungeon.
+
+  "limboInstance" : [
+    ["limbo", "uclimbo_1"]
+  ],
+  /*"limboInstanceOptions" : [
+    ["namehere", "limbo_1"]
+  ],*/
+
+  "limboActiveTime" : 60
 }
