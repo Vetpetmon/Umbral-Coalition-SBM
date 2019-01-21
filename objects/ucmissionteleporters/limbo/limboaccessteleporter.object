@@ -3,6 +3,8 @@
   "colonyTags" : ["teleporter"],
   "printable" : false,
   "rarity" : "Essential",
+  "consumeOnPickup" : true,
+  "unbreakable" : true,
   "description" : "Where does this even go to?
 
 Needs to be powered with a ^green;large nuclear core^reset;.",
