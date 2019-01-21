@@ -1,0 +1,87 @@
+{
+  "objectName" : "uclimboaccessteleporter",
+  "colonyTags" : ["teleporter"],
+  "printable" : false,
+  "rarity" : "Essential",
+  "description" : "Where does this even go to?
+
+Needs to be powered with a ^green;large nuclear core^reset;.",
+  "shortdescription" : "Limbo Teleporter",
+
+  "avianDescription" : "A good way to loose feathers, almost.
+
+Needs to be powered with a ^green;large nuclear core^reset;.",
+  "floranDescription" : "Floran would ussse odd teleporter if it looked sssafe.
+
+Needsss a ^green;large nuclear core^reset;.",
+  "glitchDescription" : "Disturbed. This teleporter uses unsafe levels of radioactive power.
+
+Observation. Needs to be powered with a ^green;large nuclear core^reset;.",
+  "novakidDescription" : "Somethin' seems fishy about it's destination.
+
+... Needs to be powered with a ^green;large nuclear core^reset;, it seems.",
+
+  "xenonianDescription" : "This teleporter is emiting... Madness?
+
+Needs to be powered with a ^green;large nuclear core^reset;.",
+  "ucswarmerDescription" : "Smells like fresh madness. Probably leads to another dimensions!
+
+All it needs is a ^green;large nuclear core^reset;!",
+
+  //GFOW support
+
+  "webberDescription" : "What an odd teleporter. Where is it linked to?
+
+Needs to be powered with a ^green;large nuclear core^reset;.",
+
+  //ERM support
+
+  "aegiDescription" : "This teleporter breaks 48 security codes. It shouldn't have been made in the first place.
+
+Needs to be powered with a ^green;large nuclear core^reset;.",
+  "avikanDescription" : "Why does it require so much power if it only goes to one place?
+
+Needs to be powered with a ^green;large nuclear core^reset;.",
+  "trinkDescription" : "Teleportation should not use this much energy.
+
+Needs to be powered with a ^green;large nuclear core^reset;.",
+  "drodenDescription" : "Warning. Highly radioactive power source detected.
+
+Needs to be powered with a ^green;large nuclear core^reset;.",
+
+  "category" : "light",
+  "lightColor" : [10, 50, 10],
+  "flickerDistance" : 0.2,
+  "flickerStrength" : 0.2,
+  "flickerTiming" : 4,
+
+
+  "health" : 20,
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : {
+    "canBookmark" : false,
+    "destinations" : [
+      {
+        "name" : "Hyperbeam to",
+        "planetName" : "???",
+        "mission" : false,
+        "warpAction" : "InstanceWorld:uclimbo",
+        "icon" : "default"
+      }
+    ],
+    "includePlayerBookmarks" : false
+  },
+  "inventoryIcon" : "vanokkaccessteleportericon.png",
+  "orientations" : [
+    {
+      "image" : { "image" : "limboaccessteleporter.png:<color>", "fullbright" : true },
+      "imagePosition" : [-32, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "solid",
+      "collisionSpaces" : [ [-2, 0], [-1, 0], [0, 0], [1, 0] ]
+    }
+  ]
+}
