@@ -1,0 +1,10 @@
+{
+  "itemName": "uclargenuclearcore",
+  "rarity": "Legendary",
+  "price": 2000,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "largenuclearcore.png",
+  "description" : "A large power core full of nuclear materials.",
+  "shortdescription" : "Large Nuclear Core",
+  "itemTags" : [ "reagent" ]
+}
