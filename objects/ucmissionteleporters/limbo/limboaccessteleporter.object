@@ -53,7 +53,7 @@ Needs to be powered with a ^green;large nuclear core^reset;.",
 Needs to be powered with a ^green;large nuclear core^reset;.",
 
 
-  "health" : 200000000,
+  "health" : 200,
   "inventoryIcon" : "uclimboaccessteleportericon.png",
   "orientations" : [
     {
@@ -71,7 +71,6 @@ Needs to be powered with a ^green;large nuclear core^reset;.",
   "animationParts" : {
     "bg" : "limboaccessteleporter.png"
   },
-  "uniqueId" : "uclimboteleporter",
 
   "interactAction" : "OpenTeleportDialog",
   "interactData" : "/interface/warping/limbowarp.config",
