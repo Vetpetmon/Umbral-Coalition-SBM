@@ -1,6 +1,6 @@
 {
   "objectName" : "uclimboteleporter",
-  "colonyTags" : ["teleporter"],
+  "colonyTags" : ["teleporter", "limbo"],
   "printable" : false,
   "rarity" : "Essential",
   "consumeOnPickup" : true,
