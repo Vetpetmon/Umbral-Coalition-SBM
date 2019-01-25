@@ -81,9 +81,7 @@ Needs to be powered with a ^green;large nuclear core^reset;.",
 
   //Limbo teleporter option(s), will add more if I plan for there to be more than one Limbo dungeon.
 
-  "limboInstance" : [
-    ["limbo", "uclimbo_1"]
-  ],
+  "limboInstance" :  "uclimbo_1",
   /*"limboInstanceOptions" : [
     ["namehere", "limbo_1"]
   ],*/
