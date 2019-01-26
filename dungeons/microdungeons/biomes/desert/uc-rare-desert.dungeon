@@ -1,0 +1,25 @@
+{
+  "metadata" : {
+    "name" : "ucraredesert",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "ucstrangelab" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000,
+    "maxParts" : 2,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "ucstrangelab",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "strange-lab.json" ]
+    }
+  ]
+}
