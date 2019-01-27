@@ -1,11 +1,11 @@
 {
   "itemName" : "ucdevsyringe574htgbhjdiuy45hd9diouzaoaqw",
   "price" : 500,
-  "level" : 6,
+  "level" : 5,
   "maxStack" : 1,
   "rarity" : "Essential",
   "description" : "Something tells you that whatever is in this isn't safe for consumption...
-  ^orange;DEV ITEM^reset;
+  ^red;NIGHTMARE TIER^reset;
   \"Great taste and no side effects!\" ",
   "shortdescription" : "Syringe (Suspcious Syrup)",
   "tooltipKind" : "sword",
@@ -36,7 +36,7 @@
     "scripts" : [],
 
     "fireTime" : 0.7,
-    "baseDps" : 15.0,
+    "baseDps" : 13.0,
     "damageConfig" : {
       "statusEffects" : [ "anomaly2syringe" ],
       "knockback" : 4
@@ -44,7 +44,7 @@
   },
 
   //FU crit stats
-  "critChance" : 8,
+  "critChance" : 6,
   "critBonus" : 5,
 
   "altAbilityType" : "spearspin", //placeholder alt
