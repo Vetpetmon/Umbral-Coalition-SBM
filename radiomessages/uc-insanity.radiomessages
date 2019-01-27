@@ -4,5 +4,20 @@
   },
   "ucinsanitywarning02" : {
     "text" : "Insanity leads into hallucinations. Do not listen to any voices in your head and avoid using weapons for the time being."
+  },
+  //low level insanity messages
+  "ucinsanityrandom01" : {
+    "senderName" : "???",
+    "portraitImage" : "/interface/chatbubbles/devourerofplates.png:<frame>",
+    "text" : "HEH-HEH, I CAN'T DIE, FOOL."
+  },
+  "ucinsanityrandom02" : {
+    "text" : "Did you know that oxygen is poisonous? You should stop breathing it in."
+  },
+  "ucinsanityrandom03" : {
+    "text" : "You should *totally* try to nuke extremely powerful entities. It's fun!"
+  },
+  "ucinsanityrandom04" : {
+    "text" : "Want to know what your next prank should be? I've got the perfect idea for you! Blow a dog whistle at Azathoth!"
   }
 }
