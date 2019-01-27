@@ -1,0 +1,42 @@
+{
+  "uclimbo01" : {
+    "type" : "mission",
+    "text" : "You have entered a pocket dimension. The Encyclopedia Galactica only says that this dimension is infamously called "Limbo." You have been warned."
+  },
+  "uclimbo02" : {
+    "type" : "mission",
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/esthersad.png:<frame>",
+    "text" : "... You're in the Limbo dimension? You have to get out of there!"
+  },
+  "uclimbo03" : {
+    "type" : "mission",
+    "text" : "There appears to be an Earth supermarket ahead of you. Said supermarket has been out of business for over 400 Earth years."
+  },
+  "uclimbo04" : {
+    "type" : "mission",
+    "text" : "Readings suggest a life form is present in this store, and it's definitely not you. Nothing else is able to be scanned about it."
+  },
+  "uclimbo05" : {
+    "type" : "mission",
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/esthersad.png:<frame>",
+    "text" : "I think it's time to turn back, dear. Life forms that SAIL can't get enough information of are beyond any description of dangerous."
+  },
+  "uclimbo06" : {
+    "type" : "mission",
+    "text" : "^red;*BZZZ-T*^reset; -mething is bre^red;*BZ-T*^reset; the connect-^red;*BZZZT*^reset;
+    [CONNECTION LOST]"
+  },
+  "uclimbo07" : {
+    "type" : "mission",
+    "text" : "[CONNECTION AQUIRED]
+    -Readings are showing a slight increase in your mental instability."
+  },
+  "uclimbo08" : {
+    "type" : "mission",
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/estherthoughtful.png:<frame>",
+    "text" : "What... Happened? Are you alright? Something had interfered with your ship's communication functions, and I'm guessing it was... Whatever that life form was."
+  }
+}
