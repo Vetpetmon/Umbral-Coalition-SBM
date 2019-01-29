@@ -1,6 +1,6 @@
 {
   "ucgerminationlab" : {
-    "type" : "tutorial"
+    "type" : "tutorial",
     "text" : "You have made a simple workstation where you can let the seeds of the produce you have harvested germinate into more crops. This will greatly aid in the creation of your settlements."
   }
 }
