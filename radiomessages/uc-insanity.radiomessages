@@ -12,12 +12,18 @@
     "text" : "HEH-HEH, I CAN'T DIE, FOOL."
   },
   "ucinsanityrandom02" : {
+    "senderName" : "???",
+    "portraitImage" : "/interface/chatbubbles/ucinsanehorror.png:<frame>",
     "text" : "Did you know that oxygen is poisonous? You should stop breathing it in."
   },
   "ucinsanityrandom03" : {
+    "senderName" : "???",
+    "portraitImage" : "/interface/chatbubbles/ucinsanehorror.png:<frame>",
     "text" : "You should *totally* try to nuke extremely powerful entities. It's fun!"
   },
   "ucinsanityrandom04" : {
+    "senderName" : "???",
+    "portraitImage" : "/interface/chatbubbles/ucinsanehorror.png:<frame>",
     "text" : "Want to know what your next prank should be? I've got the perfect idea for you! Blow a dog whistle at Azathoth!"
   }
 }
