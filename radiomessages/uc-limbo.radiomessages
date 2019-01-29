@@ -1,7 +1,7 @@
 {
   "uclimbo01" : {
     "type" : "mission",
-    "text" : "You have entered a pocket dimension. The Encyclopedia Galactica only says that this dimension is infamously called "Limbo." You have been warned."
+    "text" : "You have entered a pocket dimension. The Encyclopedia Galactica only says that this dimension is infamously called \”Limbo.\” You have been warned."
   },
   "uclimbo02" : {
     "type" : "mission",
