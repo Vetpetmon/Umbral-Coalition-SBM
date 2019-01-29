@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "tomato", "count" : 3 },
+    { "item" : "dirtmaterial", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "tomatoseed",
+    "count" : 2
+  },
+  "duration" : 0.5,
+  "groups"  : [ "ucseedfruits", "ucseeds", "all" ]
+}

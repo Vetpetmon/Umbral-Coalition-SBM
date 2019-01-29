@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "kiwi", "count" : 3 },
+    { "item" : "dirtmaterial", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "kiwiseed",
+    "count" : 2
+  },
+  "duration" : 0.5,
+  "groups"  : [ "ucseedfruits", "ucseeds", "all" ]
+}

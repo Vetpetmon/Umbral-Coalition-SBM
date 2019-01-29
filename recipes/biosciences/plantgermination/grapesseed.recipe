@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "grapes", "count" : 2 },
+    { "item" : "dirtmaterial", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "grapesseed",
+    "count" : 1
+  },
+  "duration" : 0.5,
+  "groups"  : [ "ucseedfruits", "ucseeds", "all" ]
+}
