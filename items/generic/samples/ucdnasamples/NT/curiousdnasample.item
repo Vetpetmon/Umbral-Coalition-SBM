@@ -1,0 +1,10 @@
+{
+  "itemName": "uccuriousdnasample",
+  "rarity": "Legendary",
+  "price": 500,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "curiousdnasample.png",
+  "description" : "What a curious bit of strange DNA. What does it do?",
+  "shortdescription" : "Curious DNA sample",
+  "itemTags" : [ "reagent" ]
+}
