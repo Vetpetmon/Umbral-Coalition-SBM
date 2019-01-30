@@ -1,10 +1,10 @@
 {
   "input" : [
-    { "item" : "kiwi", "count" : 3 },
-    { "item" : "sand2", "count" : 1 }
+    { "item" : "oculemon", "count" : 3 },
+    { "item" : "dirtmaterial", "count" : 1 }
   ],
   "output" : {
-    "item" : "kiwiseed",
+    "item" : "oculemonseed",
     "count" : 2
   },
   "duration" : 0.5,

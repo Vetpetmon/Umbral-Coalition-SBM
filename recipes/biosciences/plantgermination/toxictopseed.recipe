@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "toxictop", "count" : 3 },
+    { "item" : "mud", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "toxictopseed",
+    "count" : 1
+  },
+  "duration" : 0.5,
+  "groups"  : [ "ucseedfruits", "ucseeds", "all" ]
+}

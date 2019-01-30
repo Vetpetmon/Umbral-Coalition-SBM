@@ -1,11 +1,11 @@
 {
   "input" : [
-    { "item" : "cotton", "count" : 1 },
+    { "item" : "cotton", "count" : 2 },
     { "item" : "dirtmaterial", "count" : 1 }
   ],
   "output" : {
     "item" : "cottonseed",
-    "count" : 2
+    "count" : 3
   },
   "duration" : 0.5,
   "groups"  : [ "ucseedresource", "ucseeds", "all" ]
