@@ -3,8 +3,8 @@
   "colonyTags" : ["teleporter", "limbo"],
   "printable" : false,
   "rarity" : "Essential",
-  "consumeOnPickup" : true,
-  "unbreakable" : true,
+  //"consumeOnPickup" : true,
+  //"unbreakable" : true,
   "category" : "other",
   "description" : "Where does this even go to?
 
