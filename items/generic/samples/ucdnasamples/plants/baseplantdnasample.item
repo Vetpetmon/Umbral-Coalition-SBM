@@ -1,0 +1,11 @@
+{
+  "itemName": "ucbaseplantdnasample",
+  "rarity": "Common",
+  "price": 10,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "baseplantdnasample.png",
+  "description" : "^green;Base Plant DNA^reset;
+  ^cornflowerblue;The most basic DNA needed to create every plant you can think of.^reset;",
+  "shortdescription" : "Base Plant DNA",
+  "itemTags" : [ "reagent" ]
+}
