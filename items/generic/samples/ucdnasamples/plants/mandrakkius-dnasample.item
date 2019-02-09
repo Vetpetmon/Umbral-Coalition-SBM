@@ -1,0 +1,11 @@
+{
+  "itemName": "ucmandrakkiusdnasample",
+  "rarity": "Uncommon",
+  "price": 40,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "baseplantdnasample.png",
+  "description" : "^green;Mandrakkius DNA^reset;
+  ^cornflowerblue;A special sample of DNA required to make Mandrakkius plants.^reset;",
+  "shortdescription" : "Base Mandrakkius DNA",
+  "itemTags" : [ "reagent" ]
+}
