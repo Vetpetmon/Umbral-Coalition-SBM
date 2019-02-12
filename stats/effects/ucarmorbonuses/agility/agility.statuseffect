@@ -1,0 +1,12 @@
+{
+  "name" : "ucagilityplus",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "agility.lua"
+  ],
+
+  "label" : "Agility +",
+  "icon" : "/interface/statuses/jumpboostboot.png"
+}

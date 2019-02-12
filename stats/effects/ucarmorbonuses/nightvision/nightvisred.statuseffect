@@ -1,0 +1,9 @@
+{
+  "name" : "ucnightvisred",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [],
+
+  "animationConfig" : "nightvisred.animation"
+}
