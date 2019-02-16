@@ -1,6 +1,4 @@
 function init()
-  self.jumpSoundPlayed = false --Boolean variables
-  self.crouchSoundPlayed = false
   effect.addStatModifierGroup({
     {stat = "fallDamageMultiplier", amount = 0.75}
   })
