@@ -53,7 +53,7 @@ Needs to be powered with a ^green;large nuclear core^reset;.",
 Needs to be powered with a ^green;large nuclear core^reset;.",
 
 
-  "health" : 2000,
+  //"health" : 2000,
   "inventoryIcon" : "uclimboaccessteleportericon.png",
   "orientations" : [
     {
@@ -64,7 +64,8 @@ Needs to be powered with a ^green;large nuclear core^reset;.",
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ],
       "collision" : "solid",
-      "collisionSpaces" : [ [-2, 0], [-1, 0], [0, 0], [1, 0] ]
+      "collisionSpaces" : [ [-2, 0], [-1, 0], [0, 0], [1, 0] ],
+      "detectArea" : [ [-2, 0], [2.3, 5] ]
     }
   ],
   "animation" : "/objects/ucmissionteleporters/limbo/limboteleporter.animation",
@@ -72,6 +73,9 @@ Needs to be powered with a ^green;large nuclear core^reset;.",
     "bg" : "limboaccessteleporter.png"
   },
   "uniqueId" : "uclimboteleporter",
+
+  "scripts" : [ "/objects/ucmissionteleporters/limbo/limboteleporter.lua" ],
+  "scriptDelta" : 20,
 
   "interactAction" : "OpenTeleportDialog",
   "interactData" : "/interface/warping/limbowarp.config",
