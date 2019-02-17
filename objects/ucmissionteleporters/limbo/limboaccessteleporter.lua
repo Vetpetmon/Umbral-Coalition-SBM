@@ -9,16 +9,18 @@ function init()
 
   message.setHandler("activate", function()
     storage.active = true
-    animator.setAnimationState("teleporter", "on")
-    object.setLightColor(config.getParameter("lightColor", {50, 255, 50}))
+    animator.setAnimationState("console", "on")
+    object.setLightColor(config.getParameter("lightColor", {255, 255, 255}))
   end)
 
   message.setHandler("isActive", function()
     return storage.active == true
   end)
 
+  self.isLimboGate = world.terrestrial()
+
   self.limboActiveTime = config.getParameter("limboActiveTime", 60)
-  self.limboInstanceOptions = config.getParameter("limboInstance")
+  self.limboInstance = config.getParameter("limboInstance")
   self.limboAccessConfig = root.assetJson("/interface/scripted/limboteleporter/limboteleportergui.config")
 
   storage.limboActive = storage.limboActive or false
@@ -28,20 +30,19 @@ function init()
       storage.limboActive = true
       storage.limboCloseTime = world.time() + self.limboActiveTime
       math.randomseed(util.seedTime())
-      local instanceOption = util.randomFromList(self.limboInstance)
+      local instanceOption = self.limboInstance
       storage.limboType = instanceOption[1]
       storage.limboWorldId = string.format("InstanceWorld:%s:%s:%s", instanceOption[2], sb.makeUuid(), 8)
 
       animator.setGlobalTag("destination", storage.limboType)
-      animator.setAnimationState("teleporter", "on")
-      animator.playSound("on");
-      object.setLightColor(config.getParameter("lightColor", {50, 255, 50}))
+      animator.setAnimationState("console", "on")
+      object.setLightColor(config.getParameter("lightColor", {255, 255, 255}))
     end
   end)
 
-  message.setHandler("closelimbo", function()
+  message.setHandler("closeLimbo", function()
     if storage.limboActive then
-      closelimbo()
+      closeLimbo()
     end
   end)
 
@@ -55,30 +56,46 @@ function init()
 
   if storage.limboActive then
     animator.setGlobalTag("destination", storage.limboType)
-    animator.setAnimationState("portal", "openloop")
   end
 end
 
 function onInteraction()
+  if self.isLimboGate then
+    if not storage.active then
+      return {config.getParameter("inactiveInteractAction"), config.getParameter("inactiveInteractData")}
+    else
+      return {config.getParameter("interactAction"), config.getParameter("interactData")}
+    end
+  else
     if not storage.limboActive then
-      return { "ScriptPane", "/interface/scripted/limboconsole/limboconsolegui.config" }
+      return { "ScriptPane", "/interface/scripted/limboteleporter/limboteleportergui.config" }
     else
       self.limboAccessConfig.closeTime = storage.limboCloseTime
       self.limboAccessConfig.activeTime = self.limboActiveTime
       self.limboAccessConfig.worldId = storage.limboWorldId
       return { "ScriptPane", self.limboAccessConfig }
     end
+  end
 end
 
 function update(dt)
-  if storage.limboActive then
-    if world.time() > storage.limboCloseTime then
-      closelimbo()
+  if self.isLimboGate then
+    if storage.active then
+      local players = world.entityQuery(self.detectArea[1], self.detectArea[2], {
+          includedTypes = {"player"},
+          boundMode = "CollisionArea"
+        })
+    end
+  else
+    if storage.limboActive then
+      if world.time() > storage.limboCloseTime then
+        closeLimbo()
+      end
     end
   end
 end
 
-function closelimbo()
+function closeLimbo()
   storage.limboActive = false
   animator.setAnimationState("console", "off")
   object.setLightColor({0, 0, 0, 0})
