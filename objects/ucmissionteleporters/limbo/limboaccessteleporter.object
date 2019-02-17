@@ -5,57 +5,35 @@
   "rarity" : "Essential",
   //"consumeOnPickup" : true,
   //"unbreakable" : true,
-  "description" : "Where does this even go to?
-
-Needs to be powered with a ^green;large nuclear core^reset;.",
+  "description" : "Where does this even go to?",
   "shortdescription" : "Limbo Teleporter",
 
-  "avianDescription" : "A good way to loose feathers, almost.
+  "avianDescription" : "A good way to loose feathers.",
+  "floranDescription" : "Floran would ussse odd teleporter if it looked sssafe.",
+  "glitchDescription" : "Disturbed. This teleporter uses unsafe levels of radioactive power.",
+  "novakidDescription" : "Somethin' seems fishy about it's destination.",
 
-Needs to be powered with a ^green;large nuclear core^reset;.",
-  "floranDescription" : "Floran would ussse odd teleporter if it looked sssafe.
-
-Needsss a ^green;large nuclear core^reset;.",
-  "glitchDescription" : "Disturbed. This teleporter uses unsafe levels of radioactive power.
-
-Observation. Needs to be powered with a ^green;large nuclear core^reset;.",
-  "novakidDescription" : "Somethin' seems fishy about it's destination.
-
-... Needs to be powered with a ^green;large nuclear core^reset;, it seems.",
-
-  "xenonianDescription" : "This teleporter is emiting... Madness?
-
-Needs to be powered with a ^green;large nuclear core^reset;.",
-  "ucswarmerDescription" : "Smells like fresh madness. Probably leads to another dimensions!
-
-All it needs is a ^green;large nuclear core^reset;!",
+  "xenonianDescription" : "This teleporter is emiting... Madness? Something isn't quite right with what it's linked to.",
+  "gluraxxiDescription" : "Strange substance maddening sensed around this teleporter strange!",
+  "ucswarmerDescription" : "Smells like fresh madness. Probably leads to another dimensions!",
 
   //GFOW support
 
-  "webberDescription" : "What an odd teleporter. Where is it linked to?
-
-Needs to be powered with a ^green;large nuclear core^reset;.",
+  "webberDescription" : "An odd teleporter similar to our technology. Where is it linked to?",
+  "candavaswebberDescription" : "Yikes! Our body will melt in this thing!",
 
   //ERM support
 
-  "aegiDescription" : "This teleporter breaks 48 security codes. It shouldn't have been made in the first place.
-
-Needs to be powered with a ^green;large nuclear core^reset;.",
-  "avikanDescription" : "Why does it require so much power if it only goes to one place?
-
-Needs to be powered with a ^green;large nuclear core^reset;.",
-  "trinkDescription" : "Teleportation should not use this much energy.
-
-Needs to be powered with a ^green;large nuclear core^reset;.",
-  "drodenDescription" : "Warning. Highly radioactive power source detected.
-
-Needs to be powered with a ^green;large nuclear core^reset;.",
+  "aegiDescription" : "This teleporter breaks 48 security codes. It shouldn't have been made in the first place.",
+  "avikanDescription" : "Why does it require so much power if it only goes to one place?",
+  "trinkDescription" : "Teleportation should not use this much energy.",
+  "drodenDescription" : "Warning. Highly radioactive power source detected.",
 
 
   "category" : "light",
-  "lightColor" : [10, 50, 10],
-  "flickerDistance" : 0.2,
-  "flickerStrength" : 0.2,
+  "lightColor" : [10, 100, 10],
+  "flickerDistance" : 0.4,
+  "flickerStrength" : 0.4,
   "flickerTiming" : 4,
 
   "soundEffect" : "/sfx/objects/hyperbeamtelestatic.ogg",
@@ -96,7 +74,7 @@ Needs to be powered with a ^green;large nuclear core^reset;.",
         "planetName" : "???",
         "mission" : false,
         "warpAction" : "InstanceWorld:outpost",
-        "icon" : "vanokk"
+        "icon" : "default"
       }
     ],
     "includePlayerBookmarks" : false
