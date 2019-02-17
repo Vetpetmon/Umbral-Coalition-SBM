@@ -74,7 +74,7 @@ Needs to be powered with a ^green;large nuclear core^reset;.",
   },
   "uniqueId" : "uclimboteleporter",
 
-  "scripts" : [ "/objects/ucmissionteleporters/limbo/limboteleporter.lua" ],
+  "scripts" : [ "/objects/ucmissionteleporters/limbo/limboaccessteleporter.lua" ],
   "scriptDelta" : 20,
 
   "interactAction" : "OpenTeleportDialog",
