@@ -5,7 +5,6 @@
   "rarity" : "Essential",
   //"consumeOnPickup" : true,
   //"unbreakable" : true,
-  "category" : "other",
   "description" : "Where does this even go to?
 
 Needs to be powered with a ^green;large nuclear core^reset;.",
@@ -53,42 +52,66 @@ Needs to be powered with a ^green;large nuclear core^reset;.",
 Needs to be powered with a ^green;large nuclear core^reset;.",
 
 
-  //"health" : 2000,
+  "category" : "light",
+  "lightColor" : [10, 50, 10],
+  "flickerDistance" : 0.2,
+  "flickerStrength" : 0.2,
+  "flickerTiming" : 4,
+
+  "soundEffect" : "/sfx/objects/hyperbeamtelestatic.ogg",
+
+  "particleEmitter" :
+  {
+    "emissionRate" : 10.0,
+    "emissionVariance" : 0.5,
+    "particle" : {
+      "type" : "ember",
+      "position" : [-0.5, 5],
+      "size" : 1.0,
+      "color" : [64, 12, 255, 12],
+      "light" : [12, 180, 12],
+      "fade" : 0.9,
+      "destructionAction" : "shrink",
+      "destructionTime" : 0.5,
+      "initialVelocity" : [0.0, 5.0],
+      "finalVelocity" : [0.0, 1.0],
+      "approach" : [0, 1],
+      "timeToLive" : 0.8,
+      "layer" : "middle"
+    },
+    "particleVariance" : {
+      "initialVelocity" : [0, 5],
+      "finalVelocity" : [0, 1],
+      "position" : [1.5, 0],
+      "size" : 1.0
+    }
+  },
+  "health" : 200,
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : {
+    "canBookmark" : false,
+    "destinations" : [
+      {
+        "name" : "Teleport to",
+        "planetName" : "???",
+        "mission" : false,
+        "warpAction" : "InstanceWorld:outpost",
+        "icon" : "vanokk"
+      }
+    ],
+    "includePlayerBookmarks" : false
+  },
   "inventoryIcon" : "uclimboaccessteleportericon.png",
   "orientations" : [
     {
-      "image" : "limboaccessteleporter.png:<color>",
-      "imagePosition" : [-64, 0],
+      "imageLayers" : { "image" : "limboaccessteleporter.png:<color>" },
+      "imagePosition" : [-32, 0],
       "frames" : 1,
       "animationCycle" : 0.5,
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ],
       "collision" : "solid",
-      "collisionSpaces" : [ [-2, 0], [-1, 0], [0, 0], [1, 0] ],
-      "detectArea" : [ [-2, 0], [2.3, 5] ]
+      "collisionSpaces" : [ [-2, 0], [-1, 0], [0, 0], [1, 0] ]
     }
-  ],
-  "animation" : "/objects/ucmissionteleporters/limbo/limboteleporter.animation",
-  "animationParts" : {
-    "bg" : "limboaccessteleporter.png"
-  },
-  "uniqueId" : "uclimboteleporter",
-
-  "scripts" : [ "/objects/ucmissionteleporters/limbo/limboaccessteleporter.lua" ],
-  "scriptDelta" : 20,
-
-  "interactAction" : "OpenTeleportDialog",
-  "interactData" : "/interface/warping/limbowarp.config",
-
-  "inactiveInteractAction" : "ScriptPane",
-  "inactiveInteractData" : "/interface/scripted/limboteleporter/limboteleportergui.config",
-
-  //Limbo teleporter option(s), will add more if I plan for there to be more than one Limbo dungeon.
-
-  "limboInstance" :  "outpost",
-  /*"limboInstanceOptions" : [
-    ["namehere", "limbo_1"]
-  ],*/
-
-  "limboActiveTime" : 60
+  ]
 }

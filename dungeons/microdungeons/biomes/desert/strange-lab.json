@@ -830,23 +830,11 @@
                  "width":64,
                  "x":968,
                  "y":384
-                }],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "width":200,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "height":200,
-         "name":"mods",
-         "objects":[
+                }, 
                 {
                  "gid":400,
                  "height":56,
-                 "id":3,
+                 "id":65,
                  "name":"",
                  "properties":
                     {
@@ -858,72 +846,15 @@
                  "width":48,
                  "x":360,
                  "y":584
-                }, 
-                {
-                 "height":936,
-                 "id":23,
-                 "name":"",
-                 "properties":
-                    {
-                     "dungeonid":"105"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":1352,
-                 "x":104,
-                 "y":0
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
-         "width":200,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "height":150,
-         "name":"paint",
-         "objects":[
-                {
-                 "height":232,
-                 "id":60,
-                 "name":"",
-                 "properties":
-                    {
-                     "colorVariant":"5"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":664,
-                 "x":520,
-                 "y":8
-                }, 
-                {
-                 "height":112,
-                 "id":62,
-                 "name":"",
-                 "properties":
-                    {
-                     "colorVariant":"5"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":176,
-                 "x":344,
-                 "y":240
-                }],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "width":200,
          "x":0,
          "y":0
         }],
- "nextobjectid":64,
+ "nextobjectid":66,
  "orientation":"orthogonal",
  "properties":
     {
