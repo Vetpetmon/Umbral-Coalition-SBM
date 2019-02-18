@@ -3,7 +3,10 @@
     "size" : [64, 80],
     "dimensions" : [3, 1],
     "names" : [
-      [ "default" ]
+      [ "default.off", "default.on.1", "default.on.2" ]
     ]
+  },
+  "aliases" : {
+    "default" : "default.off"
   }
 }
