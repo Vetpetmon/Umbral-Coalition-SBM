@@ -5,7 +5,7 @@
   "rarity" : "Essential",
   //"consumeOnPickup" : true,
   //"unbreakable" : true,
-  "description" : "Where does this even go to?",
+  "description" : "There's something odd about this teleporter... No one knows what lies in it's linked destination.",
   "shortdescription" : "Limbo Teleporter",
 
   "avianDescription" : "A good way to loose feathers.",
@@ -14,8 +14,8 @@
   "novakidDescription" : "Somethin' seems fishy about it's destination.",
 
   "xenonianDescription" : "This teleporter is emiting... Madness? Something isn't quite right with what it's linked to.",
-  "gluraxxiDescription" : "Strange substance maddening sensed around this teleporter strange!",
-  "ucswarmerDescription" : "Smells like fresh madness. Probably leads to another dimensions!",
+  "gluraxxiDescription" : "There's a substance maddening sensed around this teleporter strange!",
+  "ucswarmerDescription" : "Smells like fresh madness. Probably leads to another dimension!",
 
   //GFOW support
 
@@ -82,7 +82,7 @@
   "inventoryIcon" : "uclimboaccessteleportericon.png",
   "orientations" : [
     {
-      "imageLayers" : { "image" : "limboaccessteleporter.png:<color>" },
+      "imageLayers" : [{ "image" : "limboaccessteleporter.png:<color>" }],
       "imagePosition" : [-32, 0],
       "frames" : 1,
       "animationCycle" : 0.5,
