@@ -63,8 +63,8 @@ Needs to be powered with a ^green;large nuclear core^reset;.",
       "animationCycle" : 0.5,
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ],
-      "collision" : "solid",
-      "collisionSpaces" : [ [-2, 0], [-1, 0], [0, 0], [1, 0] ],
+      //"collision" : "solid",
+      //"collisionSpaces" : [ [-2, 0], [-1, 0], [0, 0], [1, 0] ],
       "detectArea" : [ [-2, 0], [2.3, 5] ]
     }
   ],
