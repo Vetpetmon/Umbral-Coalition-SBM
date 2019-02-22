@@ -58,13 +58,13 @@ Needs to be powered with a ^green;large nuclear core^reset;.",
   "orientations" : [
     {
       "image" : "limboaccessteleporter.png:<color>",
-      "imagePosition" : [-32, 0],
+      "imagePosition" : [0, 0],
       "frames" : 1,
       "animationCycle" : 0.5,
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ],
-      //"collision" : "solid",
-      //"collisionSpaces" : [ [-2, 0], [-1, 0], [0, 0], [1, 0] ],
+      "collision" : "solid",
+      "collisionSpaces" : [ [-2, 0], [-1, 0], [0, 0], [1, 0] ],
       "detectArea" : [ [-2, 0], [2.3, 5] ]
     }
   ],
