@@ -95,7 +95,7 @@
 
       "airFriction" : 2,
       "airForce" : 10,
-      "flySpeed" : 15
+      "flySpeed" : 45
     },
 
     "bodyMaterialKind" : "organic",
