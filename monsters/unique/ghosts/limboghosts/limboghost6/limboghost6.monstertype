@@ -6,7 +6,7 @@
   "categories" : [ "uclimboghost6" ],
   "parts" : [ "body" ],
 
-  "animation" : "limboghost5.animation",
+  "animation" : "limboghost6.animation",
 
   "dropPools" : [ { "default" : "uclimboghostlarge", "bow" : "uclimboghostlarge" } ],
 
