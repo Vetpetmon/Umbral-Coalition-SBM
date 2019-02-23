@@ -6,12 +6,12 @@
         "default" : "idle",
         "states" : {
           "idle" : {
-            "frames" : 6,
+            "frames" : 4,
             "cycle" : 1.0,
             "mode" : "loop"
           },
           "fly" : {
-            "frames" : 6,
+            "frames" : 4,
             "cycle" : 0.5,
             "mode" : "loop"
           }
