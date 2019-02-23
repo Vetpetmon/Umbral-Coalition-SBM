@@ -1,0 +1,9 @@
+{
+  "name" : "uclimboghost2",
+  "category" : "uclimboghost2",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "limboghost2.png"
+  }
+}

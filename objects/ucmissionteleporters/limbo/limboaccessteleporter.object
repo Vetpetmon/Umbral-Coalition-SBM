@@ -72,7 +72,7 @@ Needs to be powered with a ^green;large nuclear core^reset;.",
   "animationParts" : {
     "bg" : "limboaccessteleporter.png"
   },
-  "animationPosition" : [-64, 0],
+  "animationPosition" : [0, 0],
   "uniqueId" : "uclimboteleporter",
 
   "scripts" : [ "/objects/ucmissionteleporters/limbo/limboaccessteleporter.lua" ],
@@ -86,7 +86,7 @@ Needs to be powered with a ^green;large nuclear core^reset;.",
 
   //Limbo teleporter option(s), will add more if I plan for there to be more than one Limbo dungeon.
 
-  "limboInstance" :  "outpost",
+  "limboInstance" :  "uclimbo_1",
   /*"limboInstanceOptions" : [
     ["namehere", "limbo_1"]
   ],*/

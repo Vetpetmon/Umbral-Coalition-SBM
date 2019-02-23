@@ -1,6 +1,7 @@
 {
 
   "name" : "combatucstunned1",
+  "blockingStat" : "stunlockImmunity",
 
   "effectConfig" : {},
 

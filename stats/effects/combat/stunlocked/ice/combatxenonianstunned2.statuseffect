@@ -1,7 +1,8 @@
 {
 
   "name" : "combatucstunned2",
-
+  "blockingStat" : "stunlockImmunity",
+  
   "effectConfig" : {},
 
   "defaultDuration" : 5,
