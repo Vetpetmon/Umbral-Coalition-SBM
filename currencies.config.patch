@@ -1,0 +1,7 @@
+[
+  {
+		"op": "add",
+		"path": "/ucnightmaricconcentrate",
+		"value": { "representativeItem" : "ucnightmaricconcentrate", "playerMax" : 999999 }
+  }
+]

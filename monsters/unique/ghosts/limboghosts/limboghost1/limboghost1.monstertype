@@ -8,7 +8,7 @@
 
   "animation" : "limboghost1.animation",
 
-  "dropPools" : [ { "default" : "squeemTreasure", "bow" : "squeemHunting" } ],
+  "dropPools" : [ { "default" : "uclimboghostsmall", "bow" : "uclimboghostsmall" } ],
 
   "baseParameters" : {
     "scripts" : [

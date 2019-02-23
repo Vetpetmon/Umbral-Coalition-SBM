@@ -1,14 +1,14 @@
 {
-  "type" : "uclimboghost3",
+  "type" : "uclimboghost6",
   "shortdescription" : "???",
-  "description" : "A near-physical embodiment of... Something.",
+  "description" : "A massive, near-physical embodiment of... Something.",
 
-  "categories" : [ "uclimboghost3" ],
+  "categories" : [ "uclimboghost6" ],
   "parts" : [ "body" ],
 
-  "animation" : "limboghost3.animation",
+  "animation" : "limboghost5.animation",
 
-  "dropPools" : [ { "default" : "uclimboghostsmall", "bow" : "uclimboghostsmall" } ],
+  "dropPools" : [ { "default" : "uclimboghostlarge", "bow" : "uclimboghostlarge" } ],
 
   "baseParameters" : {
     "scripts" : [
@@ -22,11 +22,11 @@
     "behaviorConfig" : {
       "damageOnTouch" : true,
 
-      "targetQueryRange" : 30,
+      "targetQueryRange" : 50,
       "targetOnDamage" : true,
       "keepTargetInSight" : false,
-      "keepTargetInRange" : 50,
-      "targetOutOfSightTime" : 10.0,
+      "keepTargetInRange" : 100,
+      "targetOutOfSightTime" : 50.0,
 
       "foundTargetActions" : [ ],
 
@@ -72,8 +72,8 @@
     },
 
     "touchDamage" : {
-      "poly" : [ [0.125, 1.25], [0.625, 0.75], [0.625, -0.75], [0.125, -1.25], [-0.125, -1.25], [-0.625, -0.75], [-0.625, 0.75], [-0.125, 1.25] ],
-      "damage" : 10,
+      "poly" : [ [1.25, 2.55], [1.75, 2.05],  [2.25, -3.55], [1.75, -3.95],  [-1.75, -3.95], [-2.25, -3.55],  [-1.75, 2.05], [-1.25, 2.55] ],
+      "damage" : 35,
 
       "teamType" : "enemy",
       "damageSourceKind" : "slash",
@@ -86,16 +86,16 @@
 
     "movementSettings" : {
       "collisionEnabled" : false,
-      "collisionPoly" : [ [0.125, 1.25], [0.625, 0.75], [0.625, -0.75], [0.125, -1.25], [-0.125, -1.25], [-0.625, -0.75], [-0.625, 0.75], [-0.125, 1.25] ],
+      "collisionPoly" : [ [1.25, 2.55], [1.75, 2.05],  [2.25, -3.55], [1.75, -3.95],  [-1.75, -3.95], [-2.25, -3.55],  [-1.75, 2.05], [-1.25, 2.55] ],
 
       "mass" : 0.5,
       "walkSpeed" : 4,
-      "runSpeed" : 16,
+      "runSpeed" : 12,
       "gravityEnabled" : false,
 
       "airFriction" : 2,
       "airForce" : 10,
-      "flySpeed" : 26
+      "flySpeed" : 8
     },
 
     "bodyMaterialKind" : "organic",
@@ -124,10 +124,10 @@
       "stats" : {
         "knockbackStunTime" : {"baseValue" : 0.1},
         "knockbackThreshold" : {"baseValue" : 9},
-        "maxHealth" : {"baseValue" : 50},
+        "maxHealth" : {"baseValue" : 200},
         "protection" : {"baseValue" : 0.0},
-        "healthRegen" : {"baseValue" : 0.1},
-        "powerMultiplier" : {"baseValue" : 1.0},
+        "healthRegen" : {"baseValue" : 0.2},
+        "powerMultiplier" : {"baseValue" : 1.1},
         //vanilla immunities
         "physicalResistance" : {"baseValue" : 1.0},
         "fireResistance" : {"baseValue" : 0.0},
