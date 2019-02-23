@@ -162,16 +162,6 @@
     }
   },
 
-  "lights" : {
-    "glow" : {
-      "active" : true,
-      "position" : [0, 0],
-      "color" : [70, 70, 70],
-      "pointLight" : true,
-      "anchorPart" : "body"
-    }
-  },
-
   "sounds" : {
     "aggroHop" : [ "/sfx/npc/monsters/monster_surprise.ogg" ],
     "deathPuff" : [ "/sfx/npc/enemydeathpuff.ogg" ]
