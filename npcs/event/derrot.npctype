@@ -1,0 +1,50 @@
+{
+  "type" : "ucderrot",
+  "baseType" : "base",
+
+  "identity" : {
+    "gender" : "male",
+    "species": "ucnpc",
+    "name" : "Derrot D. Carota"
+  },
+
+  "damageTeamType" : "ghostly",
+
+  "persistent" : true,
+
+    "dropPools" : [ ],
+
+  "scriptConfig" : {
+    "behavior" : "simple",
+
+    "behaviorConfig" : {
+      "alwaysRun" : false,
+      "wanderWaitTime" : [4.0, 8.0],
+      "wanderTime" : [0.25, 0.5],
+      "wanderDistance" : 5
+    },
+
+    "dialogMode" : "sequence",
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "How's your farm going?"
+          ]
+        }
+      }
+    }
+  },
+    "matchColorIndices" : true,
+    "items" : {
+        "override" : [
+            [0,[
+                    {
+                      "head" : [{ "name" : "ucderrothead", "parameters" : { "colorIndex" : [1] } }],
+                      "chest" : [{ "name" : "ucderrotchest", "parameters" : { "colorIndex" : [1] } }],
+                      "legs" : [{ "name" : "ucderrotlegs", "parameters" : { "colorIndex" : [1] } }]
+                    }
+            ] ]
+        ]
+    }
+  }

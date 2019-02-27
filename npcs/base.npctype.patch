@@ -1,0 +1,23 @@
+[
+  { "op" : "add",
+	"path" : "/scriptConfig/chatSounds/ucnpc",
+	"value" : {
+    "male" : [
+      "/sfx/humanoid/floran_chatter_female1.ogg",
+      "/sfx/humanoid/floran_chatter_female2.ogg",
+      "/sfx/humanoid/floran_chatter_female3.ogg",
+      "/sfx/humanoid/floran_chatter_female4.ogg",
+      "/sfx/humanoid/floran_chatter_female5.ogg",
+      "/sfx/humanoid/floran_chatter_female6.ogg"
+    ],
+    "female" : [
+      "/sfx/humanoid/floran_chatter_female1.ogg",
+      "/sfx/humanoid/floran_chatter_female2.ogg",
+      "/sfx/humanoid/floran_chatter_female3.ogg",
+      "/sfx/humanoid/floran_chatter_female4.ogg",
+      "/sfx/humanoid/floran_chatter_female5.ogg",
+      "/sfx/humanoid/floran_chatter_female6.ogg"
+    ]
+	}
+}
+]

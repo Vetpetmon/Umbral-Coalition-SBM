@@ -1,0 +1,14 @@
+{
+  "itemName" : "ucderrotlegs",
+  "price" : 100,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "legwear",
+  "description" : "...",
+  "shortdescription" : "Derrot's Tail",
+  "tooltipKind" : "armor",
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
+  "level" : 1
+}
