@@ -1,0 +1,58 @@
+{
+  "kind" : "ucnpc",
+	"charCreationTooltip" : {
+	"title" : "npc",
+	"subTitle" : "O2",
+	"description" : "NPC"
+  },
+  "nameGen" : [ "/species/xenoniannamegen.config:names", "/species/xenoniannamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/humanhurt_male1.ogg", "/sfx/humanoid/humanhurt_female1.ogg" ],
+  "charGenTextLabels" : [ "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "NPC", "Personality" ],
+  "skull" : "/humanoid/xenonian/dead.png",
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
+  "defaultBlueprints" : {
+    "tier1" : [
+
+  // Empty Hands
+      { "item" : "flagxenonian" }
+	  ]
+  },
+
+  "genders" : [
+    {
+       "name" : "male",
+      "image" : "/interface/title/xenonianmaleico.png",
+      "characterImage" : "/interface/title/xenonianmale.png",
+      "hair" : [ "0" ],
+      "shirt" : [ "xenonianoutfit1chest", "xenonianoutfit2chest", "xenonianoutfit3chest", "xenonianoutfit4chest" ],
+      "pants" : [ "xenonianoutfit1legs", "xenonianoutfit2legs", "xenonianoutfit3legs", "xenonianoutfit4legs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/xenonianfemico.png",
+      "characterImage" : "/interface/title/xenonianfemale.png",
+      "hair" : [ "0" ],
+      "shirt" : [ "xenonianoutfit1chest", "xenonianoutfit2chest", "xenonianoutfit3chest", "xenonianoutfit4chest" ],
+      "pants" : [ "xenonianoutfit1legs", "xenonianoutfit2legs", "xenonianoutfit3legs", "xenonianoutfit4legs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    }
+  ],
+  "bodyColor" : [
+    //White
+    { "ffc181" : "f4f4f4", "d39c6c" : "cdcdcd", "c7815b" : "ababab" }
+  ],
+  "undyColor" : [
+    { "dc1f00" : "f794f8", "be1b00" : "d355c1", "951500" : "b72c95" }
+  ],
+  "hairColor" : [
+    //LIGHT RED
+    { "fff8b5" : "E86D46", "fde03f" : "D1422E", "f6b919" : "96201B" }
+  ]
+}
