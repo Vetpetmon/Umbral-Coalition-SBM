@@ -123,34 +123,66 @@
     { "ffc181" : "f4f4f4", "d39c6c" : "cdcdcd", "c7815b" : "ababab" },
     //Deep Purple
     { "ffc181" : "3d0f49", "d39c6c" : "2d0b36", "c7815b" : "220829" },
+    //Musty's Deep Purple
+    { "ffc181" : "35094d", "d39c6c" : "21032c", "c7815b" : "14011e" },
+    //Pride Purple
+    { "ffc181" : "e01171", "d39c6c" : "ab0e86", "c7815b" : "59057b" },
     //Black
     { "ffc181" : "837667", "d39c6c" : "665D56", "c7815b" : "46403E" },
     //Brown
     { "ffc181" : "86644a", "d39c6c" : "684431", "c7815b" : "40271d" },
     //Cake-ish Brown
     { "ffc181" : "cfa767", "d39c6c" : "b18237", "c7815b" : "805e28" },
+    //Pastel Brown
+    { "ffc181" : "C88E8E", "d39c6c" : "C48484", "c7815b" : "B96F6F" },
     //Deep Red
     { "ffc181" : "4d1e0e", "d39c6c" : "3b190d", "c7815b" : "29150d" },
     //Chocolate Brown
     { "ffc181" : "502814", "d39c6c" : "3d1f11", "c7815b" : "2f180c" },
     //Ginger
     { "ffc181" : "c88959", "d39c6c" : "9e6a4d", "c7815b" : "784930" },
+    //Pastel Orange
+    { "ffc181" : "FFBF48", "d39c6c" : "FFB60B", "c7815b" : "EAA400" },
+    //Orange
+    { "ffc181" : "f3a333", "d39c6c" : "f16821", "c7815b" : "cd4545" },
+    //Musty's Orange
+    { "ffc181" : "ff8000", "d39c6c" : "d3560e", "c7815b" : "851e52" },
     //Dirty Orange
     { "ffc181" : "a6671d", "d39c6c" : "915622", "c7815b" : "743e1d" },
     //Rusty
     { "ffc181" : "BE471B", "d39c6c" : "9B2F0C", "c7815b" : "702710" },
     //Cinnamon Brown
     { "ffc181" : "835955", "d39c6c" : "5a4a53", "c7815b" : "3f414f" },
+    //Toxic Green
+    { "ffc181" : "7aaf3a", "d39c6c" : "2c8547", "c7815b" : "245633" },
+    //Forest Green
+    { "ffc181" : "17b978", "d39c6c" : "086972", "c7815b" : "071a52" },
     //Anomaly 0-0t
     { "ffc181" : "B0D1CD", "d39c6c" : "98C7C1", "c7815b" : "85BEB7" },
+    //Deep Sea
+    { "ffc181" : "408ab4", "d39c6c" : "34699a", "c7815b" : "113f67" },
+    //Deep Sea ALT
+    { "ffc181" : "009f9d", "d39c6c" : "07456f", "c7815b" : "0f0a3c" },
+    //Pastel teal
+    { "ffc181" : "74BAAC", "d39c6c" : "5EAE9E", "c7815b" : "4A9586" },
+    //Pastel green
+    { "ffc181" : "80B584", "d39c6c" : "6CA870", "c7815b" : "59955C" },
+    //Pastel forest
+    { "ffc181" : "a7d7c5", "d39c6c" : "74b49b", "c7815b" : "5c8d89" },
     //Dirty Blonde
-    { "ffc181" : "eaa758", "d39c6c" : "cd8b3d", "c7815b" : "93682c" }
+    { "ffc181" : "eaa758", "d39c6c" : "cd8b3d", "c7815b" : "93682c" },
+    //Bronze
+    { "ffc181" : "CDD11B", "d39c6c" : "C8C800", "c7815b" : "9D9D00" }
   ],
   "undyColor" : [
     { "dc1f00" : "b7ffd9", "be1b00" : "7affce" }, //Toothpaste Green
     { "dc1f00" : "ffe062", "be1b00" : "ffbe62" }, //Bright Orange
     { "dc1f00" : "B8FD99", "be1b00" : "7CF49A" }, //Bright Green
     { "dc1f00" : "d8fffd", "be1b00" : "9ffff9" }, //Bright Blue
+    { "dc1f00" : "ebfffb", "be1b00" : "7efaff" }, //Neon Blue
+    { "dc1f00" : "5757FF", "be1b00" : "0000CE" }, //Saturated Blue
+    { "dc1f00" : "df4d19", "be1b00" : "a43737" }, //Deep Red
+    { "dc1f00" : "cdffeb", "be1b00" : "65c6c4" }, //Deep Sea
     { "dc1f00" : "4d76ad", "be1b00" : "395187", "951500" : "20325b" },
     { "dc1f00" : "7c41b8", "be1b00" : "6c2f90", "951500" : "471962" },
     { "dc1f00" : "c63442", "be1b00" : "9b2724", "951500" : "6a1210" },
@@ -177,6 +209,8 @@
     { "fff8b5" : "BE471B", "fde03f" : "9B2F0C", "f6b919" : "702710" },
     //BROWN
     { "fff8b5" : "7d3c1c", "fde03f" : "4d240b", "f6b919" : "2d1606" },
+    //RED-ISH ORANGE
+    { "fff8b5" : "FFA04A", "fde03f" : "FF9331", "f6b919" : "FF800D" },
     //LIGHT BROWN
     { "fff8b5" : "7f5a39", "fde03f" : "5b3523", "f6b919" : "3b1f15" },
     //DIRTY ORANGE
@@ -193,8 +227,12 @@
     { "fff8b5" : "f2eba3", "fde03f" : "dcd28c", "f6b919" : "c2b677" },
     //TOOTHPASTE GREEN
     { "fff8b5" : "f2ffed", "fde03f" : "b7ffd9", "f6b919" : "4abc80" },
+    //DEV'S GREEN
+    { "fff8b5" : "33FDC0", "fde03f" : "03F3AB", "f6b919" : "03EBA6" },
     //LIGHT GREEN
     { "fff8b5" : "A7D13D", "fde03f" : "83AD22", "f6b919" : "6B880B" },
+    //NUCLEAR GREEN
+    { "fff8b5" : "f1f864", "fde03f" : "bceb3c", "f6b919" : "7cbd1e" },
     //GREEN
     { "fff8b5" : "4ece61", "fde03f" : "34ae47", "f6b919" : "228a38" },
     //DARK GREEN
@@ -203,6 +241,12 @@
     { "fff8b5" : "5BD5B6", "fde03f" : "4AA9AD", "f6b919" : "237082" },
     //LIGHT TURQUOISE
     { "fff8b5" : "49E193", "fde03f" : "3BA380", "f6b919" : "197C81" },
+    //BLUE MINT
+    { "fff8b5" : "5FFEF7", "fde03f" : "1FFEF3", "f6b919" : "01FCEF" },
+    //NEON BLUE
+    { "fff8b5" : "ebfffb", "fde03f" : "7efaff", "f6b919" : "13abc4" },
+    //DAYTONA BLUE
+    { "fff8b5" : "fff2be", "fde03f" : "a0eecc", "f6b919" : "36d1c4" },
     //LIGHT BLUE
     { "fff8b5" : "61BCDE", "fde03f" : "5381CC", "f6b919" : "2C489E" },
     //BLUE
