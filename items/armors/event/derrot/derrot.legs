@@ -2,6 +2,7 @@
   "itemName" : "ucderrotlegs",
   "price" : 100,
   "inventoryIcon" : "icons.png:head",
+  "type" : "Legs",
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "legwear",
@@ -10,5 +11,8 @@
   "tooltipKind" : "armor",
   "maleFrames" : "pants.png",
   "femaleFrames" : "pants.png",
-  "level" : 1
+  "level" : 1,
+  "colorOptions" : [
+    { "ffca8a" : "ccae7c", "e0975c" : "a47844", "a85636" : "754c23", "6f2919" : "472b13" }
+  ]
 }
