@@ -9,8 +9,8 @@
   "description" : "...",
   "shortdescription" : "Derrot's Tail",
   "tooltipKind" : "armor",
-  "maleFrames" : "legs.png",
-  "femaleFrames" : "legs.png",
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
   "level" : 1,
   "colorOptions" : [
     { "ffca8a" : "ccae7c", "e0975c" : "a47844", "a85636" : "754c23", "6f2919" : "472b13" }
