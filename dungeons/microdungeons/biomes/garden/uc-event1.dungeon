@@ -1,0 +1,25 @@
+{
+  "metadata" : {
+    "name" : "ucevent1microdungeon",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "uceventderrot" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000,
+    "maxParts" : 2,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "uceventderrot",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "uceventderrot.json" ]
+    }
+  ]
+}

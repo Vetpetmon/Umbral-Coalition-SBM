@@ -1,0 +1,28 @@
+{ "columns":0,
+ "margin":0,
+ "name":"ucevent1objects",
+ "properties":
+    {
+
+    },
+ "spacing":0,
+ "tilecount":1,
+ "tileheight":64,
+ "tileproperties":
+    {
+     "1":
+        {
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"uceventcarrotportal"
+        }
+    },
+ "tiles":
+    {
+     "1":
+        {
+         "image":"..\/..\/..\/..\/..\/tiled\/uc-custom\/objects\/event\/1\/portal1.png"
+        }
+    },
+ "tilewidth":64
+}

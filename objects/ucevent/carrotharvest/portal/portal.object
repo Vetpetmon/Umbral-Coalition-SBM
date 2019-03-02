@@ -23,7 +23,7 @@
       "image" : "portal.png:<color>.<frame>",
       "flipImages" : true,
       "direction" : "left",
-      "imagePosition" : [-16, 0],
+      "imagePosition" : [0, 0],
       "frames" : 2,
       "animationCycle" : 4.0,
       "spaceScan" : 0.1,
