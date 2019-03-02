@@ -9,14 +9,14 @@
   "ouchNoises" : [ "/sfx/humanoid/xenonianhurt_male1.ogg", "/sfx/humanoid/xenonianhurt_female1.ogg" ],
   "charGenTextLabels" : [ "Skin color", "NONE", "Shirt", "Legwear", "Bioluminescence", "Toxin color", "Shirt color", "Legwear color", "XENONIAN", "Personality" ],
   "skull" : "/humanoid/xenonian/dead.png",
-  "effectDirectives" : "?replace=FEFFFFFF=1d1d1dFF?replace=9bd4ffFF=1a1a1aFF?replace=31a6ffFF=151515FF",
+  "effectDirectives" : "?replace=FEFFFFFF=daa7ffFF?replace=c573ffFF=a355ffFF?replace=31a6ffFF=7731ffFF",
   "defaultBlueprints" : {
     "tier1" : [
 
-  // Empty Hands
+    // Empty Hands
       { "item" : "flagxenonian" },
 
-// Anvil
+    // Anvil
       { "item" : "humantier1head" },
       { "item" : "humantier1chest" },
       { "item" : "humantier1pants" },
@@ -28,7 +28,7 @@
       { "item" : "ironbroadsword" },
       { "item" : "tungstenaxe" },
       { "item" : "tungstenhammer" },
-// Anvil2
+    // Anvil2
       { "item" : "humantier3head" },
       { "item" : "humantier3chest" },
       { "item" : "humantier3pants" },
@@ -39,7 +39,7 @@
       { "item" : "titaniumspear" },
       { "item" : "durasteelbroadsword" },
       { "item" : "durasteelshortsword" },
-// Anvil3
+    // Anvil3
       { "item" : "humantier5ahead" },
       { "item" : "humantier5achest" },
       { "item" : "humantier5apants" },
@@ -64,11 +64,11 @@
       { "item" : "feroziumstaff" },
       { "item" : "violiumshortsword" },
       { "item" : "violiumbroadsword" },
-// Furniture Table 2
+    // Furniture Table 2
       { "item" : "humanstoragelocker" },
       { "item" : "xenonianshipdoor" },
       { "item" : "xenonianshiphatch" },
-// Spinning Wheel
+    // Spinning Wheel
       { "item" : "xenonianoutfit1chest" },
       { "item" : "xenonianoutfit1legs" },
       { "item" : "xenonianoutfit2chest" },
@@ -77,7 +77,7 @@
       { "item" : "xenonianoutfit3legs" },
       { "item" : "xenonianoutfit4chest" },
       { "item" : "xenonianoutfit4legs" },
-      //inventing table
+    //inventing table
       { "item" : "xenoniancanningtable"}
 	  ]
   },
