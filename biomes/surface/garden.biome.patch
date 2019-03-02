@@ -9,7 +9,7 @@
       "variants" : 1,
       "distribution" : "/biomes/distributions.config:uncommon",
       "type" : "microdungeon",
-      "microdungeons" : [ "uceventderrot" ]
+      "microdungeons" : [ "ucevent1microdungeon" ]
     }
   }
 ]
