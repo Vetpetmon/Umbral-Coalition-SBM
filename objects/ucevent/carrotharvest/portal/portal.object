@@ -1,0 +1,42 @@
+{
+  "objectName" : "uceventcarrotportal",
+  "colonyTags" : ["derrot"],
+  "printable" : false,
+  "rarity" : "Common",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/ucevent1portal.config"
+  },
+  "category" : "crafting",
+  "price" : 70,
+
+  "description" : "A portal into an unknown world.",
+  "shortdescription" : "Strange Portal",
+  "glitchDescription" : "Observant. A portal to an unknown world.",
+
+  "lightColor" : [119, 49, 255],
+  "flickerDistance" : 0.2,
+  "flickerStrength" : 0.2,
+  "flickerTiming" : 4,
+  "orientations" : [
+    {
+      "image" : "portal.png:<color>.<frame>",
+      "flipImages" : true,
+      "direction" : "left",
+      "imagePosition" : [-16, 0],
+      "frames" : 2,
+      "animationCycle" : 4.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "portal.png:<color>.<frame>",
+      "direction" : "right",
+      "imagePosition" : [0, 0],
+      "frames" : 2,
+      "animationCycle" : 4.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}
