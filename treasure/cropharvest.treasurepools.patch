@@ -1,313 +1,343 @@
 [
+  //---------------
+  //     the
+  // great carrot
+  //   harvest
+  //---------------
+  // [ORANGE]
   { "op" : "add",
-  "path" : "/candasugarreedharvest",
-  "value" : [
-    [0, {
-    "pool" : [
-      {"weight" : 0.1, "item" : ["kyroxsugarreedstalk", 3]},
-      {"weight" : 0.2, "item" : ["kyroxsugarreedstalk", 2]},
-      {"weight" : 0.5, "item" : ["kyroxsugarreedstalk", 1]},
-      {"weight" : 0.15, "item" : ["plantfibre", 3]},
-      {"weight" : 0.05, "item" : ["plantfibre", 4]}
-    ],
-    "poolRounds" : [
-      [0.4, 1],
-      [0.6, 2]
+    "path" : "/ucpastelcarrot1Harvest",
+    "value" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.8, "item" : ["ucpastelcarrot1", 1]},
+          {"weight" : 0.15, "item" : ["plantfibre", 3]},
+          {"weight" : 0.05, "item" : ["plantfibre", 4]}
+        ],
+        "poolRounds" : [ [0.8, 1], [0.2, 2] ]
+        } ]
     ]
-    } ]
-  ]
   },
+  // [PURPLE]
   { "op" : "add",
-  "path" : "/candabeanjellharvest",
-  "value" : [
-    [0, {
-    "pool" : [
-      {"weight" : 0.3, "item" : ["kyroxbeanjellpetal", 3]},
-      {"weight" : 0.55, "item" : ["kyroxbeanjellpetal", 2]},
-      {"weight" : 0.1, "item" : ["plantfibre", 2]},
-      {"weight" : 0.05, "item" : ["plantfibre", 3]}
-    ],
-    "poolRounds" : [
-      [0.4, 1],
-      [0.6, 2]
+    "path" : "/ucpastelcarrot2Harvest",
+    "value" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.8, "item" : ["ucpastelcarrot2", 1]},
+          {"weight" : 0.15, "item" : ["plantfibre", 3]},
+          {"weight" : 0.05, "item" : ["plantfibre", 4]}
+        ],
+        "poolRounds" : [ [0.8, 1], [0.2, 2] ]
+        } ]
     ]
-    } ]
-  ]
   },
+  // [RED]
   { "op" : "add",
-  "path" : "/candamarshrootharvest",
-  "value" : [
-    [0, {
-    "pool" : [
-      {"weight" : 0.1, "item" : ["kyroxmarshroot", 2]},
-      {"weight" : 0.7, "item" : ["kyroxmarshroot", 1]},
-      {"weight" : 0.15, "item" : ["plantfibre", 1]},
-      {"weight" : 0.05, "item" : ["plantfibre", 1]}
-    ],
-    "poolRounds" : [
-      [0.8, 1],
-      [0.2, 2]
+    "path" : "/ucpastelcarrot3Harvest",
+    "value" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.8, "item" : ["ucpastelcarrot3", 1]},
+          {"weight" : 0.15, "item" : ["plantfibre", 3]},
+          {"weight" : 0.05, "item" : ["plantfibre", 4]}
+        ],
+        "poolRounds" : [ [0.8, 1], [0.2, 2] ]
+        } ]
     ]
-    } ]
-  ]
   },
+  // [YELLOW]
   { "op" : "add",
-  "path" : "/candacocoaberryharvest",
-  "value" : [
-    [0, {
-    "pool" : [
-      {"weight" : 0.1, "item" : ["kyroxcocoaberry", 4]},
-      {"weight" : 0.2, "item" : ["kyroxcocoaberry", 3]},
-      {"weight" : 0.4, "item" : ["kyroxcocoaberry", 2]},
-      {"weight" : 0.2, "item" : ["plantfibre", 1]},
-      {"weight" : 0.1, "item" : ["plantfibre", 2]}
-    ],
-    "poolRounds" : [
-      [0.4, 1],
-      [0.6, 2]
+    "path" : "/ucpastelcarrot4Harvest",
+    "value" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.8, "item" : ["ucpastelcarrot4", 1]},
+          {"weight" : 0.15, "item" : ["plantfibre", 3]},
+          {"weight" : 0.05, "item" : ["plantfibre", 4]}
+        ],
+        "poolRounds" : [ [0.8, 1], [0.2, 2] ]
+        } ]
     ]
-    } ]
-  ]
-  },
-  { "op" : "add",
-  "path" : "/candablacklicoharvest",
-  "value" : [
-    [0, {
-    "pool" : [
-      {"weight" : 0.05, "item" : ["kyroxblacklico", 3]},
-      {"weight" : 0.1, "item" : ["kyroxblacklico", 2]},
-      {"weight" : 0.6, "item" : ["kyroxblacklico", 1]},
-      {"weight" : 0.25, "item" : ["plantfibre", 3]}
-    ],
-    "poolRounds" : [
-      [0.5, 1],
-      [0.5, 2]
-    ]
-    } ]
-  ]
   },
 
-
-
+  //---------------
+  //  canda/kyrox
+  //   harvests
+  //---------------
+  // [SUGAR REEDS]
   { "op" : "add",
-	"path" : "/webBreadonHarvest",
-	"value" : [
-	  [0, {
-		"pool" : [
-		  {"weight" : 0.1, "item" : ["gfowbreadon", 3]},
-      {"weight" : 0.2, "item" : ["gfowbreadon", 2]},
-      {"weight" : 0.497, "item" : ["gfowbreadon", 1]},
-      {"weight" : 0.002, "item" : ["gfowbreadonlorumdiseased", 1]},
-      {"weight" : 0.001, "item" : ["gfowbreadonlorumdiseased", 2]},
-		  {"weight" : 0.15, "item" : ["plantfibre", 2]},
-      {"weight" : 0.05, "item" : ["plantfibre", 3]}
-		],
-		"poolRounds" : [
-		  [0.5, 1],
-		  [0.5, 2]
-		]
-	  } ]
-	]
-},
-{ "op" : "add",
-"path" : "/webCorexHarvest",
-"value" : [
-  [0, {
-  "pool" : [
-    {"weight" : 0.7, "item" : ["gfowcorexpod", 1]},
-    {"weight" : 0.05, "item" : ["plantfibre", 3]},
-    {"weight" : 0.1, "item" : ["plantfibre", 2]},
-    {"weight" : 0.15, "item" : ["plantfibre", 1]}
-  ],
-  "poolRounds" : [
-    [0.8, 1],
-    [0.2, 2]
-  ]
-  } ]
-]
-},
-{ "op" : "add",
-"path" : "/webKaradiancarrotHarvest",
-"value" : [
-  [0, {
-  "pool" : [
-    {"weight" : 0.9, "item" : ["gfowkaradiancarrot", 1]},
-    {"weight" : 0.1, "item" : ["plantfibre", 1]}
-  ],
-  "poolRounds" : [
-    [0.8, 1],
-    [0.2, 2]
-  ]
-  } ]
-]
-},
-
-
+    "path" : "/candasugarreedharvest",
+    "value" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.1, "item" : ["kyroxsugarreedstalk", 3]},
+          {"weight" : 0.2, "item" : ["kyroxsugarreedstalk", 2]},
+          {"weight" : 0.5, "item" : ["kyroxsugarreedstalk", 1]},
+          {"weight" : 0.15, "item" : ["plantfibre", 3]},
+          {"weight" : 0.05, "item" : ["plantfibre", 4]}
+        ],
+        "poolRounds" : [ [0.4, 1], [0.6, 2] ]
+        } ]
+      ]
+  },
+  // [BEAN JELLS]
   { "op" : "add",
-	"path" : "/eecstrawberryHarvest",
-	"value" : [
-	  [0, {
-		"pool" : [
-      {"weight" : 0.05, "item" : ["eecstrawberry", 5]},
-		  {"weight" : 0.1, "item" : ["eecstrawberry", 4]},
-      {"weight" : 0.2, "item" : ["eecstrawberry", 3]},
-      {"weight" : 0.55, "item" : ["eecstrawberry", 2]},
-		  {"weight" : 0.1, "item" : ["plantfibre", 2]}
-		],
-		"poolRounds" : [
-		  [0.5, 1],
-		  [0.5, 2]
-		]
-	  } ]
-	]
-},
-{ "op" : "add",
-"path" : "/eecstrawberryunripeHarvest",
-"value" : [
-  [0, {
-  "pool" : [
-    {"weight" : 0.05, "item" : ["eecstrawberryunripe", 5]},
-    {"weight" : 0.1, "item" : ["eecstrawberryunripe", 4]},
-    {"weight" : 0.2, "item" : ["eecstrawberryunripe", 3]},
-    {"weight" : 0.55, "item" : ["eecstrawberryunripe", 2]},
-    {"weight" : 0.07, "item" : ["plantfibre", 4]},
-    {"weight" : 0.02, "item" : ["plantfibre", 6]},
-    {"weight" : 0.01, "item" : ["plantfibre", 8]}
-  ],
-  "poolRounds" : [
-    [0.5, 1],
-    [0.5, 2]
-  ]
-  } ]
-]
-},
-
-{ "op" : "add",
-"path" : "/eecBeetHarvest",
-"value" : [
-  [0, {
-  "pool" : [
-    {"weight" : 0.65, "item" : ["eecbeet", 1]},
-    {"weight" : 0.2, "item" : ["plantfibre", 3]},
-    {"weight" : 0.1, "item" : ["plantfibre", 4]},
-    {"weight" : 0.05, "item" : ["plantfibre", 5]}
-  ],
-  "poolRounds" : [
-    [0.5, 1],
-    [0.5, 2]
-  ]
-  } ]
-]
-},
-{ "op" : "add",
-"path" : "/eecMustardHarvest",
-"value" : [
-  [0, {
-  "pool" : [
-    {"weight" : 0.1, "item" : ["eecmustardseed", 7]},
-    {"weight" : 0.2, "item" : ["eecmustardseed", 6]},
-    {"weight" : 0.35, "item" : ["eecmustardseed", 5]},
-    {"weight" : 0.2, "item" : ["plantfibre", 2]},
-    {"weight" : 0.1, "item" : ["plantfibre", 3]},
-    {"weight" : 0.05, "item" : ["plantfibre", 4]}
-  ],
-  "poolRounds" : [
-    [0.4, 1],
-    [0.6, 2]
-  ]
-  } ]
-]
-},
-{ "op" : "add",
-"path" : "/eecMustardHarvest2",
-"value" : [
-  [0, {
-  "pool" : [
-    {"weight" : 0.1, "item" : ["eecmustardseed", 8]},
-    {"weight" : 0.2, "item" : ["eecmustardseed", 7]},
-    {"weight" : 0.4, "item" : ["eecmustardseed", 6]},
-    {"weight" : 0.2, "item" : ["plantfibre", 4]},
-    {"weight" : 0.1, "item" : ["plantfibre", 5]}
-  ],
-  "poolRounds" : [
-    [0.5, 1],
-    [0.5, 2]
-  ]
-  } ]
-]
-},
-{ "op" : "add",
-"path" : "/eecMustardHarvest3",
-"value" : [
-  [0, {
-  "pool" : [
-    {"weight" : 0.1, "item" : ["eecmustardseed", 9]},
-    {"weight" : 0.2, "item" : ["eecmustardseed", 8]},
-    {"weight" : 0.4, "item" : ["eecmustardseed", 7]},
-    {"weight" : 0.2, "item" : ["plantfibre", 5]},
-    {"weight" : 0.1, "item" : ["plantfibre", 6]}
-  ],
-  "poolRounds" : [
-    [0.5, 1],
-    [0.5, 2]
-  ]
-  } ]
-]
-},
-{ "op" : "add",
-"path" : "/eecGingerHarvest",
-"value" : [
-  [0, {
-  "pool" : [
-    {"weight" : 0.05, "item" : ["eecginger", 3]},
-    {"weight" : 0.1, "item" : ["eecginger", 2]},
-    {"weight" : 0.45, "item" : ["eecginger", 1]},
-    {"weight" : 0.2, "item" : ["plantfibre", 2]},
-    {"weight" : 0.15, "item" : ["plantfibre", 3]},
-    {"weight" : 0.05, "item" : ["plantfibre", 4]}
-  ],
-  "poolRounds" : [
-    [0.8, 1],
-    [0.2, 2]
-  ]
-  } ]
-]
-},
-{ "op" : "add",
-"path" : "/eecGingerHarvest2",
-"value" : [
-  [0, {
-  "pool" : [
-    {"weight" : 0.1, "item" : ["eecginger", 3]},
-    {"weight" : 0.2, "item" : ["eecginger", 2]},
-    {"weight" : 0.4, "item" : ["eecginger", 1]},
-    {"weight" : 0.25, "item" : ["plantfibre", 2]},
-    {"weight" : 0.05, "item" : ["plantfibre", 4]}
-  ],
-  "poolRounds" : [
-    [0.7, 1],
-    [0.3, 2]
-  ]
-  } ]
-]
-},
-{ "op" : "add",
-"path" : "/eecGingerHarvest3",
-"value" : [
-  [0, {
-  "pool" : [
-    {"weight" : 0.15, "item" : ["eecginger", 3]},
-    {"weight" : 0.3, "item" : ["eecginger", 2]},
-    {"weight" : 0.25, "item" : ["eecginger", 1]},
-    {"weight" : 0.15, "item" : ["plantfibre", 3]},
-    {"weight" : 0.1, "item" : ["plantfibre", 4]},
-    {"weight" : 0.05, "item" : ["plantfibre", 5]}
-  ],
-  "poolRounds" : [
-    [0.6, 1],
-    [0.4, 2]
-  ]
-  } ]
-]
-}
+    "path" : "/candabeanjellharvest",
+    "value" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.3, "item" : ["kyroxbeanjellpetal", 3]},
+          {"weight" : 0.55, "item" : ["kyroxbeanjellpetal", 2]},
+          {"weight" : 0.1, "item" : ["plantfibre", 2]},
+          {"weight" : 0.05, "item" : ["plantfibre", 3]}
+        ],
+        "poolRounds" : [ [0.4, 1], [0.6, 2] ]
+        } ]
+      ]
+  },
+  // [MARSHROOTS]
+  { "op" : "add",
+    "path" : "/candamarshrootharvest",
+    "value" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.1, "item" : ["kyroxmarshroot", 2]},
+          {"weight" : 0.7, "item" : ["kyroxmarshroot", 1]},
+          {"weight" : 0.15, "item" : ["plantfibre", 1]},
+          {"weight" : 0.05, "item" : ["plantfibre", 1]}
+        ],
+        "poolRounds" : [ [0.8, 1], [0.2, 2] ]
+        } ]
+      ]
+  },
+  // [COCOABERRIES]
+  { "op" : "add",
+    "path" : "/candacocoaberryharvest",
+    "value" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.1, "item" : ["kyroxcocoaberry", 4]},
+          {"weight" : 0.2, "item" : ["kyroxcocoaberry", 3]},
+          {"weight" : 0.4, "item" : ["kyroxcocoaberry", 2]},
+          {"weight" : 0.2, "item" : ["plantfibre", 1]},
+          {"weight" : 0.1, "item" : ["plantfibre", 2]}
+        ],
+        "poolRounds" : [ [0.4, 1], [0.6, 2] ]
+        } ]
+      ]
+  },
+  // [BLACK LICO]
+  { "op" : "add",
+    "path" : "/candablacklicoharvest",
+    "value" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.05, "item" : ["kyroxblacklico", 3]},
+          {"weight" : 0.1, "item" : ["kyroxblacklico", 2]},
+          {"weight" : 0.6, "item" : ["kyroxblacklico", 1]},
+          {"weight" : 0.25, "item" : ["plantfibre", 3]}
+        ],
+        "poolRounds" : [ [0.5, 1], [0.5, 2] ]
+        } ]
+      ]
+  },
+  //---------------
+  //     GFOW
+  //   harvests
+  //---------------
+  // [BREADON]
+  { "op" : "add",
+    "path" : "/webBreadonHarvest",
+    "value" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.1, "item" : ["gfowbreadon", 3]},
+          {"weight" : 0.2, "item" : ["gfowbreadon", 2]},
+          {"weight" : 0.497, "item" : ["gfowbreadon", 1]},
+          {"weight" : 0.002, "item" : ["gfowbreadonlorumdiseased", 1]},
+          {"weight" : 0.001, "item" : ["gfowbreadonlorumdiseased", 2]},
+          {"weight" : 0.15, "item" : ["plantfibre", 2]},
+          {"weight" : 0.05, "item" : ["plantfibre", 3]}
+        ],
+        "poolRounds" : [ [0.5, 1], [0.5, 2] ]
+        } ]
+      ]
+  },
+  // [COREX]
+  { "op" : "add",
+    "path" : "/webCorexHarvest",
+    "value" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.7, "item" : ["gfowcorexpod", 1]},
+          {"weight" : 0.05, "item" : ["plantfibre", 3]},
+          {"weight" : 0.1, "item" : ["plantfibre", 2]},
+          {"weight" : 0.15, "item" : ["plantfibre", 1]}
+        ],
+        "poolRounds" : [ [0.8, 1], [0.2, 2] ]
+        } ]
+      ]
+  },
+  // [KARADIAN CARROT]
+  { "op" : "add",
+    "path" : "/webKaradiancarrotHarvest",
+    "value" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.9, "item" : ["gfowkaradiancarrot", 1]},
+          {"weight" : 0.1, "item" : ["plantfibre", 1]}
+        ],
+        "poolRounds" : [ [0.8, 1], [0.2, 2] ]
+        } ]
+      ]
+    },
+  //---------------
+  // extended earth
+  //     crops
+  //    harvests
+  //---------------
+  // [STRAWBERRIES]
+  { "op" : "add",
+    "path" : "/eecstrawberryHarvest",
+    "value" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.05, "item" : ["eecstrawberry", 5]},
+          {"weight" : 0.1, "item" : ["eecstrawberry", 4]},
+          {"weight" : 0.2, "item" : ["eecstrawberry", 3]},
+          {"weight" : 0.55, "item" : ["eecstrawberry", 2]},
+          {"weight" : 0.1, "item" : ["plantfibre", 2]}
+        ],
+        "poolRounds" : [ [0.5, 1], [0.5, 2] ]
+        } ]
+      ]
+  },
+  { "op" : "add",
+    "path" : "/eecstrawberryunripeHarvest",
+    "value" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.05, "item" : ["eecstrawberryunripe", 5]},
+          {"weight" : 0.1, "item" : ["eecstrawberryunripe", 4]},
+          {"weight" : 0.2, "item" : ["eecstrawberryunripe", 3]},
+          {"weight" : 0.55, "item" : ["eecstrawberryunripe", 2]},
+          {"weight" : 0.07, "item" : ["plantfibre", 4]},
+          {"weight" : 0.02, "item" : ["plantfibre", 6]},
+          {"weight" : 0.01, "item" : ["plantfibre", 8]}
+        ],
+        "poolRounds" : [ [0.5, 1], [0.5, 2] ]
+        } ]
+      ]
+  },
+  // [BEETS]
+  { "op" : "add",
+    "path" : "/eecBeetHarvest",
+    "value" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.65, "item" : ["eecbeet", 1]},
+          {"weight" : 0.2, "item" : ["plantfibre", 3]},
+          {"weight" : 0.1, "item" : ["plantfibre", 4]},
+          {"weight" : 0.05, "item" : ["plantfibre", 5]}
+        ],
+        "poolRounds" : [ [0.5, 1], [0.5, 2] ]
+        } ]
+      ]
+  },
+  // [MUSTARD]
+  { "op" : "add",
+    "path" : "/eecMustardHarvest",
+    "value" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.1, "item" : ["eecmustardseed", 7]},
+          {"weight" : 0.2, "item" : ["eecmustardseed", 6]},
+          {"weight" : 0.35, "item" : ["eecmustardseed", 5]},
+          {"weight" : 0.2, "item" : ["plantfibre", 2]},
+          {"weight" : 0.1, "item" : ["plantfibre", 3]},
+          {"weight" : 0.05, "item" : ["plantfibre", 4]}
+        ],
+        "poolRounds" : [ [0.4, 1], [0.6, 2] ]
+        } ]
+      ]
+  },
+  { "op" : "add",
+    "path" : "/eecMustardHarvest2",
+    "value" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.1, "item" : ["eecmustardseed", 8]},
+          {"weight" : 0.2, "item" : ["eecmustardseed", 7]},
+          {"weight" : 0.4, "item" : ["eecmustardseed", 6]},
+          {"weight" : 0.2, "item" : ["plantfibre", 4]},
+          {"weight" : 0.1, "item" : ["plantfibre", 5]}
+        ],
+        "poolRounds" : [ [0.5, 1], [0.5, 2] ]
+        } ]
+      ]
+  },
+  { "op" : "add",
+    "path" : "/eecMustardHarvest3",
+    "value" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.1, "item" : ["eecmustardseed", 9]},
+          {"weight" : 0.2, "item" : ["eecmustardseed", 8]},
+          {"weight" : 0.4, "item" : ["eecmustardseed", 7]},
+          {"weight" : 0.2, "item" : ["plantfibre", 5]},
+          {"weight" : 0.1, "item" : ["plantfibre", 6]}
+        ],
+        "poolRounds" : [ [0.5, 1], [0.5, 2] ]
+        } ]
+      ]
+  },
+  // [GINGER]
+  { "op" : "add",
+    "path" : "/eecGingerHarvest",
+    "value" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.05, "item" : ["eecginger", 3]},
+          {"weight" : 0.1, "item" : ["eecginger", 2]},
+          {"weight" : 0.45, "item" : ["eecginger", 1]},
+          {"weight" : 0.2, "item" : ["plantfibre", 2]},
+          {"weight" : 0.15, "item" : ["plantfibre", 3]},
+          {"weight" : 0.05, "item" : ["plantfibre", 4]}
+        ],
+        "poolRounds" : [ [0.8, 1], [0.2, 2] ]
+        } ]
+      ]
+  },
+  { "op" : "add",
+    "path" : "/eecGingerHarvest2",
+    "value" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.1, "item" : ["eecginger", 3]},
+          {"weight" : 0.2, "item" : ["eecginger", 2]},
+          {"weight" : 0.4, "item" : ["eecginger", 1]},
+          {"weight" : 0.25, "item" : ["plantfibre", 2]},
+          {"weight" : 0.05, "item" : ["plantfibre", 4]}
+        ],
+        "poolRounds" : [ [0.7, 1], [0.3, 2] ]
+        } ]
+      ]
+  },
+  { "op" : "add",
+    "path" : "/eecGingerHarvest3",
+    "value" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.15, "item" : ["eecginger", 3]},
+          {"weight" : 0.3, "item" : ["eecginger", 2]},
+          {"weight" : 0.25, "item" : ["eecginger", 1]},
+          {"weight" : 0.15, "item" : ["plantfibre", 3]},
+          {"weight" : 0.1, "item" : ["plantfibre", 4]},
+          {"weight" : 0.05, "item" : ["plantfibre", 5]}
+        ],
+        "poolRounds" : [ [0.6, 1], [0.4, 2] ]
+        } ]
+      ]
+  }
 ]

@@ -15,6 +15,9 @@
     "dropPools" : [ ],
 
   "scriptConfig" : {
+    "offeredQuests" : [ "uceventderrot1" ],
+    "turnInQuests" : [ "uceventderrot1" ],
+
     "behavior" : "simple",
 
     "behaviorConfig" : {
@@ -29,7 +32,7 @@
       "converse" : {
         "default" : {
           "default" : [
-            "How's your farm going?"
+            "How's tha' farm goin'?"
           ]
         }
       }
