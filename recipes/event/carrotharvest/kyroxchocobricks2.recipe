@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "uceventpastelcarrot2", "count" : 20 }
+  ],
+  "output" : {
+    "item" : "kyroxchocobricks2",
+    "count" : 30
+  },
+  //"duration" : 0.0,
+  "groups"  : [ "ucevent1" ]
+}

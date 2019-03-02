@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "uceventpastelcarrot4", "count" : 12 }
+  ],
+  "output" : { "item" : "egg", "count" : 12 },
+  "groups" : [ "ucevent1" ]
+}

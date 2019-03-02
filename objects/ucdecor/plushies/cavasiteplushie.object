@@ -1,0 +1,29 @@
+{
+  "objectName" : "oovcavasiteplush",
+  "colonyTags" : [ "dev" ],
+  "rarity" : "rare",
+  "printable" : false,
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 350,
+  "description" : "It's a cavasite from The Origins of Vetpetmon!",
+  "shortdescription" : "Cavasite Plushie",
+
+  "floranDescription" : "It'sss a cavasite from The Originsss of Vetpetmon.",
+  "glitchDescription" : "Informative. A stuffed animal from a video game called The Origins of Vetpetmon.",
+
+  "inventoryIcon" : "iconcavasiteplushie.png",
+  "orientations" : [
+    {
+      "dualImage" : "cavasiteplushie.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

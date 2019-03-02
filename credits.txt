@@ -25,6 +25,7 @@ TankSlayer2
 
 Special thanks:
 
+The Origins of Vetpetmon - Sprites
 GitHub, for hosting pre-release builds of UC and helping with catching errors early on.
 The Starbound modding community, for helping modders learn how to mod Starbound.
 Chucklefish, for making Starbound.

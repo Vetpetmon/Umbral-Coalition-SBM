@@ -1,0 +1,29 @@
+{
+  "objectName" : "ucgoobyplushie",
+  "colonyTags" : [ "dev" ],
+  "rarity" : "rare",
+  "printable" : false,
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 350,
+  "description" : "A stuffed animal that resembles a slime named Gooby.",
+  "shortdescription" : "Gooby Plushie",
+
+  "floranDescription" : "Ssstuffed animal that resemblesss ssslime named Gooby",
+  "glitchDescription" : "Informative. A stuffed animal that resembles a slime named Gooby.",
+
+  "inventoryIcon" : "icongoobyplushie.png",
+  "orientations" : [
+    {
+      "dualImage" : "goobyplushie.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

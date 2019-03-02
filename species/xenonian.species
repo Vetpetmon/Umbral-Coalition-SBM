@@ -9,7 +9,7 @@
   "ouchNoises" : [ "/sfx/humanoid/xenonianhurt_male1.ogg", "/sfx/humanoid/xenonianhurt_female1.ogg" ],
   "charGenTextLabels" : [ "Skin color", "NONE", "Shirt", "Legwear", "Bioluminescence", "Toxin color", "Shirt color", "Legwear color", "XENONIAN", "Personality" ],
   "skull" : "/humanoid/xenonian/dead.png",
-  "effectDirectives" : "?replace=FEFFFFFF=daa7ffFF?replace=c573ffFF=a355ffFF?replace=31a6ffFF=7731ffFF",
+  "effectDirectives" : "?replace=FEFFFFFF=c573ffFF?replace=c573ffFF=a355ffFF?replace=31a6ffFF=7731ffFF",
   "defaultBlueprints" : {
     "tier1" : [
 
