@@ -6,5 +6,5 @@
     { "item" : "uceventpastelcarrot4", "count" : 200 }
   ],
   "output" : { "item" : "uclargenuclearcore", "count" : 1 },
-  "groups" : [ "ucevent1" ]
+  "groups" : [ "ucevent1", "all" ]
 }

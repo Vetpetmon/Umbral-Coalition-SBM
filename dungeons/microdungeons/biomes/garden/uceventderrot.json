@@ -29,34 +29,6 @@
         {
          "draworder":"topdown",
          "height":200,
-         "name":"objects",
-         "objects":[
-                {
-                 "gid":219,
-                 "height":64,
-                 "id":2,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":64,
-                 "x":424,
-                 "y":208
-                }],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "width":200,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "height":200,
          "name":"npcs",
          "objects":[
                 {
@@ -72,8 +44,8 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":312,
-                 "y":224
+                 "x":448,
+                 "y":168
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -98,10 +70,6 @@
         {
          "firstgid":196,
          "source":"..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/miscellaneous.json"
-        }, 
-        {
-         "firstgid":218,
-         "source":"..\/..\/..\/..\/tilesets\/objects\/events\/ucevent1objects.json"
         }],
  "tilewidth":8,
  "version":1,

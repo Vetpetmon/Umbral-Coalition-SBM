@@ -3,5 +3,5 @@
     { "item" : "uceventpastelcarrot1", "count" : 30 }
   ],
   "output" : { "item" : "ucbaseplantdnasample", "count" : 1 },
-  "groups" : [ "ucevent1" ]
+  "groups" : [ "ucevent1", "all" ]
 }

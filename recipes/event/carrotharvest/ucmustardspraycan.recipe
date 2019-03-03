@@ -3,5 +3,5 @@
     { "item" : "uceventpastelcarrot1", "count" : 150 }
   ],
   "output" : { "item" : "ucmustardspraycan", "count" : 1 },
-  "groups" : [ "ucevent1" ]
+  "groups" : [ "ucevent1", "all" ]
 }

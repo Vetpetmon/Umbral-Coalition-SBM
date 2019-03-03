@@ -6,7 +6,7 @@
   "moneyRange" : [0,0],
   "ephemeral" : true,
   "rewards" : [
-    [ [ "uceventpastelcarrot1", 3 ] ]
+    [ [ "uceventpastelcarrot1", 3 ], [ "uceventcarrotportal", 1 ] ]
   ],
 
   "updateDelta" : 100,
