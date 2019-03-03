@@ -1,0 +1,16 @@
+{
+	"id" : "uclimbocodex2",
+	"title" : "What is Limbo?",
+	"description" : "A survivor's quick lesson about the history of Limbo",
+	"icon" : "note.png",
+	"contentPages" : [
+    "Limbo was originally a normal universe. However, instead of getting wiped like normal with every major recreation, it outright died. Sorta. Some things still survived. But nothing new came back. All there was left was broken fragments, tears in the space-time continuum, and It.",
+		"It. The very being that caused this. It's own presence drives me mad. It seems to be everywhere, watching. Waiting. But what does It want? It already destroyed the world as we know it, and there's nothing left. Nothing. Except for It, and the very few things that survived.",
+		"All efforts before It destroyed the world were utterly useless. The Protectorate even resorted to throwing 100 nukes at it, but it still. Didn't. Work. Nothing could kill It. It was our new god. A god of chaos.",
+		"It was Pandora's box, and it had opened itself."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

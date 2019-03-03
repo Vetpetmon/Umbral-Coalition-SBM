@@ -1,0 +1,20 @@
+{
+	"id" : "uclimbocodex1",
+	"title" : "Checklist",
+	"description" : "Appears to be a checklist from one of the employes in Limbo.",
+	"icon" : "note.png",
+	"contentPages" : [
+    "- Lock the front doors
+		- Incinerate plates
+		(Man, why are these plates invincible?)
+		- Burn boxes
+		- Make sure I'm not in SCP-3008
+		(Thank god that's never going to happen)
+		- Question sanity",
+		"- ... Pray to God that I don't fall victim to that THING."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}
