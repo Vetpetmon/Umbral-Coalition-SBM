@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "uceventpastelcarrot1", "count" : 60 },
+    { "item" : "uceventpastelcarrot2", "count" : 60 },
+    { "item" : "uceventpastelcarrot3", "count" : 60 },
+    { "item" : "uceventpastelcarrot4", "count" : 60 },
+    { "item" : "uceventpastelcarrot5", "count" : 60 }
+  ],
+  "output" : { "item" : "icefluffaloegg", "count" : 1 },
+  "groups" : [ "ucevent1", "all" ]
+}
