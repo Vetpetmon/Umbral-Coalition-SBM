@@ -1,28 +1,28 @@
-{ "height":83,
+{ "height":48,
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJzt0gENhEAAA8HzrwIz+HoVZCk\/m1RB5z7nuh\/a0St66l9WvlftgJWtagus7FRbYGWr2gMrO9UeONmpNsHKTrUJVraqXbCyU+2ClZ1qF6zsVLtgZafaBSs71S5Y2al2wcpOtQtWdqpdsLJT7YKVnWoXrOxUu2Blp9oFKzvVLljZqXbByk61C1Z2ql2wslFtgpWdahOs7FSbYGWn2gQrO9UmWNmpNsHKTrUJVnaqTbCyUe2BlZ1qD6zsVHvgZafaAisb1Q5Y2al2wMpOtQNWNqoN8LJT\/T8rO9X\/87JT\/T0rG9W\/87JR\/TcrO9V\/s7JR\/TUvO9U\/87JR\/S8rG9Xf8rJT\/SsvG9V\/8rJR\/SMvG9X\/8bJR\/RsvG9V\/mZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ2X\/vB6bxs9s=",
+         "data":"eJzt0cEJAkEQRNHJPwqTMS\/xIMiKss52z9Thfah7wRtDkiRJu7qPcdv9QZ9xyYxLZlwy45IZl8y4ZMYlr6cJl7y4ZPZyYZMVl7zeTbjkxCUzLnkdTdhkxCWzby5s9sYlr18mbPZ0xoTL+rjkddaEzdr+dWHT34wJl95mTdj0dtWFTX0VJmxqqzRhU1OHCZtrdZqwmWuFiZmZmZmZmZmZze8BiryGQw==",
          "encoding":"base64",
-         "height":83,
+         "height":48,
          "name":"back",
          "opacity":0.800000011920929,
          "type":"tilelayer",
          "visible":true,
-         "width":139,
+         "width":102,
          "x":0,
          "y":0
         }, 
         {
          "compression":"zlib",
-         "data":"eJzt1zsOwjAURNFI7H9jwEJYBiAKPgLFCQ6TF86RpqKJ7dswDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB9nC7bjewU+zrWoqUTvSxjP\/L74Sdf0WZKJ3ppc1x4V4+NjfXWw5xO9PLZ0o1MbaiXbzrRy7N0Iy0NzdWjE73kG5i7Xm\/\/i1WXfmu9rF\/6ffVyt6b\/h6\/S72rtS0uf3+p0lD6j1ekmfS6r08qwgrNZjU7eSZ\/X6rTyTvoOrEYnvaXvdGvbuvT9bmX\/Jn3fFcdN+h28fX3p99RATd4ZAAAAAAAAAKCOMxXfcEw=",
+         "data":"eJzt0UkOwyAUREFLuf\/NcqjsIyI7ZmgwVVLv4b\/jAAAAAAAAAAAAAGA3r5Mx3lkTbca72mSFNu\/GS\/m3yextWndJ9LrbZOY2o7r06lXbZNY26S7fa3XnEesp3UGbsnQDbcrS999tV6XfaeVm6beYmdXsmOANpssKq5V+\/9PWUvovT1lP6b+tuIT0n3e5cyvp2+127zvc9LcPVzLuqw==",
          "encoding":"base64",
-         "height":83,
+         "height":48,
          "name":"front",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
-         "width":139,
+         "width":102,
          "x":0,
          "y":0
         }, 
@@ -32,7 +32,7 @@
          "name":"objects",
          "objects":[
                 {
-                 "gid":255,
+                 "gid":219,
                  "height":64,
                  "id":2,
                  "name":"",
@@ -44,8 +44,8 @@
                  "type":"",
                  "visible":true,
                  "width":64,
-                 "x":600,
-                 "y":368
+                 "x":424,
+                 "y":208
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -72,8 +72,8 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":488,
-                 "y":384
+                 "x":312,
+                 "y":224
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -101,13 +101,9 @@
         }, 
         {
          "firstgid":218,
-         "source":"..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/supports.json"
-        }, 
-        {
-         "firstgid":254,
          "source":"..\/..\/..\/..\/tilesets\/objects\/events\/ucevent1objects.json"
         }],
  "tilewidth":8,
  "version":1,
- "width":139
+ "width":102
 }
