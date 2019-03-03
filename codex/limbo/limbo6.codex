@@ -1,0 +1,16 @@
+{
+	"id" : "uclimbocodex6",
+	"title" : "A Possible Theory",
+	"description" : "Another note from the Overlord.",
+	"icon" : "note1.png",
+	"contentPages" : [
+    "There is no recovering this universe. It has been destroyed at it's core... But I still remain here.",
+		"I have found a weak spot in this universe that has allowed me limited access to another universe... This universe is far more different than it.",
+		"A presence of light and magic is in the universe I've discovered. I've taken a few samples of the matter from it, including a living being...",
+		"I could possibly introduce this primitive lifeform to space exploration... If only if I could get control of her mind..."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}
