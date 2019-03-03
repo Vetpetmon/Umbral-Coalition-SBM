@@ -1,0 +1,14 @@
+{
+	"id" : "uclimbocodex4",
+	"title" : "A Strange Message",
+	"description" : "A crytpic message from a powerful entity known as the Overlord.",
+	"icon" : "note1.png",
+	"contentPages" : [
+    "Forgotten, I must not be. Forgotten, my temple must not be. Forgiven, this creature must not be. All-powerful, I must be.",
+		"Standing, my statue will be."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

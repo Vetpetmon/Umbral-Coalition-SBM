@@ -1,0 +1,18 @@
+{
+	"id" : "uclimbocodex5",
+	"title" : "Once Upon a Universe...",
+	"description" : "A short passage explaining the history of that universe Limbo was once.",
+	"icon" : "note0.png",
+	"contentPages" : [
+    "Once upon a universe, two powerful entities had escaped the great wipe when their universes stablized themselves, and met each other in a new universe. One was the Timekeeper, the other was the Overlord.",
+		"The two ruled this universe for as long as time could tell. With both of them, their power was unstoppable. One controlled the flow of time, the other controlled the flow of matter and energy. Nothing could wipe them out, even if they tried.",
+		"But one day, something happened to the Timekeeper. When the Azaragoths had invented time travel, they had gone in time to kill the Timekeeper before He entered the universe.",
+		"That is why the Overlord became the most vile god in existance. She sore under every atom of the universe to destroy the Azargoth conquest for what they had done. The Overlord grew in power as she combined more of the forces of evil and madness into her, and forced everything to worship her, even the Great Old Ones...",
+		"The Overlord was imprisoned by the Vanokkians on cybersphere for millions of orbits, Her powers ultimately suppressed. But, the Overlord was the most clever being alive. Nothing could hold Her back for long. She escaped, and regained Her power. She cursed the Vanokkians' homeworld, and put the blame on the Azaragoths. The Vanokkians would soon unknowingly help Her..."
+		"... If it were not for the end of the universe, She would have succeeded.",
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}
