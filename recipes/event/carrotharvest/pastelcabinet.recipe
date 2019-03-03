@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "uceventpastelcarrot1", "count" : 35 },
+    { "item" : "uceventpastelcarrot2", "count" : 35 },
+    { "item" : "uceventpastelcarrot3", "count" : 35 },
+    { "item" : "uceventpastelcarrot4", "count" : 35 },
+    { "item" : "uceventpastelcarrot5", "count" : 35 }
+  ],
+  "output" : { "item" : "pastelcabinet", "count" : 1 },
+  "groups" : [ "ucevent1", "all" ]
+}
