@@ -1,0 +1,19 @@
+{
+	"id" : "uclimbocodex3",
+	"title" : "The Last Words of The Overlord",
+	"description" : "The last words of a powerful entity that had once lived in Limbo",
+	"icon" : "note1.png",
+	"contentPages" : [
+    "I am the Overlord of this universe. And I have been defeated.",
+		"Something new was added into this universe, and it won't play nicely with the old stuff. It began to purge everything that was old.",
+		"I've lost 5000 years of history... Temples... Cities... Worlds... To some box that came only to destroy everyting.",
+		"I'm only a god of space... Not time... The god of time... He died far before He could be able to stop this thing.",
+		"I have no choice but to watch this universe fall apart... And be forgotten.
+
+		- J. H."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}
