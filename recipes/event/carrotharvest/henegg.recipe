@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "uceventpastelcarrot1", "count" : 25 },
+    { "item" : "uceventpastelcarrot2", "count" : 25 },
+    { "item" : "uceventpastelcarrot3", "count" : 25 },
+    { "item" : "uceventpastelcarrot4", "count" : 25 },
+    { "item" : "uceventpastelcarrot5", "count" : 25 }
+  ],
+  "output" : { "item" : "henegg", "count" : 1 },
+  "groups" : [ "ucevent1", "all" ]
+}

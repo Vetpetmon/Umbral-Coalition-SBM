@@ -3,7 +3,8 @@
     { "item" : "uceventpastelcarrot1", "count" : 200 },
     { "item" : "uceventpastelcarrot2", "count" : 200 },
     { "item" : "uceventpastelcarrot3", "count" : 200 },
-    { "item" : "uceventpastelcarrot4", "count" : 200 }
+    { "item" : "uceventpastelcarrot4", "count" : 200 },
+    { "item" : "uceventpastelcarrot5", "count" : 200 }
   ],
   "output" : { "item" : "uclargenuclearcore", "count" : 1 },
   "groups" : [ "ucevent1", "all" ]

@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "uceventpastelcarrot1", "count" : 1 },
+    { "item" : "uceventpastelcarrot2", "count" : 1 },
+    { "item" : "uceventpastelcarrot3", "count" : 1 },
+    { "item" : "uceventpastelcarrot4", "count" : 1 },
+    { "item" : "uceventpastelcarrot5", "count" : 1 }
+  ],
+  "output" : { "item" : "flowerygrassseeds", "count" : 1 },
+  "groups" : [ "ucevent1", "all" ]
+}

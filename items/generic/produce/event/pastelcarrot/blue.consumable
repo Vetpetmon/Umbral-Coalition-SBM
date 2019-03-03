@@ -1,0 +1,20 @@
+{
+  "itemName" : "ucpastelcarrot5",
+  "rarity" : "Common",
+  "price" : 30,
+  "category" : "food",
+  "eventCategory" : "eventCrop",
+  "inventoryIcon" : "blue.png",
+  "description" : "A strange carrot.",
+  "shortdescription" : "Pastel Carrot",
+  "foodValue" : 3,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 20.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+  //"learnBlueprintsOnPickup" : [ "uceventpastelcarrot1seed" ]
+}

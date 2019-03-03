@@ -1,0 +1,52 @@
+{
+  "objectName" : "uceventpastelcarrot5",
+  "colonyTags" : ["nature", "farmer", "derrot"],
+  "rarity" : "Common",
+  "category" : "seed",
+  "description" : "A brighter and sweeter carrot.",
+  "shortdescription" : "Pastel carrot seed",
+  "objectType" : "farmable",
+  "printable" : false,
+  "price" : 10,
+
+  "inventoryIcon" : "bluecarroticon.png",
+
+  "tooltipKind" : "seed",
+  "largeImage" : "bluecarrot.png:default.3.0",
+
+
+  "orientations" : [
+    {
+      "dualImage" : "bluecarrot.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "requireTilledAnchors" : true,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "radioMessagesOnPickup" : [ "pickupseed" ],
+
+  "stages" : [
+    {
+      "duration" : [150, 160] //1
+    },
+    {
+      "duration" : [150, 160] //2
+    },
+    {
+      "duration" : [150, 160] //3
+    },
+    { //4
+      "alts" : 5,
+      "harvestPool" : "ucpastelcarrot4Harvest",
+      "resetToStage" : 1
+    }
+  ],
+
+  "maxImmersion" : 0.125
+}
