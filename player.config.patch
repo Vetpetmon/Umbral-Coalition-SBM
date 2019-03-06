@@ -58,6 +58,12 @@
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "candyblock" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "bearplush" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "badgooplush" } },
+
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uceventpastelcarrot1" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uceventpastelcarrot2" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uceventpastelcarrot3" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uceventpastelcarrot4" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uceventpastelcarrot5" } },
   //kyrox crafting materials
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "kyroxchocobrick" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "kyroxchocopowder" } },
