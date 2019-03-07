@@ -28,7 +28,7 @@
     "class" : "MeleeSlash",
 
     "fireTime" : 0.32,
-    "baseDps" : 6.2,
+    "baseDps" : 7.3,
     "damageConfig" : {
       "damageSourceKind" : "dagger",
       "statusEffects" : [ ],
