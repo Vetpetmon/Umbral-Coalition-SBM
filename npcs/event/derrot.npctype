@@ -32,9 +32,7 @@
       "converse" : {
         "default" : {
           "default" : [
-            "How's tha' farm goin'?",
-“If ya could, please find tha’ little bugger...”,
-“I hope it aint around ‘ere when I r’plant.”
+            "How's tha' farm goin'?"
           ]
         }
       }
