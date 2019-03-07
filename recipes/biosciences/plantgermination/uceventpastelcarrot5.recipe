@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "ucpastelcarrot5", "count" : 3 },
+    { "item" : "dirtmaterial", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "uceventpastelcarrot5",
+    "count" : 1
+  },
+  "duration" : 0.5,
+  "groups"  : [ "ucseedroots", "ucseeds", "all" ]
+}
