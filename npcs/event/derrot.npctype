@@ -24,7 +24,7 @@
       "alwaysRun" : false,
       "wanderWaitTime" : [4.0, 8.0],
       "wanderTime" : [0.25, 0.5],
-      "wanderDistance" : 5
+      "wanderDistance" : 20
     },
 
     "dialogMode" : "sequence",
@@ -32,7 +32,9 @@
       "converse" : {
         "default" : {
           "default" : [
-            "How's tha' farm goin'?"
+            "How's tha' farm goin'?",
+“If ya could, please find tha’ little bugger...”,
+“I hope it aint around ‘ere when I r’plant.”
           ]
         }
       }
