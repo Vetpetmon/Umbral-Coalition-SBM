@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "wheat", "count" : 2 },
+    { "item" : "wheat", "count" : 3 },
     { "item" : "dirtmaterial", "count" : 1 }
   ],
   "output" : {
