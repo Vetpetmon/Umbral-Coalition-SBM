@@ -2,16 +2,16 @@
   "uclimboghostsmall": [
     [1, {
       "pool" : [
-        {"weight" : 0.8, "item" : "ucnightmaricconcentrate"},
-        {"weight" : 0.2, "item" : ["ucnightmaricconcentrate", 2]}
+        {"weight" : 0.9, "item" : "ucnightmaricconcentrate"},
+        {"weight" : 0.1, "item" : ["ucnightmaricconcentrate", 2]}
       ]
     } ]
   ],
   "uclimboghostlarge": [
     [1, {
       "pool" : [
-        {"weight" : 0.8, "item" : ["ucnightmaricconcentrate", 2]},
-        {"weight" : 0.2, "item" : ["ucnightmaricconcentrate", 3]}
+        {"weight" : 0.9, "item" : ["ucnightmaricconcentrate", 2]},
+        {"weight" : 0.1, "item" : ["ucnightmaricconcentrate", 3]}
       ]
     } ]
   ]
