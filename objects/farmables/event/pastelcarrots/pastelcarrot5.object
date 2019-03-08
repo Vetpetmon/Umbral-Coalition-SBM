@@ -43,7 +43,7 @@
     },
     { //4
       "alts" : 5,
-      "harvestPool" : "ucpastelcarrot4Harvest",
+      "harvestPool" : "ucpastelcarrot5Harvest",
       "resetToStage" : 1
     }
   ],
