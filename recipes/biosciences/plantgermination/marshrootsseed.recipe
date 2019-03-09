@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "kyroxmarshroot", "count" : 5 },
+    { "item" : "kyroxsugardirt", "count" : 1 }
+  ],
+  "duration" : 0.5,
+  "output" : { "item" : "kyroxmarshrootsseed", "count" : 1 },
+  "groups" : [ "ucseedroots", "ucseeds", "all" ]
+}

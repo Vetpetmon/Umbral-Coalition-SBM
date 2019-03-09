@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "kyroxbeanjellpetal", "count" : 5 },
+    { "item" : "kyroxsugardirt", "count" : 1 }
+  ],
+  "duration" : 0.5,
+  "output" : { "item" : "kyroxbeanjellseed", "count" : 1 },
+  "groups" : [ "ucseedfruits", "ucseeds", "all" ]
+}
