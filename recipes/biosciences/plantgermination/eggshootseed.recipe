@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "eggshoot", "count" : 3 },
+    { "item" : "dirtmaterial", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "eggshootseed",
+    "count" : 1
+  },
+  "duration" : 0.5,
+  "groups"  : [ "ucseedroots", "ucseeds", "all" ]
+}

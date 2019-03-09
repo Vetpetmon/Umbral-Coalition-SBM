@@ -1,10 +1,10 @@
 {
   "input" : [
-    { "item" : "banana", "count" : 5 },
+    { "item" : "beakseed", "count" : 3 },
     { "item" : "sand2", "count" : 1 }
   ],
   "output" : {
-    "item" : "bananaseed",
+    "item" : "beakseedseed",
     "count" : 2
   },
   "duration" : 0.5,
