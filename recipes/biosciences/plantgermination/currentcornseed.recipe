@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "currentcorn", "count" : 3 },
+    { "item" : "dirtmaterial", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "currentcornseed",
+    "count" : 1
+  },
+  "duration" : 0.5,
+  "groups"  : [ "ucseedroots", "ucseeds", "all" ]
+}

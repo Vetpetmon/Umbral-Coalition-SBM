@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "boneboo", "count" : 3 },
+    { "item" : "mud", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "bonebooseed",
+    "count" : 2
+  },
+  "duration" : 0.5,
+  "groups"  : [ "ucseedfruits", "ucseeds", "all" ]
+}
