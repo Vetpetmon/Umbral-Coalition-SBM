@@ -16,5 +16,5 @@
   "blockingEffects" : [
     "wellfed"
   ],
-  "learnBlueprintsOnPickup" : [ "chocolate" , "kyroxchocolatedrop" ]
+  "learnBlueprintsOnPickup" : [ "chocolate", "kyroxchocolatedrop", "kyroxblacklicoseed" ]
 }

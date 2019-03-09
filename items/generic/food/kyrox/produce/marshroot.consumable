@@ -14,6 +14,7 @@
   "maxStack" : 1000,
   "itemAgingScripts" : ["/scripts/items/rotting.lua"],
   "rottingMultiplier" : 0.8,
+  "learnBlueprintsOnPickup" : [ "kyroxmarshrootsseed" ],
   "blockingEffects" : [
     "wellfed"
   ]

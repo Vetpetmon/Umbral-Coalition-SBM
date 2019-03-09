@@ -23,7 +23,7 @@
   "maxStack" : 1000,
   "itemAgingScripts" : ["/scripts/items/rotting.lua"],
   "rottingMultiplier" : 4.0,
-  "learnBlueprintsOnPickup" : [ "kyroxstarbornhead", "kyroxstarbornchest" ],
+  "learnBlueprintsOnPickup" : [ "kyroxblacklicoseed" ], //"kyroxstarbornhead", "kyroxstarbornchest"
   "blockingEffects" : [
     "wellfed"
   ]
