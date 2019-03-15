@@ -50,24 +50,29 @@
       "duration" : [100, 140] //2
     },
     {
-      "duration" : [100, 140] //3
+      "duration" : [140, 180] //3
     },
     {
-      "duration" : [100, 140] //4
+      "duration" : [200, 240] //4
     },
     {
-      "duration" : [140, 180] //5
+      "duration" : [240, 280] //5
     },
     {
-      "duration" : [180, 240], //6
+      "duration" : [280, 340], //6
       "alts" : 1,
-      "harvestPool" : "ucstrawberryunripeHarvest",
+      "harvestPool" : "eecstrawberryunripeHarvest",
       "resetToStage" : 4
     },
     {
-      "alts" : 1,
-      "harvestPool" : "ucstrawberryHarvest",
-      "resetToStage" : 4
+      "alts" : 7,
+      "harvestPool" : "eecstrawberryHarvest", //7
+      "resetToStage" : 4,
+      "duration" : [12800, 13400]
+    },
+    {
+      "harvestPool" : "ucRottenPlantSmall", //Rotten
+      "resetToStage" : 1
     }
   ],
   "breakDropOptions" : [
