@@ -47,6 +47,11 @@
     { //5
       "alts" : 17,
       "harvestPool" : "eecGingerHarvest",
+      "resetToStage" : 1,
+      "duration" : [12800, 13400]
+    },
+    {
+      "harvestPool" : "ucRottenPlantSmall", //Rotten
       "resetToStage" : 1
     }
   ],

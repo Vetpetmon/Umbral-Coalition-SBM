@@ -53,7 +53,12 @@
     { //7
       "alts" : 7,
       "harvestPool" : "eecMustardHarvest",
-      "resetToStage" : 4
+      "resetToStage" : 4,
+      "duration" : [12800, 13400]
+    },
+    {
+      "harvestPool" : "ucRottenPlantMedium", //Rotten
+      "resetToStage" : 1
     }
   ],
 

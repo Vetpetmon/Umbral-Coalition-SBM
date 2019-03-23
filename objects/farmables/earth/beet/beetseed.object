@@ -44,6 +44,11 @@
     { //4
       "alts" : 9,
       "harvestPool" : "eecBeetseedHarvest",
+      "resetToStage" : 1,
+      "duration" : [12800, 13400]
+    },
+    {
+      "harvestPool" : "ucRottenPlantSmall", //Rotten
       "resetToStage" : 1
     }
   ],
