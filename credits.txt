@@ -16,7 +16,7 @@ TankSlayer2 - Made some of the concepts for GFOW that were migrated to here.
 Arcticcloud - Lore
 Sky - Sprited the Candy Corn Assault Rifle, Candy knife, and Gumball MACHINE-gun.
 Slugbait - Kyroxian Seed Germination Station sprite
-Inferus[RF] - Sprited Marshmallow spear
+Inferus[RF] - Sprited Marshmallow spear, T1-3 Handleguns
 
 Testers:
 Slugbait
