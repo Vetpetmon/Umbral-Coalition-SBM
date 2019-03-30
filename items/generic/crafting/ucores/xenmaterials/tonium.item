@@ -1,0 +1,11 @@
+{
+  "itemName": "uctonium",
+  "rarity": "common",
+  "price": 150,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "tonium.png",
+  "description" : "A hexagonal prism of toxic tonium.",
+  "shortdescription" : "Tonium",
+  //"learnBlueprintsOnPickup" : [ ],
+  "itemTags" : [ "reagent" ]
+}

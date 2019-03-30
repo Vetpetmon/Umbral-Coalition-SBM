@@ -1,0 +1,11 @@
+{
+  "itemName": "uclighttonium",
+  "rarity": "common",
+  "price": 250,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "lighttonium.png",
+  "description" : "A hexagonal prism of toxic tonium. This one is more pure and is stronger.",
+  "shortdescription" : "Light Tonium",
+  //"learnBlueprintsOnPickup" : [ ],
+  "itemTags" : [ "reagent" ]
+}
