@@ -1,0 +1,15 @@
+{
+  "projectileName" : "ucobliteratorlazer",
+  "image" : "OBLITERATORlazer.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "OBLITERATORlazerico.png",
+  "damagePoly" : [ [-8, -4], [-8, 4], [4, 4], [4, -4] ],
+  "pointLight" : false,
+  "lightColor" : [255, 10, 10],
+  "power" : 80,
+  "speed" : 40,
+  "piercing" : true,
+  "damageKind" : "plasma",
+  "damageType" : "IgnoresDef"
+}
