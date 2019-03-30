@@ -1,0 +1,64 @@
+{
+  "objectName" : "xenoniancanningtablelight",
+  "colonyTags" : [ "xenonian", "foodfactory" ],
+  "rarity" : "Essential",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/xencanningtable.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "Canning Table",
+        "subtitle" : "Can produce to extend their shelf life.",
+        "icon" : {
+          "file" : "/interface/crafting/uccanningtableicon.png"
+        }
+      }
+    },
+    "filter" : [ "uccanned" ]
+  },
+  "printable" : false,
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 250,
+  "description" : "This table includes everything needed to preserve food.",
+  "subtitle" : "Can food for preservation.",
+  "shortdescription" : "^orange;Canning Table^reset;",
+
+  "apexDescription" : "Why can food when you can just refridgerate it? That's what I'd do.",
+  "avianDescription" : "Canning food is just putting a layer of metal around food. Nothing else. Annoying, I know.",
+  "floranDescription" : "Floran eatsss food fressh only.",
+  "glitchDescription" : "Uninterested. Canning food does not make it more edible.",
+  "humanDescription" : "The supermarkets back on Earth sold canned food. Perhaps I could can my own food here.",
+  "hylotlDescription" : "It seems redundant to hide the beauty of a meal.",
+  "novakidDescription" : "Hey, this might be somethin' I'd have to know about!",
+
+  "xenonianDescription": "Putting perishable food in cans. Seems pretty effective.",
+
+  "webberDescription" : "We can preserve produce by canning on this table. It may not be perfect, but it still works wonders.",
+  "fiiDescription" : "Click-clack, produce is saved from rot by canning processes.",
+
+  "neonguetDescription" : "Canning food ruins the flavor. I don't need to can it anyway.",
+  "sharakoDescription" : "Produce is meant to be refridgerated, not placed into a metal container and forgtten about.",
+
+  //ERM support
+
+  "aegiDescription" : "Canning food isn't efficient, but seems to be effective.",
+  "avikanDescription" : "TODO",
+  "trinkDescription" : "TODO",
+  "drodenDescription" : "TODO",
+
+  "inventoryIcon" : "canningtableicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "xenoniancanningtablelight.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
