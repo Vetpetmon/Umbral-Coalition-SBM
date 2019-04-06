@@ -6,6 +6,7 @@
     { "item" : "uceventpastelcarrot4", "count" : 5 },
     { "item" : "uceventpastelcarrot5", "count" : 5 }
   ],
+  "duration" : 0,
   "output" : { "item" : "giantflowerpetal", "count" : 10 },
   "groups" : [ "ucevent1", "all" ]
 }

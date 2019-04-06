@@ -2,6 +2,7 @@
   "input" : [
     { "item" : "uceventpastelcarrot1", "count" : 100 }
   ],
+  "duration" : 0,
   "output" : { "item" : "carrothathead", "count" : 1 },
   "groups" : [ "ucevent1", "all" ]
 }

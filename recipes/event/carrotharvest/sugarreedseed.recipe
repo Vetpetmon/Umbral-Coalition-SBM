@@ -2,6 +2,7 @@
   "input" : [
     { "item" : "uceventpastelcarrot3", "count" : 30 }
   ],
+  "duration" : 0,
   "output" : { "item" : "kyroxsugarreedseed", "count" : 1 },
   "groups" : [ "ucevent1", "all" ]
 }

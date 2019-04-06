@@ -4,6 +4,7 @@
     { "item" : "uceventpastelcarrot2", "count" : 5 },
     { "item" : "uceventpastelcarrot4", "count" : 5 }
   ],
+  "duration" : 0,
   "output" : { "item" : "flowerbasket2", "count" : 1 },
   "groups" : [ "ucevent1", "all" ]
 }

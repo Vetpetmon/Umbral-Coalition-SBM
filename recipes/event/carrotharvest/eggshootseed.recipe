@@ -4,6 +4,7 @@
     { "item" : "uceventpastelcarrot3", "count" : 10 },
     { "item" : "uceventpastelcarrot5", "count" : 10 }
   ],
+  "duration" : 0,
   "output" : { "item" : "eggshootseed", "count" : 1 },
   "groups" : [ "ucevent1", "all" ]
 }

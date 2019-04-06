@@ -6,6 +6,6 @@
     "item" : "kyroxchocobricks",
     "count" : 30
   },
-  //"duration" : 0.0,
+  "duration" : 0,
   "groups"  : [ "ucevent1", "all" ]
 }

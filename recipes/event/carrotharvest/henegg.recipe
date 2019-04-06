@@ -6,6 +6,7 @@
     { "item" : "uceventpastelcarrot4", "count" : 25 },
     { "item" : "uceventpastelcarrot5", "count" : 25 }
   ],
+  "duration" : 0,
   "output" : { "item" : "henegg", "count" : 1 },
   "groups" : [ "ucevent1", "all" ]
 }

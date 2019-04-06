@@ -6,6 +6,7 @@
     { "item" : "uceventpastelcarrot4", "count" : 50 },
     { "item" : "uceventpastelcarrot5", "count" : 50 }
   ],
+  "duration" : 0,
   "output" : { "item" : "pasteltable", "count" : 1 },
   "groups" : [ "ucevent1", "all" ]
 }

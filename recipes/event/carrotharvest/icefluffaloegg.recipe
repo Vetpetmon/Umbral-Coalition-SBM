@@ -6,6 +6,7 @@
     { "item" : "uceventpastelcarrot4", "count" : 60 },
     { "item" : "uceventpastelcarrot5", "count" : 60 }
   ],
+  "duration" : 0,
   "output" : { "item" : "icefluffaloegg", "count" : 1 },
   "groups" : [ "ucevent1", "all" ]
 }
