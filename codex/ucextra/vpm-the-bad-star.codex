@@ -1,5 +1,6 @@
 {
 	"id" : "ucthebadstarcodex",
+	"species" : "human",
 	"title" : "The Bad Star",
 	"description" : "An old story told out in the deserts.",
 	"icon" : "yellowcover.png",
