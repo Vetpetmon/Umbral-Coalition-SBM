@@ -5,7 +5,7 @@
 	"icon" : "yellowcover.png",
 	//Written by: Vetpetmon
 	"contentPages" : [
-    "Out in the middle of nowhere, was a man and his camel, traveling north into the heart of the desert. It was night when the man took a break, taking a sip of water from a clay jar, and watched the stars.",
+		"Out in the middle of nowhere, was a man and his camel, traveling north into the heart of the desert. It was night when the man took a break, taking a sip of water from a clay jar, and watched the stars.",
 		"Six nights ago. A large, yellow-purple something had covered up the stars, and several red stars moved with the darkness. It had moved north, straight into the heart, and then left the sky. The tribespeople called it a visit from the mad god, others say it was the stars disappearing so the weak ones could reveal themselves. Ever since then, strange things began to walk around in the desert. They bounced, they slithered, and they crawled through moondust, and into dreams.",
 		"They walked over the mountains, the moon, and the aether. Such fantastic creatures, yet to be known.",
 		"The heart of the desert. A harsh, unforgiving place. Mountains surrounded it, and the tribes thanked the gods for hiding the hidious place from everyday view. Life ceased in the molten, dying heart of hatred. The heart that blindly melted flesh and bone, cacti and rock, even when the stars showed themselves in the heavens. The heart, so powerful, yet dying, sucked the life out of everything that came close, and there was no escape from it's energy.",
@@ -14,7 +14,7 @@
 		"The structure itself was not tall, but it did not look like a tent that the man was familiar with. A strange pattern of brown rectangles composed the walls and the ground around it, placed with such delicate yet precise accuracy and planning, a feat that was too far away from human grasp. Along the walls, stars lit the area, and the metal vines casted great, long shadows.",
 		"The man, too busy looking at the structure, did not see a large something stand near him.
 
-It took a strange, repeated noise to bring the man's attention to that something.",
+		It took a strange, repeated noise to bring the man's attention to that something.",
 		"The something was a red, oddly-shaped star, that did not shine, nor did it twinkle. It was supported by a chassis of purple metal, and stood at a impressive height of at least 3 feet taller than the man. It's bulky, rough design was made with such care and attention to detail and strength, and made it look almost organic, like it was a living being. It stood like a human, and yet, it was not human, rather, it was alien.",
 		"It's arms were covered in a material that allowed flexibility and mobility, and it's hands housed dangerously sharp claws that could rip through an elephant's skin with ease. It appeared to be a perfect mix of muscle and fat, based on it's overall shape, something more suited for a cold environment, not a desert.",
 		"A red, evil star, as evil as the heart of the desert itself. Was it the heart? The man did not know, all he knew was that it must have been in the area for a while, and thrived. It loomed over him, watching closely. Even while it slightly hunched over him, it still was taller, larger, and heavier than the man. It's pose made it look hungry for a foolish animal, one that was foolish enough to walk into the heart, to be emotionlessly be slain, but the bad star did not slay the man. Rather, it waited for the man to stop looking at it.",
@@ -26,18 +26,18 @@ It took a strange, repeated noise to bring the man's attention to that something
 		"There was a pause in all motion of the star as it continued to study the map, and then, without any prior warning, the strange, unsettling, motion happened again, but this time, it caved inwards at the beginning, and stopped midway through it's torso. It's clawed fingers fidgeted around behind the map, and it's head perked in different directions as it studied the map, which contained the tribe's greatest secrets; sites of resources, other tribes, trade routes, and special points of interest.",
 		"The star seemed to take great interest in this information, it's motives, unknown as what it would do with such prized, precious information that had kept the tribe in power of the region.
 
-Rolling the map back up, the star looked back up at the man, who was frozen alive by shock. His face displayed both great terror and fascination, mixed in together like salt and water.",
+		Rolling the map back up, the star looked back up at the man, who was frozen alive by shock. His face displayed both great terror and fascination, mixed in together like salt and water.",
 		"For a brief moment, when the man stared into the light of the star, he saw nothing but a dark void. In it, was the sound of screaming, some human, and some not. Bones, blood, and rot floated around unnaturally in zero gravity. Skulls, of humans and not humans, giggled and laughed in pain as they floated without bodies. Souls whispered throughout the void, chattering on and on about the world and it's horrors, and how it must all end.",
 		"The skulls would then chatter back to the souls, saying that the tentacled, formless horrors were not horrors, but instead, that the souls were the horrors. Whispering grew louder as they exposed more of humanity's sins, the voices putting pressure on the unfortunate brains that processed it. strange, sharp objects flew around into infinity, and sharp, loud sounds arrived all in different directions.",
 		"The man floated in the horror of a bloodied, cosmic battlefield, where sane and mad gods fought endlessly against each other, while humanity lived on, oblivious to the bloodshed in the sane, comprehensible dimension they lived in. Massive, multi-colored metal objects flew around the gruesome void in a frenzy, like mice trying to escape an unseen feline.",
 		"Fish things, as horrible as they smelled and looked, had giant spears lodged into their chests and heads, their unblinking expressions and open mouths frozen in time and space itself. Goats, as dark as the void, cried helplessly, their orange, snake-like eyes watching the bad star stab right into them, blinding the foul abominations without emotion. The star then turned to the man floating in the void, and thanked him.",
 		"Deep teal cultist robes, hiding a skeleton, passed in front of the man, and as it moved away, the star was seen again, this time, it's left hand was missing, and was replaced with a gaping mouth that emmited a bright red glow, and it was pointed straight at the man's head.
 
-\"... But I won't be needing you anymore.\"
+		\"... But I won't be needing you anymore.\"
 
-A horrific mechanical sound and bright red filled the void."
+		A horrific mechanical sound and bright red filled the void."
 	],
-		"itemConfig" : {
+	"itemConfig" : {
 		"rarity" : "rare",
 		"price" : 50
 	}
