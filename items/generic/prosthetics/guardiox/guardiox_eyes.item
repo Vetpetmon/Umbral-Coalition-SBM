@@ -1,0 +1,11 @@
+{
+  "itemName": "ucguardioxeyes",
+  "rarity": "legendary",
+  "price": 5000,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "eye.png",
+  "description" : "Advanced eyes that allow for different types of sight and viewing colors that most can not perceive.
+  ^green;+5% damage, (If FU is present) +10% crit chance^reset;",
+  "shortdescription" : "Guardiox Eyes",
+  "itemTags" : [ "reagent" ]
+}

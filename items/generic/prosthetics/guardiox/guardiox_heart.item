@@ -1,0 +1,11 @@
+{
+  "itemName": "ucguardioxheart",
+  "rarity": "legendary",
+  "price": 5000,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "heart.png",
+  "description" : "A massive, powerful artificial heart that enhances overall stamina of the organism.
+  ^green;+10% movement speed and +30 energy.^reset;",
+  "shortdescription" : "Guardiox Heart",
+  "itemTags" : [ "reagent" ]
+}
