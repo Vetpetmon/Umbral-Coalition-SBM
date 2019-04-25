@@ -5,7 +5,7 @@
   "category": "craftingMaterial",
   "inventoryIcon" : "eye.png",
   "description" : "Advanced eyes that allow for different types of sight and viewing colors that most can not perceive.
-  ^green;+5% damage, (If FU is present) +10% crit chance^reset;",
+  ^green;+5% damage^reset;,^blue; +10% crit chance (If FU is present)^reset;",
   "shortdescription" : "Guardiox Eyes",
   "itemTags" : [ "reagent" ]
 }

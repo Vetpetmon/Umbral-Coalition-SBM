@@ -1,0 +1,17 @@
+{
+	"id" : "uclimbocodex8",
+	"title" : "Forget the Azaragoths",
+	"description" : "Another note from the Overlord.",
+	"icon" : "note1.png",
+	"contentPages" : [
+    "Forget the azaragoths... I must defeat this thing... Yet, I am powerless.
+
+Even more powerless than a single bacterial cell...
+
+I can only bend the laws of physics to a certain extent, it's not enough to destroy It..."
+	],
+		"itemConfig" : {
+		"rarity" : "rare",
+		"price" : 25
+	}
+}

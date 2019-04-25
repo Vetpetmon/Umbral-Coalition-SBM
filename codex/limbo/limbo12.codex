@@ -1,0 +1,15 @@
+{
+	"id" : "uclimbocodex11",
+	"title" : "I Shall Uplift Them",
+	"description" : "Another note from the Overlord.",
+	"icon" : "note1.png",
+	"contentPages" : [
+"They all are now like-minded, united as one under my control.
+
+They will help me regain power, and in return, I shall uplift them."
+	],
+		"itemConfig" : {
+		"rarity" : "rare",
+		"price" : 25
+	}
+}

@@ -10,7 +10,7 @@
 		"I could possibly introduce this primitive lifeform to space exploration... If only if I could get control of her mind..."
 	],
 		"itemConfig" : {
-		"rarity" : "common",
+		"rarity" : "rare",
 		"price" : 25
 	}
 }

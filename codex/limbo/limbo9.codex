@@ -1,0 +1,18 @@
+{
+	"id" : "uclimbocodex9",
+	"title" : "Does the God Still Sleep?",
+	"description" : "Another note from the Overlord.",
+	"icon" : "note1.png",
+	"contentPages" : [
+    "It's been 500 years... They won't respond back. Not even Azathoth responds... Does the god still sleep?
+The god does not sleep,
+
+Nor is awake,
+
+For He no longer exists.",
+	],
+		"itemConfig" : {
+		"rarity" : "rare",
+		"price" : 25
+	}
+}

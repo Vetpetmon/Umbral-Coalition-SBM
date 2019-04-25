@@ -1,0 +1,17 @@
+{
+	"id" : "uclimbocodex11",
+	"title" : "I Had No Choice",
+	"description" : "Another note from the Overlord.",
+	"icon" : "note1.png",
+	"contentPages" : [
+"I have commanded the creature to build a starship in it's universe... And then it got slain by it's own kind over what they called \"witchcraft.\"
+
+I shall enslave their entire species.
+
+I have no choice."
+	],
+		"itemConfig" : {
+		"rarity" : "rare",
+		"price" : 25
+	}
+}

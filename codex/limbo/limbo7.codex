@@ -1,0 +1,15 @@
+{
+	"id" : "uclimbocodex7",
+	"title" : "It Must Not",
+	"description" : "Another note from the Overlord.",
+	"icon" : "note1.png",
+	"contentPages" : [
+    "C@&%H*(JHGT)(}[... C@&%H*(JHGT)(}[ is it's name. C@&%H*(JHGT)(}[ is that cursed thing's name.
+
+It must not live to do this again..."
+	],
+		"itemConfig" : {
+		"rarity" : "rare",
+		"price" : 25
+	}
+}

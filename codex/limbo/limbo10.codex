@@ -1,0 +1,29 @@
+{
+	"id" : "uclimbocodex10",
+	"title" : "That is the Cost",
+	"description" : "Another note from the Overlord.",
+	"icon" : "note1.png",
+	"contentPages" : [
+    "What is a universe,
+
+When Azathoth Himself is not there,
+
+Not dreaming,
+
+Not existing,
+
+Can a universe exist without Him?",
+
+"Certainly, at what cost?
+
+Everything. Order. Light. Energy.
+
+That is the cost.
+
+There is no reversing the end."
+	],
+		"itemConfig" : {
+		"rarity" : "rare",
+		"price" : 25
+	}
+}

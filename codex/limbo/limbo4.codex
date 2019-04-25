@@ -8,7 +8,7 @@
 		"Standing, my statue will be."
 	],
 		"itemConfig" : {
-		"rarity" : "common",
+		"rarity" : "rare",
 		"price" : 25
 	}
 }
