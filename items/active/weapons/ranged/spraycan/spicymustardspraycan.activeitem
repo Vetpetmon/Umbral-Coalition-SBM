@@ -29,7 +29,7 @@
         "fireEnd" : [ "/sfx/weapon/spraycan/spraycan-spray-end.ogg" ]
       }
     },
-    "baseOffset" : [0.0, -0.4],
+    "baseOffset" : [0.0, -0.6],
     "muzzleOffset" : [1.5, 0.125],
 
     "scripts" : ["/items/active/weapons/ranged/gun.lua"],
