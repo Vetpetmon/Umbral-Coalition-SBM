@@ -1,0 +1,15 @@
+{
+
+  "name" : "ucspicymustardsprayblindness",
+
+  "effectConfig" : {},
+
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "spicymustardsprayblindness.lua"
+  ],
+
+  "label" : "Blinded by spices!",
+  "icon" : "/interface/statuses/sprayblindness.png"
+}

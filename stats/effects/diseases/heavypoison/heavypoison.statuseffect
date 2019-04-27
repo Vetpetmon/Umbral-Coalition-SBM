@@ -4,7 +4,7 @@
 
   "effectConfig" : {
   },
-  "defaultDuration" : 120,
+  "defaultDuration" : 30,
 
   "scripts" : [
     "heavypoison.lua"

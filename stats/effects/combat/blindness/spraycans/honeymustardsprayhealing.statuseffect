@@ -1,0 +1,15 @@
+{
+
+  "name" : "uchoneymustardsprayhealing",
+
+  "effectConfig" : {},
+
+  "defaultDuration" : 1,
+
+  "scripts" : [
+    "honeymustardsprayhealing.lua"
+  ],
+
+  "label" : "Honey Mustard",
+  "icon" : "/interface/statuses/heal.png"
+}
