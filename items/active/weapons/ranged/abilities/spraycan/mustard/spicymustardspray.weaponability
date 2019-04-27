@@ -3,7 +3,7 @@
     "name" : "UCSprayCanMustardSpicy",
     "type" : "ucspraycanmustardspicy",
     "scripts" : ["/items/active/weapons/ranged/abilities/spraycan/mustard/mustardspray.lua"],
-    "class" : "UCSprayCanMustardSpicyAttack",
+    "class" : "UCSprayCanMustardAttack",
 
     "baseDps" : 10,
     "energyUsage" : 14,
