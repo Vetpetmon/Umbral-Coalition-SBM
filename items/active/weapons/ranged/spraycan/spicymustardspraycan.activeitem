@@ -36,8 +36,9 @@
 
     "elementalType" : "physical",
 
-    "primaryAbilityType" : "ucspraycanmustardspicy",
+    "primaryAbilityType" : "ucspraycanmustard",
     "primaryAbility" : {
+      "projectileType" : "ucspicymustardsprayparticle",
       "baseDps" : 10,
       "energyUsage" : 25
     },
