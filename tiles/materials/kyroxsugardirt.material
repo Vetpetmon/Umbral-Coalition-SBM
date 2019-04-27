@@ -14,7 +14,7 @@
   "footstepSound" : "/sfx/blocks/footstep_dirt.ogg",
   "tillableMod" : 32,
   "soil" : true,
-  "health" : 3,
+  "health" : 2,
   "category" : "materials",
 
   "renderTemplate" : "/tiles/classicmaterialtemplate.config",

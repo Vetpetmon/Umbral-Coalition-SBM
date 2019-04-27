@@ -12,7 +12,7 @@
   "webberDescription" : "No thanks, I'm not touching those.",
   "candavaswebberDescription": "The bricks of a fire temple.",
   "footstepSound" : "/sfx/blocks/footstep_stone2.ogg",
-  "health" : 14,
+  "health" : 10,
   "category" : "materials",
 
   "renderTemplate" : "/tiles/classicmaterialtemplate.config",

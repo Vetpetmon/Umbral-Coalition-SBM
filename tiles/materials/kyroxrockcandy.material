@@ -12,7 +12,7 @@
   "webberDescription" : "Inedible sugar.",
   "candavaswebberDescription": "Rock candy is some of the toughest stuff on kyrox.",
   "footstepSound" : "/sfx/blocks/footstep_stone2.ogg",
-  "health" : 12,
+  "health" : 6,
   "category" : "materials",
 
   "renderTemplate" : "/tiles/classicmaterialtemplate.config",

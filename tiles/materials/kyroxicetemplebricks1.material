@@ -12,7 +12,7 @@
   "webberDescription" : "It's a little bit slippery.",
   "candavaswebberDescription": "The bricks of an ice temple.",
   "footstepSound" : "/sfx/blocks/footstep_ice.ogg",
-  "health" : 14,
+  "health" : 10,
   "category" : "materials",
 
   "renderTemplate" : "/tiles/classicmaterialtemplate.config",

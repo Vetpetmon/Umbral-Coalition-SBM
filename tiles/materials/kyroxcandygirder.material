@@ -13,7 +13,7 @@
   "webberDescription" : "Rock candy seems tasty, should we lick it?",
   "candavaswebberDescription": "Rock candy is a very useful contruction material.",
   "footstepSound" : "/sfx/blocks/footstep_ice.ogg",
-  "health" : 15,
+  "health" : 5,
   "category" : "materials",
 
   "renderTemplate" : "/tiles/girdertemplate.config",
