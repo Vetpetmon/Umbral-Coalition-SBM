@@ -30,7 +30,7 @@
       }
     },
     "baseOffset" : [0.0, -0.6],
-    "muzzleOffset" : [1.5, 0.225],
+    "muzzleOffset" : [1.0, 0.45],
 
     "scripts" : ["/items/active/weapons/ranged/gun.lua"],
 
@@ -39,7 +39,7 @@
     "primaryAbilityType" : "ucspraycanmustard",
     "primaryAbility" : {
       "projectileType" : "ucspicymustardsprayparticle",
-      "baseDps" : 10,
+      "baseDps" : 6,
       "energyUsage" : 25
     },
 
