@@ -1,4 +1,4 @@
-[
+/*[
   //MICRODUNGEONS
   { "op" : "add",
 	 "path" : "/surfacePlaceables/items/-",
@@ -12,4 +12,4 @@
       "microdungeons" : [ "ucevent1microdungeon" ]
     }
   }
-]
+]*/
