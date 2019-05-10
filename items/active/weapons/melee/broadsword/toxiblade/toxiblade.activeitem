@@ -1,0 +1,38 @@
+{
+  "itemName" : "uctoxiblade",
+  "price" : 200,
+  "level" : 3,
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A simple sword with a poisonous blade.",
+  "shortdescription" : "Toxiblade",
+  "tooltipKind" : "sword",
+  "category" : "broadsword",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","melee","broadsword"],
+  "inventoryIcon" : "toxiblade.png",
+  "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "toxiblade.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : [ "/sfx/melee/swing_spear.ogg" ]
+    }
+},
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+  "elementalType" : "poison",
+  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbility" : {
+    "statusEffects" : [ "weakpoison" ],
+    "fireTime" : 0.59,
+    "baseDps" : 17
+  },
+
+  //FU crit stats
+  "critChance" : 4,
+  "critBonus" : 2,
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

@@ -19,7 +19,7 @@
   "tooltipKind" : "sword",
   "category" : "ucinjector",
   "twoHanded" : true,
-  "itemTags" : ["weapon","melee","broadsword"],
+  "itemTags" : ["weapon","melee","injector"],
   "inventoryIcon" : "ucxeninjectordefunct.png",
   "animation" : "/items/active/weapons/melee/dagger/dagger.animation",
   "animationParts" : {
