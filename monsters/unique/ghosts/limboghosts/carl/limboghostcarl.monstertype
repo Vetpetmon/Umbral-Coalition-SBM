@@ -1,14 +1,14 @@
 {
-  "type" : "uclimboghost7",
-  "shortdescription" : "???",
-  "description" : "A near-physical embodiment of... Something.",
+  "type" : "uclimboghostCarl",
+  "shortdescription" : "Carl",
+  "description" : "The corrupted soul of this sociopath seems oddly familiar...",
 
-  "categories" : [ "uclimboghost7" ],
+  "categories" : [ "uclimboghostCarl" ],
   "parts" : [ "body" ],
 
-  "animation" : "limboghost7.animation",
+  "animation" : "limboghostCarl.animation",
 
-  "dropPools" : [ { "default" : "uclimboghostsmall", "bow" : "uclimboghostsmall" } ],
+  "dropPools" : [ { "default" : "uclimboghosthuge", "bow" : "uclimboghosthuge" } ],
 
   "baseParameters" : {
     "scripts" : [
@@ -16,17 +16,18 @@
     ],
 
     "behavior" : "monster",
+    "damageBar" : "special",
 
     "renderLayer" : "foregroundEntity",
 
     "behaviorConfig" : {
       "damageOnTouch" : true,
 
-      "targetQueryRange" : 50,
+      "targetQueryRange" : 70,
       "targetOnDamage" : true,
-      "keepTargetInSight" : false,
+      "keepTargetInSight" : true,
       "keepTargetInRange" : 100,
-      "targetOutOfSightTime" : 50.0,
+      "targetOutOfSightTime" : 30.0,
 
       "foundTargetActions" : [ ],
 
@@ -34,14 +35,60 @@
 
       "hostileActions" : [ ],
 
-      "periodicActions" : [ ],
+      "periodicActions" : [
+        /*{
+          "name" : "action-spawncompanions",
+          "parameters" : {
+            "maxCount" : 1,
+            "spawnCooldown" : 35.0,
+            "monsterType" : "uclimboghost5",
+            "state" : "idle"
+          }
+        },
+        {
+          "name" : "action-spawncompanions",
+          "parameters" : {
+            "maxCount" : 1,
+            "spawnCooldown" : 35.0,
+            "monsterType" : "uclimboghost6",
+            "state" : "idle"
+          }
+        },
+        {
+          "name" : "action-spawncompanions",
+          "parameters" : {
+            "maxCount" : 3,
+            "spawnCooldown" : 15.0,
+            "monsterType" : "uclimboghost4",
+            "state" : "idle"
+          }
+        },
+        {
+          "name" : "action-spawncompanions",
+          "parameters" : {
+            "maxCount" : 3,
+            "spawnCooldown" : 17.0,
+            "monsterType" : "uclimboghost7",
+            "state" : "idle"
+          }
+        },
+        {
+          "name" : "action-spawncompanions",
+          "parameters" : {
+            "maxCount" : 3,
+            "spawnCooldown" : 20.0,
+            "monsterType" : "uclimboghost8",
+            "state" : "idle"
+          }
+        }*/
+      ],
 
       "approachActions" : [
         {
           "name" : "approach-fly",
           "parameters" : {
-            "usePathfinding" : false,
-            "excludeLiquidIds" : [3]
+            "usePathfinding" : false
+            //"excludeLiquidIds" : [3]
           }
         }
       ],
@@ -72,30 +119,30 @@
     },
 
     "touchDamage" : {
-      "poly" : [ [0.125, 1.25], [0.625, 0.75], [0.625, -0.75], [0.125, -1.25], [-0.125, -1.25], [-0.625, -0.75], [-0.625, 0.75], [-0.125, 1.25] ],
-      "damage" : 13,
+      "poly" : [ [-8, -8], [8, -8], [8, 8], [-8, 8] ],
+      "damage" : 50,
 
       "teamType" : "enemy",
       "damageSourceKind" : "slash",
-      "knockback" : 5,
+      "knockback" : 20,
       "statusEffects" : [ ]
     },
 
-    "metaBoundBox" : [-4, -4, 4, 4],
+    "metaBoundBox" : [-80, -50, 80, 50],
     "scale" : 1.0,
 
     "movementSettings" : {
       "collisionEnabled" : false,
-      "collisionPoly" : [ [1.25, 2.55], [1.75, 2.05],  [2.25, -3.55], [1.75, -3.95],  [-1.75, -3.95], [-2.25, -3.55],  [-1.75, 2.05], [-1.25, 2.55] ],
+      "collisionPoly" : [ [-8, -8], [8, -8], [8, 8], [-8, 8] ],
 
       "mass" : 0.5,
       "walkSpeed" : 4,
-      "runSpeed" : 12,
+      "runSpeed" : 8,
       "gravityEnabled" : false,
 
       "airFriction" : 2,
       "airForce" : 10,
-      "flySpeed" : 8
+      "flySpeed" : 10
     },
 
     "bodyMaterialKind" : "organic",
@@ -123,11 +170,11 @@
 
       "stats" : {
         "knockbackStunTime" : {"baseValue" : 0.1},
-        "knockbackThreshold" : {"baseValue" : 9},
-        "maxHealth" : {"baseValue" : 200},
-        "protection" : {"baseValue" : 0.0},
-        "healthRegen" : {"baseValue" : 0.2},
-        "powerMultiplier" : {"baseValue" : 1.1},
+        "grit" : {"baseValue" : 1.0},
+        "maxHealth" : {"baseValue" : 1500},
+        "protection" : {"baseValue" : 5},
+        "healthRegen" : {"baseValue" : 0.3},
+        "powerMultiplier" : {"baseValue" : 1.0},
         //vanilla immunities
         "physicalResistance" : {"baseValue" : 1.0},
         "fireResistance" : {"baseValue" : 0.0},
@@ -138,6 +185,7 @@
         "electricStatusImmunity" : {"baseValue" : 1.0},
         "poisonResistance" : {"baseValue" : 1.0},
         "poisonStatusImmunity" : {"baseValue" : 1.0},
+        "stunImmunity" : {"baseValue" : 1.0},
         //UC and GFOW immunities
         "stunlockImmunity" : {"baseValue" : 1},
         //ERM immunities

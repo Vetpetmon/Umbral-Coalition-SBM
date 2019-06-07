@@ -1,0 +1,5 @@
+[
+  // | MUSIC |
+
+  { "op" : "add","path" : "/musicTrack/night/tracks/-","value" : "/music/Musty-Wasteland_Exploration.ogg"}
+]
