@@ -6,7 +6,7 @@
   "rarity" : "Rare",
   "description" : "DESTROY. DESTROY IT ALL. DESTROY EVERYTHING THAT MOVES.
 
-  ^red;WARNING: DESTROY EVERYTHING IN PATH. PROTOCOL 46B. TERMINATE EVERYTHING.^reset;",
+  ^red;WARNING: DESTROY EVERYTHING IN PATH. PROTOCOL 46B. TERMINATE EVERYTHING ON SIGHT.^reset;",
   "shortdescription" : "^red;OBLITERATOR^reset;",
   "tooltipKind" : "gun",
   "level" : 6,
@@ -33,14 +33,14 @@
 
   "scripts" : ["/items/active/weapons/ranged/gun.lua"],
 
-  "elementalType" : "physical",
+  "elementalType" : "fire",
 
   "primaryAbility" : {
     "scripts" : ["/items/active/weapons/ranged/beamfire.lua"],
     "class" : "BeamFire",
 
     "fireTime" : 0.2,
-    "baseDps" : 80.0,
+    "baseDps" : 85.0,
     "energyUsage" : 200.0,
 
     "damageConfig" : {
