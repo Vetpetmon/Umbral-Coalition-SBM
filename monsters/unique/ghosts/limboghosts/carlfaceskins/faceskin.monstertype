@@ -94,8 +94,8 @@
       "gravityEnabled" : false,
 
       "airFriction" : 2,
-      "airForce" : 15,
-      "flySpeed" : 50
+      "airForce" : 25,
+      "flySpeed" : 55
     },
 
     "bodyMaterialKind" : "organic",

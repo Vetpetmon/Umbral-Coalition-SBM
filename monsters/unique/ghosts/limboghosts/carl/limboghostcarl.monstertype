@@ -83,7 +83,7 @@
     },
 
     "touchDamage" : {
-      "poly" : [ [-8, -8], [8, -8], [8, 8], [-8, 8] ],
+      "poly" : [ [-4, -4], [4, -4], [4, 4], [-4, 4] ],
       "damage" : 50,
 
       "teamType" : "enemy",
@@ -97,7 +97,7 @@
 
     "movementSettings" : {
       "collisionEnabled" : false,
-      "collisionPoly" : [ [-8, -8], [8, -8], [8, 8], [-8, 8] ],
+      "collisionPoly" : [ [-4, -4], [4, -4], [4, 4], [-4, 4] ],
 
       "mass" : 0.5,
       "walkSpeed" : 5,
@@ -135,17 +135,17 @@
       "stats" : {
         "knockbackStunTime" : {"baseValue" : 0.1},
         "grit" : {"baseValue" : 1.0},
-        "maxHealth" : {"baseValue" : 1500},
-        "protection" : {"baseValue" : 5},
-        "healthRegen" : {"baseValue" : 0.3},
+        "maxHealth" : {"baseValue" : 300},
+        "protection" : {"baseValue" : 15},
+        "healthRegen" : {"baseValue" : 0.5},
         "powerMultiplier" : {"baseValue" : 1.0},
         //vanilla immunities
         "physicalResistance" : {"baseValue" : 1.0},
-        "fireResistance" : {"baseValue" : 0.0},
-        "fireStatusImmunity" : {"baseValue" : 0.0},
+        "fireResistance" : {"baseValue" : 0.3},
+        "fireStatusImmunity" : {"baseValue" : 1.0},
         "iceResistance" : {"baseValue" : 1.0},
         "iceStatusImmunity" : {"baseValue" : 1.0},
-        "electricResistance" : {"baseValue" : 0.0},
+        "electricResistance" : {"baseValue" : 0.3},
         "electricStatusImmunity" : {"baseValue" : 1.0},
         "poisonResistance" : {"baseValue" : 1.0},
         "poisonStatusImmunity" : {"baseValue" : 1.0},
@@ -153,13 +153,13 @@
         //UC and GFOW immunities
         "stunlockImmunity" : {"baseValue" : 1},
         //ERM immunities
-        "linerifleResistance" : {"baseValue" : 0.0},
-        "centensianenergyResistance" : {"baseValue" : 0.0},
+        "linerifleResistance" : {"baseValue" : 0.3},
+        "centensianenergyResistance" : {"baseValue" : 0.3},
         "akkimariacidResistance" : {"baseValue" : 1.0},
         "bleedingImmunity" : {"baseValue" : 1.0},
         "akkimariacidStatusImmunity" : {"baseValue" : 1.0},
         "ignoreInvisibilityEffects" : {"baseValue" : 1.0},
-        "xanafianResistance" : {"baseValue" : 0.0},
+        "xanafianResistance" : {"baseValue" : 0.3},
         //FU immunities
         "insanityImmunity" : {"baseValue" : 1.0},
         "protoImmunity" : {"baseValue" : 1.0},
@@ -169,8 +169,8 @@
         "sulphuricImmunity" : {"baseValue" : 1.0},
         "captureImmunity" : {"baseValue" : 1.0},
         "critImmunity" : {"baseValue" : 1.0},
-        "shadowResistance" : { "baseValue" : 0.0 },
-        "cosmicResistance" : { "baseValue" : 0.0 },
+        "shadowResistance" : { "baseValue" : 0.5 },
+        "cosmicResistance" : { "baseValue" : 0.3 },
         "radioactiveResistance" : { "baseValue" : 1.0 },
         //ES immunities
         "acidicbacteriaImmunity" : {"baseValue" : 1}
