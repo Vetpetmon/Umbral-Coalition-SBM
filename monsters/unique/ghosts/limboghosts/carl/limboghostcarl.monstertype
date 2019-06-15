@@ -136,13 +136,13 @@
       "collisionPoly" : [ [-8, -8], [8, -8], [8, 8], [-8, 8] ],
 
       "mass" : 0.5,
-      "walkSpeed" : 4,
-      "runSpeed" : 8,
+      "walkSpeed" : 5,
+      "runSpeed" : 9,
       "gravityEnabled" : false,
 
       "airFriction" : 2,
       "airForce" : 10,
-      "flySpeed" : 10
+      "flySpeed" : 13
     },
 
     "bodyMaterialKind" : "organic",
@@ -228,7 +228,7 @@
     "mouthOffset" : [0, 0],
     "feetOffset" : [0, -8],
     "capturable" : false,
-    "captureHealthFraction" : 0.5,
-    "nametagColor" : [64, 200, 255]
+    "captureHealthFraction" : 0.0,
+    "nametagColor" : [255, 0, 0]
   }
 }

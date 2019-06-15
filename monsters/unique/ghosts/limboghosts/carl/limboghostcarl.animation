@@ -6,12 +6,12 @@
         "default" : "idle",
         "states" : {
           "idle" : {
-            "frames" : 6,
+            "frames" : 12,
             "cycle" : 1.0,
             "mode" : "loop"
           },
           "fly" : {
-            "frames" : 6,
+            "frames" : 12,
             "cycle" : 0.5,
             "mode" : "loop"
           }
@@ -163,7 +163,7 @@
   },
 
   "sounds" : {
-    "aggroHop" : [ "/sfx/npc/monsters/monster_surprise.ogg" ],
+    "aggroHop" : [ "/sfx/npc/boss/carl_roar.ogg" ],
     "deathPuff" : [ "/sfx/npc/enemydeathpuff.ogg" ]
   }
 }
