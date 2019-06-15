@@ -3,7 +3,5 @@
   "category" : "uclimboghostCarl",
   "type" : "body",
 
-  "frames" : {
-    "body" : "carl.png"
-  }
+  "frames" : {"body" : "carl.png"}
 }

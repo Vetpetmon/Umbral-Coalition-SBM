@@ -1,0 +1,7 @@
+{
+  "name" : "uclimbofaceskin",
+  "category" : "uclimbofaceskin",
+  "type" : "body",
+
+  "frames" : {"body" : "faceskin.png"}
+}

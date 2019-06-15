@@ -1,14 +1,14 @@
 {
-  "type" : "uclimboghostCarl",
-  "shortdescription" : "Carl",
-  "description" : "The corrupted soul of this sociopath seems oddly familiar...",
+  "type" : "uclimbofaceskin",
+  "shortdescription" : "???",
+  "description" : "You're right, it's not nearly as tasteful as I pictured in my head...",
 
-  "categories" : [ "uclimboghostCarl" ],
+  "categories" : [ "uclimbofaceskin" ],
   "parts" : [ "body" ],
 
-  "animation" : "limboghostCarl.animation",
+  "animation" : "faceskin.animation",
 
-  "dropPools" : [ { "default" : "uclimboghosthuge", "bow" : "uclimboghosthuge" } ],
+  "dropPools" : [ { "default" : "uclimboghostsmall", "bow" : "uclimboghostsmall" } ],
 
   "baseParameters" : {
     "scripts" : [
@@ -16,18 +16,17 @@
     ],
 
     "behavior" : "monster",
-    "damageBar" : "special",
 
     "renderLayer" : "foregroundEntity",
 
     "behaviorConfig" : {
       "damageOnTouch" : true,
 
-      "targetQueryRange" : 70,
+      "targetQueryRange" : 100,
       "targetOnDamage" : true,
-      "keepTargetInSight" : true,
-      "keepTargetInRange" : 100,
-      "targetOutOfSightTime" : 30.0,
+      "keepTargetInSight" : false,
+      "keepTargetInRange" : 50,
+      "targetOutOfSightTime" : 10.0,
 
       "foundTargetActions" : [ ],
 
@@ -35,23 +34,13 @@
 
       "hostileActions" : [ ],
 
-      "periodicActions" : [
-        {
-          "name" : "action-spawncompanions",
-          "parameters" : {
-            "maxCount" : 20,
-            "spawnCooldown" : 0.3,
-            "monsterType" : "uclimbofaceskin",
-            "state" : "idle"
-          }
-        }
-      ],
+      "periodicActions" : [ ],
 
       "approachActions" : [
         {
           "name" : "approach-fly",
           "parameters" : {
-            "usePathfinding" : false
+            "usePathfinding" : false,
             //"excludeLiquidIds" : [3]
           }
         }
@@ -83,30 +72,30 @@
     },
 
     "touchDamage" : {
-      "poly" : [ [-8, -8], [8, -8], [8, 8], [-8, 8] ],
-      "damage" : 50,
+      "poly" : [ [0.125, 1.25], [0.625, 0.75], [0.625, -0.75], [0.125, -1.25], [-0.125, -1.25], [-0.625, -0.75], [-0.625, 0.75], [-0.125, 1.25] ],
+      "damage" : 5,
 
       "teamType" : "enemy",
       "damageSourceKind" : "slash",
-      "knockback" : 20,
+      "knockback" : 1,
       "statusEffects" : [ ]
     },
 
-    "metaBoundBox" : [-80, -50, 80, 50],
+    "metaBoundBox" : [-4, -4, 4, 4],
     "scale" : 1.0,
 
     "movementSettings" : {
       "collisionEnabled" : false,
-      "collisionPoly" : [ [-8, -8], [8, -8], [8, 8], [-8, 8] ],
+      "collisionPoly" : [ [0.125, 1.25], [0.625, 0.75], [0.625, -0.75], [0.125, -1.25], [-0.125, -1.25], [-0.625, -0.75], [-0.625, 0.75], [-0.125, 1.25] ],
 
       "mass" : 0.5,
-      "walkSpeed" : 5,
-      "runSpeed" : 9,
+      "walkSpeed" : 4,
+      "runSpeed" : 12,
       "gravityEnabled" : false,
 
       "airFriction" : 2,
-      "airForce" : 10,
-      "flySpeed" : 13
+      "airForce" : 15,
+      "flySpeed" : 50
     },
 
     "bodyMaterialKind" : "organic",
@@ -134,10 +123,10 @@
 
       "stats" : {
         "knockbackStunTime" : {"baseValue" : 0.1},
-        "grit" : {"baseValue" : 1.0},
-        "maxHealth" : {"baseValue" : 1500},
-        "protection" : {"baseValue" : 5},
-        "healthRegen" : {"baseValue" : 0.3},
+        "knockbackThreshold" : {"baseValue" : 9},
+        "maxHealth" : {"baseValue" : 66},
+        "protection" : {"baseValue" : 0.0},
+        "healthRegen" : {"baseValue" : 0.1},
         "powerMultiplier" : {"baseValue" : 1.0},
         //vanilla immunities
         "physicalResistance" : {"baseValue" : 1.0},
@@ -149,7 +138,6 @@
         "electricStatusImmunity" : {"baseValue" : 1.0},
         "poisonResistance" : {"baseValue" : 1.0},
         "poisonStatusImmunity" : {"baseValue" : 1.0},
-        "stunImmunity" : {"baseValue" : 1.0},
         //UC and GFOW immunities
         "stunlockImmunity" : {"baseValue" : 1},
         //ERM immunities
@@ -192,7 +180,7 @@
     "mouthOffset" : [0, 0],
     "feetOffset" : [0, -8],
     "capturable" : false,
-    "captureHealthFraction" : 0.0,
-    "nametagColor" : [255, 0, 0]
+    "captureHealthFraction" : 0.5,
+    "nametagColor" : [64, 200, 255]
   }
 }
