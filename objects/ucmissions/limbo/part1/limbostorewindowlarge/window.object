@@ -1,0 +1,29 @@
+{
+  "objectName" : "uclimbowindow1",
+  "colonyTags" : [ "limbo" ],
+  "rarity" : "rare",
+  "printable" : false,
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+  "description" : "A window.",
+  "shortdescription" : "Window",
+
+  "floranDescription" : "Window.",
+  "glitchDescription" : "Informative. A window to provide view into what's on the other side.",
+
+  "inventoryIcon" : "window.png",
+  "orientations" : [
+    {
+      "dualImage" : "window.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
