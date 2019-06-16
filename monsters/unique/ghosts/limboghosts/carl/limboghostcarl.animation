@@ -12,7 +12,7 @@
           },
           "fly" : {
             "frames" : 12,
-            "cycle" : 0.5,
+            "cycle" : 1.0,
             "mode" : "loop"
           }
         }
