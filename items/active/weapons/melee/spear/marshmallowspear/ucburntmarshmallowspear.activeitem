@@ -6,7 +6,7 @@
   "rarity" : "Legendary",
   "description" : "Uhhhh.",
   "shortdescription" : "Burnt Marshmallow on a Stick",
-  "tooltipKind" : "sword",
+  "tooltipKind" : "ucspear",
   "category" : "spear",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","spear"],

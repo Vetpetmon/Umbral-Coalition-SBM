@@ -6,7 +6,7 @@
   "rarity" : "Rare",
   "description" : "It's a marshmallow on stick.",
   "shortdescription" : "Marshmallow on a Stick",
-  "tooltipKind" : "sword",
+  "tooltipKind" : "ucspear",
   "category" : "spear",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","spear"],

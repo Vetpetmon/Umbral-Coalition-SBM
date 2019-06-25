@@ -8,7 +8,7 @@
 
   \"The best way to raise your blood sugar!\" ",
   "shortdescription" : "Syringe (Chocolate)",
-  "tooltipKind" : "sword",
+  "tooltipKind" : "ucsyringe",
   "category" : "ucsyringe",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","spear"],

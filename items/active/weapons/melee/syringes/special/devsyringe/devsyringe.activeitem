@@ -8,7 +8,7 @@
   ^red;NIGHTMARE TIER^reset;
   \"Great taste and no side effects!\" ",
   "shortdescription" : "Syringe (Suspcious Syrup)",
-  "tooltipKind" : "sword",
+  "tooltipKind" : "ucsyringe",
   "category" : "ucsyringe",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","spear"],

@@ -8,7 +8,7 @@
 
   \"CHAOS! CHAOS!\" ",
   "shortdescription" : "Syringe (Anomaly 0-0t)",
-  "tooltipKind" : "sword",
+  "tooltipKind" : "ucsyringe",
   "category" : "ucsyringe",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","spear"],

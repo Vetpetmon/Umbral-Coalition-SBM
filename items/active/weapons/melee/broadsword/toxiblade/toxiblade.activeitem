@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "description" : "A simple sword with a poisonous blade.",
   "shortdescription" : "Toxiblade",
-  "tooltipKind" : "sword",
+  "tooltipKind" : "ucsword",
   "category" : "broadsword",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","broadsword"],
