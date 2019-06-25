@@ -5,7 +5,7 @@
   "rarity" : "Uncommon",
   "description" : "A steady titanium handlegun.",
   "shortdescription" : "Titanium Handlegun",
-  "tooltipKind" : "gun",
+  "tooltipKind" : "ucgun",
   "category" : "handlegun",
   "twoHanded" : true,
   "itemTags" : ["weapon","ranged", "handlegun"],

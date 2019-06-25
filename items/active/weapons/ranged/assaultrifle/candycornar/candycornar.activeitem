@@ -5,7 +5,7 @@
   "rarity" : "rare",
   "description" : "Fill em' with holes using candy corn. ^cyan;Weaponizes microcandy.^reset;",
   "shortdescription" : "Candy Corn Assault Rifle",
-  "tooltipKind" : "gun",
+  "tooltipKind" : "ucgun",
   "category" : "assaultRifle",
   "twoHanded" : true,
   "itemTags" : ["weapon","ranged","kyrox","assaultRifle"],

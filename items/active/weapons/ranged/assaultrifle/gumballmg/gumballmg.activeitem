@@ -5,7 +5,7 @@
   "rarity" : "rare",
   "description" : "Launches gumballs up to 40 meters away. ^cyan;Weaponizes candy.^reset;",
   "shortdescription" : "Gumball MACHINE Gun",
-  "tooltipKind" : "gun",
+  "tooltipKind" : "ucgun",
   "category" : "assaultRifle",
   "twoHanded" : true,
   "itemTags" : ["weapon","ranged","assaultRifle","kyrox"],

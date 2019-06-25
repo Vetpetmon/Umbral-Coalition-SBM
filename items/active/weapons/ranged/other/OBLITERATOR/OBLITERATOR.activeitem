@@ -5,13 +5,14 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "description" : "DESTROY. DESTROY IT ALL. DESTROY EVERYTHING THAT MOVES.
+^red;WARNING: DESTROY EVERYTHING IN PATH. PROTOCOL 46B. TERMINATE EVERYTHING ON SIGHT.^reset;
 
-  ^red;WARNING: DESTROY EVERYTHING IN PATH. PROTOCOL 46B. TERMINATE EVERYTHING ON SIGHT.^reset;",
+A deadly weapon that was once held by a planet-killing machine. You have been warned.",
   "shortdescription" : "^red;OBLITERATOR^reset;",
-  "tooltipKind" : "gun",
+  "tooltipKind" : "ucgun",
   "level" : 6,
   "category" : "uniqueWeapon",
-  "itemTags" : ["weapon","ranged","dev"],
+  "itemTags" : ["weapon","ranged","nightmaretier","dev"],
   "color" : [255, 10, 10],
 
   "animation" : "OBLITERATOR.animation",

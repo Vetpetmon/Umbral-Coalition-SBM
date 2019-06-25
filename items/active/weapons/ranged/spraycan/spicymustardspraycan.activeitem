@@ -5,7 +5,7 @@
   "rarity" : "Common",
   "description" : "The spiciest it can get. Don't spray this into you eyes. It's a bad idea. Very bad idea.",
   "shortdescription" : "Spicy Mustard Spray",
-  "tooltipKind" : "gun",
+  "tooltipKind" : "ucgun",
   "category" : "ucspraycan",
   "twoHanded" : false,
   "itemTags" : ["weapon","ranged","spraycan"],
