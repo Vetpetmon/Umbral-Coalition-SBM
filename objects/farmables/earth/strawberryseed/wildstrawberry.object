@@ -1,5 +1,5 @@
 {
-  "objectName" : "ucwildstrawberry",
+  "objectName" : "ucwildstrawberryseed",
   "colonyTags" : ["nature", "farmer"],
   "rarity" : "Common",
   "category" : "seed",
@@ -80,5 +80,6 @@
 ],
 
   "maxImmersion" : 0.125,
-  "consumeSoilMoisture" : false
+  "consumeSoilMoisture" : false,
+  "biomePlaced" : true
 }

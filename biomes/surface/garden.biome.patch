@@ -1,0 +1,40 @@
+[
+  //MICRODUNGEONS
+  /*{ "op" : "add",
+	 "path" : "/surfacePlaceables/items/-",
+	 "value" :
+    {
+      "mode" : "floor",
+      "priority" : 1.0,
+      "variants" : 1,
+      "distribution" : "/biomes/distributions.config:uncommon",
+      "type" : "microdungeon",
+      "microdungeons" : [ "ucevent1microdungeon" ]
+    }
+  }*/
+  {
+		"op": "add",
+		"path": "/surfacePlaceables/items/-",
+		"value": {
+			"mode" : "floor",
+			"priority" : 1.0,
+			"variants" : 1,
+			"distribution" : "/biomes/distributions.config:surfaceCrops",
+
+			"type" : "object",
+			"objectSets" : [
+				{
+					"pool" : [
+						[1, "eecwildbeetseed" ],
+            [1, "ucwildstrawberryseed" ],
+            [1, "eecwildmustardseed" ],
+            [1, "eecwildgingerseed" ]
+					],
+					"parameters" : {
+						"startingStage" : 2
+					}
+				}
+			]
+		}
+	}
+]

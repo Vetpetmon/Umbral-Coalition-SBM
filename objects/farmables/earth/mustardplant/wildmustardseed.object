@@ -1,0 +1,69 @@
+{
+  "objectName" : "eecwildmustardseed",
+  "colonyTags" : ["nature", "farmer"],
+  "rarity" : "Common",
+  "category" : "seed",
+  "description" : "A popular spice often used in condiments.",
+  "shortdescription" : "Mustard Seeds",
+  "objectType" : "farmable",
+  "printable" : false,
+  "price" : 10,
+
+  "inventoryIcon" : "mustardplanticon.png",
+
+  "tooltipKind" : "seed",
+  "largeImage" : "mustardplant.png:default.5.0",
+
+
+  "orientations" : [
+    {
+      "dualImage" : "mustardplant.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaces" : [ [1, 0], [0, 0], [1, 1], [0, 1], [1, 2], [0, 2], [1, 3], [0, 3] ],
+      "requireTilledAnchors" : false,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "radioMessagesOnPickup" : [ "pickupseed" ],
+
+  "stages" : [
+    {
+      "duration" : [90, 120] //1
+    },
+    {
+      "duration" : [100, 140] //2
+    },
+    {
+      "duration" : [140, 180] //3
+    },
+    {
+      "duration" : [200, 240] //4
+    },
+    {
+      "duration" : [200, 240] //5
+    },
+    {
+      "duration" : [300, 340] //6
+    },
+    { //7
+      "alts" : 7,
+      "harvestPool" : "eecMustardHarvest",
+      "resetToStage" : 4,
+      "duration" : [12800, 13400]
+    },
+    {
+      "harvestPool" : "ucRottenPlantMedium", //Rotten
+      "resetToStage" : 1
+    }
+  ],
+
+  "maxImmersion" : 0.25,
+  "breakDropOptions" : [[[ "eecmustardseed", 1, { } ]]],
+  "hasObjectItem" : false,
+  "biomePlaced" : true
+}
