@@ -5,7 +5,7 @@
   "rarity" : "Common",
   "description" : "A broken Injector of the Xy-B model. It can be fixed.",
   "shortdescription" : "Injector Xy-B (Broken)",
-  "tooltipKind" : "sword",
+  "tooltipKind" : "ucsyringe",
   "category" : "ucinjector",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","broadsword"],
