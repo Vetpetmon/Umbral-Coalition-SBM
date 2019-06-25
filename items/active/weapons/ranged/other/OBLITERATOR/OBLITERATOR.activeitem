@@ -40,7 +40,7 @@ A deadly weapon that was once held by a planet-killing machine. You have been wa
 
     "fireTime" : 0.2,
     "baseDps" : 65.0,
-    "energyUsage" : 150.0,
+    "energyUsage" : 130.0,
 
     "damageConfig" : {
       "statusEffects" : [ ],
