@@ -1,0 +1,13 @@
+{
+  "name" : "ucobliteratorheld",
+
+  "effectConfig" : {},
+
+  "defaultDuration" : 1,
+
+  "scripts" : ["obliteratorheld.lua"],
+  "animationConfig" : "obliteratorheld.animation",
+
+  "label" : "Weapon of mass destruction",
+  "icon" : "/interface/statuses/OBLITERATOR.png"
+}

@@ -140,6 +140,7 @@
         "poisonStatusImmunity" : {"baseValue" : 1.0},
         //UC and GFOW immunities
         "stunlockImmunity" : {"baseValue" : 1},
+        "ucObliteratingBurnImmunity" : {"baseValue" : 1},
         //ERM immunities
         "linerifleResistance" : {"baseValue" : 0.0},
         "centensianenergyResistance" : {"baseValue" : 0.0},

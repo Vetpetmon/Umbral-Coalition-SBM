@@ -1,0 +1,14 @@
+{
+  "name" : "ucobliteratorbeam",
+  "blockingStat" : "ucObliteratingBurnImmunity",
+
+  "effectConfig" : {},
+
+  "defaultDuration" : 15,
+
+  "scripts" : ["obliteratorbeam.lua"],
+  "animationConfig" : "obliteratorbeam.animation",
+
+  "label" : "Obliterating burn - Nothing will save you from 2000 C",
+  "icon" : "/interface/statuses/OBLITERATOR.png"
+}

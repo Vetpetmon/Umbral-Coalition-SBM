@@ -30,7 +30,7 @@ A deadly weapon that was once held by a planet-killing machine. You have been wa
 
   "muzzleOffset" : [1.525, 0.1],
 
-  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+  "scripts" : ["/items/active/weapons/ranged/gun.lua", "ObliteratorEffect.lua"],
 
   "elementalType" : "fire",
 
@@ -40,10 +40,10 @@ A deadly weapon that was once held by a planet-killing machine. You have been wa
 
     "fireTime" : 0.2,
     "baseDps" : 65.0,
-    "energyUsage" : 130.0,
+    "energyUsage" : 90.0,
 
     "damageConfig" : {
-      "statusEffects" : [ ],
+      "statusEffects" : [ "ucobliteratorbeam" ],
       "damageSourceKind" : "electric",
       "knockback" : 2
     },
