@@ -7,7 +7,7 @@
   "description" : "^red;DESTROY. DESTROY IT ALL. DESTROY EVERYTHING THAT MOVES.^reset;
 A deadly weapon that was once held by a planet-killing machine. You have been warned.",
   "shortdescription" : "^red;OBLITERATOR^reset;",
-  "tooltipKind" : "ucgun",
+  "tooltipKind" : "ucgunguardiox",
   "level" : 6,
   "category" : "uniqueWeapon",
   "itemTags" : ["weapon","ranged","nightmaretier","dev"],
