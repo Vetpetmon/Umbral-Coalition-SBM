@@ -84,7 +84,7 @@
 
     "touchDamage" : {
       "poly" : [ [-4, -4], [4, -4], [4, 4], [-4, 4] ],
-      "damage" : 50,
+      "damage" : 30,
 
       "teamType" : "enemy",
       "damageSourceKind" : "slash",
