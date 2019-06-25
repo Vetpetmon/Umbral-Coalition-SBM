@@ -30,50 +30,19 @@
     "sounds" : {
       "fire" : [ "/sfx/melee/swing_spear.ogg" ]
     }
-},
+  },
   "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
   "elementalType" : "physical",
   "aimOffset" : -1.0,
-  "primaryAbility" : {
-    "scripts" : ["/items/active/weapons/melee/meleeslash.lua"],
-    "class" : "MeleeSlash",
 
+  "primaryAbilityType" : "spearstab",
+  "primaryAbility" : {
+    "scripts" : [],
     "fireTime" : 0.32,
     "baseDps" : 8.5,
     "damageConfig" : {
-      "damageSourceKind" : "dagger",
       "statusEffects" : [ ],
-      "knockbackMode" : "aim",
-      "knockback" : 10,
-      "timeoutGroup" : "primary"
-    },
-    "stances" : {
-      "idle" : {
-        "armRotation" : -90,
-        "weaponRotation" : -10,
-        "weaponOffset" : [0.1, 2.25],
-
-        "allowFlip" : true,
-        "allowRotate" : true
-      },
-      "windup" : {
-        "duration" : 0.05,
-        "armRotation" : -20,
-        "weaponRotation" : -20,
-        "weaponOffset" : [0.1, 2.25],
-
-        "allowFlip" : true,
-        "allowRotate" : true
-      },
-      "fire" : {
-        "duration" : 0.2,
-        "armRotation" : -135,
-        "weaponRotation" : 40,
-        "weaponOffset" : [0.1, 2.5],
-
-        "allowFlip" : true,
-        "allowRotate" : true
-      }
+      "knockback" : 5
     }
   },
 
