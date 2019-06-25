@@ -5,8 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Essential",
   "description" : "Something tells you that whatever is in this isn't safe for consumption...
-  ^red;NIGHTMARE TIER^reset;
-  \"Great taste and no side effects!\" ",
+\"Great taste and no side effects!\" ",
   "shortdescription" : "Syringe (Suspcious Syrup)",
   "tooltipKind" : "ucsyringe",
   "category" : "ucsyringe",

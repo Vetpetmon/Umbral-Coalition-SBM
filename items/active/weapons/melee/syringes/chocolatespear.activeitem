@@ -5,8 +5,7 @@
   "maxStack" : 1,
   "rarity" : "legendary",
   "description" : "A giant syringe full of chocolate.
-
-  \"The best way to raise your blood sugar!\" ",
+\"The best way to raise your blood sugar!\" ",
   "shortdescription" : "Syringe (Chocolate)",
   "tooltipKind" : "ucsyringe",
   "category" : "ucsyringe",
