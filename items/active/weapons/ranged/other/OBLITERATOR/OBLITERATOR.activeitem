@@ -39,12 +39,12 @@ A deadly weapon that was once held by a planet-killing machine. You have been wa
     "class" : "BeamFire",
 
     "fireTime" : 0.2,
-    "baseDps" : 85.0,
-    "energyUsage" : 200.0,
+    "baseDps" : 65.0,
+    "energyUsage" : 150.0,
 
     "damageConfig" : {
       "statusEffects" : [ ],
-      "damageSourceKind" : "plasma",
+      "damageSourceKind" : "electric",
       "knockback" : 2
     },
 
