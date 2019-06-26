@@ -2,8 +2,8 @@
 function init()
   script.setUpdateDelta(5)
 
-  self.tickDamagePercentage = 0.01
-  self.tickTime = 0.3
+  self.tickDamagePercentage = 0.025
+  self.tickTime = 0.4
   self.tickTimer = self.tickTime
   self.effectHandler=effect.addStatModifierGroup({{stat = "foodDelta", baseMultiplier = 150.0}}) --120x the hunger drain.
   status.removeEphemeralEffect("wellfed",math.huge)
