@@ -2,7 +2,7 @@
 function init()
   script.setUpdateDelta(5)
 
-  self.tickDamagePercentage = 0.05
+  self.tickDamagePercentage = 0.01
   self.tickTime = 0.3
   self.tickTimer = self.tickTime
   self.effectHandler=effect.addStatModifierGroup({{stat = "foodDelta", baseMultiplier = 150.0}}) --120x the hunger drain.
