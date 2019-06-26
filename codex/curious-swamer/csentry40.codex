@@ -1,0 +1,15 @@
+{
+	"id" : "uccsentry40",
+	"title" : "Entry #40",
+	"description" : "It's so tiny and illegible that you have to let your SAIL read this for you. Appears to be written by that strange swarmer.",
+	"icon" : "curiousswarmercodex.png",
+	"contentPages" : [
+    "Entry #40:
+
+		I regret to infrom myself that there are carbohydrates everywhere here, just like my homeworld."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id" : "uccsentry41",
+	"title" : "Entry #41",
+	"description" : "It's so tiny and illegible that you have to let your SAIL read this for you. Appears to be written by that strange swarmer.",
+	"icon" : "curiousswarmercodex.png",
+	"contentPages" : [
+    "Entry #41:
+
+		Correction: I have been standing on a cake for 6 days. A hairy fleshling almost tried to eat me today, along with the cake.",
+		"Let's see how well it can handle an unsafe amount of ketamine!"
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}
