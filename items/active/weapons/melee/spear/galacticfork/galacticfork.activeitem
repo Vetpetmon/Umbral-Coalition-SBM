@@ -12,6 +12,7 @@
   "category" : "spear",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","spear"],
+  "color" : [255, 195, 10],
 
   "inventoryIcon" : "galacticfork.png",
 
@@ -30,12 +31,52 @@
 
   "elementalType" : "physical",
 
-  "aimOffset" : -10.0,
+  "aimOffset" : -1.0,
 
   "primaryAbilityType" : "spearstab",
   "primaryAbility" : {
     "fireTime" : 0.85,
-    "baseDps" : 18.5
+    "baseDps" : 18.5,
+    "stances" : {
+      "idle" : {
+        "armRotation" : -90,
+        "weaponRotation" : 0,
+        "twoHanded" : false,
+        "weaponOffset" : [0, 3],
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "windup" : {
+        "duration" : 0.1,
+        "armRotation" : -110,
+        "weaponRotation" : 20,
+        "twoHanded" : true,
+        "weaponOffset" : [0, 3.5],
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "fire" : {
+        "duration" : 0.3,
+        "armRotation" : -20,
+        "weaponRotation" : -70,
+        "twoHanded" : true,
+        "weaponOffset" : [0, 4.5],
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "hold" : {
+        "armRotation" : -30,
+        "weaponRotation" : -60,
+        "twoHanded" : true,
+        "weaponOffset" : [0, 4.2],
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      }
+    }
   },
 
   "altAbilityType" : "flurry",
