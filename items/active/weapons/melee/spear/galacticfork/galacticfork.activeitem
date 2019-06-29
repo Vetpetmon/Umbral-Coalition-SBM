@@ -5,6 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "description" : "Not a meat toast reference.
+
 ^orange;Perfect for stabbing giant eyes.^reset;",
   "shortdescription" : "The Galactic Fork",
   "tooltipKind" : "ucspear",
@@ -29,7 +30,7 @@
 
   "elementalType" : "physical",
 
-  "aimOffset" : -1.0,
+  "aimOffset" : -10.0,
 
   "primaryAbilityType" : "spearstab",
   "primaryAbility" : {
