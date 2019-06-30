@@ -3,7 +3,7 @@
   "icon" : "/interface/cockpit/weather/ember.png",
   "particles" : [ ],
   "projectiles" : [ ],
-  "statusEffects" : [ "biomehot" ],
+  "statusEffects" : [ "biomeheat" ],
   "duration" : [50, 300],
   "lightningFrequency" : 12,
   "weatherNoises" : [ ],
