@@ -19,11 +19,11 @@
            "primaryRegion" : ["barrenunderground"]
          },
          "underground1" : {
-           "primaryRegion" : ["barrenunderground"],
+           "primaryRegion" : ["midunderground"],
            "secondaryRegions" : []
          },
          "underground2" : {
-           "primaryRegion" : ["barrenunderground"],
+           "primaryRegion" : ["midunderground"],
            "secondaryRegions" : []
          },
          "underground3" : {

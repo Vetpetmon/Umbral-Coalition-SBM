@@ -11,6 +11,6 @@
     "combatxenonianstunned1.lua"
   ],
 
-  "label" : "Stunlocked - You've been shocked by a high-power stungun and can not move!",
+  "label" : "Stunlocked - You've been shocked by a high-power stungun and can't move!",
   "icon" : "/interface/statuses/stunlock.png"
 }
