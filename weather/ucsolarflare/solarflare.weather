@@ -1,0 +1,11 @@
+{
+  "name" : "ucsolarflare",
+  "icon" : "/interface/cockpit/weather/clear.png",
+  "particles" : [ ],
+  "projectiles" : [ ],
+  "statusEffects" : [ "ucsolarflare" ],
+  "duration" : [50, 300],
+  "lightningFrequency" : 12,
+  "weatherNoises" : [ "/sfx/npc/monsters/orbide_creepy_loop.ogg" ],
+  "maximumWind" : 89.0
+}
