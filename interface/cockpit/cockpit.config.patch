@@ -1,0 +1,19 @@
+[
+  {
+    "op" : "add",
+	  "path" : "/visitableTypeDescription/ucmarslike",
+    "value" : [
+      "This planet could possibly be habitable, but the ^red;extreme temperature fluctuations^reset;, ^yellow;solar flares^reset;, and ^red;thin^reset;, ^red;unbreathable atmosphere^reset; makes it too ^orange;risky^reset; of an effort for colonization."
+    ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeNames/ucmarslike",
+    "value" : "Unstable Terrestrial"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypeColors/ucmarslike",
+    "value" : [250, 207, 120]
+  }
+]

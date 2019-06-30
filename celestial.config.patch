@@ -1,0 +1,21 @@
+[
+  {"op" : "add",
+  "path" : "/terrestrialHorizonGraphics/ucmarslike",
+  "value" :
+  {
+    "baseImages" : "/celestial/system/terrestrial/horizon/textures/scorchedcity_<selector>.png",
+    "maskPerPlanetRange" : [0, 0]
+  }},
+  {"op" : "add",
+  "path" : "/terrestrialGraphics/ucmarslike",
+  "value" :
+  {
+    "baseImages" : "/celestial/system/terrestrial/biomes/scorchedcity/maskie<num>.png",
+    "dynamicsImages" : "/celestial/system/terrestrial/dynamics/arid/<num>.png",
+    "dynamicsRange" : [1, 50]
+  }},
+  {"op":"add",
+    "path":"/planetaryTypes/Tier3/baseParameters/terrestrialType/-",
+    "value":"ucmarslike"
+  },
+]
