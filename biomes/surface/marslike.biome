@@ -1,6 +1,7 @@
 {
   "name" : "ucmarslike",
   "friendlyName" : "Unstable Terrestrial",
+  "airless" : true,
 
   "hueShiftOptions" : [-180, -135, -90, -45, 0, 45, 90, 135, 180],
 
@@ -66,20 +67,6 @@
       "dayLightColor" : [202, 138, 100],
       "eveningLightColor" : [202, 100, 100],
       "nightLightColor" : [70, 20, 0]
-    },
-    {
-      // light aqua with pinkish sunrise/sunset
-      "mainColor" : [255, 255, 255],
-
-      "morningColors" : [ [219, 119, 184], [246, 153, 177] ],
-      "dayColors" : [ [197, 236, 246], [133, 185, 235] ],
-      "eveningColors" : [ [189, 143, 172], [255, 194, 192] ],
-      "nightColors" : [ [29, 26, 31, 60], [29, 26, 31, 180] ],
-
-      "morningLightColor" : [200, 158, 169],
-      "dayLightColor" : [190, 202, 204],
-      "eveningLightColor" : [163, 134, 134],
-      "nightLightColor" : [29, 26, 31]
     },
     {
       // pinkish all around
