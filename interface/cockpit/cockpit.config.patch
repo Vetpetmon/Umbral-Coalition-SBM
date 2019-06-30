@@ -15,5 +15,32 @@
     "op": "add",
     "path": "/planetTypeColors/ucmarslike",
     "value" : [250, 207, 120]
+  },
+
+  //weather
+
+  {
+    "op" : "add",
+    "path" : "/displayWeathers/ucheatwave",
+    "value" : {
+      "displayName" : "Heatwave",
+      "icon" : "/interface/cockpit/weather/ember.png"
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/displayWeathers/uccoldsnap",
+    "value" : {
+      "displayName" : "Cold Snap",
+      "icon" : "/interface/cockpit/weather/blizzard.png"
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/displayWeathers/ucsolarflare",
+    "value" : {
+      "displayName" : "Solar Flare",
+      "icon" : "/interface/cockpit/weather/clear.png"
+    }
   }
 ]

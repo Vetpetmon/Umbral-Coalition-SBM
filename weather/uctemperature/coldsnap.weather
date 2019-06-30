@@ -1,0 +1,11 @@
+{
+  "name" : "uccoldsnap",
+  "icon" : "/interface/cockpit/weather/blizzard.png",
+  "particles" : [ ],
+  "projectiles" : [ ],
+  "statusEffects" : [ "biomecold" ],
+  "duration" : [50, 300],
+  "lightningFrequency" : 12,
+  "weatherNoises" : [ ],
+  "maximumWind" : 29.0
+}

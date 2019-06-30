@@ -1,0 +1,11 @@
+{
+  "name" : "ucheatwave",
+  "icon" : "/interface/cockpit/weather/ember.png",
+  "particles" : [ ],
+  "projectiles" : [ ],
+  "statusEffects" : [ "biomehot" ],
+  "duration" : [50, 300],
+  "lightningFrequency" : 12,
+  "weatherNoises" : [ ],
+  "maximumWind" : 9.0
+}
