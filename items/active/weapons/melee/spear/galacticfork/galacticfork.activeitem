@@ -36,7 +36,7 @@
   "primaryAbilityType" : "spearstab",
   "primaryAbility" : {
     "fireTime" : 0.85,
-    "baseDps" : 18.5,
+    "baseDps" : 11.2,
     "stances" : {
       "idle" : {
         "armRotation" : -90,
