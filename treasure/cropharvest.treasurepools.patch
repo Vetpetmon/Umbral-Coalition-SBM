@@ -11,10 +11,10 @@
           {"weight" : 0.2, "item" : ["rottenfood", 1]},
           {"weight" : 0.2, "item" : ["rottenfood", 2]},
           {"weight" : 0.2, "item" : ["rottenfood", 3]},
-          {"weight" : 0.2, "item" : ["rottenfood", 4]},
-          {"weight" : 0.2, "item" : ["plantfibre", 1]}
+          {"weight" : 0.2, "item" : ["plantfibre", 1]},
+          {"weight" : 0.2, "item" : ["plantfibre", 2]}
         ],
-        "poolRounds" : [ [0.5, 1], [0.5, 2] ]
+        "poolRounds" : [ [0.9, 1], [0.1, 2] ]
         } ]
     ]
   },
@@ -30,7 +30,7 @@
           {"weight" : 0.2, "item" : ["plantfibre", 1]},
           {"weight" : 0.2, "item" : ["plantfibre", 2]}
         ],
-        "poolRounds" : [ [0.5, 1], [0.5, 2] ]
+        "poolRounds" : [ [0.8, 1], [0.2, 2] ]
         } ]
     ]
   },
@@ -46,7 +46,7 @@
           {"weight" : 0.2, "item" : ["plantfibre", 2]},
           {"weight" : 0.2, "item" : ["plantfibre", 3]}
         ],
-        "poolRounds" : [ [0.5, 1], [0.5, 2] ]
+        "poolRounds" : [ [0.7, 1], [0.3, 2] ]
         } ]
     ]
   },
