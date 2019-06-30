@@ -1,0 +1,13 @@
+{
+  "name" : "ucsolarflare",
+
+  "effectConfig" : {},
+  "defaultDuration" : 1,
+
+  "scripts" : [
+    "solarflare.lua"
+  ],
+
+  "label" : "Solar Flare - Your energy reserves are malfunctioning!",
+  "icon" : "/interface/statuses/electricblock.png"
+}
