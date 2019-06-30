@@ -2,7 +2,7 @@
   "name" : "ucsolarflare",
 
   "effectConfig" : {},
-  "defaultDuration" : 1,
+  "defaultDuration" : 15,
 
   "scripts" : [
     "solarflare.lua"
