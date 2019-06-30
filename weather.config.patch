@@ -3,7 +3,7 @@
   "op" : "add",
   "path" : "/ucmarslike",
   "value" : [
-      [0.60, "solarflare"],
+      [0.60, "ucsolarflare"],
       [0.20, "spacedust"],
       [0.10, "sandstorm"]
       [0.05, "clear"],
