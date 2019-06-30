@@ -3,7 +3,7 @@
     "op" : "add",
 	  "path" : "/visitableTypeDescription/ucmarslike",
     "value" : [
-      "This planet could possibly be habitable, but the ^red;extreme temperature fluctuations^reset;, ^yellow;solar flares^reset;, and ^red;thin^reset;, ^red;unbreathable atmosphere^reset; makes it too ^orange;risky^reset; of an effort for colonization."
+      "This planet is possibly habitable, but ^red;extreme temperature fluctuations^reset;, ^yellow;solar flares^reset;, and ^red;thin^reset;, ^red;unbreathable atmosphere^reset; makes it too ^orange;risky^reset; of an effort for colonization."
     ]
   },
   {
