@@ -1,0 +1,11 @@
+{
+  "itemName": "ucbaseanimaldnasample",
+  "rarity": "Common",
+  "price": 5,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "baseanimaldnasample.png",
+  "description" : "^green;Animal DNA^reset;
+  ^cornflowerblue;A dna sample needed to create an animal.^reset;",
+  "shortdescription" : "Base Animal DNA",
+  "itemTags" : [ "reagent" ]
+}

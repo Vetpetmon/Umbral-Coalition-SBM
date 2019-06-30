@@ -1,0 +1,11 @@
+{
+  "itemName": "ucexoskeletondnasample",
+  "rarity": "Common",
+  "price": 15,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "exoskeleton-dnasample.png",
+  "description" : "^green;Animal DNA^reset;
+  ^cornflowerblue;A dna sample from a creature with an exoskeleton.^reset;",
+  "shortdescription" : "Exoskeleton DNA",
+  "itemTags" : [ "reagent" ]
+}

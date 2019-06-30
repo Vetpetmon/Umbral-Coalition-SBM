@@ -1,0 +1,11 @@
+{
+  "itemName": "ucfleshdnasample",
+  "rarity": "Common",
+  "price": 10,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "flesh-dnasample.png",
+  "description" : "^green;Animal DNA^reset;
+  ^cornflowerblue;A dna sample from a fleshy creature.^reset;",
+  "shortdescription" : "Flesh DNA",
+  "itemTags" : [ "reagent" ]
+}

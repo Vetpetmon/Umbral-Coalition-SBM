@@ -1,0 +1,11 @@
+{
+  "itemName": "ucshelldnasample",
+  "rarity": "Common",
+  "price": 20,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "shell-dnasample.png",
+  "description" : "^green;Animal DNA^reset;
+  ^cornflowerblue;A dna sample from a creature with a natural shell.^reset;",
+  "shortdescription" : "Shell DNA",
+  "itemTags" : [ "reagent" ]
+}

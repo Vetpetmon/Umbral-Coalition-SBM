@@ -1,0 +1,11 @@
+{
+  "itemName": "ucpoptopdnasample",
+  "rarity": "Common",
+  "price": 25,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "poptop-dnasample.png",
+  "description" : "^green;Plant-Animal DNA^reset;
+  ^cornflowerblue;A dna sample from a poptop, a bridge between the animal and plant kingdom.^reset;",
+  "shortdescription" : "Poptop DNA",
+  "itemTags" : [ "reagent" ]
+}

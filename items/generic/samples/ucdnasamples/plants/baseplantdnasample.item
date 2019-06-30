@@ -1,7 +1,7 @@
 {
   "itemName": "ucbaseplantdnasample",
   "rarity": "Common",
-  "price": 10,
+  "price": 5,
   "category": "craftingMaterial",
   "inventoryIcon" : "baseplantdnasample.png",
   "description" : "^green;Base Plant DNA^reset;
