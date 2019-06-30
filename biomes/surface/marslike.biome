@@ -7,9 +7,9 @@
 
   "weather" : [
     [0, [
-      "/weather.config:marslike",
-      "/weather.config:marscold",
-      "/weather.config:marshot"
+      "/weather.config:ucmarslike",
+      "/weather.config:ucmarslikecold",
+      "/weather.config:ucmarslikehot"
     ]]
   ],
 
