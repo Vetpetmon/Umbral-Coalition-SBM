@@ -312,7 +312,7 @@
   },
   // [BEETS]
   { "op" : "add",
-    "path" : "/eecBeetHarvest",
+    "path" : "/eecBeetseedHarvest",
     "value" : [
       [0, {
         "pool" : [
