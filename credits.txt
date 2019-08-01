@@ -17,8 +17,10 @@ Arcticcloud - Lore
 Sky - Sprited the Candy Corn Assault Rifle, Candy knife, and Gumball MACHINE-gun.
 Slugbait - Kyroxian Seed Germination Station sprite
 Inferus[RF] - Sprited Marshmallow spear, T1-3 Handleguns
+Endertrot - Candy cane bricks
 
 Testers:
+Endertrot
 Slugbait
 Vetpetmon
 TankSlayer2
@@ -30,3 +32,9 @@ The Origins of Vetpetmon - Sprites
 GitHub, for hosting pre-release builds of UC and helping with catching errors early on.
 The Starbound modding community, for helping modders learn how to mod Starbound.
 Chucklefish, for making Starbound.
+
+===================================================
+
+Vetpetmon teaches Starbound modding to Musty (the new lead dev and artist of UC) and plans to extend their teachings to the various programming clubs at their school! You can aid them by donating to them or commissioning them on DeviantArt right here: https://www.deviantart.com/vetpetmon-official. Please do note that they have a busy life, and it may take some time for them to work on your commissions.
+
+Their official website is https://www.vetpetmon.com, where you can find all of their social media and projects, including the Vetpetmon-labs discord @ https://discord.gg/wqKXbCA.

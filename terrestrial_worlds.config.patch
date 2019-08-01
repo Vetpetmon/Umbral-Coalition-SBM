@@ -19,7 +19,7 @@
            "primaryRegion" : ["barrenunderground"]
          },
          "underground1" : {
-           "primaryRegion" : ["midunderground"],
+           "primaryRegion" : ["barrenunderground"],
            "secondaryRegions" : []
          },
          "underground2" : {
@@ -27,7 +27,7 @@
            "secondaryRegions" : []
          },
          "underground3" : {
-           "primaryRegion" : ["midunderground"],
+           "primaryRegion" : ["deepunderground"],
            "secondaryRegions" : []
          },
          "core" : {
@@ -46,6 +46,62 @@
       "bgCaveSelector" : [ "empty" ],
       "biome" : [
         [0, [ "ucmarslike" ]]
+      ]
+    }
+  },
+
+ /* HOSTILE ALTS */
+
+  { "op" : "add",
+    "path" : "/planetTypes/uchostilegarden",
+    "value" :
+    {
+      "gravityRange" : [30, 80],
+       "threatRange" : [1, 1],
+       "layers" : {
+         "space" : {
+           "primaryRegion" : ["barrenasteroids"]
+         },
+         "atmosphere" : {
+           "primaryRegion" : ["void"]
+         },
+         "surface" : {
+           "primaryRegion" : ["uchostilegarden"],
+           "secondaryRegions" : ["forest"],
+           "dungeonCountRange" : [2, 2],
+           "dungeons" : [[1.0, "naturalcave"], [1.0, "gardengate"]]
+         },
+         "subsurface" : {
+           "primaryRegion" : ["subsurface"]
+         },
+         "underground1" : {
+           "primaryRegion" : ["shallowunderground"],
+           "secondaryRegions" : []
+         },
+         "underground2" : {
+           "primaryRegion" : ["midunderground"],
+           "secondaryRegions" : []
+         },
+         "underground3" : {
+           "primaryRegion" : ["deepunderground"],
+           "secondaryRegions" : []
+         },
+         "core" : {
+           "primaryRegion" : ["core"],
+           "baseHeight" : 150
+         }
+      }
+    }
+  },
+  {"op" : "add",
+  "path" : "/regionTypes/uchostilegarden",
+  "value" :
+    {
+      "blockSelector" : [ "remixedMountainsSurface" ],
+      "fgCaveSelector" : [ "surfaceCaves" ],
+      "bgCaveSelector" : [ "empty" ],
+      "biome" : [
+        [0, [ "uchostilegarden" ]]
       ]
     }
   }
