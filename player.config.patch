@@ -1,4 +1,52 @@
 [
+  //ADDING THESE VALUES IS NECESSARY. SERIOUSLY.
+  //Adding recipes make them ALWAYS accessable without requiring to be unlocked or to be played as a certain race.
+  //This uses the "add to /defaultBlueprints/" patch to do exactly that.
+  //To bypass any recipe restrictions, no matter the requirement, you will have to cheat using /admin.
+  //This is important information for testers, playtesters, AND devs.
+  //This patch also adds racial codices.
+
+  // CRAFTING MATERIALS
+
+  //kyrox crafting materials
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "kyroxchocobrick" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "kyroxchocopowder" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "kyroxchocopaste" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "sugar" } },
+
+  // FURNITURES
+
+  //Crafting stations
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ucwoodencanningtable" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ucbasicplantgerminationtable" } },
+
+  // FOOD
+
+  //regular food
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ucfriedegg" } },
+  //canned food
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedapples" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedboneboo" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedbanana" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedgrapes" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedpearlpea" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedpineapple" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedstrawberries" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uctomatopastecan" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccanneducjunkfoodinacan" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ucjunkfoodinacanimporved" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedbreadon" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedcacti" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedkaradiancarrot" } },
+
+  // CODICES
+
+  //racial codex
+  { "op" : "add", "path" : "/defaultCodexes/xenonian", "value" : [ "protectorate1", "protectorate2" ] },
+  { "op" : "add", "path" : "/defaultCodexes/ucswarmer", "value" : [ "protectorate1", "protectorate2" ] }
+
+  // EVENTS
+
   //Event 1
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "unicornplush" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ucmustardspraycan" } },
@@ -64,30 +112,4 @@
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uceventpastelcarrot3" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uceventpastelcarrot4" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uceventpastelcarrot5" } },
-  //kyrox crafting materials
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "kyroxchocobrick" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "kyroxchocopowder" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "kyroxchocopaste" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "sugar" } },
-  //Crafting stations
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ucwoodencanningtable" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ucbasicplantgerminationtable" } },
-  //regular food
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ucfriedegg" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedapples" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedboneboo" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedbanana" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedgrapes" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedpearlpea" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedpineapple" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedstrawberries" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uctomatopastecan" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccanneducjunkfoodinacan" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ucjunkfoodinacanimporved" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedbreadon" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedcacti" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedkaradiancarrot" } },
-  //racial codex
-  { "op" : "add", "path" : "/defaultCodexes/xenonian", "value" : [ "protectorate1", "protectorate2" ] },
-  { "op" : "add", "path" : "/defaultCodexes/ucswarmer", "value" : [ "protectorate1", "protectorate2" ] }
 ]
