@@ -1,0 +1,34 @@
+[
+   {
+    "name" : "uccrimsontop",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.08,
+    "monsterType" : "uccrimsontop",
+    "monsterParameters" : {
+      "aggressive" : true
+    }
+  },
+  {
+    "name" : "uccrimsontopswarm",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [4, 6],
+    "spawnChance" : 0.01,
+    "monsterType" : "uccrimsontop",
+    "monsterParameters" : {
+      "aggressive" : true
+    }
+  }
+]

@@ -5,11 +5,12 @@
   "spawnProfile" : {
     "groups" : [
       {
-        "select" : 4,
+        "select" : 5,
         "pool" : [
           [ 1.0, "gleap" ],
           [ 1.0, "nutmidge" ],
           [ 1.0, "uccrimsontop" ],
+          [ 1.0, "uccrimsontopswarm" ],
           [ 1.0, "poptop" ]
         ]
       },
