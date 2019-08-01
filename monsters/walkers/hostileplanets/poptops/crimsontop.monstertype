@@ -3,7 +3,7 @@
   "shortdescription" : "Crimsontop",
   "description" : "This poptop's song is known to inflict insanity upon those who hear it.",
 
-  "categories" : [ "crimsontop" ],
+  "categories" : [ "uccrimsontop" ],
   "parts" : [ "body" ],
 
   "animation" : "crimsontop.animation",
