@@ -43,7 +43,7 @@
 
   //racial codex
   { "op" : "add", "path" : "/defaultCodexes/xenonian", "value" : [ "protectorate1", "protectorate2" ] },
-  { "op" : "add", "path" : "/defaultCodexes/ucswarmer", "value" : [ "protectorate1", "protectorate2" ] }
+  { "op" : "add", "path" : "/defaultCodexes/ucswarmer", "value" : [ "protectorate1", "protectorate2" ] },
 
   // EVENTS
 
@@ -111,5 +111,5 @@
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uceventpastelcarrot2" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uceventpastelcarrot3" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uceventpastelcarrot4" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uceventpastelcarrot5" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uceventpastelcarrot5" } }
 ]
