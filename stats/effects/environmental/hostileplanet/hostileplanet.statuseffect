@@ -2,7 +2,7 @@
   "name" : "uchostileplanet",
 
   "effectConfig" : {},
-  "defaultDuration" : 1,
+  "defaultDuration" : 5,
 
   "scripts" : [
     "hostileplanet.lua"
