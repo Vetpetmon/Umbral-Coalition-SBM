@@ -6,6 +6,7 @@ Contributors and devs:
 
 Vetpetmon - Sprites, scripts, writing, lore, running the whole project, and pretty much running the whole entire mod while sacrificing her sanity. Also, the memes.
 Musty - Artwork, lore, and code.
+Kaisa Serian - Naming the mod
 Opaque - Lore and sprites
 Hubnester - Programming
 Rain - Lore
