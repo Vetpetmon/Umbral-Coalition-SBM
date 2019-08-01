@@ -1,0 +1,26 @@
+{
+  "materialId" : 25515,
+  "materialName" : "uccandycanebrick",
+  "frames" : "uccandycanebrick.png",
+  "particleColor" : [89, 127, 52, 255],
+  "variants" : 1,
+  "itemDrop" : "uccandycanebrick",
+  "description" : "Tough bricks made out of rock candy. Not as edible as it looks.",
+  "shortdescription" : "Candy bricks",
+  "glitchDescription" : "Interested. It can hold up the most grand of buildings.",
+  "floranDescription" : "Candy bricksss are ssstrange conssstruction materialsss.",
+  "novakidDescription" : "How does this support anythin'? It's made out of candy!",
+  "footstepSound" : "/sfx/blocks/footstep_ice.ogg",
+  "health" : 10,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "uccandycanebrick.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 3320
+  }
+}

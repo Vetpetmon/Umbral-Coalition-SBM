@@ -1,5 +1,6 @@
 {
   "name" : "ucsolarflare",
+  "blockingStat" : "ucsolarflareImmunity",
 
   "effectConfig" : {},
   "defaultDuration" : 15,

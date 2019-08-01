@@ -3,7 +3,10 @@
     "op" : "add",
 	  "path" : "/visitableTypeDescription/ucmarslike",
     "value" : [
-      "This planet has ^red;extreme temperature fluctuations^reset;, and ^yellow;solar flares^reset; makes it too ^orange;risky^reset; of an effort for colonization."
+      "This planet has ^red;extreme temperature fluctuations^reset;, and ^yellow;solar flares^reset; makes it too ^orange;risky^reset; of an effort for colonization.",
+      "A planet with ^red;unstable temperature fluctuations^reset; and ^yellow;intense solar flares^reset;. Conditions of the beam site are uncertain.",
+      "This planet is unable to support life due to ^red;extreme conditions^reset; and ^red;lack of breathable atmostphere.",
+      "Electrical devices are predicted to be ^red;unable to function^reset; on this ^orange;unstable^reset; planet due to the lack of any protective atmosphere."
     ]
   },
   {
@@ -14,6 +17,26 @@
   {
     "op": "add",
     "path": "/planetTypeColors/ucmarslike",
+    "value" : [250, 207, 120]
+  },
+
+  {
+    "op" : "add",
+	  "path" : "/visitableTypeDescription/uchostilegarden",
+    "value" : [
+      "^#76fe68;Lush ^white;foothills mark this landing location. Both flora and fauna are abundant here. A beam site of immeasurable safety.",
+      "The beam site is located in a tranquil area of great bio-diversity. There are resources here that you could use. A ^#76fe68;lush ^white;and pleasant land.",
+      "Readings indicate the landing site is not unfavourable - the area is safe, and lavish with both flora and fauna. A ^#76fe68;lush ^white;and hospitable place."
+    ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeNames/uchostilegarden",
+    "value" : "Garden"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypeColors/uchostilegarden",
     "value" : [250, 207, 120]
   },
 

@@ -1,0 +1,9 @@
+{
+  "name" : "crimsontop",
+  "category" : "crimsontop",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "crimsontop.png"
+  }
+}

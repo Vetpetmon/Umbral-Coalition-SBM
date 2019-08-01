@@ -1,13 +1,14 @@
 {
-  "itemName" : "kyroxicetemplebricks2",
+  "itemName" : "kyroxicetemplebricks1",
   "price" : 0,
   "category" : "block",
   "rarity" : "Common",
   "inventoryIcon" : "kyroxicetemplebricks2.png",
   "description" : "Icy sugar bricks.",
-  "shortdescription" : "Glowing Ice Temple Bricks",
+  "shortdescription" : "Ice Temple Bricks",
   "glitchDescription" : "Informal. These bricks are made of sugar and ice.",
   "floranDescription" : "Icy.",
   "novakidDescription" : "Icy bricks.",
-  "materialId" : 25511
+
+  "materialId" : 25510
 }

@@ -1,0 +1,15 @@
+//uccandycanebrick
+{
+  "itemName" : "uccandycanebrick",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "uccandycanebrick.png",
+  "description" : "Tough bricks made out of rock candy. Not as edible as it looks.",
+  "shortdescription" : "Candy Bricks",
+  "glitchDescription" : "Interested. It can hold up the most grand of buildings.",
+  "floranDescription" : "Candy bricksss are ssstrange conssstruction materialsss.",
+  "novakidDescription" : "How does this support anythin'? It's made out of candy!",
+
+  "materialId" : 25515
+}

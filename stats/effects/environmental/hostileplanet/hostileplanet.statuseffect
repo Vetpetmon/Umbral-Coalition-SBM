@@ -1,0 +1,13 @@
+{
+  "name" : "uchostileplanet",
+
+  "effectConfig" : {},
+  "defaultDuration" : 1,
+
+  "scripts" : [
+    "hostileplanet.lua"
+  ],
+
+  "label" : "Unknown Psychic Wave",
+  "icon" : "/interface/statuses/hostileworld.png"
+}
