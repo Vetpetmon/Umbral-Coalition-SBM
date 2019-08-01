@@ -9,7 +9,7 @@
     },
 
     "groupSize" : [1, 1],
-    "spawnChance" : 0.08,
+    "spawnChance" : 0.1,
     "monsterType" : "uccrimsontop",
     "monsterParameters" : {
       "aggressive" : true
@@ -25,7 +25,7 @@
     },
 
     "groupSize" : [4, 6],
-    "spawnChance" : 0.01,
+    "spawnChance" : 0.05,
     "monsterType" : "uccrimsontop",
     "monsterParameters" : {
       "aggressive" : true
