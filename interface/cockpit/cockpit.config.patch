@@ -32,12 +32,12 @@
   {
     "op" : "add",
     "path" : "/planetTypeNames/uchostilegarden",
-    "value" : "Garden"
+    "value" : "Lush"
   },
   {
     "op": "add",
     "path": "/planetTypeColors/uchostilegarden",
-    "value" : [250, 207, 120]
+    "value" : [0, 200, 0]
   },
 
   //weather

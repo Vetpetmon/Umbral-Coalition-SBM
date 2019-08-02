@@ -97,7 +97,8 @@
   "path" : "/regionTypes/uchostilegarden",
   "value" :
     {
-      "blockSelector" : [ "remixedMountainsSurface" ],
+      "caveLiquid" : [ "water" ],
+      "blockSelector" : [ "remixedMildSurface" ],
       "fgCaveSelector" : [ "surfaceCaves" ],
       "bgCaveSelector" : [ "empty" ],
       "biome" : [
