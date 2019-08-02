@@ -1,0 +1,9 @@
+{
+  "name" : "ucdarkradtop",
+  "category" : "ucdarkradtop",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "darkradtop.png"
+  }
+}

@@ -1,12 +1,12 @@
 {
-  "type" : "uccrimsontop",
-  "shortdescription" : "Crimsontop",
-  "description" : "This poptop's song is known to inflict insanity upon those who hear it.",
+  "type" : "ucdarkradtop",
+  "shortdescription" : "Dark Radtop",
+  "description" : "Radtops are infamous for their radioactive bites.",
 
-  "categories" : [ "uccrimsontop" ],
+  "categories" : [ "ucdarkradtop" ],
   "parts" : [ "body" ],
 
-  "animation" : "crimsontop.animation",
+  "animation" : "darkradtop.animation",
 
   "dropPools" : [ { "default" : "poptopTreasure", "bow" : "poptopHunting" } ],
 
@@ -167,13 +167,13 @@
           "baseValue" : 0.25
         },
         "knockbackThreshold" : {
-          "baseValue" : 11
+          "baseValue" : 20
         },
         "maxHealth" : {
-          "baseValue" : 60
+          "baseValue" : 50
         },
         "protection" : {
-          "baseValue" : 3.0
+          "baseValue" : 6.0
         },
         "healthRegen" : {
           "baseValue" : 0.0
@@ -185,25 +185,25 @@
           "baseValue" : 0.5
         },
         "fireResistance" : {
-          "baseValue" : 0.0
+          "baseValue" : 0.2
         },
         "fireStatusImmunity" : {
           "baseValue" : 0.0
         },
         "iceResistance" : {
-          "baseValue" : 0.2
+          "baseValue" : -0.4
         },
         "iceStatusImmunity" : {
           "baseValue" : 0.0
         },
         "electricResistance" : {
-          "baseValue" : 0.2
+          "baseValue" : 0.8
         },
         "electricStatusImmunity" : {
-          "baseValue" : 0.0
+          "baseValue" : 1.0
         },
         "poisonResistance" : {
-          "baseValue" : 0.6
+          "baseValue" : 0.5
         },
         "poisonStatusImmunity" : {
           "baseValue" : 1.0
