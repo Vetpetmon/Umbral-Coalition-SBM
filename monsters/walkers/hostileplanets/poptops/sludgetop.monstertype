@@ -1,7 +1,7 @@
 {
   "type" : "ucsludgetop",
   "shortdescription" : "Sludgetop",
-  "description" : "The resulting, sickly horror when a poptop comes into contact with polluted water.",
+  "description" : "The sickly result of a horror when a poptop comes into contact with polluted water.",
 
   "categories" : [ "ucsludgetop" ],
   "parts" : [ "body" ],
