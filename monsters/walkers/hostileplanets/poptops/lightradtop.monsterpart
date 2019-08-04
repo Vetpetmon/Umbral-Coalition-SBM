@@ -1,0 +1,9 @@
+{
+  "name" : "uclightradtop",
+  "category" : "uclightradtop",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "lightradtop.png"
+  }
+}

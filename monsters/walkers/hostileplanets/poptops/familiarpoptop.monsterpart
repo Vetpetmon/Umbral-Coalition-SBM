@@ -1,0 +1,9 @@
+{
+  "name" : "ucfamiliarpoptop",
+  "category" : "ucfamiliarpoptop",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "familiarpoptop.png"
+  }
+}

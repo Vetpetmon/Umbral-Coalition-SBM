@@ -1,12 +1,12 @@
 {
-  "type" : "ucdarkradtop",
-  "shortdescription" : "Dark Radtop",
-  "description" : "Radtops are infamous for their radioactive bites.",
+  "type" : "ucsludgetop",
+  "shortdescription" : "Sludgetop",
+  "description" : "The resulting, sickly horror when a poptop comes into contact with polluted water.",
 
-  "categories" : [ "ucdarkradtop" ],
+  "categories" : [ "ucsludgetop" ],
   "parts" : [ "body" ],
 
-  "animation" : "darkradtop.animation",
+  "animation" : "sludgetop.animation",
 
   "dropPools" : [ { "default" : "poptopTreasure", "bow" : "poptopHunting" } ],
 
@@ -128,12 +128,12 @@
 
       "mass" : 1.0,
       "walkSpeed" : 2,
-      "runSpeed" : 10,
+      "runSpeed" : 20,
 
       "airFriction" : 0,
 
       "airJumpProfile" : {
-        "jumpSpeed" : 40.0,
+        "jumpSpeed" : 20.0,
         "jumpInitialPercentage" : 1.0,
         "jumpHoldTime" : 0.0
       }
@@ -170,40 +170,40 @@
           "baseValue" : 20
         },
         "maxHealth" : {
-          "baseValue" : 50
+          "baseValue" : 70
         },
         "protection" : {
-          "baseValue" : 7.0
+          "baseValue" : 8.0
         },
         "healthRegen" : {
-          "baseValue" : 0.0
-        },
-        "powerMultiplier" : {
-          "baseValue" : 1.5
-        },
-        "physicalResistance" : {
           "baseValue" : 0.5
         },
+        "powerMultiplier" : {
+          "baseValue" : 1.1
+        },
+        "physicalResistance" : {
+          "baseValue" : 0.4
+        },
         "fireResistance" : {
-          "baseValue" : 0.2
+          "baseValue" : -0.4
         },
         "fireStatusImmunity" : {
           "baseValue" : 0.0
         },
         "iceResistance" : {
-          "baseValue" : -0.4
+          "baseValue" : 0.0
         },
         "iceStatusImmunity" : {
           "baseValue" : 0.0
         },
         "electricResistance" : {
-          "baseValue" : 0.8
+          "baseValue" : 0.0
         },
         "electricStatusImmunity" : {
-          "baseValue" : 1.0
+          "baseValue" : 0.0
         },
         "poisonResistance" : {
-          "baseValue" : 0.5
+          "baseValue" : 1.0
         },
         "poisonStatusImmunity" : {
           "baseValue" : 1.0
@@ -226,7 +226,7 @@
     "mouthOffset" : [0, 0],
     "feetOffset" : [0, -8],
     "capturable" : true,
-    "captureHealthFraction" : 0.5,
+    "captureHealthFraction" : 0.3,
     "nametagColor" : [64, 200, 255]
   }
 }

@@ -1,12 +1,12 @@
 {
-  "type" : "ucdarkradtop",
-  "shortdescription" : "Dark Radtop",
-  "description" : "Radtops are infamous for their radioactive bites.",
+  "type" : "ucfamiliarpoptop",
+  "shortdescription" : "Odd Poptop",
+  "description" : "... Is that what you're thinking it is? Because it is: the true creator of that cube game.",
 
-  "categories" : [ "ucdarkradtop" ],
+  "categories" : [ "ucfamiliarpoptop" ],
   "parts" : [ "body" ],
 
-  "animation" : "darkradtop.animation",
+  "animation" : "familiarpoptop.animation",
 
   "dropPools" : [ { "default" : "poptopTreasure", "bow" : "poptopHunting" } ],
 
@@ -128,12 +128,12 @@
 
       "mass" : 1.0,
       "walkSpeed" : 2,
-      "runSpeed" : 10,
+      "runSpeed" : 20,
 
       "airFriction" : 0,
 
       "airJumpProfile" : {
-        "jumpSpeed" : 40.0,
+        "jumpSpeed" : 45.0,
         "jumpInitialPercentage" : 1.0,
         "jumpHoldTime" : 0.0
       }
@@ -170,16 +170,16 @@
           "baseValue" : 20
         },
         "maxHealth" : {
-          "baseValue" : 50
+          "baseValue" : 100
         },
         "protection" : {
-          "baseValue" : 7.0
+          "baseValue" : 8.0
         },
         "healthRegen" : {
           "baseValue" : 0.0
         },
         "powerMultiplier" : {
-          "baseValue" : 1.5
+          "baseValue" : 1.0
         },
         "physicalResistance" : {
           "baseValue" : 0.5
@@ -191,19 +191,19 @@
           "baseValue" : 0.0
         },
         "iceResistance" : {
-          "baseValue" : -0.4
+          "baseValue" : 0.0
         },
         "iceStatusImmunity" : {
           "baseValue" : 0.0
         },
         "electricResistance" : {
-          "baseValue" : 0.8
+          "baseValue" : 0.4
         },
         "electricStatusImmunity" : {
           "baseValue" : 1.0
         },
         "poisonResistance" : {
-          "baseValue" : 0.5
+          "baseValue" : 0.1
         },
         "poisonStatusImmunity" : {
           "baseValue" : 1.0
@@ -226,7 +226,7 @@
     "mouthOffset" : [0, 0],
     "feetOffset" : [0, -8],
     "capturable" : true,
-    "captureHealthFraction" : 0.5,
+    "captureHealthFraction" : 0.25,
     "nametagColor" : [64, 200, 255]
   }
 }

@@ -1,0 +1,9 @@
+{
+  "name" : "ucradtop",
+  "category" : "ucradtop",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "radtop.png"
+  }
+}

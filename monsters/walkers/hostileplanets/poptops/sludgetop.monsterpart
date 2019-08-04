@@ -1,0 +1,9 @@
+{
+  "name" : "ucsludgetop",
+  "category" : "ucsludgetop",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "sludgetop.png"
+  }
+}
