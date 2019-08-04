@@ -20,7 +20,7 @@
     "behaviorConfig" : {
       "damageOnTouch" : true,
 
-      "targetQueryRange" : 20,
+      "targetQueryRange" : 30,
       "targetOnDamage" : true,
       "keepTargetInSight" : true,
       "keepTargetInRange" : 50,
