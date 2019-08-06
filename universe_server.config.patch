@@ -30,15 +30,15 @@
 	{ "op" : "add",
 		"path" : "/speciesShips/radion",
 		"value" : [
-		  "/ships/fii/fiit0.structure",
-			"/ships/fii/fiit1.structure",
-			"/ships/fii/fiit2.structure",
-			"/ships/fii/fiit3.structure",
-			"/ships/fii/fiit4.structure",
-			"/ships/fii/fiit5.structure",
-			"/ships/fii/fiit6.structure",
-			"/ships/fii/fiit7.structure",
-			"/ships/fii/fiit8.structure"
+		  "/ships/radion/fiit0.structure",
+			"/ships/radion/fiit1.structure",
+			"/ships/radion/fiit2.structure",
+			"/ships/radion/fiit3.structure",
+			"/ships/radion/fiit4.structure",
+			"/ships/radion/fiit5.structure",
+			"/ships/radion/fiit6.structure",
+			"/ships/radion/fiit7.structure",
+			"/ships/radion/fiit8.structure"
 		]
 	}
 ]
