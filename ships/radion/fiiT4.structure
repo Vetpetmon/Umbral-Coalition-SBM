@@ -1,0 +1,23 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "crewSize" : 4
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "fiiT4.png",
+      "position" : [-4, 9],
+      "fullbright" : true
+    },
+    {
+      "image" : "fiiT4lit.png",
+      "position" : [-4, 9]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "fiiT4blocks.png"
+}
