@@ -9,6 +9,15 @@
 	},
 	{
 			"op" : "add",
+			"path" : "/species/radion",
+			"value" : {
+				"aiFrames" : "xenonianAI.png",
+				"portraitFrames" : "portraits/xenonianportrait.png",
+				"staticFrames" : "staticxenonian.png"
+			}
+		},
+	{
+			"op" : "add",
 			"path" : "/species/ucswarmer",
 			"value" : {
 				"aiFrames" : "xenonianAI.png",
