@@ -1,1 +1,1 @@
-[ { "op" : "add", "path" : "/speciesOrdering/-", "value" : "xenonian" } ]
+[ { "op" : "add", "path" : "/speciesOrdering/-", "value" : "xenonian" }, { "op" : "add", "path" : "/speciesOrdering/-", "value" : "radion" } ]

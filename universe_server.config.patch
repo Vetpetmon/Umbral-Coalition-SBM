@@ -26,5 +26,19 @@
 			"/ships/fii/fiit7.structure",
 			"/ships/fii/fiit8.structure"
 		]
+	},
+	{ "op" : "add",
+		"path" : "/speciesShips/radion",
+		"value" : [
+		  "/ships/fii/fiit0.structure",
+			"/ships/fii/fiit1.structure",
+			"/ships/fii/fiit2.structure",
+			"/ships/fii/fiit3.structure",
+			"/ships/fii/fiit4.structure",
+			"/ships/fii/fiit5.structure",
+			"/ships/fii/fiit6.structure",
+			"/ships/fii/fiit7.structure",
+			"/ships/fii/fiit8.structure"
+		]
 	}
 ]

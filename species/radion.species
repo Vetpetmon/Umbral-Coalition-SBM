@@ -1,0 +1,219 @@
+{
+  "kind" : "radion",
+	"charCreationTooltip" : {
+	"title" : "Rad'ion",
+	"subTitle" : "O3",
+	"description" : "Strange shapeshifters from another dimension. They are more energy than matter, and have no true form. Most commonly, if one does not choose to imitate a different organism, they have a representative form that they use as a base for being able to be recognized by other life forms."
+  },
+  "nameGen" : [ "/species/xenoniannamegen.config:names", "/species/xenoniannamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/novakidhurt_male2.ogg", "/sfx/humanoid/novakidhurt_male2.ogg" ],
+  "charGenTextLabels" : [ "Skin color", "Reactors", "Shirt", "Legwear", "Eye color", "", "Shirt color", "Legwear color", "RAD'ION", "Personality" ],
+  "skull" : "/humanoid/xenonian/dead.png",
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=8af062FF?replace=31a6ffFF=40bf21FF",
+  "defaultBlueprints" : {
+    "tier1" : [
+
+    // Empty Hands
+      { "item" : "flagnovakid" },
+
+    // Anvil
+      { "item" : "humantier1head" },
+      { "item" : "humantier1chest" },
+      { "item" : "humantier1pants" },
+      { "item" : "humantier2head" },
+      { "item" : "humantier2chest" },
+      { "item" : "humantier2pants" },
+      { "item" : "xenoniansword" },
+      { "item" : "ironshortsword" },
+      { "item" : "ironbroadsword" },
+      { "item" : "tungstenaxe" },
+      { "item" : "tungstenhammer" },
+    // Anvil2
+      { "item" : "humantier3head" },
+      { "item" : "humantier3chest" },
+      { "item" : "humantier3pants" },
+      { "item" : "humantier4head" },
+      { "item" : "humantier4chest" },
+      { "item" : "humantier4pants" },
+      { "item" : "titaniumdagger" },
+      { "item" : "titaniumspear" },
+      { "item" : "durasteelbroadsword" },
+      { "item" : "durasteelshortsword" },
+    // Anvil3
+      { "item" : "humantier5ahead" },
+      { "item" : "humantier5achest" },
+      { "item" : "humantier5apants" },
+      { "item" : "humantier6ahead" },
+      { "item" : "humantier6achest" },
+      { "item" : "humantier6apants" },
+      { "item" : "humantier5mhead" },
+      { "item" : "humantier5mchest" },
+      { "item" : "humantier5mpants" },
+      { "item" : "humantier6mhead" },
+      { "item" : "humantier6mchest" },
+      { "item" : "humantier6mpants" },
+      { "item" : "humantier5shead" },
+      { "item" : "humantier5schest" },
+      { "item" : "humantier5spants" },
+      { "item" : "humantier6shead" },
+      { "item" : "humantier6schest" },
+      { "item" : "humantier6spants" },
+      { "item" : "aegisaltpistol" },
+      { "item" : "aegisaltbow" },
+      { "item" : "feroziumwand" },
+      { "item" : "feroziumstaff" },
+      { "item" : "violiumshortsword" },
+      { "item" : "violiumbroadsword" },
+    // Furniture Table 2
+      { "item" : "humanstoragelocker" }
+    // Spinning Wheel
+    //inventing table
+	  ]
+  },
+
+
+  "altOptionAsUndyColor" : true,
+  "hairColorAsBodyColor" : true,
+  "altOptionAsHairColor" : true,
+
+  "genders" : [
+    {
+       "name" : "male",
+      "image" : "/interface/title/radiongenderico.png",
+      "characterImage" : "/interface/title/radionico.png",
+      "hair" : [ "male1", "male2", "male3", "male4", "male5", "male6", "male7", "male8", "male9", "male10", "male11", "male12", "male13", "male14", "male15", "male16", "male17", "male18", "male19", "male21", "male22", "male23", "male24", "male25", "male26", "male27", "male28", "male29", "male30", "male31", "male32", "male33", "male34", "male35", "male36", "male37", "male38", "male39", "male40", "male41", "male42", "male43", "male44", "male45", "male46", "male47", "male48", "male49", "male50", "male51", "male52", "male53", "male54", "male55", "male56", "male57", "male58", "male59", "male60", "male61", "male62", "male63", "male64" ],
+      "shirt" : [ "novakidsuspenders", "novakidjacket", "novakidwaistcoat", "novakidfancychest" ],
+      "pants" : [ "novakidsuspenderspants", "novakidjacketpants", "novakidblackpants", "novakidfancypants" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/radiongenderico.png",
+      "characterImage" : "/interface/title/radionico.png",
+      "hair" : [ "male1", "male2", "male3", "male4", "male5", "male6", "male7", "male8", "male9", "male10", "male11", "male12", "male13", "male14", "male15", "male16", "male17", "male18", "male19", "male21", "male22", "male23", "male24", "male25", "male26", "male27", "male28", "male29", "male30", "male31", "male32", "male33", "male34", "male35", "male36", "male37", "male38", "male39", "male40", "male41", "male42", "male43", "male44", "male45", "male46", "male47", "male48", "male49", "male50", "male51", "male52", "male53", "male54", "male55", "male56", "male57", "male58", "male59", "male60", "male61", "male62", "male63", "male64" ],
+      "shirt" : [ "novakidsuspenders", "novakidjacket", "novakidwaistcoat", "novakidfancychest" ],
+      "pants" : [ "novakidsuspenderspants", "novakidjacketpants", "novakidblackpants", "novakidfancypants" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    }
+  ],
+  "bodyColor" : [
+    // BASE COLOR
+    //ffe2c5 1st shade
+    //ffc181 2nd shade
+    //d39c6c 3rd shade
+    //c7815b 4th shade
+    // Yellow
+    { "ffe2c5" : "fff8b5", "ffc181" : "fde03f", "d39c6c" : "f6b919", "c7815b" : "352b12" },
+    // Golden to the Core
+    { "ffe2c5" : "FFFF9C", "ffc181" : "FFE967", "d39c6c" : "F9A21C", "c7815b" : "BA4712" },
+    // Fruity Core
+    { "ffe2c5" : "EFE6D9", "ffc181" : "F7C331", "d39c6c" : "F7882F", "c7815b" : "6B7A8F" },
+    // Fire
+    { "ffe2c5" : "fff3e0", "ffc181" : "ffb74d", "d39c6c" : "ff9800", "c7815b" : "f57c00" },
+    // Orange
+    { "ffe2c5" : "ffedc4", "ffc181" : "feb05c", "d39c6c" : "fa8131", "c7815b" : "40110a" },
+    // Vivid Orange
+    { "ffe2c5" : "ffd180", "ffc181" : "ffab40", "d39c6c" : "ff9100", "c7815b" : "ff6d00" },
+    // Burnin' up
+    { "ffe2c5" : "fdf2b8", "ffc181" : "e88200", "d39c6c" : "cb2800", "c7815b" : "34262b" },
+    // Sunset
+    { "ffe2c5" : "FFD900", "ffc181" : "FF9A00", "d39c6c" : "FF5600", "c7815b" : "420400" },
+    // OBLITERATOR
+    { "ffe2c5" : "ffebee", "ffc181" : "ff8a80", "d39c6c" : "f44336", "c7815b" : "ff0000" },
+    // Red
+    { "ffe2c5" : "ffe2c9", "ffc181" : "fe9875", "d39c6c" : "ef5443", "c7815b" : "4f160d" },
+    // Vivid Red
+    { "ffe2c5" : "ff8a80", "ffc181" : "ff5252", "d39c6c" : "ff1744", "c7815b" : "d50000" },
+    // Cherry
+    { "ffe2c5" : "de7c5a", "ffc181" : "b10f2e", "d39c6c" : "570000", "c7815b" : "280000" },
+    // Pink Booster
+    { "ffe2c5" : "fce4ec", "ffc181" : "f48fb1", "d39c6c" : "ec407a", "c7815b" : "f50057" },
+    // Pink
+    { "ffe2c5" : "fee5ff", "ffc181" : "f6bbf9", "d39c6c" : "f57afc", "c7815b" : "4c2153" },
+    // Vivid Pink
+    { "ffe2c5" : "ff80ab", "ffc181" : "ff4081", "d39c6c" : "f50057", "c7815b" : "c51162" },
+    // Funky Cosmos
+    { "ffe2c5" : "f2a1a1", "ffc181" : "e76d89", "d39c6c" : "8e24aa", "c7815b" : "1d1145" },
+    // Cosmic
+    { "ffe2c5" : "9ac6c5", "ffc181" : "7785ac", "d39c6c" : "5b2a86", "c7815b" : "360568" },
+    // Vivid Purple
+    { "ffe2c5" : "ea80fc", "ffc181" : "e040fb", "d39c6c" : "d500f9", "c7815b" : "aa00ff" },
+    // Purple
+    { "ffe2c5" : "fedbff", "ffc181" : "da89f7", "d39c6c" : "ae38f1", "c7815b" : "340e52" },
+    // Mitiden
+    { "ffe2c5" : "ffeb3b", "ffc181" : "3f51b5", "d39c6c" : "3f51b5", "c7815b" : "673ab7" },
+    // Vivid Cosmos
+    { "ffe2c5" : "d500f9", "ffc181" : "aa00ff", "d39c6c" : "6200ea", "c7815b" : "311B92" },
+    // Blue
+    { "ffe2c5" : "c7feff", "ffc181" : "56ebf8", "d39c6c" : "12c2e8", "c7815b" : "0c2b4b" },
+    // Vivid Blue
+    { "ffe2c5" : "80d8ff", "ffc181" : "40c4ff", "d39c6c" : "00b0ff", "c7815b" : "0091ea" },
+    // Pastel Ocean
+    { "ffe2c5" : "fffd98", "ffc181" : "b3d2b2", "d39c6c" : "9fbbcc", "c7815b" : "7a9cc6" },
+    // Blue Booster
+    { "ffe2c5" : "e1f5fe", "ffc181" : "81d4fa", "d39c6c" : "29b6f6", "c7815b" : "039be5" },
+    // Vivid Cyan
+    { "ffe2c5" : "18ffff", "ffc181" : "00e5ff", "d39c6c" : "00b8d4", "c7815b" : "00bcd4" },
+    // Sea Green
+    { "ffe2c5" : "c3fffc", "ffc181" : "4df4df", "d39c6c" : "0cd6b8", "c7815b" : "0c482d" },
+    // Acidic Oceans
+    { "ffe2c5" : "5efc8d", "ffc181" : "8ef9f3", "d39c6c" : "93bedf", "c7815b" : "8377d1" },
+    // Acidic Green
+    { "ffe2c5" : "00FFF2", "ffc181" : "00FFB3", "d39c6c" : "00E369", "c7815b" : "00B631" },
+    // Green Booster
+    { "ffe2c5" : "e8f5e9", "ffc181" : "69f0ae", "d39c6c" : "00e676", "c7815b" : "00c853" },
+    // Green
+    { "ffe2c5" : "c7ffdc", "ffc181" : "63f574", "d39c6c" : "17dc0d", "c7815b" : "0d500f" },
+    // Vivid Green
+    { "ffe2c5" : "18ff6d", "ffc181" : "04e824", "d39c6c" : "138a36", "c7815b" : "285238" },
+    // Uranium
+    { "ffe2c5" : "CDDC39", "ffc181" : "8BC34A", "d39c6c" : "4CAF50", "c7815b" : "009688" },
+    // Fading Uranium
+    { "ffe2c5" : "C6DD95", "ffc181" : "A4D0AC", "d39c6c" : "88C1B4", "c7815b" : "5EA2A7" },
+    // Thirnovan
+    { "ffe2c5" : "ECFA76", "ffc181" : "A1FA76", "d39c6c" : "5EEA76", "c7815b" : "00C771" },
+    // Mint
+    { "ffe2c5" : "e1f4cb", "ffc181" : "bacba9", "d39c6c" : "717568", "c7815b" : "3f4739" },
+    // Yellow Green
+    { "ffe2c5" : "fffdae", "ffc181" : "c9f236", "d39c6c" : "8ae100", "c7815b" : "2d510d" },
+    // Vivid Lime
+    { "ffe2c5" : "f4ff81", "ffc181" : "eeff41", "d39c6c" : "c6ff00", "c7815b" : "aeea00" },
+    // Coffee
+    { "ffe2c5" : "d7ccc8", "ffc181" : "8d6e63", "d39c6c" : "5d4037", "c7815b" : "212121" },
+    // Rusted Metal
+    { "ffe2c5" : "EADACC", "ffc181" : "C7B4A4", "d39c6c" : "83524E", "c7815b" : "41313B" },
+    // White/Pale Blue
+    { "ffe2c5" : "deffff", "ffc181" : "a2dbdb", "d39c6c" : "6ea2a9", "c7815b" : "222d33" },
+    // White/Pale Green
+    { "ffe2c5" : "f0f7f4", "ffc181" : "b3bfb8", "d39c6c" : "7e8d85", "c7815b" : "3c493f" }
+  ],
+  "undyColor" : [
+    { "f32200" : "FFDCC4", "dc1f00" : "FFB98F", "be1b00" : "C1695F", "951500" : "7E3F38" },
+    { "f32200" : "FFFFE7", "dc1f00" : "FFE48E", "be1b00" : "C1AA5C", "951500" : "7C7135" },
+    { "f32200" : "F6F0D3", "dc1f00" : "DAD39B", "be1b00" : "A7A270", "951500" : "6B6B47" },
+    { "f32200" : "FFFFE0", "dc1f00" : "E7EFA1", "be1b00" : "ABB573", "951500" : "697447" },
+    { "f32200" : "EEFFDC", "dc1f00" : "B1E994", "be1b00" : "7CAD69", "951500" : "4F7B43" },
+    { "f32200" : "C7DEBC", "dc1f00" : "90BC80", "be1b00" : "648B5A", "951500" : "3A5D35" },
+    { "f32200" : "DAFFE5", "dc1f00" : "97ECB0", "be1b00" : "6BB383", "951500" : "417356" },
+    { "f32200" : "DBFFFE", "dc1f00" : "99EEDB", "be1b00" : "6DB4A9", "951500" : "427470" },
+    { "f32200" : "D4FDFF", "dc1f00" : "85CCF5", "be1b00" : "558DB2", "951500" : "36627C" },
+    { "f32200" : "D0D0FF", "dc1f00" : "9290F8", "be1b00" : "6060A9", "951500" : "43396B" },
+    { "f32200" : "FFD1FF", "dc1f00" : "D191DE", "be1b00" : "95629C", "951500" : "603B61" },
+    { "f32200" : "FFF4FF", "dc1f00" : "FFCDEA", "be1b00" : "E19CC4", "951500" : "B8739B" },
+    { "f32200" : "FFFAF6", "dc1f00" : "FBD5CF", "be1b00" : "D9A49E", "951500" : "B07B74" },
+    { "f32200" : "CECBC2", "dc1f00" : "A89B89", "be1b00" : "74665A", "951500" : "463D34" },
+    { "f32200" : "B4B3AD", "dc1f00" : "8A897A", "be1b00" : "4E4F42", "951500" : "2C2915" },
+    { "f32200" : "FFFFFF", "dc1f00" : "F2EFF3", "be1b00" : "A6A4AE", "951500" : "818181" }
+  ],
+  "hairColor" : [
+    // UNUSED
+    // WHITE
+    { "f7e7b2" : "FFFFFF", "d9c189" : "D7D5DB", "a38d59" : "8E8E9B", "735e3a" : "6D6D6D" }
+  ]
+}
