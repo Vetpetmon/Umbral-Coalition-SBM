@@ -1,0 +1,12 @@
+{
+  "name" : "ucradionabilities",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "radion.lua"
+  ],
+  "animationConfig" : "radion.animation",
+
+  "label" : "Rad'ion"
+}

@@ -1,5 +1,6 @@
 {
   "name" : "lorumillness",
+  "blockingStat" : "baseDiseaseImmunity",
 
   "effectConfig" : {
   },

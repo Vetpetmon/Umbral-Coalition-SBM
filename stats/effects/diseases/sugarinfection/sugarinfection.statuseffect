@@ -1,6 +1,6 @@
 {
   "name" : "sugarinfection",
-  "blockingStat" : "poisonStatusImmunity",
+  "blockingStat" : "baseDiseaseImmunity",
 
   "effectConfig" : {
   },

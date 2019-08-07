@@ -5,8 +5,12 @@
 	"subTitle" : "O3",
 	"description" : "Strange shapeshifters from another dimension. They are more energy than matter, and have no true form. Most commonly, if one does not choose to imitate a different organism, they have a representative form that they use as a base for being able to be recognized by other life forms."
   },
+  "statusEffects" : [ "ucradionabilities" ],
+
+  "humanoidOverrides" : { "bodyFullbright" : true },
+
   "nameGen" : [ "/species/xenoniannamegen.config:names", "/species/xenoniannamegen.config:names" ],
-  "ouchNoises" : [ "/sfx/humanoid/novakidhurt_male2.ogg", "/sfx/humanoid/novakidhurt_male2.ogg" ],
+  "ouchNoises" : [ "/sfx/humanoid/test_avianhurt_male1.ogg", "/sfx/humanoid/test_avianhurt_male1.ogg" ],
   "charGenTextLabels" : [ "Skin color", "Reactors", "Shirt", "Legwear", "Eye color", "", "Shirt color", "Legwear color", "RAD'ION", "Personality" ],
   "skull" : "/humanoid/xenonian/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=8af062FF?replace=31a6ffFF=40bf21FF",

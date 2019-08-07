@@ -1,0 +1,35 @@
+//Seriously, if you're looking at this file and wonder why you aren't getting these effects, install Frackin' Races.
+{
+	"stats": [
+		//{ "stat": "grit", "amount": 0.3 },
+    // These are already in-mod and dont require FR!
+    //{ "stat": "maxHealth", "baseMultiplier": 0.8 },
+		//{ "stat": "physicalResistance", "amount": 0.5 },
+		//{ "stat": "iceResistance", "amount": -0.4 },
+		//{ "stat": "shadowResistance", "amount": -0.6 },
+		//{ "stat": "radioactiveResistance", "amount": 0.4 },
+		//{ "stat": "baseDiseaseImmunity", "amount": 1 },
+    //{ "stat": "ucsolarflareImmunity", "amount": 1 },
+		//{ "stat": "radiationburnImmunity", "amount": 1 },
+    //{ "stat" : "foodDelta", "baseMultiplier" : 1.3 }
+	],
+	"diet" : "entity",
+  //"special": ["ucradionabilities"],
+	"envEffects": [
+		{
+			"biomes": [ "alien", "jungle", "irradiated", "chromatic" ],
+			"stats": [
+        { "stat": "physicalResistance", "effectiveMultiplier": 1.5 },
+				{ "stat": "maxEnergy", "effectiveMultiplier": 1.1 }
+			]
+		}
+	],
+	"weaponEffects": [
+		{
+			"weapons": [ "energy" ],
+			"stats": [
+				{ "stat": "powerMultiplier", "baseMultiplier": 1.05 }
+			]
+		}
+	]
+}
