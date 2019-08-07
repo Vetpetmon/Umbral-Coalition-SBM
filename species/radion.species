@@ -161,7 +161,7 @@
     // Purple
     { "ffe2c5" : "fedbff", "ffc181" : "da89f7", "d39c6c" : "ae38f1", "c7815b" : "340e52" },
     // Mitiden
-    { "ffe2c5" : "ffeb3b", "ffc181" : "3f51b5", "d39c6c" : "3f51b5", "c7815b" : "673ab7" },
+    //{ "ffe2c5" : "ffeb3b", "ffc181" : "3f51b5", "d39c6c" : "3f51b5", "c7815b" : "673ab7" },
     // Vivid Cosmos
     { "ffe2c5" : "d500f9", "ffc181" : "aa00ff", "d39c6c" : "6200ea", "c7815b" : "311B92" },
     // Blue
@@ -177,7 +177,7 @@
     // Vivid Cyan
     { "ffe2c5" : "18ffff", "ffc181" : "00e5ff", "d39c6c" : "00b8d4", "c7815b" : "00bcd4" },
     // Dying Sun
-    { "ffe2c5" : "00bfa5", "ffc181" : "009688", "d39c6c" : "00897b", "c7815b" : "00796b" },
+    { "ffe2c5" : "00DBBB", "ffc181" : "00bfa5", "d39c6c" : "00897b", "c7815b" : "005E4B" },
     // Eldritch
     { "ffe2c5" : "64ffda", "ffc181" : "1de9b6", "d39c6c" : "00bfa5", "c7815b" : "00897b" },
     // Sea Green
@@ -185,7 +185,7 @@
     // May Include Side Effects
     { "ffe2c5" : "ffffff", "ffc181" : "5EFDBC", "d39c6c" : "50CF99", "c7815b" : "249B6C" },
     // Acidic Oceans
-    { "ffe2c5" : "5efc8d", "ffc181" : "8ef9f3", "d39c6c" : "93bedf", "c7815b" : "8377d1" },
+    { "ffe2c5" : "8ef9f3", "ffc181" : "5efc8d", "d39c6c" : "93bedf", "c7815b" : "8377d1" },
     // Acidic Green
     { "ffe2c5" : "00FFF2", "ffc181" : "00FFB3", "d39c6c" : "00E369", "c7815b" : "00B631" },
     // Green Booster
