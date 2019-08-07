@@ -112,8 +112,12 @@
     //ffc181 2nd shade
     //d39c6c 3rd shade
     //c7815b 4th shade
+    // Yellow Booster
+    { "ffe2c5" : "fffde7", "ffc181" : "ffff8d", "d39c6c" : "fff176", "c7815b" : "ffea00" },
     // Yellow
     { "ffe2c5" : "fff8b5", "ffc181" : "fde03f", "d39c6c" : "f6b919", "c7815b" : "352b12" },
+    // Vivid Yellow
+    { "ffe2c5" : "ffff8d", "ffc181" : "ffff00", "d39c6c" : "ffea00", "c7815b" : "ffd600" },
     // Golden to the Core
     { "ffe2c5" : "FFFF9C", "ffc181" : "FFE967", "d39c6c" : "F9A21C", "c7815b" : "BA4712" },
     // Fruity Core
@@ -146,6 +150,12 @@
     { "ffe2c5" : "f2a1a1", "ffc181" : "e76d89", "d39c6c" : "8e24aa", "c7815b" : "1d1145" },
     // Cosmic
     { "ffe2c5" : "9ac6c5", "ffc181" : "7785ac", "d39c6c" : "5b2a86", "c7815b" : "360568" },
+    // Jellywalker w/ Yellow
+    { "ffe2c5" : "f3b700", "ffc181" : "FF20E0", "d39c6c" : "962F9F", "c7815b" : "5b2a86" },
+    // Jellywalker
+    { "ffe2c5" : "ffffff", "ffc181" : "FF20E0", "d39c6c" : "962F9F", "c7815b" : "5b2a86" },
+    // Purple Booster
+    { "ffe2c5" : "f3e5f5", "ffc181" : "da89f7", "d39c6c" : "e040fb", "c7815b" : "aa00ff" },
     // Vivid Purple
     { "ffe2c5" : "ea80fc", "ffc181" : "e040fb", "d39c6c" : "d500f9", "c7815b" : "aa00ff" },
     // Purple
@@ -158,14 +168,22 @@
     { "ffe2c5" : "c7feff", "ffc181" : "56ebf8", "d39c6c" : "12c2e8", "c7815b" : "0c2b4b" },
     // Vivid Blue
     { "ffe2c5" : "80d8ff", "ffc181" : "40c4ff", "d39c6c" : "00b0ff", "c7815b" : "0091ea" },
+    // Blue Skies
+    { "ffe2c5" : "FFFEFF", "ffc181" : "C4F9F5", "d39c6c" : "6CE9F5", "c7815b" : "79C2C1" },
     // Pastel Ocean
     { "ffe2c5" : "fffd98", "ffc181" : "b3d2b2", "d39c6c" : "9fbbcc", "c7815b" : "7a9cc6" },
     // Blue Booster
     { "ffe2c5" : "e1f5fe", "ffc181" : "81d4fa", "d39c6c" : "29b6f6", "c7815b" : "039be5" },
     // Vivid Cyan
     { "ffe2c5" : "18ffff", "ffc181" : "00e5ff", "d39c6c" : "00b8d4", "c7815b" : "00bcd4" },
+    // Dying Sun
+    { "ffe2c5" : "00bfa5", "ffc181" : "009688", "d39c6c" : "00897b", "c7815b" : "00796b" },
+    // Eldritch
+    { "ffe2c5" : "64ffda", "ffc181" : "1de9b6", "d39c6c" : "00bfa5", "c7815b" : "00897b" },
     // Sea Green
     { "ffe2c5" : "c3fffc", "ffc181" : "4df4df", "d39c6c" : "0cd6b8", "c7815b" : "0c482d" },
+    // May Include Side Effects
+    { "ffe2c5" : "ffffff", "ffc181" : "5EFDBC", "d39c6c" : "50CF99", "c7815b" : "249B6C" },
     // Acidic Oceans
     { "ffe2c5" : "5efc8d", "ffc181" : "8ef9f3", "d39c6c" : "93bedf", "c7815b" : "8377d1" },
     // Acidic Green
@@ -178,6 +196,8 @@
     { "ffe2c5" : "18ff6d", "ffc181" : "04e824", "d39c6c" : "138a36", "c7815b" : "285238" },
     // Uranium
     { "ffe2c5" : "CDDC39", "ffc181" : "8BC34A", "d39c6c" : "4CAF50", "c7815b" : "009688" },
+    // Muted Green
+    { "ffe2c5" : "e2ffef", "ffc181" : "76feb3", "d39c6c" : "15c363", "c7815b" : "074723" },
     // Fading Uranium
     { "ffe2c5" : "C6DD95", "ffc181" : "A4D0AC", "d39c6c" : "88C1B4", "c7815b" : "5EA2A7" },
     // Thirnovan
@@ -198,6 +218,9 @@
     { "ffe2c5" : "f0f7f4", "ffc181" : "b3bfb8", "d39c6c" : "7e8d85", "c7815b" : "3c493f" }
   ],
   "undyColor" : [
+    // Blue Booster
+    { "f32200" : "e1f5fe", "dc1f00" : "81d4fa", "be1b00" : "29b6f6", "951500" : "039be5" },
+
     { "f32200" : "FFDCC4", "dc1f00" : "FFB98F", "be1b00" : "C1695F", "951500" : "7E3F38" },
     { "f32200" : "FFFFE7", "dc1f00" : "FFE48E", "be1b00" : "C1AA5C", "951500" : "7C7135" },
     { "f32200" : "F6F0D3", "dc1f00" : "DAD39B", "be1b00" : "A7A270", "951500" : "6B6B47" },
