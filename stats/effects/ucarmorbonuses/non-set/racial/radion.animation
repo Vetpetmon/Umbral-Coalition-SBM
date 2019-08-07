@@ -7,6 +7,6 @@
     }
   },
   "sounds" : {
-	"jump" : ["/sfx/projectiles/elementcloud_break2.ogg"]
+	"jump" : ["/sfx/humanoid/Radion_Jump.ogg"]
   }
 }
