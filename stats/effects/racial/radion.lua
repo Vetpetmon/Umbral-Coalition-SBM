@@ -17,7 +17,7 @@ end
 
 function update(dt)
   mcontroller.controlParameters({
-        airForce = 45.0,
+        airForce = 70.0,
         groundForce = 45.0,
         runSpeed = 20.0
     })
