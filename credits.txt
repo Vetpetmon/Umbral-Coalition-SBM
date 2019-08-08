@@ -27,6 +27,10 @@ Vetpetmon
 TankSlayer2
 (PLEASE contact Vetpetmon if you have tested UC's git build and your name is not on here!)
 
+Other mods:
+
+Green's Dye Suite - Color palettes
+
 Special thanks:
 
 The Origins of Vetpetmon - Sprites

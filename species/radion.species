@@ -112,16 +112,28 @@
     //ffc181 2nd shade
     //d39c6c 3rd shade
     //c7815b 4th shade
+    // Frog Yellow
+    {"a85636":"a09e4e","ffc181":"d8d077","c7815b":"5f6229","ffe2c5":"f1eabb"},
     // Yellow Booster
     { "ffe2c5" : "fffde7", "ffc181" : "ffff8d", "d39c6c" : "fff176", "c7815b" : "ffea00" },
     // Yellow
     { "ffe2c5" : "fff8b5", "ffc181" : "fde03f", "d39c6c" : "f6b919", "c7815b" : "352b12" },
     // Vivid Yellow
     { "ffe2c5" : "ffff8d", "ffc181" : "ffff00", "d39c6c" : "ffea00", "c7815b" : "ffd600" },
+    // Retro Sunset
+    {"a85636":"ff9b78","ffc181":"ffcd3c","c7815b":"ff69b4","ffe2c5":"ffff00"},
+    // Solarium
+    {"a85636":"f4a700","ffc181":"fff327","c7815b":"984700","ffe2c5":"ffffff"},
+    // Purified
+    {"a85636":"c79e4a","ffc181":"e5d87b","c7815b":"923e14","ffe2c5":"ffffff"},
     // Golden to the Core
     { "ffe2c5" : "FFFF9C", "ffc181" : "FFE967", "d39c6c" : "F9A21C", "c7815b" : "BA4712" },
+    // Gold
+    {"a85636":"977437","ffc181":"cbb96f","c7815b":"642f00","ffe2c5":"ffffa7"},
     // Fruity Core
     { "ffe2c5" : "EFE6D9", "ffc181" : "F7C331", "d39c6c" : "F7882F", "c7815b" : "6B7A8F" },
+    // Pyromaniac
+    {"a85636":"ff5500","ffc181":"ffaa00","c7815b":"ff0000","ffe2c5":"ffff00"},
     // Fire
     { "ffe2c5" : "fff3e0", "ffc181" : "ffb74d", "d39c6c" : "ff9800", "c7815b" : "f57c00" },
     // Orange
@@ -140,6 +152,8 @@
     { "ffe2c5" : "ff8a80", "ffc181" : "ff5252", "d39c6c" : "ff1744", "c7815b" : "d50000" },
     // Cherry
     { "ffe2c5" : "de7c5a", "ffc181" : "b10f2e", "d39c6c" : "570000", "c7815b" : "280000" },
+    // Retro Pink
+    {"a85636":"550055","ffc181":"aa0055","c7815b":"000055","ffe2c5":"ff0055"},
     // Pink Booster
     { "ffe2c5" : "fce4ec", "ffc181" : "f48fb1", "d39c6c" : "ec407a", "c7815b" : "f50057" },
     // Pink
@@ -156,6 +170,8 @@
     { "ffe2c5" : "ffffff", "ffc181" : "FF20E0", "d39c6c" : "962F9F", "c7815b" : "5b2a86" },
     // Purple Booster
     { "ffe2c5" : "f3e5f5", "ffc181" : "da89f7", "d39c6c" : "e040fb", "c7815b" : "aa00ff" },
+    // Retro Purple
+    {"a85636":"4825d0","ffc181":"914ad3","c7815b":"0000cd","ffe2c5":"da70d6"},
     // Vivid Purple
     { "ffe2c5" : "ea80fc", "ffc181" : "e040fb", "d39c6c" : "d500f9", "c7815b" : "aa00ff" },
     // Purple
@@ -164,6 +180,14 @@
     //{ "ffe2c5" : "ffeb3b", "ffc181" : "3f51b5", "d39c6c" : "3f51b5", "c7815b" : "673ab7" },
     // Vivid Cosmos
     { "ffe2c5" : "d500f9", "ffc181" : "aa00ff", "d39c6c" : "6200ea", "c7815b" : "311B92" },
+    // Odd Blue
+    {"a85636":"6c4aa3","ffc181":"8e95c4","c7815b":"4b0082","ffe2c5":"b0e0e6"},
+    // Retro Blue
+    {"a85636":"63437b","ffc181":"5b87b5","c7815b":"6b0042","ffe2c5":"54cbef"},
+    // Penumbrite Sky
+    {"a85636":"76b0d6","ffc181":"dfecf5","c7815b":"2063b3","ffe2c5":"ffffff"},
+    // Fine Snow
+    {"a85636":"809aef","ffc181":"bacaff","c7815b":"6a64b3","ffe2c5":"eaf5ff"},
     // Blue
     { "ffe2c5" : "c7feff", "ffc181" : "56ebf8", "d39c6c" : "12c2e8", "c7815b" : "0c2b4b" },
     // Vivid Blue
@@ -172,6 +196,8 @@
     { "ffe2c5" : "FFFEFF", "ffc181" : "C4F9F5", "d39c6c" : "6CE9F5", "c7815b" : "79C2C1" },
     // Pastel Ocean
     { "ffe2c5" : "fffd98", "ffc181" : "b3d2b2", "d39c6c" : "9fbbcc", "c7815b" : "7a9cc6" },
+    // Fine Waters
+    { "d39c6c" : "0096ff", "ffc181" : "4ae0ff", "c7815b" : "005ad8", "ffe2c5" : "acffff" },
     // Blue Booster
     { "ffe2c5" : "e1f5fe", "ffc181" : "81d4fa", "d39c6c" : "29b6f6", "c7815b" : "039be5" },
     // Vivid Cyan
@@ -182,12 +208,18 @@
     { "ffe2c5" : "64ffda", "ffc181" : "1de9b6", "d39c6c" : "00bfa5", "c7815b" : "00897b" },
     // Sea Green
     { "ffe2c5" : "c3fffc", "ffc181" : "4df4df", "d39c6c" : "0cd6b8", "c7815b" : "0c482d" },
+    // Fine Leaf
+    {"a85636":"0e7a7c","ffc181":"5dc280","c7815b":"00426b","ffe2c5":"cbef54"},
+    // Fading Leaf
+    {"a85636":"747c34","ffc181":"b9a91a","c7815b":"2f4f4f","ffe2c5":"ffd700"},
     // May Include Side Effects
     { "ffe2c5" : "ffffff", "ffc181" : "5EFDBC", "d39c6c" : "50CF99", "c7815b" : "249B6C" },
     // Acidic Oceans
     { "ffe2c5" : "8ef9f3", "ffc181" : "5efc8d", "d39c6c" : "93bedf", "c7815b" : "8377d1" },
     // Acidic Green
     { "ffe2c5" : "00FFF2", "ffc181" : "00FFB3", "d39c6c" : "00E369", "c7815b" : "00B631" },
+    // Retro Green
+    {"a85636":"3a5d3a","ffc181":"72a972","c7815b":"031203","ffe2c5":"aaf5aa"},
     // Green Booster
     { "ffe2c5" : "e8f5e9", "ffc181" : "69f0ae", "d39c6c" : "00e676", "c7815b" : "00c853" },
     // Green
@@ -212,10 +244,16 @@
     { "ffe2c5" : "d7ccc8", "ffc181" : "8d6e63", "d39c6c" : "5d4037", "c7815b" : "212121" },
     // Rusted Metal
     { "ffe2c5" : "EADACC", "ffc181" : "C7B4A4", "d39c6c" : "83524E", "c7815b" : "41313B" },
+    // Fine Silver
+    {"a85636":"8090d1","ffc181":"bacaff","c7815b":"585a9a","ffe2c5":"ffffff"},
+    // Gen Silver
+    {"a85636":"a28fa2","ffc181":"d8bfd8","c7815b":"6c5f6c","ffe2c5":"ffeeff"},
     // White/Pale Blue
     { "ffe2c5" : "deffff", "ffc181" : "a2dbdb", "d39c6c" : "6ea2a9", "c7815b" : "222d33" },
     // White/Pale Green
-    { "ffe2c5" : "f0f7f4", "ffc181" : "b3bfb8", "d39c6c" : "7e8d85", "c7815b" : "3c493f" }
+    { "ffe2c5" : "f0f7f4", "ffc181" : "b3bfb8", "d39c6c" : "7e8d85", "c7815b" : "3c493f" },
+    // Gen Bisque
+    {"a85636":"bfab93","ffc181":"ffe4c4","c7815b":"7f7262","ffe2c5":"fffff5"}
   ],
   "undyColor" : [
     // Blue Booster
