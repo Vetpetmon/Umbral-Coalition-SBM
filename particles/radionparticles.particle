@@ -1,0 +1,22 @@
+{
+  "kind" : "radionparticles",
+  "definition" : {
+    "type" : "ember",
+    "size" : 0.3,
+    "color" : [18, 255, 34, 255],
+    "fade" : 0.3,
+    "fullbright" : true,
+    "initialVelocity" : [-1.0, 1.0],
+    "finalVelocity" : [-1.0, 1.0],
+    "approach" : [0, 20],
+    "timeToLive" : 0.2,
+    "destructionAction" : "shrink",
+    "destructionTime" : 0.2,
+    "layer" : "back",
+    "variance" : {
+      "initialVelocity" : [2, 1],
+      "timeToLive" : 1,
+      "size" : 1
+    }
+  }
+}

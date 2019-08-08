@@ -6,7 +6,34 @@
       "color" : [10, 10, 10]
     }
   },
+  "animatedParts" : {
+    "stateTypes" : {
+      "live" : {
+        "default" : "off",
+        "states" : {
+          "off" : {
+          },
+          "on" : {
+            "properties" : {
+              "persistentSound" : "/sfx/humanoid/Radion_Idle.ogg"
+            }
+          }
+        }
+      }
+    }
+  },
+  "particleEmitters" : {
+    "radionParticles" : {
+      "emissionRate" : 80.0,
+      "particles" : [
+        {
+          "particle" : "radionparticles"
+        }
+      ]
+    }
+  },
   "sounds" : {
-	"jump" : ["/sfx/humanoid/Radion_Jump.ogg"]
+	  "jump" : ["/sfx/humanoid/Radion_Jump.ogg"],
+    "idle" : ["/sfx/humanoid/Radion_Idle.ogg"]
   }
 }

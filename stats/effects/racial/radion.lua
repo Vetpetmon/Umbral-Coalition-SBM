@@ -1,5 +1,9 @@
 function init()
   self.jumpSoundPlayed = false --Prevent jump sound at init. Defines that it exists
+  self.idleActive = false --reset to off
+  if self.idleActive == false then --Check if false. If false, reverse the boolean.
+    self.idleActive = true
+  end
   --These lines will eliminate the need to use FR for certain racial bonuses .
   effect.addStatModifierGroup({
     {stat = "maxHealth", baseMultiplier = 0.8},
@@ -8,22 +12,30 @@ function init()
     {stat = "radiationburnImmunity", amount = 1},
     {stat = "foodDelta", baseMultiplier = 1.3},
     {stat = "physicalResistance", amount = 0.5},
-    {stat = "radioactiveResistance", amount = 0.35},
+    {stat = "radioactiveResistance", amount = 0.4},
     {stat = "shadowResistance", amount = -0.6},
-    {stat = "iceResistance", amount = -0.4},
-    {stat = "fireResistance", amount = -0.15}
+    {stat = "iceResistance", amount = -0.6},
+    {stat = "fireResistance", amount = -0.1}
   })
 end
 
 function update(dt)
+  --animator.playSound("idle")
   mcontroller.controlParameters({
-        airForce = 70.0,
+        airForce = 50.0,
         groundForce = 45.0,
         runSpeed = 20.0
     })
   mcontroller.controlModifiers({
-      speedModifier = 1.15
+      speedModifier = 1.15,
+      airJumpModifier = 1.1
     })
+    if self.idleActive == true then -- If true, initiate animation state "live"
+      animator.setAnimationState("live", "on") --Initiate animation state
+      animator.setParticleEmitterActive("radionParticles", true)
+    else
+      animator.setAnimationState("live", "off") --Keep off
+    end
     if not status.statPositive("activeMovementAbilities") then
      if mcontroller.jumping() and self.jumpSoundPlayed == false then
         animator.playSound("jump")
@@ -36,5 +48,6 @@ function update(dt)
 end
 
 function uninit()
-
+  self.idleActive = false
+  animator.setAnimationState("live", "off") --stop animation state
 end
