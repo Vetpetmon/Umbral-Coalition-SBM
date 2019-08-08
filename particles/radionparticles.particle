@@ -2,7 +2,7 @@
   "kind" : "radionparticles",
   "definition" : {
     "type" : "ember",
-    "size" : 0.3,
+    "size" : 0.4,
     "color" : [18, 255, 34, 255],
     "fade" : 0.3,
     "fullbright" : true,

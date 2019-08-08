@@ -1,0 +1,10 @@
+{
+  "itemName": "ucammoclipmedium",
+  "rarity": "common",
+  "price": 200,
+  "category": "ucweaponpart",
+  "inventoryIcon" : "ucammoclipsmall.png",
+  "description" : "A decent-sized ammo clip for bigger guns.",
+  "shortdescription" : "Medium Ammo Clip",
+  "itemTags" : [ "reagent" ]
+}

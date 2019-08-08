@@ -1,0 +1,10 @@
+{
+  "itemName": "ucshotgunclipt1",
+  "rarity": "common",
+  "price": 100,
+  "category": "ucweaponpart",
+  "inventoryIcon" : "ucshotgunclipt1.png",
+  "description" : "A poorly made gun clip for a shotgun of sorts.",
+  "shortdescription" : "Cheap Shotgun Clip",
+  "itemTags" : [ "reagent" ]
+}

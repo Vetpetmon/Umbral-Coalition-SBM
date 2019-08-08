@@ -1,0 +1,10 @@
+{
+  "itemName": "ucshotgunstockt1",
+  "rarity": "common",
+  "price": 100,
+  "category": "ucweaponpart",
+  "inventoryIcon" : "ucshotgunstockt1.png",
+  "description" : "A poorly made stock for a shotgun of sorts. This allows the shotgun to be fired with less recoil and sit comfortly on the shoulder.",
+  "shortdescription" : "Cheap Shotgun Stock",
+  "itemTags" : [ "reagent" ]
+}
