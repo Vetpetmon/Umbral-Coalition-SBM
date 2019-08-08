@@ -6,11 +6,12 @@ function init()
   end
   --These lines will eliminate the need to use FR for certain racial bonuses .
   effect.addStatModifierGroup({
-    {stat = "maxHealth", baseMultiplier = 0.8},
+    {stat = "maxHealth", effectiveMultiplier = 0.8},
     {stat = "ucsolarflareImmunity", amount = 1},
     {stat = "baseDiseaseImmunity", amount = 1},
     {stat = "radiationburnImmunity", amount = 1},
-    {stat = "foodDelta", baseMultiplier = 1.3},
+    {stat = "biomeradiationImmunity", amount = 1},
+    {stat = "foodDelta", effectiveMultiplier = 1.3},
     {stat = "physicalResistance", amount = 0.5},
     {stat = "radioactiveResistance", amount = 0.4},
     {stat = "shadowResistance", amount = -0.6},
