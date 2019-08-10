@@ -22,7 +22,7 @@
     "variants" : 20,
     "lightTransparent" : false,
     "multiColored" : true,
-    "occludesBelow" : true,
+    "occludesBelow" : false,
     "zLevel" : 3000,
     "radiantLight" : [200, 200, 200]
   }

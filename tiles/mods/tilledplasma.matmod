@@ -9,8 +9,8 @@
   "renderTemplate" : "/tiles/classicmaterialtemplate.config",
   "renderParameters" : {
     "texture" : "tilledplasma.png",
-    "variants" : 3,
+    "variants" : 1,
     "multiColored" : false,
-    "zLevel" : 3450
+    "zLevel" : 3550
   }
 }
