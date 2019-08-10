@@ -13,7 +13,7 @@
   "xenonianDescription" : "This is beyond my current understanding.",
   "radionDescription" : "The building blocks of our dimension.",
   "footstepSound" : "/sfx/tools/block_protected.ogg",
-  "health" : 11,
+  "health" : 6,
   "category" : "materials",
 
   "renderTemplate" : "/tiles/classicmaterialtemplate.config",
