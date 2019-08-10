@@ -1,7 +1,7 @@
 {
   "itemName": "ucemptycan",
   "rarity": "common",
-  "price": 100,
+  "price": 10,
   "category": "craftingMaterial",
   "inventoryIcon" : "ucemptycan.png",
   "description" : "Put something in it, already!",

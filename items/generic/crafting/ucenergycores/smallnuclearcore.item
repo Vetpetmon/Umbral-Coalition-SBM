@@ -1,0 +1,10 @@
+{
+  "itemName": "ucsmallnuclearcore",
+  "rarity": "Legendary",
+  "price": 1000,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "smallnuclearcore.png",
+  "description" : "A small power core full of nuclear materials.",
+  "shortdescription" : "Small Nuclear Core",
+  "itemTags" : [ "reagent" ]
+}
