@@ -20,7 +20,7 @@
   "renderParameters" : {
     "texture" : "impossibiltyblock.png",
     "variants" : 10,
-    "lightTransparent" : true,
+    "lightTransparent" : false,
     "multiColored" : true,
     "occludesBelow" : true,
     "zLevel" : 3230,
