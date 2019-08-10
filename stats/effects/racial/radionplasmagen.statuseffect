@@ -1,0 +1,16 @@
+{
+  "name" : "ucradionplasmagen",
+
+  "effectConfig" : {
+    "refreshRadion" : 3, //Timer in seconds
+    "item" : "ucradionplasma", //Item spawned
+    "amount" : 1, //Amount granted
+    "maxAmount" : 1000,
+    "foodDelta" : 2.6 //1.3 = no drain
+  },
+
+  "defaultDuration" : 1,
+	"scriptDelta" : 0,
+
+  "scripts" : ["radionplasmagen.lua"]
+}

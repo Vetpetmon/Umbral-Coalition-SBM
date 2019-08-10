@@ -1,7 +1,7 @@
 {
   "itemName" : "ucradionplasma",
   "price" : 0,
-  "inventoryIcon" : "energypackico.png",
+  "inventoryIcon" : "icon.png",
   "tooltipKind" : "baseaugment",
   "rarity" : "Uncommon",
   "pickupQuestTemplates" : [ ],
@@ -13,7 +13,7 @@
   "femaleFrames" : "back.png",
   "maxStack" : 1,
 
-  //"statusEffects" : [],
+  "statusEffects" : ["ucradionplasmagen"],
 
   "acceptsAugmentType" : "back",
 
