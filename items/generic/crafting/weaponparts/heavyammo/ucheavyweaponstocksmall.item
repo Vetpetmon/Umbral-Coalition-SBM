@@ -1,11 +1,11 @@
 {
-  "itemName": "webberheavyweaponstocksmall",
+  "itemName": "ucheavyweaponstocksmall",
   "rarity": "common",
   "price": 200,
-  "category": "webberweaponpart",
-  "inventoryIcon" : "webberheavyweaponstocksmall.png",
-  "description" : "This holds a low amount of heavy ammo, for when explosions are prefered. ^cyan;For use by Webbers.^white;",
-  "learnBlueprintsOnPickup" : [ "webberheavyweaponstockmedium" ],
+  "category": "ucweaponpart",
+  "inventoryIcon" : "ucheavyweaponstocksmall.png",
+  "description" : "This holds a low amount of heavy ammo, for when explosions are prefered.",
+  //"learnBlueprintsOnPickup" : [ "ucheavyweaponstockmedium" ],
   "shortdescription" : "Small Heavy Stock",
   "itemTags" : [ "reagent" ]
 }

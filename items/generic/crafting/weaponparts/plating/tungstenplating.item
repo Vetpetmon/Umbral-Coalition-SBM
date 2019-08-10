@@ -5,7 +5,7 @@
   "category": "ucweaponpart",
   "inventoryIcon" : "tungstenplating.png",
   "description" : "For when you want to hide the insides of your gun.",
-  "learnBlueprintsOnPickup" : [ "uctungstenplatingyellow" ],
+  //"learnBlueprintsOnPickup" : [ "uctungstenplatingyellow" ],
   "shortdescription" : "Tungsten Plate",
   "itemTags" : [ "reagent" ]
 }

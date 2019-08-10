@@ -5,7 +5,7 @@
   "category": "ucweaponpart",
   "inventoryIcon" : "ucwoodenplate.png",
   "description" : "For when you want to hide the insides of your gun.",
-  "learnBlueprintsOnPickup" : [ "uctungstenplating" ],
+  //"learnBlueprintsOnPickup" : [ "uctungstenplating" ],
   "shortdescription" : "Wooden Plate",
   "itemTags" : [ "reagent" ]
 }

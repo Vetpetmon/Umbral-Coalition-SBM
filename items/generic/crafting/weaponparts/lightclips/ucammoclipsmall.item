@@ -5,7 +5,7 @@
   "category": "ucweaponpart",
   "inventoryIcon" : "ucammoclipsmall.png",
   "description" : "A small ammo clip for generic guns.",
-  "learnBlueprintsOnPickup" : [ "ucammoclipmedium" ],
+  //"learnBlueprintsOnPickup" : [ "ucammoclipmedium" ],
   "shortdescription" : "Small Ammo Clip",
   "itemTags" : [ "reagent" ]
 }

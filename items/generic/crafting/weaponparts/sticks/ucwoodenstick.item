@@ -5,7 +5,7 @@
   "category": "ucweaponpart",
   "inventoryIcon" : "ucwoodenstick.png",
   "description" : "A rod of wood. You put something on it to give it use.",
-  "learnBlueprintsOnPickup" : [ "uclaminatedwoodenstick" ],
+  //"learnBlueprintsOnPickup" : [ "uclaminatedwoodenstick" ],
   "shortdescription" : "Wooden Stick",
   "itemTags" : [ "reagent" ]
 }
