@@ -3,7 +3,7 @@
 	"charCreationTooltip" : {
 	"title" : "Rad'ion",
 	"subTitle" : "O3",
-	"description" : "Strange shapeshifters from another dimension. They are more energy than matter, and have no true form. Most commonly, if one does not choose to imitate a different organism, they have a representative form that they use as a base for being able to be recognized by other life forms."
+	"description" : "Strange shapeshifters from another dimension, the rad'ion are beings of plasma. Most commonly, if one does not choose to imitate a different organism, they have a representative form that they use as a base for being able to be recognized by other life forms."
   },
   "statusEffects" : [ "ucradionabilities" ],
 
@@ -71,6 +71,7 @@
       { "item" : "violiumbroadsword" },
     // Furniture Table 1
       { "item" : "ucimpossibiltyblock" },
+      { "item" : "uccompressedplasmablock" },
     // Furniture Table 2
       { "item" : "humanstoragelocker" }
     // Spinning Wheel

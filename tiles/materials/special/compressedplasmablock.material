@@ -1,11 +1,11 @@
 {
-  "materialId" : 25516,
-  "materialName" : "ucimpossibiltyblock",
-  "frames" : "impossibiltyblock.png",
+  "materialId" : 25517,
+  "materialName" : "uccompressedplasmablock",
+  "frames" : "compressedplasmablock.png",
   "particleColor" : [255, 255, 255, 25],
-  "itemDrop" : "ucimpossibiltyblock",
+  "itemDrop" : "uccompressedplasmablock",
   "description" : "Plasma that has been artificially compacted into a physical form. There is no way how this is natural.",
-  "shortdescription" : "Impermeable Plasma",
+  "shortdescription" : "Compressed Impermeable Plasma",
   "apexDescription" : "Plasma is energy. It does not naturally exist as a solid.",
   "glitchDescription" : "Erroring. Impossible, this has to be unnatural.",
   "floranDescription" : "What makesss light sssolid?",
@@ -13,17 +13,17 @@
   "xenonianDescription" : "This is beyond my current understanding.",
   "radionDescription" : "The building blocks of our dimension.",
   "footstepSound" : "/sfx/tools/block_protected.ogg",
-  "health" : 10,
+  "health" : 20,
   "category" : "materials",
 
   "renderTemplate" : "/tiles/classicmaterialtemplate.config",
   "renderParameters" : {
-    "texture" : "impossibiltyblock.png",
-    "variants" : 20,
+    "texture" : "compressedplasmablock.png",
+    "variants" : 10,
     "lightTransparent" : false,
     "multiColored" : true,
     "occludesBelow" : true,
-    "zLevel" : 3000,
+    "zLevel" : 3100,
     "radiantLight" : [200, 200, 200]
   }
 }
