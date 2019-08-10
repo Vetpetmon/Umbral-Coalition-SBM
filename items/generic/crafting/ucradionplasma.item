@@ -1,0 +1,10 @@
+{
+  "itemName": "ucradionplasma",
+  "rarity": "common",
+  "price": 40,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "ucradionplasma.png",
+  "description" : "A small quantity of plasma that is ready for Rad'ion use.",
+  "shortdescription" : "Plasma",
+  "itemTags" : [ "reagent" ]
+}
