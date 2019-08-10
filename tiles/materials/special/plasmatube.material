@@ -13,7 +13,7 @@
   "xenonianDescription" : "This is beyond my current understanding.",
   "radionDescription" : "Soil? Who needs that?",
   "footstepSound" : "/sfx/tools/block_protected.ogg",
-  "tilled" : true,
+  "tillableMod" : 25520,
   "soil" : true,
   "health" : 3,
   "category" : "materials",
@@ -25,7 +25,7 @@
     "lightTransparent" : true,
     "multiColored" : true,
     "occludesBelow" : true,
-    "zLevel" : 3000,
-    "radiantLight" : [100, 100, 100]
+    "zLevel" : 3500,
+    "radiantLight" : [10, 10, 10]
   }
 }
