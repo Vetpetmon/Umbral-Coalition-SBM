@@ -1,0 +1,18 @@
+//ucplasmatube
+{
+  "itemName" : "ucplasmatube",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "plasmatube.png",
+  "description" : "Plasma that has been artificially compacted into a physical form and directed into working as a growing medium.",
+  "shortdescription" : "Plasma Tubes",
+  "apexDescription" : "Plasma is energy. It does not naturally exist as a solid.",
+  "glitchDescription" : "Erroring. Impossible, this has to be unnatural.",
+  "floranDescription" : "What makesss light sssolid?",
+  "novakidDescription" : "What in tarnation is this? This ain't natural!",
+  "xenonianDescription" : "This is beyond my current understanding.",
+  "radionDescription" : "Soil? Who needs that?",
+
+  "materialId" : 25519
+}

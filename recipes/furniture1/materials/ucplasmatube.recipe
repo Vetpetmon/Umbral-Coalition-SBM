@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "ucradionplasma", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "ucplasmatube",
+    "count" : 5
+  },
+  "duration" : 0.1,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

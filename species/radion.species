@@ -72,7 +72,8 @@
     // Furniture Table 1
       { "item" : "ucimpossibiltyblock" },
       { "item" : "uccompressedplasmablock" },
-      { "item" : "ucradionplasma" },
+      { "item" : "ucplasmaplatform" },
+      { "item" : "ucplasmatube" },
     // Furniture Table 2
       { "item" : "humanstoragelocker" }
     // Spinning Wheel

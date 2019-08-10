@@ -1,0 +1,31 @@
+{
+  "materialId" : 25519,
+  "materialName" : "ucplasmatube",
+  "frames" : "plasmatube.png",
+  "particleColor" : [255, 255, 255, 25],
+  "itemDrop" : "ucplasmatube",
+  "description" : "Plasma that has been artificially compacted into a physical form and directed into working as a growing medium.",
+  "shortdescription" : "Plasma Tubes",
+  "apexDescription" : "Plasma is energy. It does not naturally exist as a solid.",
+  "glitchDescription" : "Erroring. Impossible, this has to be unnatural.",
+  "floranDescription" : "What makesss light sssolid?",
+  "novakidDescription" : "What in tarnation is this? This ain't natural!",
+  "xenonianDescription" : "This is beyond my current understanding.",
+  "radionDescription" : "Soil? Who needs that?",
+  "footstepSound" : "/sfx/tools/block_protected.ogg",
+  "tilled" : true,
+  "soil" : true,
+  "health" : 3,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "plasmatube.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 3000,
+    "radiantLight" : [100, 100, 100]
+  }
+}
