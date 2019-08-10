@@ -1,12 +1,12 @@
 {
-  "itemName" : "ucradionplasma",
+  "itemName" : "ucradionplasmagenerator",
   "price" : 0,
   "inventoryIcon" : "icon.png",
   "tooltipKind" : "baseaugment",
   "rarity" : "Uncommon",
   "pickupQuestTemplates" : [ ],
   "category" : "enviroProtectionPack",
-  "description" : "Allows a Rad'ion to safely seperate it's plasma from it's body.",
+  "description" : "A natural process that allows a Rad'ion to safely seperate it's plasma from it's body.",
   "shortdescription" : "Plasma Extraction",
 
   "maleFrames" : "back.png",

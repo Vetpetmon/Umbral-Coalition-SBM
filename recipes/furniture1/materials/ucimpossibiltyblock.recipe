@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "ucradionplasma", "count" : 50 }
+  ],
+  "output" : {
+    "item" : "ucimpossibiltyblock",
+    "count" : 25
+  },
+  "duration" : 0.5,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

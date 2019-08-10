@@ -19,6 +19,7 @@
 
     // Empty Hands
       { "item" : "flagnovakid" },
+      { "item" : "ucradionplasmagenerator" },
 
     // Anvil
       { "item" : "humantier1head" },
