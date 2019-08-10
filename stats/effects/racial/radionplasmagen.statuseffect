@@ -2,7 +2,7 @@
   "name" : "ucradionplasmagen",
 
   "effectConfig" : {
-    "refreshRadion" : 3, //Timer in seconds
+    "refreshRadion" : 1, //Timer in seconds
     "item" : "ucradionplasma", //Item spawned
     "amount" : 1, //Amount granted
     "maxAmount" : 1000,

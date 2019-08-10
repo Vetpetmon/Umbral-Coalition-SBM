@@ -23,6 +23,7 @@
     "lightTransparent" : true,
     "multiColored" : true,
     "occludesBelow" : true,
-    "zLevel" : 3230
+    "zLevel" : 3230,
+    "radiantLight" : [255, 255, 255]
   }
 }

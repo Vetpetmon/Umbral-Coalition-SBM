@@ -69,6 +69,8 @@
       { "item" : "feroziumstaff" },
       { "item" : "violiumshortsword" },
       { "item" : "violiumbroadsword" },
+    // Furniture Table 1
+      { "item" : "ucimpossibiltyblock" },
     // Furniture Table 2
       { "item" : "humanstoragelocker" }
     // Spinning Wheel
