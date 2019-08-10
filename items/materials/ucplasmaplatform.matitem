@@ -1,12 +1,11 @@
-//uccompressedplasmablock
 {
-  "itemName" : "uccompressedplasmablock",
+  "itemName" : "ucplasmaplatform",
   "price" : 0,
   "category" : "block",
   "rarity" : "Common",
-  "inventoryIcon" : "compressedplasmablock.png",
-  "description" : "Plasma that has been artificially compacted into a physical form. There is no way how this is natural.",
-  "shortdescription" : "Compressed Impermeable Plasma",
+  "inventoryIcon" : "ucplasmaplatform.png",
+  "description" : "A platform made out of impermeable plasma.",
+  "shortdescription" : "Plasma Platform",
   "apexDescription" : "Plasma is energy. It does not naturally exist as a solid.",
   "glitchDescription" : "Erroring. Impossible, this has to be unnatural.",
   "floranDescription" : "What makesss light sssolid?",
@@ -14,5 +13,5 @@
   "xenonianDescription" : "This is beyond my current understanding.",
   "radionDescription" : "The building blocks of our dimension.",
 
-  "materialId" : 25517
+  "materialId" : 25518
 }
