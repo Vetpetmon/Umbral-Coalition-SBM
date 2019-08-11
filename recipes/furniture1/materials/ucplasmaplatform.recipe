@@ -1,10 +1,10 @@
 {
   "input" : [
-    { "item" : "ucradionplasma", "count" : 5 }
+    { "item" : "ucradionplasma", "count" : 10 }
   ],
   "output" : {
     "item" : "ucplasmaplatform",
-    "count" : 10
+    "count" : 5
   },
   "duration" : 0.05,
   "groups"  : [ "craftingfurniture", "materials", "all" ]

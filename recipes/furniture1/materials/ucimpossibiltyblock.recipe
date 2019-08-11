@@ -6,6 +6,6 @@
     "item" : "ucimpossibiltyblock",
     "count" : 20
   },
-  "duration" : 0.25,
+  "duration" : 0.2,
   "groups"  : [ "craftingfurniture", "materials", "all" ]
 }

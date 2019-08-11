@@ -11,6 +11,6 @@
     "texture" : "tilledplasma.png",
     "variants" : 1,
     "multiColored" : false,
-    "zLevel" : 3550
+    "zLevel" : 3450
   }
 }

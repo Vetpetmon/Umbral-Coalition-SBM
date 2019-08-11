@@ -1,12 +1,12 @@
 {
   "author" : "Vetpetmon",
-  "description" : "THIS MOD IS IN ALPHA. PLEASE BACK UP YOUR SAVES OFTEN.\n\nDO NOT SUBSCRIBE WITHOUT READING:\nUmbral Coalition contains new blocks, species, and weapons. In a future not long away, UC will become a one-point trip to your saves. ALWAYS back up your saves! This goes for any other mod you use!\n\nA race extender is, of course, required for this mod!\n\nUmbral Coalition is a mod that aims to add onto the original story, adding new content and features to explore!\nVERSION: v0.1.4 ALPHA\n\nFeatures:\n- Canning foods\n- More crops\n- A playable race: Xenonians, slug-like aliens from the extremely toxic and mutated planet called Xen-789\n- In-mod racial bonuses\n- Frackin' Races support\n- Seasonal events\n\nBUG REPORTS GO HERE: https://github.com/Vetpetmon-Labs/Umbral-Coalition/issues\n!PROVIDE YOUR STARBOUND.LOG OR THERE WON'T BE A FIX!\n\nJoin the Vetpetmon Labs discord to receive news on updates, events, know how to contribute to the mod, and more: https://discord.gg/wqKXbCA ",
+  "description" : "THIS MOD IS IN ALPHA. PLEASE BACK UP YOUR SAVES OFTEN.\n\nDO NOT SUBSCRIBE WITHOUT READING:\nUmbral Coalition contains new blocks, species, and weapons. In a future not long away, UC will become a one-point trip to your saves. ALWAYS back up your saves! This goes for any other mod you use!\n\nA race extender is, of course, required for this mod!\n\nUmbral Coalition is a mod that aims to add onto the original story, adding new content and features to explore!\nVERSION: v0.1.4.1 ALPHA\n\nFeatures:\n- Canning foods\n- More crops\n- New playable races: \n- Xenonians, slug-like aliens from the extremely toxic and mutated planet Xen-789\n- Rad'ions, plasma-based lifeforms that manipulate plasma and their appearances\n- In-mod racial bonuses\n- Frackin' Races support\n- Seasonal events\n\nBUG REPORTS GO HERE: https://github.com/Vetpetmon-Labs/Umbral-Coalition/issues\n!PROVIDE YOUR STARBOUND.LOG OR THERE WON'T BE A FIX!\n\nJoin the Vetpetmon Labs discord to receive news on updates, events, know how to contribute to the mod, and more: https://discord.gg/wqKXbCA ",
   "friendlyName" : "Umbral Coalition",
   "includes" : [],
   "link" : "steam://url/CommunityFilePage/1545786562",
   "name" : "UmbralCoalition",
   "path" : ".",
   "steamContentId" : "1545786562",
-  "tags" : "Crafting and Building|Miscellaneous|NPCs and Creatures|Weapons|Quests|Dungeons|Species|Furniture and Objects|Food and Farming|Mechanics",
-  "version" : "0.1.4"
+  "tags" : "Crafting and Building|Miscellaneous|Planets and Environments|NPCs and Creatures|Weapons|Quests|Dungeons|Species|Furniture and Objects|Character Improvements|Food and Farming|Mechanics",
+  "version" : "0.1.4.1"
 }
