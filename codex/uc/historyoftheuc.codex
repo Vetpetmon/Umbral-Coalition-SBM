@@ -1,0 +1,24 @@
+{
+	"id" : "uchistoryoftheuc",
+	"title" : "The Umbral Coalition",
+	"description" : "Written by unknown authors, this book contains details of the Umbral Coalition.",
+	"icon" : "holocodex.png",
+	"contentPages" : [
+"The Umbral Coalition was founded on three principles: Research, Unity, and Preservation. Despite being peaceful towards the Protectorate, their leading races where: the Xenonians, invaders; the Rad'ions, impersonators; and the Fii, pirates. This unlikely union of otherwise hostile races was unique, aiming to conquer the Milky Way, but preserve whatever was inside of it. They documented about alien diseases, new worlds, technology, and most importantly, the meaning of life.",
+"However, a series of events, involving the destruction of the Earth, warped the coalition's goals, as even the coalition faces threats like never seen before...",
+"The main subjects that the Umbral Coalition focuses on for research are biology and astronomy. In the past eighty Earth years, the coalition alone has discovered more than two million celestial bodies that could not be detected via the Protectorate's technology. Such celestial bodies include dimensional rifts, giant biomasses, and rogue planets.",
+"THE CREATION OF THE COALITION:
+
+The Xenonians founded the Umbral Coalition in the Earth year 7304 BC, after a war between the Fii that resulted in the destruction of their home planet using the infamous Borgimus Supremus weapon.",
+"Due to the massive consequences that have resulted from the destruction, the coalition founded the Galactic Code, forbidding any future incidents of planetary destruction. However, Borgimus Supremus was never to be located ever again, and many assume that the weapon is still active to this day.",
+"EXPANSION OF THE COALITION:
+
+In the Earth year 2019 AD, certain xenonians were found to have been rad'ion impersonators. For approximately 800 Earth years, the Umbral Coalition went into war with the Rad'ions for the impersonation of leaders and officials.",
+"The coalition also advised the Protectorate, when it formed, to perform constant checks to make sure none of their own officials were impersonators as well. The Protectorate ignored the advice, and is unknown if the human-based government was actually ran by rad'ions.",
+"After the war, the rad'ion faction joined the Umbral Coalition to avoid further conflict, shortly after the Protectorate and Umbral Coalition allied."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}
