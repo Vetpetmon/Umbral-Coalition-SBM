@@ -1,0 +1,55 @@
+{
+  "objectName" : "ucplasmadoor3",
+  "colonyTags" : ["door", "radion"],
+  "rarity" : "Common",
+
+  "category" : "door",
+  "price" : 85,
+  "description" : "An exotic door made from a being from another dimension. It lacks a knob.",
+  "shortdescription" : "Plasma Door",
+  "race" : "radion",
+
+  "floranDescription" : "Floran findsss door interesssting.",
+  "glitchDescription" : "Observant. There is no knob to open this door.",
+  "novakidDescription" : "Do those things jus' phase through these? I wonder why they even considered t' use doors...",
+
+  "inventoryIcon" : "radiondoor3ico.png",
+
+  "tooltipKind" : "door",
+  "largeImage" : "radiondoor3.png:right",
+
+  "orientations" : [
+    {
+      "dualImage" : "radiondoor3.png:default",
+      "imagePosition" : [-16, 0],
+      "renderLayer" : "Object+5",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/humanoid/Radion_Jump.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/humanoid/Radion_Jump.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "radiondoor3.png"
+  },
+  "animationPosition" : [-16, 0],
+
+  "inputNodes" : [ [0, 4] ],
+  "outputNodes" : [ [0, 0] ]
+}
