@@ -13,7 +13,7 @@
   "glitchDescription" : "Observant. There is no knob to open this door.",
   "novakidDescription" : "Do those things jus' phase through these? I wonder why they even considered t' use doors...",
 
-  "inventoryIcon" : "radiondoorico1.png",
+  "inventoryIcon" : "radiondoor1ico.png",
 
   "tooltipKind" : "door",
   "largeImage" : "radiondoor1.png:right",
