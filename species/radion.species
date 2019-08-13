@@ -70,10 +70,14 @@
       { "item" : "violiumshortsword" },
       { "item" : "violiumbroadsword" },
     // Furniture Table 1
+      // blocks
       { "item" : "ucimpossibiltyblock" },
       { "item" : "uccompressedplasmablock" },
       { "item" : "ucplasmaplatform" },
       { "item" : "ucplasmatube" },
+      // doors
+      { "item" : "ucplasmadoor1" },
+      { "item" : "ucplasmadoor2" },
     // Furniture Table 2
       { "item" : "humanstoragelocker" }
     // Spinning Wheel
