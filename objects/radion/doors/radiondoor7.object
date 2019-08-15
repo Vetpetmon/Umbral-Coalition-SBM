@@ -1,5 +1,5 @@
 {
-  "objectName" : "ucplasmadoor5",
+  "objectName" : "ucplasmadoor7",
   "colonyTags" : ["door", "radion"],
   "rarity" : "Common",
 
@@ -13,14 +13,14 @@
   "glitchDescription" : "Observant. There is no knob to open this door.",
   "novakidDescription" : "Do those things jus' phase through these? I wonder why they even considered t' make doors...",
 
-  "inventoryIcon" : "radiondoor5ico.png",
+  "inventoryIcon" : "radiondoor7ico.png",
 
   "tooltipKind" : "door",
-  "largeImage" : "radiondoor5.png:right",
+  "largeImage" : "radiondoor7.png:right",
 
   "orientations" : [
     {
-      "dualImage" : "radiondoor5.png:default",
+      "dualImage" : "radiondoor7.png:default",
       "imagePosition" : [-16, 0],
       "renderLayer" : "Object+5",
 
@@ -46,7 +46,7 @@
     }
   },
   "animationParts" : {
-    "door" : "radiondoor5.png"
+    "door" : "radiondoor7.png"
   },
   "animationPosition" : [-16, 0],
 
