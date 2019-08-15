@@ -35,7 +35,7 @@
     "scripts" : [],
 
     "fireTime" : 0.8,
-    "baseDps" : 13.0,
+    "baseDps" : 15.0,
     "damageConfig" : {
       "statusEffects" : [ "anomaly2syringe" ],
       "knockback" : 3
