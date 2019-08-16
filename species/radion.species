@@ -87,6 +87,8 @@
       { "item" : "ucplasmadoor9" },
       { "item" : "ucplasmadoor10" },
       { "item" : "ucplasmadoor11" },
+      { "item" : "ucplasmadoor12" },
+      { "item" : "ucplasmadoor13" },
     // Furniture Table 2
       { "item" : "humanstoragelocker" }
     // Spinning Wheel
