@@ -3,7 +3,7 @@
   "price" : 5000,
   "inventoryIcon" : "OBLITERATOR.png",
   "maxStack" : 1,
-  "rarity" : "Rare",
+  "rarity" : "Legendary",
   "description" : "^red;DESTROY. DESTROY IT ALL. DESTROY EVERYTHING THAT MOVES.^reset;
 A deadly weapon that was once held by a planet-killing machine. You have been warned.",
   "shortdescription" : "^red;OBLITERATOR^reset;",
