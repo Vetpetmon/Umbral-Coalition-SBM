@@ -1,0 +1,130 @@
+{
+  "objectName" : "ucradioncraftingfurniture",
+  "colonyTags" : ["crafting", "radion"],
+  "rarity" : "Uncommon",
+  "race" : "radion",
+  "category" : "crafting",
+
+  //this is handled by the lua
+  "breakDropOptions" : [],
+
+  "price" : 45,
+  "printable" : false,
+
+  "scripts" : [ "/objects/crafting/upgradeablecraftingobjects/upgradeablecraftingobject.lua" ],
+
+  "animation" : "craftingfurniture.animation",
+  "animationPosition" : [0, 14],
+
+  "inventoryIcon" : "craftingfurnitureicon.png",
+  "placementImage" : "craftingfurniture.png:default.default",
+  "placementImagePosition" : [-16, 0],
+
+  "description" : "Allows the assembling of plasma into more complex shapes.",
+  "shortdescription" : "^orange;Plasma Shaper^white;",
+
+  "floranDescription" : "Doesss light-people ussse thisss for homesss?",
+  "glitchDescription" : "Curious. A workstation to work with materials beyond my understanding.",
+  "novakidDescription" : "If only I understood em... An' their weird habits.",
+  "radionDescription" : "Forms of plasma are combined to make furniture here. No more things to say here.",
+
+  "startingUpgradeStage" : 1,
+  "maxUpgradeStage" : 2,
+
+  "upgradeStages" : [
+    {
+      "animationState" : "craftingfurniture",
+
+      "itemSpawnParameters" : {
+        "inventoryIcon" : "craftingfurnitureicon.png",
+        "placementImage" : "craftingfurniture.png:default.default",
+        "placementImagePosition" : [-16, 0],
+
+        "description" : "Allows the assembling of plasma into more complex shapes.",
+        "shortdescription" : "^orange;Plasma Shaper^white;",
+
+        "floranDescription" : "Doesss light-people ussse thisss for homesss?",
+        "glitchDescription" : "Curious. A workstation to work with materials beyond my understanding.",
+        "novakidDescription" : "If only I understood em... An' their weird habits.",
+        "radionDescription" : "Forms of plasma are combined to make furniture here. No more things to say here."
+      },
+
+      "interactData" : {
+        "config" : "/interface/windowconfig/craftingfurniture.config",
+        "paneLayoutOverride" : {
+          "windowtitle" : {
+            "title" : " Plasma Shaper",
+            "subtitle" : " ^#b9b5b2;Furniture and blocks",
+            "icon" : {
+              "file" : "/interface/crafting/craftingfurniture.png"
+            }
+          }
+        },
+        "filter" : [ "radioncraftingfurniture" ],
+        "upgradeMaterials" : [
+          { "item" : "titaniumbar", "count" : 6 },
+          { "item" : "silverbar", "count" : 6 },
+          { "item" : "ucradionplasma", "count" : 250 }
+        ]
+      },
+
+      "learnBlueprintsOnPickup" : [],
+
+      "upgradeSoundEffect" : "fanfare",
+      "upgradeParticleEffect" : "dust"
+    },
+
+    {
+      "animationState" : "craftingfurniture2",
+
+      "itemSpawnParameters" : {
+        "price" : 700,
+        "inventoryIcon" : "craftingfurniture2icon.png",
+        "placementImage" : "craftingfurniture2.png:default.default",
+        "placementImagePosition" : [-16, 0],
+
+        "description" : "Allows the assembling of plasma into more complex shapes.",
+        "shortdescription" : "^orange;Plasma Combiner^white;",
+
+        "floranDescription" : "Doesss light-people ussse thisss for homesss?",
+        "glitchDescription" : "Curious. A workstation to work with materials beyond my understanding.",
+        "novakidDescription" : "If only I understood em... An' their weird habits.",
+        "radionDescription" : "Forms of plasma are combined to make furniture here. No more things to say here."
+      },
+
+      "interactData" : {
+        "config" : "/interface/windowconfig/craftingfurniture.config",
+        "paneLayoutOverride" : {
+          "windowtitle" : {
+            "title" : " Plasma Combiner",
+            "subtitle" : " ^#b9b5b2;Objects and blocks",
+            "icon" : {
+              "file" : "/interface/crafting/craftingfurniture2.png"
+            }
+          }
+        },
+        "filter" : [ "radioncraftingfurniture", "radioncraftingfurniture2" ]
+      },
+
+      "learnBlueprintsOnPickup" : []
+    }
+  ],
+
+  "orientations" : [
+    {
+      "image" : "craftingfurniture.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "direction" : "left",
+      "flipImages" : true,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "craftingfurniture.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

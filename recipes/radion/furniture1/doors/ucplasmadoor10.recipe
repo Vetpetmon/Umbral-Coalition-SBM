@@ -3,5 +3,5 @@
     { "item" : "ucradionplasma", "count" : 25 }
   ],
   "output" : { "item" : "ucplasmadoor10", "count" : 1 },
-  "groups" : [ "craftingfurniture", "doors", "all" ]
+  "groups" : [ "radioncraftingfurniture", "doors", "all" ]
 }

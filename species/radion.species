@@ -70,7 +70,7 @@
       { "item" : "feroziumstaff" },
       { "item" : "violiumshortsword" },
       { "item" : "violiumbroadsword" },
-    // Furniture Table 1
+    // Rad'ion Furniture Table 1
       // blocks
       { "item" : "ucimpossibiltyblock" },
       { "item" : "uccompressedplasmablock" },
@@ -94,9 +94,10 @@
       { "item" : "ucplasmadoor15" },
       { "item" : "ucplasmadoor16" },
     // Furniture Table 2
-      { "item" : "humanstoragelocker" }
+      { "item" : "humanstoragelocker" },
     // Spinning Wheel
-    //inventing table
+    // Rad'ion Inventing Table
+      { "item" : "ucradioncraftingfurniture" }
 	  ]
   },
 

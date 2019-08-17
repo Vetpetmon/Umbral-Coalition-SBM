@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "ucradionplasma", "count" : 90 }
+  ],
+  "output" : {
+    "item" : "ucradioncraftingfurniture",
+    "count" : 1
+  },
+  "duration" : 4,
+  "groups" : [ "radioninventorstable", "craftingstations", "all" ]
+}
