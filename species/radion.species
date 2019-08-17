@@ -19,6 +19,7 @@
 
     // Empty Hands
       { "item" : "flagnovakid" },
+      { "item" : "radioninventorstable" },
       { "item" : "ucradionplasmagenerator" },
 
     // Anvil

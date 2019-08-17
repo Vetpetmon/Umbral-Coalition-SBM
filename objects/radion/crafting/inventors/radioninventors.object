@@ -1,0 +1,174 @@
+{
+  "objectName" : "radioninventorstable",
+  "colonyTags" : ["crafting","radion"],
+  "rarity" : "Uncommon",
+  "race" : "radion",
+  "category" : "crafting",
+
+  "radioMessagesOnPickup" : [ "pickupinventorstable" ],
+  "breakDropOptions" : [],
+
+  "price" : 45,
+  "printable" : false,
+
+  "scripts" : [ "/objects/crafting/upgradeablecraftingobjects/upgradeablecraftingobject.lua" ],
+
+  "animation" : "radioninventors.animation",
+  "animationPosition" : [0, 20],
+
+  "inventoryIcon" : "radioninventorsicon.png",
+  "placementImage" : "radioninventors.png:default.default",
+  "placementImagePosition" : [-16, -1],
+
+  "description" : "A device to create new crafting tables. The information is written in ra'dox.",
+  "shortdescription" : "^orange;Concept Constructor^white;",
+
+  "floranDescription" : "Ssstructure'sss purpossse isss beyond floran'sss underssstanding...",
+  "glitchDescription" : "Curious. Attempting to decode symbols...",
+  "novakidDescription" : "What an odd device...",
+  "radionDescription" : "A workplace to concept new fields of study. Will prove to be useful in all situations.",
+
+  "startingUpgradeStage" : 1,
+  "maxUpgradeStage" : 3,
+
+  "upgradeStages" : [
+    {
+      "animationState" : "radioninventorstable",
+
+      "itemSpawnParameters" : {
+        "inventoryIcon" : "radioninventorsicon.png",
+        "placementImage" : "radioninventors.png:default.default",
+        "placementImagePosition" : [-16, -1],
+
+        "description" : "A device to create new crafting tables. The information is written in ra'dox.",
+        "shortdescription" : "^orange;Concept Constructor^white;",
+
+        "floranDescription" : "Ssstructure'sss purpossse isss beyond floran'sss underssstanding...",
+        "glitchDescription" : "Curious. Attempting to decode symbols...",
+        "novakidDescription" : "What an odd device...",
+        "radionDescription" : "A workplace to concept new fields of study. Will prove to be useful in all situations."
+      },
+
+      "interactData" : {
+        "config" : "/interface/windowconfig/inventorstable.config",
+        "paneLayoutOverride" : {
+          "windowtitle" : {
+            "title" : "  Concept Constructor",
+            "subtitle" : "  ^#b9b5b2;Innovation station",
+            "icon" : {
+              "file" : "/interface/crafting/radioninventorsicon.png"
+            }
+          }
+        },
+
+        "filter" : [ "radioninventorstable" ],
+        "upgradeMaterials" : [
+          { "item" : "ucradionplasma", "count" : 150 },
+          { "item" : "glass", "count" : 10 },
+          { "item" : "silverbar", "count" : 6 }
+        ]
+      },
+
+      "learnBlueprintsOnPickup" : [],
+
+      "upgradeSoundEffect" : "fanfare",
+      "upgradeParticleEffect" : "dust"
+    },
+
+    {
+      "animationState" : "inventorstable2",
+
+      "itemSpawnParameters" : {
+        "inventoryIcon" : "radioninventorsicon.png",
+        "placementImage" : "radioninventors2.png:default.default",
+        "placementImagePosition" : [-16, -1],
+
+        "description" : "A device to create new crafting tables. The information is written in ra'dox.",
+        "shortdescription" : "^orange;Concept Conceptor^white;",
+
+        "floranDescription" : "Ssstructure'sss purpossse isss beyond floran'sss underssstanding...",
+        "glitchDescription" : "Curious. Attempting to decode symbols...",
+        "novakidDescription" : "What an odd device...",
+        "radionDescription" : "A workplace to concept new fields of study. Will prove to be useful in all situations."
+      },
+
+      "interactData" : {
+        "config" : "/interface/windowconfig/inventorstable.config",
+        "paneLayoutOverride" : {
+          "windowtitle" : {
+            "title" : "Concept Conceptor",
+            "subtitle" : "Innovation station",
+            "icon" : {
+              "file" : "/interface/crafting/radioninventorsicon.png"
+            }
+          }
+        },
+        "filter" : [ "radioninventorstable", "radioninventorstable2" ],
+        "upgradeMaterials" : [
+          { "item" : "durasteelbar", "count" : 6 },
+          { "item" : "ucradionplasma", "count" : 500 },
+          { "item" : "siliconboard", "count" : 5 },
+          { "item" : "wire", "count" : 10 }
+        ]
+      },
+
+      "learnBlueprintsOnPickup" : [],
+
+      "upgradeSoundEffect" : "fanfare2",
+      "upgradeParticleEffect" : "dust"
+    },
+
+    {
+      "animationState" : "inventorstable3",
+
+      "itemSpawnParameters" : {
+        "inventoryIcon" : "radioninventorsicon.png",
+        "placementImage" : "radioninventors3.png:default.default",
+        "placementImagePosition" : [-16, -1],
+
+        "description" : "A device to create new crafting tables. The information is written in ra'dox.",
+        "shortdescription" : "^orange;Concept Creator^white;",
+
+        "floranDescription" : "Ssstructure'sss purpossse isss beyond floran'sss underssstanding...",
+        "glitchDescription" : "Curious. Attempting to decode symbols...",
+        "novakidDescription" : "What an odd device...",
+        "radionDescription" : "A workplace to concept new fields of study. Will prove to be useful in all situations."
+      },
+
+      "interactData" : {
+        "config" : "/interface/windowconfig/inventorstable.config",
+        "paneLayoutOverride" : {
+          "windowtitle" : {
+            "title" : "Concept Creator",
+            "subtitle" : "Innovation station",
+            "icon" : {
+              "file" : "/interface/crafting/radioninventorsicon.png"
+            }
+          }
+        },
+        "filter" : [ "radioninventorstable", "radioninventorstable2", "radioninventorstable3" ],
+        "craftingSound" : "/sfx/interface/crafting_tech1.ogg"
+      },
+
+      "learnBlueprintsOnPickup" : []
+    }
+  ],
+
+  "orientations" : [
+    {
+      "image" : "radioninventors.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "direction" : "left",
+      "flipImages" : true,
+      "spaces" : [ [-2,0], [-1,0], [0,0], [1,0], [-2,1], [-1,1], [0,1], [1,1], [-2,2], [-1,2], [0,2], [1,2], [-2,3], [-1,3], [0,3], [1,3], [-2,4], [-1,4], [0,4], [1,4] ],
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "radioninventors.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+      "spaces" : [ [-2,0], [-1,0], [0,0], [1,0], [-2,1], [-1,1], [0,1], [1,1], [-2,2], [-1,2], [0,2], [1,2], [-2,3], [-1,3], [0,3], [1,3], [-2,4], [-1,4], [0,4], [1,4] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

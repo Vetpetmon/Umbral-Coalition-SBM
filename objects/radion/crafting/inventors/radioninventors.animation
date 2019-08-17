@@ -1,0 +1,97 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "stage" : {
+        "default" : "radioninventorstable",
+        "states" : {
+          "inventorstable" : {
+            "frames" : 1,
+            "cycle" : 1,
+            "mode" : "loop"
+          },
+          "inventorstable2" : {
+            "frames" : 1,
+            "cycle" : 1,
+            "mode" : "loop"
+          },
+          "inventorstable3" : {
+            "frames" : 1,
+            "cycle" : 1,
+            "mode" : "loop"
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "chassis" : {
+        "properties" : {
+          "centered" : true
+        },
+        "partStates" : {
+          "stage" : {
+            "inventorstable" : {
+              "properties" : {
+                "image" : "radioninventorsfullbright.png:<color>.<frame>"
+              }
+            },
+
+            "inventorstable2" : {
+              "properties" : {
+                "image" : "radioninventors2fullbright.png:<color>.<frame>"
+              }
+            },
+
+            "inventorstable3" : {
+              "properties" : {
+                "image" : "radioninventors3fullbright.png:<color>.<frame>"
+              }
+            }
+          }
+        }
+      },
+
+      "light" : {
+        "properties" : {
+          "centered" : true,
+          "fullbright" : true
+        },
+        "partStates" : {
+          "stage" : {
+            "inventorstable" : {
+              "properties" : {
+                "image" : "radioninventors.png:<color>.<frame>"
+              }
+            },
+
+            "inventorstable2" : {
+              "properties" : {
+                "image" : "radioninventors2.png:<color>.<frame>"
+              }
+            },
+
+            "inventorstable3" : {
+              "properties" : {
+                "image" : "radioninventors3.png:<color>.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "sounds" : {
+    "fanfare" : ["/sfx/cinematics/mission_unlock_event.ogg"],
+    "fanfare2" : ["/sfx/cinematics/license_acquired_event.ogg"]
+  },
+
+  "particleEmitters" : {
+    "dust" : {
+      "emissionRate" : 0.0,
+      "burstCount"  : 10,
+      "offsetRegion" : [-2, -2, 2, 2],
+      "particles" : [{ "particle" : "dust2"}]
+    }
+  }
+}

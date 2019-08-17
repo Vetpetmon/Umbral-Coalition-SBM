@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "ucradionplasma", "count" : 50 }
+  ],
+  "output" : {
+    "item" : "radioninventorstable",
+    "count" : 1
+  },
+  "groups" : [ "plain", "all" ]
+}
