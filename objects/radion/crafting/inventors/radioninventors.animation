@@ -2,7 +2,7 @@
   "animatedParts" : {
     "stateTypes" : {
       "stage" : {
-        "default" : "radioninventorstable",
+        "default" : "inventorstable",
         "states" : {
           "inventorstable" : {
             "frames" : 1,

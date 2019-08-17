@@ -33,7 +33,7 @@
 
   "upgradeStages" : [
     {
-      "animationState" : "radioninventorstable",
+      "animationState" : "inventorstable",
 
       "itemSpawnParameters" : {
         "inventoryIcon" : "radioninventorsicon.png",
@@ -56,7 +56,7 @@
             "title" : "  Concept Constructor",
             "subtitle" : "  ^#b9b5b2;Innovation station",
             "icon" : {
-              "file" : "/interface/crafting/radioninventorsicon.png"
+              "file" : "/objects/radion/crafting/inventors/radioninventorsicon.png"
             }
           }
         },
@@ -99,7 +99,7 @@
             "title" : "Concept Conceptor",
             "subtitle" : "Innovation station",
             "icon" : {
-              "file" : "/interface/crafting/radioninventorsicon.png"
+              "file" : "/objects/radion/crafting/inventors/radioninventorsicon.png"
             }
           }
         },
@@ -142,7 +142,7 @@
             "title" : "Concept Creator",
             "subtitle" : "Innovation station",
             "icon" : {
-              "file" : "/interface/crafting/radioninventorsicon.png"
+              "file" : "/objects/radion/crafting/inventors/radioninventorsicon.png"
             }
           }
         },
