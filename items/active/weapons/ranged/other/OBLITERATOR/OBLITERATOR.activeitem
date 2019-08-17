@@ -16,6 +16,7 @@ A deadly weapon that was once held by a planet-killing machine. You have been wa
   "animation" : "OBLITERATOR.animation",
   "animationParts" : {
     "middle" : "OBLITERATOR.png",
+    "middleFullbright" : "OBLITERATORlit.png",
     "muzzleFlash" : ""
   },
   "animationCustom" : {
@@ -28,7 +29,8 @@ A deadly weapon that was once held by a planet-killing machine. You have been wa
   },
   "animationScripts" : ["/items/active/effects/chain.lua"],
 
-  "muzzleOffset" : [1.525, 0.1],
+  "baseOffset" : [1.0, 0.0],
+  "muzzleOffset" : [2.025, 0.08],
 
   "scripts" : ["/items/active/weapons/ranged/gun.lua", "ObliteratorEffect.lua"],
 
@@ -54,7 +56,7 @@ A deadly weapon that was once held by a planet-killing machine. You have been wa
       "startOffset" : [0, 0],
       "segmentImage" : "/items/active/weapons/ranged/other/OBLITERATOR/OBLITERATORbeam.png",
       "endSegmentImage" : "/items/active/weapons/ranged/other/OBLITERATOR/OBLITERATORbeamend.png",
-      "segmentSize" : 0.48,
+      "segmentSize" : 0.44,
       "overdrawLength" : 0.2,
       "taper" : 0,
       "waveform" : {
