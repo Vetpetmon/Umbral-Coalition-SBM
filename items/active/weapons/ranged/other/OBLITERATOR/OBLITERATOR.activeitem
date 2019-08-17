@@ -42,7 +42,7 @@ A deadly weapon that was once held by a planet-killing machine. You have been wa
 
     "fireTime" : 0.2,
     "baseDps" : 75.0,
-    "energyUsage" : 90.0,
+    "energyUsage" : 180.0,
 
     "damageConfig" : {
       "statusEffects" : [ "ucobliteratorbeam" ],
