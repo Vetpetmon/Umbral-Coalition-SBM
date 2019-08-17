@@ -1,0 +1,62 @@
+{
+  "objectName" : "ucradioncookingtable",
+  "colonyTags" : ["cooking","radion"],
+  "printable" : false,
+  "price" : 100,
+  "rarity" : "Uncommon",
+  "category" : "crafting",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/craftingfood.config",
+    "filter" : [ "craftingfood", "radionfood" ]
+  },
+  "description" : "Used to produce foods with a variety of effects.",
+  "shortdescription" : "^orange;Kitchen Counter^white;",
+  "race" : "generic",
+
+  "floranDescription" : "Floran prepare food with bare handsss. But table also ussseful.",
+  "glitchDescription" : "Interested. Food is prepared here.",
+  "novakidDescription" : "I could cook up a storm on this 'ere thing.",
+
+  "inventoryIcon" : "radioncookingtableicon.png",
+  "orientations" : [
+    /*{
+      "dualImage" : "radioncookingtable.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }*/
+    {
+
+      "imageLayers" : [ { "image" : "radioncookingtable.png:<color>", "fullbright" : true }, { "image" : "radioncookingtablelit.png:<color>" } ],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+
+      "imageLayers" : [ { "image" : "radioncookingtable.png:<color>", "fullbright" : true }, { "image" : "radioncookingtablelit.png:<color>" } ],
+      "direction" : "right",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "npcToy" : {}
+}

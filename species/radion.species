@@ -98,6 +98,7 @@
       { "item" : "humanstoragelocker" },
     // Spinning Wheel
     // Rad'ion Inventing Table
+      { "item" : "ucradioncookingtable" },
       { "item" : "ucradioncraftingfurniture" }
 	  ]
   },
