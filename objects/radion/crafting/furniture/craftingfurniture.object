@@ -4,7 +4,7 @@
   "rarity" : "Uncommon",
   "race" : "radion",
   "category" : "crafting",
-  "lightColor" : [100, 100, 100],
+  //"lightColor" : [100, 100, 100],
 
   //this is handled by the lua
   "breakDropOptions" : [],

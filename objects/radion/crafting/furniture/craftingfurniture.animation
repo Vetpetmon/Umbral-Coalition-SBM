@@ -38,6 +38,27 @@
             }
           }
         }
+      },
+      "light" : {
+        "properties" : {
+          "centered" : true,
+          "fullbright" : true
+        },
+        "partStates" : {
+          "stage" : {
+            "inventorstable" : {
+              "properties" : {
+                "image" : "craftingfurniturelit.png:<color>.<frame>"
+              }
+            },
+
+            "inventorstable2" : {
+              "properties" : {
+                "image" : "craftingfurniture2lit.png:<color>.<frame>"
+              }
+            }
+          }
+        }
       }
     }
   },
