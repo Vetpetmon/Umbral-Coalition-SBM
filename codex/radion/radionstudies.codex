@@ -25,7 +25,7 @@ The spikes on the main form of a rad'ion's head are called reactors. Reactors ar
 6 reactors: 145-250 Earth years old
 7+ reactors: 200+ Earth years old",
 "Rad'ion that accumulate more than 5 usually die within the formation due to radiation overload. However, again, the strength of the reactors may vary. Young rad'ions are more likely to form more powerful reactors, and older ones tend to form weak reactors. Over time, however, if a rad'ion lives long enough to accumulate 8 reactors, all of their reactors will begin to weaken down, until the rad'ion suffers from a condition known as the \"Cold Death.\"",
-"In a Cold Death, a rad'ion's radioactivity is lost at abnormal speeds, thus \"cooling\" their bodies down until they turn into a black goo."
+"In a Cold Death, a rad'ion's radioactivity is lost at abnormal speeds, thus \"cooling\" their bodies down until they turn into a black goo. Surprisingly, this has been described to be a painless death by the rad'ions themselves."
 	],
 		"itemConfig" : {
 		"rarity" : "common",
