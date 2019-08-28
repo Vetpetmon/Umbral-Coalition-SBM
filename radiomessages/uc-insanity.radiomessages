@@ -1,4 +1,13 @@
 {
+  //---------------
+  //Weapon insanity
+  //---------------
+  "ucforbiddenchocolatemsg" : {
+    "text" : "My sensors have detected an infinite amount of entities from different universes arriving all at once. They appear to be after ^red;you^reset;."
+  },
+  //---------------
+  //Normal insanity
+  //---------------
   "ucinsanitywarning01" : {
     "text" : "I have detected your slow but progressive loss of mental stability. I recommend putting your weapons further from your graspers and seek help as soon as possible."
   },

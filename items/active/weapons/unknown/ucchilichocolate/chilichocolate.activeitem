@@ -1,0 +1,44 @@
+{
+  "itemName" : "ucchilichocolate",
+  "rarity" : "Essential",
+  "price" : 400,
+  "category" : "preparedFood",
+  "inventoryIcon" : "chilichocolate.png",
+  "description" : "Who... Who would ever do this?
+
+  ^red;Do not ever say that you have this out loud. Ever.^white;",
+  "shortdescription" : "Chili-flavored Chocolate",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","chaos"],
+  "tooltipKind" : "ucfoodweap",
+  "maxStack" : 1,
+
+  "animation" : "/items/active/weapons/melee/dagger/dagger.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "chilichocolate.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : [ "/sfx/melee/swing_spear.ogg" ]
+    }
+  },
+
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua", "/items/active/weapons/unknown/ucchilichocolate/chilichocolate.lua"],
+  "elementalType" : "physical",
+  "aimOffset" : -1.0,
+
+  "primaryAbilityType" : "spearstab",
+  "primaryAbility" : {
+    "scripts" : [],
+    "fireTime" : 0.5,
+    "baseDps" : 20,
+    "energyUsage" : 100,
+    "damageConfig" : {
+      "statusEffects" : [ ],
+      "knockback" : 1
+    }
+  },
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

@@ -1,0 +1,14 @@
+{
+  "name" : "ucforbiddenchocolate",
+
+  "effectConfig" : {
+    "ghostSpawnOffset" : [0, -150]
+  },
+
+  "defaultDuration" : 120,
+
+  "scripts" : ["forbiddenchocolate.lua"],
+
+  "label" : "You idiot. You absolute buffoon. You brought THEM over.",
+  "icon" : "/interface/statuses/chilichocolate.png"
+}
