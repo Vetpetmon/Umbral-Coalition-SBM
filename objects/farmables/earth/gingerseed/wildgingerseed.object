@@ -9,6 +9,8 @@
   "printable" : false,
   "price" : 20,
 
+  "radionDescription" : "Z. officinale, also known as \"ginger.\" A true cultigen without any wild state.",
+
   "inventoryIcon" : "gingerseedicon.png",
 
   "tooltipKind" : "seed",

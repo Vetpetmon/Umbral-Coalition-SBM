@@ -9,6 +9,8 @@
   "printable" : false,
   "price" : 10,
 
+  "radionDescription" : "B. juncea, commonly known as \"brown mustard.\" This plant is used in many recipes by the humans.",
+
   "inventoryIcon" : "mustardplanticon.png",
 
   "tooltipKind" : "seed",

@@ -1,4 +1,12 @@
 [
+  //--------------
+  // DESCRIPTIONS
+  //--------------
+  { "op" : "add", "path" : "/xenonianDescription", "value": "A store selling supplies for small farms." },
+  { "op" : "add", "path" : "/radionDescription", "value": "A farming shop. Sells plants and animals." },
+  //-------
+  // SEEDS
+  //-------
   { "op" : "add", "path" : "/interactData/items/-", "value" : {"item" : ["cornseed", 1] } },
   { "op" : "add", "path" : "/interactData/items/-", "value" : {"item" : ["cottonseed", 1] } },
   { "op" : "add", "path" : "/interactData/items/-", "value" : {"item" : ["coffeeseed", 1] } },

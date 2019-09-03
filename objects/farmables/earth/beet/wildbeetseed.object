@@ -9,6 +9,8 @@
   "printable" : false,
   "price" : 20,
 
+  "radionDescription" : "B. vulgaris, commonly known as a \"beet.\" This cultivar is called 'Chioggia.'",
+
   "inventoryIcon" : "beetseedicon.png",
 
   "tooltipKind" : "seed",
