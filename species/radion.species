@@ -308,12 +308,20 @@
     { "f32200" : "EDA9D3", "dc1f00" : "EDA9D3", "be1b00" : "EDA9D3", "951500" : "EDA9D3" },
     // Fading Taint
     { "f32200" : "dbcada", "dc1f00" : "dbcada", "be1b00" : "dbcada", "951500" : "dbcada" },
+    // Tainted Core
+    { "f32200" : "ac73ad", "dc1f00" : "ac73ad", "be1b00" : "ac73ad", "951500" : "ac73ad" },
     // Darksynth
     { "f32200" : "87A5B7", "dc1f00" : "87A5B7", "be1b00" : "87A5B7", "951500" : "87A5B7" },
     // Electro Forest
     { "f32200" : "649b40", "dc1f00" : "649b40", "be1b00" : "649b40", "951500" : "649b40" },
     // Synthetic Beach
     { "f32200" : "fefff3", "dc1f00" : "fefff3", "be1b00" : "fefff3", "951500" : "fefff3" },
+    // False white
+    { "f32200" : "ECECE1", "dc1f00" : "ECECE1", "be1b00" : "ECECE1", "951500" : "ECECE1" },
+    // Overgrowth 1
+    { "f32200" : "EAEABE", "dc1f00" : "EAEABE", "be1b00" : "EAEABE", "951500" : "EAEABE" },
+    // Overgrowth 2
+    { "f32200" : "9FC4A8", "dc1f00" : "9FC4A8", "be1b00" : "9FC4A8", "951500" : "9FC4A8" },
 
     { "f32200" : "FFDCC4", "dc1f00" : "FFB98F", "be1b00" : "C1695F", "951500" : "7E3F38" },
     { "f32200" : "FFFFE7", "dc1f00" : "FFE48E", "be1b00" : "C1AA5C", "951500" : "7C7135" },
