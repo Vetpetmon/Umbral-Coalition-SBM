@@ -191,6 +191,8 @@
     { "ffe2c5" : "fce4ec", "ffc181" : "f48fb1", "d39c6c" : "ec407a", "c7815b" : "f50057" },
     // Pink
     { "ffe2c5" : "fee5ff", "ffc181" : "f6bbf9", "d39c6c" : "f57afc", "c7815b" : "4c2153" },
+    // Warm Welcome
+    { "ffe2c5" : "fffbdd", "ffc181" : "fdcea4", "d39c6c" : "feb195", "c7815b" : "e7a58b" },
     // Vivid Pink
     { "ffe2c5" : "ff80ab", "ffc181" : "ff4081", "d39c6c" : "f50057", "c7815b" : "c51162" },
     // Funky Cosmos
@@ -213,6 +215,10 @@
     //{ "ffe2c5" : "ffeb3b", "ffc181" : "3f51b5", "d39c6c" : "3f51b5", "c7815b" : "673ab7" },
     // Vivid Cosmos
     { "ffe2c5" : "d500f9", "ffc181" : "aa00ff", "d39c6c" : "6200ea", "c7815b" : "311B92" },
+    // Cursed
+    { "ffe2c5" : "d6c3df", "ffc181" : "cd2354", "d39c6c" : "69284a", "c7815b" : "2f1a2b" },
+    // Deep Cosmos
+    { "ffe2c5" : "4ba3ed", "ffc181" : "a672d6", "d39c6c" : "8b4083", "c7815b" : "432153" },
     // Odd Blue
     {"d39c6c":"6c4aa3","ffc181":"8e95c4","c7815b":"4b0082","ffe2c5":"b0e0e6"},
     // Retro Blue
@@ -223,6 +229,8 @@
     {"d39c6c":"809aef","ffc181":"bacaff","c7815b":"6a64b3","ffe2c5":"eaf5ff"},
     // Blue
     { "ffe2c5" : "c7feff", "ffc181" : "56ebf8", "d39c6c" : "12c2e8", "c7815b" : "0c2b4b" },
+    // The Grid
+    { "ffe2c5" : "A5E2FF", "ffc181" : "56C4FF", "d39c6c" : "4395C1", "c7815b" : "55769B" },
     // Vivid Blue
     { "ffe2c5" : "80d8ff", "ffc181" : "40c4ff", "d39c6c" : "00b0ff", "c7815b" : "0091ea" },
     // Blue Skies
@@ -253,6 +261,8 @@
     { "ffe2c5" : "00FFF2", "ffc181" : "00FFB3", "d39c6c" : "00E369", "c7815b" : "00B631" },
     // Retro Green
     {"d39c6c":"3a5d3a","ffc181":"72a972","c7815b":"031203","ffe2c5":"aaf5aa"},
+    // Tropical
+    { "ffe2c5" : "c7ffdc", "ffc181" : "649b40", "d39c6c" : "506b34", "c7815b" : "4f543d" },
     // Green Booster
     { "ffe2c5" : "e8f5e9", "ffc181" : "69f0ae", "d39c6c" : "00e676", "c7815b" : "00c853" },
     // Green
@@ -288,9 +298,22 @@
     // Gen Bisque
     {"d39c6c":"bfab93","ffc181":"ffe4c4","c7815b":"7f7262","ffe2c5":"fffff5"}
   ],
+  //Eye color
   "undyColor" : [
     // Blue Booster
     { "f32200" : "e1f5fe", "dc1f00" : "81d4fa", "be1b00" : "29b6f6", "951500" : "039be5" },
+    // Dissolving Cognition
+    { "f32200" : "b4b2c0", "dc1f00" : "b4b2c0", "be1b00" : "b4b2c0", "951500" : "b4b2c0" },
+    // Curious Notion
+    { "f32200" : "EDA9D3", "dc1f00" : "EDA9D3", "be1b00" : "EDA9D3", "951500" : "EDA9D3" },
+    // Fading Taint
+    { "f32200" : "dbcada", "dc1f00" : "dbcada", "be1b00" : "dbcada", "951500" : "dbcada" },
+    // Darksynth
+    { "f32200" : "87A5B7", "dc1f00" : "87A5B7", "be1b00" : "87A5B7", "951500" : "87A5B7" },
+    // Electro Forest
+    { "f32200" : "649b40", "dc1f00" : "649b40", "be1b00" : "649b40", "951500" : "649b40" },
+    // Synthetic Beach
+    { "f32200" : "fefff3", "dc1f00" : "fefff3", "be1b00" : "fefff3", "951500" : "fefff3" },
 
     { "f32200" : "FFDCC4", "dc1f00" : "FFB98F", "be1b00" : "C1695F", "951500" : "7E3F38" },
     { "f32200" : "FFFFE7", "dc1f00" : "FFE48E", "be1b00" : "C1AA5C", "951500" : "7C7135" },
