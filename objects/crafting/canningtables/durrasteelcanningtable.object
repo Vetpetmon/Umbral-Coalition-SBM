@@ -33,8 +33,8 @@
   "novakidDescription" : "Hey, this might be somethin' I'd have to know about!",
 
   "xenonianDescription": "Putting perishable food in cans. Seems pretty effective.",
+  "radionDescription": "Station to put organic food into inorganic containers for preservation. Not needed.",
 
-  "webberDescription" : "We can preserve produce by canning on this table. It may not be perfect, but it still works wonders.",
   "fiiDescription" : "Click-clack, produce is saved from rot by canning processes.",
 
   "neonguetDescription" : "Canning food ruins the flavor. I don't need to can it anyway.",
@@ -43,10 +43,7 @@
   //ERM support
 
   "aegiDescription" : "Canning food isn't efficient, but seems to be effective.",
-  "avikanDescription" : "TODO",
-  "trinkDescription" : "TODO",
-  "drodenDescription" : "TODO",
-
+  
   "inventoryIcon" : "canningtableicon.png",
   "orientations" : [
     {
