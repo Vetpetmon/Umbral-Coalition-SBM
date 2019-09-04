@@ -29,6 +29,7 @@
   "novakidDescription" : "Turns produce into new plants. Might be somethin' important to know.",
 
   "xenonianDescription": "Turn fruits and clippings into new plants. Seems promising enough to me.",
+  "radionDescription" : "Germenates seeds from produce, and new plants from clippings. A slow and painful process of aquiring more plants.",
 
   "radioMessagesOnPickup" : [ "ucgerminationlab" ],
 
