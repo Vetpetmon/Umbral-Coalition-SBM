@@ -13,11 +13,12 @@
   "avianDescription" : "Questionable.",
   "floranDescription" : "Weird plant.",
   "glitchDescription" : "Curious. This is a very strange plant, I must investigate further.",
-  "humanDescription" : "A nasty plant that grows in a nasty swamp.",
+  "humanDescription" : "A nasty plant that grows in a nasty swamp. Disgusting.",
   "hylotlDescription" : "An odd plant",
   "novakidDescription" : "What is this lil' plant?",
 
-  "webberDescription" : "Karadian carrots are an aquired taste.",
+  "radionDescription": "Y. karat, mistakeningly known as the \"Karadian carrot.\" It is actually a slime mold that toughens when it's nearing the end of it's life cycle.",
+
   "fiiDescription" : "Click, an alien plant.",
 
   "inventoryIcon" : "karadiancarrotseedicon.png",

@@ -13,11 +13,12 @@
   "avianDescription" : "This is what Vanokkian bread comes from?",
   "floranDescription" : "Weird plant.",
   "glitchDescription" : "Curious. This is a very strange plant, I must investigate further.",
-  "humanDescription" : "Apparently, webbers will put anything in breadon and pass it off as food. Gross.",
+  "humanDescription" : "Apparently, Vanokkians would put anything in breadon and pass it off as food. Gross.",
   "hylotlDescription" : "An odd plant",
   "novakidDescription" : "What is this lil' plant?",
 
-  "webberDescription" : "Breadon is a favorite. Poke a hole, pinch on the bottom, and there's food!",
+  "radionDescription": "L. berim, also known as \"breadon.\" This plant mimics baked flour dough while ripening.",
+
   "fiiDescription" : "Click, an alien plant.",
 
   "inventoryIcon" : "breadonseedicon.png",

@@ -9,6 +9,8 @@
   "printable" : false,
   "price" : 10,
 
+  "radionDescription": "D. carota with a color mutation. Likely artificial.",
+
   "inventoryIcon" : "bluecarroticon.png",
 
   "tooltipKind" : "seed",

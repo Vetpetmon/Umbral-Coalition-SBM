@@ -3,7 +3,7 @@
   "colonyTags" : ["nature", "farmer"],
   "rarity" : "Common",
   "category" : "seed",
-  "description" : "Corex plants slowly produce a meat-like fruit.",
+  "description" : "Corex plants slowly produce meat-like fruit.",
   "shortdescription" : "Corex Seed",
   "objectType" : "farmable",
   "printable" : false,
@@ -17,7 +17,8 @@
   "hylotlDescription" : "An odd plant",
   "novakidDescription" : "What is this lil' plant?",
 
-  "webberDescription" : "Breadon is a favorite. Poke a hole, pinch on the bottom, and there's food!",
+  "radionDescription": "M. corexic, simply known as \"corex.\" This plant, a highly artificial one, grows the meat of what could potentially be a Vanokkian.",
+
   "fiiDescription" : "Click, an alien plant.",
 
   "inventoryIcon" : "corexseedicon.png",

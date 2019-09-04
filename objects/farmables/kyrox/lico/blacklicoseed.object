@@ -17,8 +17,7 @@
   "hylotlDescription" : "This must be a toxic black lico plant from Candavas.",
   "novakidDescription" : "Somethin's fishy with this plant.",
 
-  "webberDescription" : "Smells poisonous. We shouldn't eat it.",
-  "candavaswebberDescription" : "It may be poisonous, but that doesn't mean we can't use it to protect ourselves!",
+  "radionDescription": "L. naebu, known as \"black lico.\" The coloring of this species is what makes them toxic.",
 
   "inventoryIcon" : "blacklicoseedicon.png",
 
