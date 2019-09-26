@@ -11,7 +11,7 @@
   "floranDescription" : "What makesss light sssolid?",
   "novakidDescription" : "What in tarnation is this? This ain't natural!",
   "xenonianDescription" : "This is beyond my current understanding.",
-  "radionDescription" : "Soil? Who needs that?",
+  "radionDescription" : "Plasmic medium used to support live plants. Needs to be manipulated further to support smaller plants.",
   "footstepSound" : "/sfx/tools/block_protected.ogg",
   "tillableMod" : 25520,
   "soil" : true,
