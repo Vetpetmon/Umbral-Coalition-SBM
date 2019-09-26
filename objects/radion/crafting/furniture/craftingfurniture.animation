@@ -27,13 +27,13 @@
           "stage" : {
             "craftingfurniture" : {
               "properties" : {
-                "image" : "craftingfurniture.png:<color>.<frame>"
+                "image" : "craftingfurniturelit.png:<color>.<frame>"
               }
             },
 
             "craftingfurniture2" : {
               "properties" : {
-                "image" : "craftingfurniture2.png:<color>.<frame>"
+                "image" : "craftingfurniture2lit.png:<color>.<frame>"
               }
             }
           }
@@ -48,13 +48,13 @@
           "stage" : {
             "inventorstable" : {
               "properties" : {
-                "image" : "craftingfurniturelit.png:<color>.<frame>"
+                "image" : "craftingfurniture.png:<color>.<frame>"
               }
             },
 
             "inventorstable2" : {
               "properties" : {
-                "image" : "craftingfurniture2lit.png:<color>.<frame>"
+                "image" : "craftingfurniture2.png:<color>.<frame>"
               }
             }
           }
