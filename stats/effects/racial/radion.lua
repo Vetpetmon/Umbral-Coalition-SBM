@@ -4,7 +4,7 @@ function init()
   if self.idleActive == false then --Check if false. If false, reverse the boolean.
     self.idleActive = true
   end
-  --These lines will eliminate the need to use FR for certain racial bonuses .
+  --These lines will eliminate the need to use FR for certain racial bonuses.
   effect.addStatModifierGroup({
     {stat = "maxHealth", baseMultiplier = 0.8},
     {stat = "ucsolarflareImmunity", amount = 1},
@@ -13,10 +13,10 @@ function init()
     {stat = "biomeradiationImmunity", amount = 1},
     {stat = "foodDelta", baseMultiplier = 1.3},
     {stat = "physicalResistance", amount = 0.5},
-    {stat = "radioactiveResistance", amount = 0.4},
+    {stat = "radioactiveResistance", amount = 0.5},
     {stat = "shadowResistance", amount = -0.6},
-    {stat = "iceResistance", amount = -0.6},
-    {stat = "fireResistance", amount = -0.1}
+    {stat = "iceResistance", amount = -0.4},
+    {stat = "fireResistance", amount = -0.4}
   })
 end
 
