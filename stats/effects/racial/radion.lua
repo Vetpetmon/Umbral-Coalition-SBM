@@ -7,6 +7,7 @@ function init()
   --These lines will eliminate the need to use FR for certain racial bonuses.
   effect.addStatModifierGroup({
     {stat = "maxHealth", baseMultiplier = 0.8},
+    {stat = "maxEnergy", baseMultiplier = 1.3},
     {stat = "ucsolarflareImmunity", amount = 1},
     {stat = "baseDiseaseImmunity", amount = 1},
     {stat = "radiationburnImmunity", amount = 1},
@@ -19,7 +20,7 @@ function init()
     {stat = "fireResistance", amount = -0.4}
   })
 end
-
+-- balance check: -19 + 19 = 0
 function update(dt)
   --animator.playSound("idle")
   mcontroller.controlParameters({
