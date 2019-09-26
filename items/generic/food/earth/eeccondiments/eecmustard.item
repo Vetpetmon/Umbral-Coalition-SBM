@@ -1,0 +1,13 @@
+{
+  "itemName": "eecmustardcondiment",
+  "rarity": "common",
+  "price": 150,
+  "category": "food",
+  "inventoryIcon" : "mustard.png",
+  "description" : "A commonly known condiment from Earth, this type of mustard has the least amount of added flavors to it.",
+  "shortdescription" : "Mustard",
+  "maxStack" : 1000,
+  "foodValue" : 1,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "tooltipKind" : "food"
+}

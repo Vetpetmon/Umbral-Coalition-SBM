@@ -7,7 +7,7 @@
   "shortdescription" : "Mustard Seeds",
   "objectType" : "farmable",
   "printable" : false,
-  "price" : 10,
+  "price" : 5,
 
   "radionDescription" : "B. juncea, commonly known as \"brown mustard.\" This plant is used in many recipes by the humans.",
 
@@ -32,6 +32,7 @@
   ],
 
   "radioMessagesOnPickup" : [ "pickupseed" ],
+  "learnBlueprintsOnPickup" : [ "eecmustardcondiment" ],
 
   "stages" : [
     {

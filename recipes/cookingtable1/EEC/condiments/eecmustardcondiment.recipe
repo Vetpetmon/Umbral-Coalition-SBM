@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "eecmustardseed", "count" : 26 }
+  ],
+  "output" : { "item" : "eecmustardcondiment", "count" : 1 },
+  "groups" : [ "craftingfood", "condiments" ]
+}
