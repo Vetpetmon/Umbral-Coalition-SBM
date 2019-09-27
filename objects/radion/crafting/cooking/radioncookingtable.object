@@ -17,6 +17,7 @@
   "floranDescription" : "Floran prepare food with bare handsss. But table also ussseful.",
   "glitchDescription" : "Interested. Food is prepared here.",
   "novakidDescription" : "I could cook up a storm on this 'ere thing.",
+  "radionDescription" : "Manipulate matter to make consumables. We can eat anything.",
 
   "inventoryIcon" : "radioncookingtableicon.png",
   "orientations" : [

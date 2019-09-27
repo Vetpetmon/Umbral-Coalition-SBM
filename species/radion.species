@@ -71,6 +71,13 @@
       { "item" : "violiumshortsword" },
       { "item" : "violiumbroadsword" },
     // Rad'ion Furniture Table 1
+      // storage
+      { "item" : "ucradionfridge01" },
+      { "item" : "ucradionfridge02" },
+      { "item" : "ucradionfridge03" },
+      { "item" : "ucradionfridge04" },
+      { "item" : "ucradionfridge05" },
+      { "item" : "ucradionfridge06" },
       // blocks
       { "item" : "ucimpossibiltyblock" },
       { "item" : "uccompressedplasmablock" },

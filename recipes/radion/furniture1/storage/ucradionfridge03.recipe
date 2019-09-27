@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "ucradionplasma", "count" : 60 },
+    { "item" : "staticcell", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "ucradionfridge03",
+    "count" : 1
+  },
+  "duration" : 0.3,
+  "groups" : [ "craftingfurniture", "storage", "all" ]
+}
