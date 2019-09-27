@@ -41,7 +41,7 @@
 
   // CODICES
 
-  //racial codex
+  //racial codices
   { "op" : "add", "path" : "/defaultCodexes/xenonian", "value" : [ "protectorate1", "protectorate2" ] },
   { "op" : "add", "path" : "/defaultCodexes/radion", "value" : [ "protectorate1", "protectorate2" ] },
   { "op" : "add", "path" : "/defaultCodexes/ucswarmer", "value" : [ "protectorate1", "protectorate2" ] },
