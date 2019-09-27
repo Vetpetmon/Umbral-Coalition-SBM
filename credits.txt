@@ -10,7 +10,7 @@ Kaisa Serian - Naming the mod
 Hubnester - Programming
 Rain - Lore
 ZimberZimber - Made Ztarbound.
-Shinigami Apples - Sprites for objects and weapons, code for objects.
+Shinigami Apples - Sprites for objects and weapons, code for objects, color palette.
 Valo - Sprited Tungsten Handlegun
 TankSlayer2 - Made some of the concepts for GFOW that were migrated to here.
 Arcticcloud - Lore
