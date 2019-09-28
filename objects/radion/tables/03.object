@@ -1,0 +1,46 @@
+{
+  "objectName" : "ucradiontable03",
+  "colonyTags" : ["radion"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 105,
+  "description" : "A table made out of plasma.",
+  "shortdescription" : "Rad'ion Table",
+  "race" : "radion",
+
+  "avianDescription" : "An unsafe surface to put items on.",
+  "floranDescription" : "Bright table.",
+  "glitchDescription" : "Cautious. Anything that touches this surface becomes radioactive.",
+  "humanDescription" : "I guess this is a table...",
+  "novakidDescription" : "Plasma surfaces? What in tarnation?",
+  "radionDescription" : "A table. Smaller items are placed on top.",
+
+  "inventoryIcon" : "03i.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "03.png:<color>", "fullbright" : true }, { "image" : "FB01.png:<color>" } ],
+      "flipImages" : true,
+      "direction" : "left",
+      "imagePosition" : [-23, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    },
+    {
+      "imageLayers" : [ { "image" : "03.png:<color>", "fullbright" : true }, { "image" : "FB01.png:<color>" } ],
+      "direction" : "right",
+      "imagePosition" : [-23, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}
