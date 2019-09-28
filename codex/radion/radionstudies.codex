@@ -8,14 +8,17 @@
 "Rad'ions do not posses a gender of any sort, and their method of propagation is unknown. Approximate population numbers are still uncertain for this species, so it is unknown if they are endangered or not. They are highly secretive, but in the recent events, they have opened up to handing out information about themselves.",
 "IMPERSONATION:
 
-In forms that require them to convert their energy into physical mass, rad'ion are significantly more vulnerable to physical damage, but are granted the ability to disguise themselves, give them special abilities, and grant them some immunities. However, they can only shapeshift so well, and it can easy to spot one that'd shifted into another organism by the amount of radioactive energy contained within them or a display of strange behaviors.",
+In forms that require them to convert their energy into physical mass, rad'ion are significantly more vulnerable to physical damage, but are granted the ability to disguise themselves, give them special abilities, and grant them immunities. However, they can only shapeshift so well, and it can easy to spot one that'd shifted into another organism by the amount of radioactive energy contained within them or a display of strange behaviors.",
+"While a rad'ion is impersonating, they also gain the weaknesses found in organic life forms. Rarely, it is possible to kill them in the same method used to kill whatever species they're copying, but most of the time, they will simply just phase back into one of their normal forms to avoid dying from matter loss.",
 "However, it is not to be taken lightly. Rad'ions can be undetected in a primitive society for more than eight thousand years, due to those in the society lacking tools or equipment required to detect one accurately. To add onto the difficulty for a primitive society to detect rad'ions, rad'ions also tend to kill the subject who they impersonate, preventing the case of a \"duplicate.\"",
 "Often, rad'ions that do kill the subject who they impersonate stick to the form of their kill. They will also fight to the death for a specific target, with the winner getting the desired target. But, in order for them to be able to impersonate a dead subject that can't be learned from, this is usually done in a specific way.",
 "First, the rad'ion gathers knowledge about it's target and observes it. Second, it makes sure that it can perfectly replicate the subject's form. Lastly, it then either takes an imperfect form of the subject's family, loved one, or enemy and put the subject down, convert the body into itself, and take the target's place in society.",
+"Older rad'ions (which may have less prominent radiation readings) are more capable of assuming original forms of the species they have studied. These forms can be easier to detect only in advanced civilizations, where proper checks can detect odd individuals.",
+"In one study, it found that 8,340 citizens of the Umbral Coalition had no prior backgrounds, certifications, or school records. This is commonly the case if rad'ions do assume completely original forms, in which an elder, or rarely an adult of the species, mysteriously appear amongst society without any true origin or ancestry.",
 "REACTORS:
 
 The spikes on the main form of a rad'ion's head are called reactors. Reactors are different across every individual, serving as both an identifier and energy processor for the organism. The numbers of reactors on a rad'ion average to about 2, with a minimum of 1, but some have been seen with as much as 11 reactors.",
-"The number of reactors on a rad'ion's head is a sign of it's age, but is not exact or accurate. Often, one can make an approximate guess, but other times, asking or radiation measurements is required.
+"The number of reactors on a rad'ion's head is a sign of it's age, but is not always exact or accurate. Often, one can make an approximate guess, but other times, asking or radiation measurements is required.
 
 1 reactor: 0-24 Earth years old
 2 reactors: 13-53 Earth years old
@@ -24,7 +27,7 @@ The spikes on the main form of a rad'ion's head are called reactors. Reactors ar
 5 reactors: 120-188 Earth years old
 6 reactors: 145-250 Earth years old
 7+ reactors: 200+ Earth years old",
-"Rad'ion that accumulate more than 5 usually die within the formation due to radiation overload. However, again, the strength of the reactors may vary. Young rad'ions are more likely to form more powerful reactors, and older ones tend to form weak reactors. Over time, however, if a rad'ion lives long enough to accumulate 8 reactors, all of their reactors will begin to weaken down, until the rad'ion suffers from a condition known as the \"Cold Death.\"",
+"Rad'ion that accumulate more than 7 usually die within the formation due to radiation overload. However, again, the strength of the reactors may vary. Young rad'ions are more likely to form more powerful reactors, and older ones tend to form weak reactors. Over time, however, if a rad'ion lives long enough to accumulate 8 reactors, all of their reactors will begin to weaken down, until the rad'ion suffers from a condition known as the \"Cold Death.\"",
 "In a Cold Death, a rad'ion's radioactivity is lost at abnormal speeds, thus \"cooling\" their bodies down until they turn into a black goo. Surprisingly, this has been described to be a painless death by the rad'ions themselves."
 	],
 		"itemConfig" : {
