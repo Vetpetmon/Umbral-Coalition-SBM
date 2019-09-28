@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "ucradionplasma", "count" : 25 }
+  ],
+  "output" : { "item" : "ucplasmadoor29", "count" : 1 },
+  "groups" : [ "radioncraftingfurniture", "doors", "all" ]
+}
