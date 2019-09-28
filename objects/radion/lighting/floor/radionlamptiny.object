@@ -1,12 +1,12 @@
 {
-  "objectName" : "ucradionlamp1",
+  "objectName" : "ucradionlamp3",
   "colonyTags" : ["radion","light"],
   "rarity" : "Common",
-  "description" : "A floor lamp of a truly alien design.",
+  "description" : "A tiny lamp of a truly alien design.",
   "shortdescription" : "Rad'ion Lamp",
   "race" : "radion",
 
-  "apexDescription" : "How ironic, they make lights despite building with plasma all the time.",
+  "apexDescription" : "How ironic, they make lights despite building with plasma.",
   "avianDescription" : "A tall lamp, made out of plasma...",
   "floranDescription" : "Tall lamp, bright light.",
   "glitchDescription" : "Satisfied. With light comes safety.",
@@ -16,13 +16,13 @@
   "radionDescription" : "A semi-portable solution to lighting up dark areas. We don't need these at Homeworld.",
 
   "category" : "light",
-  "price" : 90,
-  "lightColor" : [180, 180, 180],
+  "price" : 50,
+  "lightColor" : [100, 100, 100],
 
-  "inventoryIcon" : "radionlampi.png",
+  "inventoryIcon" : "radionlamptinyi.png",
   "orientations" : [
     {
-      "image" : "radionlamp.png:<color>",
+      "image" : "radionlamptiny.png:<color>",
       "imagePosition" : [0, 0],
       "frames" : 1,
       "animationCycle" : 0.3,
@@ -34,7 +34,7 @@
       "anchors" : [ "bottom" ]
     },
     {
-      "image" : "radionlamp.png:<color>",
+      "image" : "radionlamptiny.png:<color>",
       "imagePosition" : [0, 0],
       "frames" : 1,
       "animationCycle" : 0.3,
