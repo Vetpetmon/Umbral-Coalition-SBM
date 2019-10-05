@@ -1,4 +1,18 @@
 -----
+
+NOTICE: If the project manager (who owns this project/repo) finds anyone on the credits of UC and all of their other projects as transphobic, homophobic, plagiarizing (in this situation, their content will also be removed as well for legal reasons), or promoting hate or offense content/messages, THEY WILL BE REMOVED FROM THE CREDITS AT NO GIVEN WARNING AND A PROMPT PERMABAN IN THE VPML DISCORD AND DENIED ANY INTERACTION WITH THE PROJECT MANAGER AND DENIED ACCESS TO PARTICIPATION AND/OR CONTRIBUTION TO ALL REPOSITORIES AND PROJECTS.
+
+ALL CREDITS TO CONTENT MADE BY THE PERSON REMOVED FROM THE CREDITS FOR THE ABOVE STATED REASONS (excluding plagiarism, see above) WILL BE REVOKED, AND WILL BE OF OWNERSHIP OF THE PROJECT MANAGER AND MODIFIED IF NEEDED. *CREDIT IS REVOKED AND TRANSFERRED.*
+
+At VPML, we do not tolerate hate speech/hate/hate content, and some of us here are of the LGBT+ community. We (Project manager, devs, and VPML Discord moderators) will always go into an investigation of any accused person/user/contributor/dev before taking the appropriate action(s).
+
+Thank you for reading this. Please contact the project manager if you do have any concerns, comments or questions about their credit and content policy.
+
+From the project manager of UC, Thirran on VPML Discord, 10/5/2019: "Sorry to ping everyone, but this is a very important message that you must be aware of, and it is for your benefit to know about the current issue with a few of our ex-contributors of UC that may have offended you, your sexuality, or had done anything else, like stealing others' work.
+
+It has come to my attention that a couple of our previously-known contributors are transphobic/LGBT+-phobic/etc. or are plagiarizing, either it be in our project or in another project. For this very reason, I must make my policy clear and written: If I find anyone on the credits of UC and all of my other projects guilty of being transphobic, homophobic, plagiarizing (in this situation, I will remove the content they had "made" as well for legal reasons. All of it.), or promoting hate or offense content/messages, their credits will be removed, and I will take ownership of their content and modify as needed unless otherwise stated. My #1 rule is no LGBT+-phobia and no plagiarism. Any plagiarism or hate speech will not be tolerated, as this is a LGBT+-friendly community. There will be no forgiveness in any case. Credit removal and bans for the above stated reasons are PERMANENT."
+
+-----
 CREDITS FOR THOSE WHO HAVE WORKED ON AND HELPED WITH THE DEVELOPMENT OF UC
 -----
 
