@@ -8,7 +8,6 @@ Vetpetmon - Sprites, scripts, writing, lore, running the whole project, and pret
 Musty - Artwork, lore, and code.
 Kaisa Serian - Naming the mod, sprites
 Hubnester - Programming
-Rain - Lore
 ZimberZimber - Made Ztarbound.
 Shinigami Apples - Sprites for objects and weapons, code for objects, color palette.
 Valo - Sprited Tungsten Handlegun
