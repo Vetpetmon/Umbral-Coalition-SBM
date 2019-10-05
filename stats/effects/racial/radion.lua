@@ -13,23 +13,23 @@ function init()
     {stat = "radiationburnImmunity", amount = 1},
     {stat = "biomeradiationImmunity", amount = 1},
     {stat = "foodDelta", baseMultiplier = 1.3},
-    {stat = "physicalResistance", amount = 0.5},
+    {stat = "physicalResistance", amount = 0.4},
     {stat = "radioactiveResistance", amount = 0.5},
-    {stat = "shadowResistance", amount = -0.6},
+    {stat = "shadowResistance", amount = -0.5},
     {stat = "iceResistance", amount = -0.4},
     {stat = "fireResistance", amount = -0.4}
   })
 end
--- balance check: -19 + 19 = 0
+-- balance check: -16 + 16 = 0
 function update(dt)
   --animator.playSound("idle")
   mcontroller.controlParameters({
         airForce = 50.0,
         groundForce = 45.0,
-        runSpeed = 20.0
+        runSpeed = 15.0
     })
   mcontroller.controlModifiers({
-      speedModifier = 1.15,
+      speedModifier = 1.05,
       airJumpModifier = 1.1
     })
     if self.idleActive == true then -- If true, initiate animation state "live"
