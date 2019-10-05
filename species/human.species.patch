@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "hairuc1"
+  }
+]
