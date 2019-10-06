@@ -8,6 +8,9 @@
 
   // CRAFTING MATERIALS
 
+  //food materials
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccanned" } },
+
   //kyrox crafting materials
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "kyroxchocobrick" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "kyroxchocopowder" } },
