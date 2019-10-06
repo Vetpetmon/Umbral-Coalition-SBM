@@ -40,7 +40,7 @@
       "time" : "all"
     },
 
-    "groupSize" : [4, 6],
+    "groupSize" : [3, 6],
     "spawnChance" : 0.05,
     "monsterType" : "uccrimsontop",
     "monsterParameters" : {
