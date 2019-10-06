@@ -41,6 +41,7 @@
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedbreadon" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedcacti" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uccannedkaradiancarrot" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ucjunkfoodinacan" } },
 
   // CODICES
 
