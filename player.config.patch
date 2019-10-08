@@ -1,5 +1,12 @@
 [
-  //ADDING THESE VALUES IS NECESSARY. SERIOUSLY.
+  //These food patches were made due to hunger-based issues involving rad'ions. Hunger would drain far too fast (about every 7 minutes, compared to the normal 20 minutes) at the vanilla values during plasma extraction.
+  //This value sets the food AMMOUNT up to 200, the vanilla value is 70. This also affects the foodLowThreshold stat, since it relies on the maximum value due to it being a percentage.
+  { "op" : "replace","path" : "/statusControllerSettings/resources/food/maxValue","value" : "200" },
+  //initialPercentage is the value at which the character spawns/respawns with.
+  // UC: 200 * 0.4 = 80 | vanilla: 70 * 1 = 70
+  { "op" : "replace","path" : "/statusControllerSettings/resources/food/initialPercentage","value" : "0.4" },
+  //Yes, I actually comment code at times. You're welcome~ -Thirran
+  //For whatever is below this, ADDING THESE VALUES IS NECESSARY. SERIOUSLY.
   //Adding recipes make them ALWAYS accessable without requiring to be unlocked or to be played as a certain race.
   //This uses the "add to /defaultBlueprints/" patch to do exactly that.
   //To bypass any recipe restrictions, no matter the requirement, you will have to cheat using /admin.
