@@ -6,7 +6,7 @@
   "inventoryIcon" : "/items/generic/food/canned/yellowcan.png",
   "description" : "What is the purpose of canning bananas? And why?",
   "shortdescription" : "Canned Banana",
-  "foodValue" : 10,
+  "foodValue" : 15,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1,
