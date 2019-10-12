@@ -1,0 +1,10 @@
+{
+  "itemName": "ucyei",
+  "rarity": "common",
+  "price": 0,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "yei.png",
+  "description" : "Highly condensed plasma that rad'ions can't phase through.",
+  "shortdescription" : "Yei",
+  "itemTags" : [ "reagent" ]
+}

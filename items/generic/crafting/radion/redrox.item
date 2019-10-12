@@ -1,0 +1,10 @@
+{
+  "itemName": "ucredrox",
+  "rarity": "common",
+  "price": 0,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "redrox.png",
+  "description" : "A colored piece of impermeable plasma.",
+  "shortdescription" : "Red Rox",
+  "itemTags" : [ "reagent" ]
+}

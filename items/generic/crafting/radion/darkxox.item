@@ -1,0 +1,10 @@
+{
+  "itemName": "ucdarkxox",
+  "rarity": "common",
+  "price": 0,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "darkxox.png",
+  "description" : "A solid piece of impermeable plasma.",
+  "shortdescription" : "Dark Xox",
+  "itemTags" : [ "reagent" ]
+}

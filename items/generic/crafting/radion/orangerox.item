@@ -1,0 +1,10 @@
+{
+  "itemName": "ucorangerox",
+  "rarity": "common",
+  "price": 0,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "orangerox.png",
+  "description" : "A colored piece of impermeable plasma.",
+  "shortdescription" : "Orange Rox",
+  "itemTags" : [ "reagent" ]
+}

@@ -1,0 +1,10 @@
+{
+  "itemName": "ucyellowrox",
+  "rarity": "common",
+  "price": 0,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "yellowrox.png",
+  "description" : "A colored piece of impermeable plasma.",
+  "shortdescription" : "Yellow Rox",
+  "itemTags" : [ "reagent" ]
+}

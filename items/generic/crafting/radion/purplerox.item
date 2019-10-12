@@ -1,0 +1,10 @@
+{
+  "itemName": "ucpurplerox",
+  "rarity": "common",
+  "price": 0,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "purplerox.png",
+  "description" : "A colored piece of impermeable plasma.",
+  "shortdescription" : "Purple Rox",
+  "itemTags" : [ "reagent" ]
+}

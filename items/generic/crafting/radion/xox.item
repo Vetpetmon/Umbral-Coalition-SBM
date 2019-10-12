@@ -1,0 +1,10 @@
+{
+  "itemName": "ucxox",
+  "rarity": "common",
+  "price": 0,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "xox.png",
+  "description" : "A barely solid piece of impermeable plasma.",
+  "shortdescription" : "Xox",
+  "itemTags" : [ "reagent" ]
+}

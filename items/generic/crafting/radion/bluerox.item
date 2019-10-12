@@ -1,0 +1,10 @@
+{
+  "itemName": "ucbluerox",
+  "rarity": "common",
+  "price": 0,
+  "category": "craftingMaterial",
+  "inventoryIcon" : "bluerox.png",
+  "description" : "A colored piece of impermeable plasma.",
+  "shortdescription" : "Blue Rox",
+  "itemTags" : [ "reagent" ]
+}
