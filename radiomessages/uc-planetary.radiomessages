@@ -2,5 +2,8 @@
   "uchostileplanetmsg" : {
     "type" : "tutorial",
     "text" : "There is a strange series of devices producing psychic waves all across the planet. Fortunately, it does not affect sapient life, but on the other hand, has driven local wildlife insane."
+  },
+  "ucgammaraywarning" : {
+    "text" : "I regret to inform you that a gamma ray burst is rapidly approaching this celestial body. Find a safe area as soon as possible."
   }
 }

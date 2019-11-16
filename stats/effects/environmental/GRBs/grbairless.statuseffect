@@ -1,0 +1,15 @@
+{
+  "name" : "ucgrbairless",
+
+  "effectConfig" : {},
+  "defaultDuration" : 25,
+
+  "scripts" : [
+    "grbairless.lua"
+  ],
+
+  "animationConfig" : "grb.animation",
+
+  "label" : "Gamma Ray Burst",
+  "icon" : "/interface/statuses/gammaray.png"
+}

@@ -1,0 +1,6 @@
+[
+  // | WEATHER |
+
+  { "op" : "add","path" : "/weather/-","value" : "/weather.config:moongrb"},
+  { "op" : "add","path" : "/weather/-","value" : "/weather.config:moonsolar"}
+]

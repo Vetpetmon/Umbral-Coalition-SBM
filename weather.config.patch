@@ -1,37 +1,88 @@
 [
   //Unstable terrestrials:
-  
+
   {
   "op" : "add",
   "path" : "/ucmarslike",
   "value" : [
-      [0.60, "ucsolarflare"],
+      [0.59, "ucsolarflare"],
       [0.15, "uccoldsnap"],
       [0.10, "sandstorm"],
       [0.05, "clear"],
       [0.05, "ucheatwave"],
-      [0.05, "windstorm"]
+      [0.05, "windstorm"],
+      [0.01, "ucgrbairless"]
     ]
   },
   {
   "op" : "add",
   "path" : "/ucmarslikecold",
   "value" : [
-      [0.55, "ucsolarflare"],
+      [0.50, "ucsolarflare"],
       [0.35, "uccoldsnap"],
       [0.10, "sandstorm"],
-      [0.10, "windstorm"]
+      [0.10, "windstorm"],
+      [0.05, "ucgrbairless"]
     ]
   },
   {
   "op" : "add",
   "path" : "/ucmarslikehot",
   "value" : [
-      [0.55, "ucsolarflare"],
+      [0.50, "ucsolarflare"],
       [0.35, "ucheatwave"],
       [0.10, "sandstorm"],
       [0.05, "clear"],
-      [0.05, "windstorm"]
+      [0.05, "windstorm"],
+      [0.05, "ucgrbairless"]
+    ]
+  },
+  {
+  "op" : "add",
+  "path" : "/ucmarslikeradioactive",
+  "value" : [
+      [0.50, "ucsolarflare"],
+      [0.45, "ucgrbairless"],
+      [0.05, "clear"]
+    ]
+  },
+  // MOON
+  {
+  "op" : "add",
+  "path" : "/moongrb",
+  "value" : [
+      [0.65, "clear"],
+      [0.07, "uccoldsnap"],
+      [0.07, "ucheatwave"],
+      [0.07, "glowingrain"],
+      [0.05, "ucgrbairless"],
+      [0.03, "meteorshower"]
+    ]
+  },
+  {
+  "op" : "add",
+  "path" : "/moonsolar",
+  "value" : [
+      [0.35, "clear"],
+      [0.3, "ucsolarflare"],
+      [0.07, "uccoldsnap"],
+      [0.07, "glowingrain"],
+      [0.05, "ucgrbairless"],
+      [0.03, "meteorshower"]
+    ]
+  },
+  {
+  "op" : "add",
+  "path" : "/moon/-",
+  "value" : [
+      0.1, "ucheatwave"
+    ]
+  },
+  {
+  "op" : "add",
+  "path" : "/moon/-",
+  "value" : [
+      0.1, "uccoldsnap"
     ]
   }
 ]

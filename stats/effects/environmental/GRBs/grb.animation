@@ -1,0 +1,6 @@
+{
+  "sounds" : {
+	  "death" : ["/sfx/grb/grbkill.ogg"],
+    "warning" : ["/sfx/grb/grbalert.ogg"]
+  }
+}

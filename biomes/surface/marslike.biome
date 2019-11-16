@@ -2,6 +2,7 @@
   "name" : "ucmarslike",
   "friendlyName" : "Unstable Terrestrial",
   "airless" : true,
+  "statusEffects" : [ "biomeairless" ],
 
   "hueShiftOptions" : [-180, -135, -90, -45, 0, 45, 90, 135, 180],
 
@@ -9,7 +10,8 @@
     [0, [
       "/weather.config:ucmarslike",
       "/weather.config:ucmarslikecold",
-      "/weather.config:ucmarslikehot"
+      "/weather.config:ucmarslikehot",
+      "/weather.config:ucmarslikeradioactive"
     ]]
   ],
 
