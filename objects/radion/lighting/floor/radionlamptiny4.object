@@ -1,5 +1,5 @@
 {
-  "objectName" : "ucradionlamp3",
+  "objectName" : "ucradionlamp6",
   "colonyTags" : ["radion","light"],
   "rarity" : "Common",
   "description" : "A tiny lamp of a truly alien design.",
@@ -19,10 +19,10 @@
   "price" : 50,
   "lightColor" : [100, 100, 100],
 
-  "inventoryIcon" : "radionlamptinyi.png",
+  "inventoryIcon" : "radionlamptinyi4.png",
   "orientations" : [
     {
-      "image" : "radionlamptiny.png:<color>",
+      "image" : "radionlamptiny4.png:<color>",
       "imagePosition" : [0, 0],
       "frames" : 1,
       "animationCycle" : 0.3,
@@ -34,7 +34,7 @@
       "anchors" : [ "bottom" ]
     },
     {
-      "image" : "radionlamptiny.png:<color>",
+      "image" : "radionlamptiny4.png:<color>",
       "imagePosition" : [0, 0],
       "frames" : 1,
       "animationCycle" : 0.3,
