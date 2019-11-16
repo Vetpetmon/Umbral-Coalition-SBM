@@ -1,6 +1,12 @@
 [
   // | WEATHER |
 
-  { "op" : "add","path" : "/weather/-","value" : "/weather.config:moongrb"},
-  { "op" : "add","path" : "/weather/-","value" : "/weather.config:moonsolar"}
+  { "op" : "add","path" : "/weather","value" : [
+    [0, [
+			  "/weather.config:moon",
+			  "/weather.config:moongrb",
+			  "/weather.config:moonsolar"
+			]]
+  ]
+  }
 ]

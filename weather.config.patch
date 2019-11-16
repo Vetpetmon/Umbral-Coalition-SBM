@@ -70,7 +70,7 @@
       [0.05, "ucgrbairless"],
       [0.03, "meteorshower"]
     ]
-  },
+  }/*,
   {
   "op" : "add",
   "path" : "/moon/-",
@@ -84,5 +84,5 @@
   "value" : [
       0.1, "uccoldsnap"
     ]
-  }
+  }*/
 ]
