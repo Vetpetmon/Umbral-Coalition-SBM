@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "ucradionplasma", "count" : 30 }
+  ],
+  "output" : { "item" : "ucradionlamp4", "count" : 1 },
+  "groups" : [ "radioncraftingfurniture", "lights", "all" ]
+}
