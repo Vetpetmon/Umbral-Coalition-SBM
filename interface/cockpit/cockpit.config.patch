@@ -6,7 +6,9 @@
       "This planet has ^red;extreme temperature fluctuations^reset;, and ^yellow;solar flares^reset; makes it too ^orange;risky^reset; of an effort for colonization.",
       "A planet with ^red;unstable temperature fluctuations^reset; and ^yellow;intense solar flares^reset;. Conditions of the beam site are uncertain.",
       "This planet is unable to support life due to ^red;extreme conditions^reset; and ^red;lack of breathable atmostphere.",
-      "Electrical devices are predicted to be ^red;unable to function^reset; on this ^orange;unstable^reset; planet due to the lack of any protective atmosphere."
+      "Electrical devices are predicted to be ^red;unable to function^reset; on this ^orange;unstable^reset; planet due to the lack of any protective atmosphere.",
+      "The conditions of the beamsite on this ^orange;unstable^reset; planet are uncertain. There is ^red;no atmosphere^reset; to protect the surface from hazards.",
+      "This planet ^red;lacks a protective atmopshere^reset;, exposing it to ^red;various celestial harzards^reset;. Proceed at your own risk."
     ]
   },
   {
