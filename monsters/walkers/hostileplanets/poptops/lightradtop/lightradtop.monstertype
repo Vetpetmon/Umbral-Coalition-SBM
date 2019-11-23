@@ -61,7 +61,7 @@
             "maxJumps" : 8,
             "moveState" : "run",
             "jumpXVelocity" : 22,
-            "jumpYVelocity" : 15,
+            "jumpYVelocity" : 35,
             "jumpXControlForce" : 50,
             "minXRange" : 10,
             "run" : true
@@ -170,7 +170,7 @@
           "baseValue" : 20
         },
         "maxHealth" : {
-          "baseValue" : 45
+          "baseValue" : 200
         },
         "protection" : {
           "baseValue" : 6.0

@@ -60,8 +60,8 @@
             "canJump" : true,
             "maxJumps" : 8,
             "moveState" : "run",
-            "jumpXVelocity" : 22,
-            "jumpYVelocity" : 15,
+            "jumpXVelocity" : 62,
+            "jumpYVelocity" : 55,
             "jumpXControlForce" : 50,
             "minXRange" : 10,
             "run" : true
@@ -81,8 +81,8 @@
             "canJump" : true,
             "maxJumps" : 8,
             "moveState" : "run",
-            "jumpXVelocity" : 12,
-            "jumpYVelocity" : 30,
+            "jumpXVelocity" : 22,
+            "jumpYVelocity" : 50,
             "jumpXControlForce" : 50,
             "minXRange" : 10,
             "run" : true
@@ -133,7 +133,7 @@
       "airFriction" : 0,
 
       "airJumpProfile" : {
-        "jumpSpeed" : 40.0,
+        "jumpSpeed" : 50.0,
         "jumpInitialPercentage" : 1.0,
         "jumpHoldTime" : 0.0
       }
@@ -170,7 +170,7 @@
           "baseValue" : 20
         },
         "maxHealth" : {
-          "baseValue" : 50
+          "baseValue" : 250
         },
         "protection" : {
           "baseValue" : 7.0

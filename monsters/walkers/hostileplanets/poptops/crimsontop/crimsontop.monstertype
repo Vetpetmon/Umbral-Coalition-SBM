@@ -61,7 +61,7 @@
             "maxJumps" : 8,
             "moveState" : "run",
             "jumpXVelocity" : 22,
-            "jumpYVelocity" : 15,
+            "jumpYVelocity" : 50,
             "jumpXControlForce" : 50,
             "minXRange" : 10,
             "run" : true
@@ -81,8 +81,8 @@
             "canJump" : true,
             "maxJumps" : 8,
             "moveState" : "run",
-            "jumpXVelocity" : 12,
-            "jumpYVelocity" : 30,
+            "jumpXVelocity" : 22,
+            "jumpYVelocity" : 50,
             "jumpXControlForce" : 50,
             "minXRange" : 10,
             "run" : true
@@ -127,7 +127,7 @@
       "collisionPoly" : [ [0.8125, 1.25], [1.3125, 0.75],  [1.3125, 0.10], [0.8125, -0.40],  [-0.8125, -0.40], [-1.3125, 0.10],  [-1.3125, 0.75], [-0.8125, 1.25] ],
 
       "mass" : 1.0,
-      "walkSpeed" : 2,
+      "walkSpeed" : 1,
       "runSpeed" : 20,
 
       "airFriction" : 0,
@@ -170,7 +170,7 @@
           "baseValue" : 11
         },
         "maxHealth" : {
-          "baseValue" : 80
+          "baseValue" : 130
         },
         "protection" : {
           "baseValue" : 4.0
