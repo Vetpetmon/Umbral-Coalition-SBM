@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "toxictop", "count" : 3 },
+    { "item" : "toxictop", "count" : 4 },
     { "item" : "mud", "count" : 1 }
   ],
   "output" : {

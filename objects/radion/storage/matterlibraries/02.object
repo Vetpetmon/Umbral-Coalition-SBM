@@ -1,0 +1,56 @@
+{
+  "objectName" : "ucradionmatterlibrary02",
+  "colonyTags" : ["radion","storage"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 180,
+  "description" : "A storage unit designed for rad'ion use.",
+  "shortdescription" : "Matter Library",
+  "race" : "radion",
+
+  "avianDescription" : "An unsafe container to put items in.",
+  "floranDescription" : "How doesss thisss work?",
+  "glitchDescription" : "Informative. This stores items as information.",
+  "humanDescription" : "This is something beyond my understanding.",
+  "novakidDescription" : "I wish I knew how this kinda stuff works.",
+  "radionDescription" : "A matter library. This converts matter into atomic information and seperated elements, and reconstructs it when taken out.",
+
+  "inventoryIcon" : "02i.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "02.png:<color>", "fullbright" : true }, { "image" : "fb.png:<color>" } ],
+      "flipImages" : true,
+      "direction" : "left",
+      "imagePosition" : [-23, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    },
+    {
+      "imageLayers" : [ { "image" : "02.png:<color>", "fullbright" : true }, { "image" : "fb.png:<color>" } ],
+      "direction" : "right",
+      "imagePosition" : [-23, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "openSounds" : [ "/sfx/humanoid/Radion_Jump.ogg" ],
+  "closeSounds" : [ "/sfx/humanoid/Radion_Jump.ogg" ],
+  "slotCount" : 64,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600,
+
+  "itemAgeMultiplier" : 0.3
+}

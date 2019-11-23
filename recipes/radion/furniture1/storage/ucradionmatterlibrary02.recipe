@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "ucradionplasma", "count" : 200 },
+    { "item" : "staticcell", "count" : 5 },
+    { "item" : "manipulatormodule", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "ucradionmatterlibrary02",
+    "count" : 1
+  },
+  "duration" : 0.5,
+  "groups" : [ "radioncraftingfurniture", "storage", "all" ]
+}

@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "ucradionplasma", "count" : 60 },
-    { "item" : "staticcell", "count" : 1 }
+    { "item" : "staticcell", "count" : 10 }
   ],
   "output" : {
     "item" : "ucradionfridge06",

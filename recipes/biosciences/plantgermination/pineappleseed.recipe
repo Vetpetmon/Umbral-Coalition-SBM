@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "pineapple", "count" : 3 },
+    { "item" : "pineapple", "count" : 4 },
     { "item" : "sand2", "count" : 1 }
   ],
   "output" : {

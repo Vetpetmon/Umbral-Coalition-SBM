@@ -90,6 +90,9 @@
       { "item" : "ucradionfridge04" },
       { "item" : "ucradionfridge05" },
       { "item" : "ucradionfridge06" },
+      { "item" : "ucradionmatterlibrary01" },
+      { "item" : "ucradionmatterlibrary02" },
+      { "item" : "ucradionmatterlibrary03" },
       // blocks
       { "item" : "ucimpossibiltyblock" },
       { "item" : "uccompressedplasmablock" },
