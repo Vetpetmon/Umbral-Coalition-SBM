@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "iron", "count" : 5 },
+    { "item" : "blackdye", "count" : 3 },
+    { "item" : "orangedye", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "ucwelcometofloridasign",
+    "count" : 1
+  },
+  "duration" : 0.5,
+  "groups"  : [ "craftingfurniture", "decoration", "all" ]
+}

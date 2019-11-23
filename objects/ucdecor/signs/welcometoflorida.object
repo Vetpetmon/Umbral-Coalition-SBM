@@ -1,0 +1,37 @@
+{
+  "objectName" : "ucwelcometofloridasign",
+  "colonyTags" : [ "dev", "thirran", "sign", "decoration", "florida" ],
+  "rarity" : "rare",
+  "printable" : false,
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 500,
+  "description" : "WELCOME TO FLORIDA.",
+  "shortdescription" : "Mosquito Sign",
+
+  "humanDescription" : "Thank goodness I never went to Florida in the first place.",
+  "apexDescription" : "What's more terrifying is that this sign does not lie.",
+  "avianDescription" : "Bugs? No problem. Giant bugs? Nope. Bye.",
+  "floranDescription" : "Giant... Mosssquitosss?",
+  "glitchDescription" : "Perplexed. This sign seems to be misplaced or stolen from Florida.",
+  "novakidDescription" : "This sign ain't worryin' me!",
+
+  "xenonianDescription" : "We should have these signs back on Xen-789",
+
+  "radionDescription" : "A sign with a giant A. aegypti carrying a humanoid. From my knowledge, these signs were spotted in Florida on planet Earth; giant A. aegypti, however, are fictional.",
+
+  "inventoryIcon" : "welcometofloridaicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "welcometoflorida.png:<color>",
+
+      "imagePosition" : [-16, -16],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

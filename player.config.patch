@@ -24,7 +24,10 @@
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "kyroxchocopaste" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "sugar" } },
 
-  // FURNITURES
+  // FURNITURE
+
+  //Decor
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ucwelcometofloridasign" } },
 
   //Crafting stations
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ucwoodencanningtable" } },
