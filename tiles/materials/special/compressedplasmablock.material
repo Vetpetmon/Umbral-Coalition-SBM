@@ -19,7 +19,7 @@
   "renderTemplate" : "/tiles/classicmaterialtemplate.config",
   "renderParameters" : {
     "texture" : "compressedplasmablock.png",
-    "variants" : 10,
+    "variants" : 20,
     "lightTransparent" : false,
     "multiColored" : true,
     "occludesBelow" : false,

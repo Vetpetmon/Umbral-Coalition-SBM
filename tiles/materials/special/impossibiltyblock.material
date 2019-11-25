@@ -19,7 +19,7 @@
   "renderTemplate" : "/tiles/classicmaterialtemplate.config",
   "renderParameters" : {
     "texture" : "impossibiltyblock.png",
-    "variants" : 20,
+    "variants" : 22,
     "lightTransparent" : false,
     "multiColored" : true,
     "occludesBelow" : false,
