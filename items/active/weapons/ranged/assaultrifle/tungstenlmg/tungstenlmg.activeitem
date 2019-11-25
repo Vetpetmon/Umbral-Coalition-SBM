@@ -1,0 +1,92 @@
+{
+  "itemName" : "uctungstenlmg",
+  "price" : 820,
+  "maxStack" : 1,
+  "rarity" : "rare",
+  "description" : "A simple LMG.",
+  "shortdescription" : "Tungsten LMG",
+  "tooltipKind" : "ucgun",
+  "category" : "assaultRifle",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","ranged","tungsten","LMG"],
+  "level" : 2,
+
+  "inventoryIcon" : "tungstenlmg.png",
+
+  "animation" : "/items/active/weapons/ranged/gun.animation",
+
+    "animationParts" : {
+      "butt" : "",
+      "middle" : "tungstenlmg.png",
+      "barrel" : "",
+      "muzzleFlash" : "/items/active/weapons/ranged/muzzleflash.png"
+    },
+
+    "animationCustom" : {
+      "sounds" : {
+        "fire" : ["/sfx/gun/ar4.ogg"]
+      }
+  },
+
+  "baseOffset" : [0.4, 0.15],
+  "muzzleOffset" : [1.9, 0.15],
+
+    "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+    "elementalType" : "physical",
+
+    "primaryAbility" : {
+      "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+      "class" : "GunFire",
+
+      "fireTime" : 0.11,
+      "baseDps" : 15.2,
+      "energyUsage" : 21,
+      "inaccuracy" : 0.4,
+
+      "projectileCount" : 1,
+      "fireType" : "auto",
+
+      "projectileType" : "standardbullet",
+      "projectileParameters" : {
+        "knockback" : 5
+      },
+      "stances" : {
+        "idle" : {
+          "armRotation" : 0,
+          "weaponRotation" : 0,
+          "twoHanded" : true,
+
+          "allowRotate" : true,
+          "allowFlip" : true
+        },
+        "fire" : {
+          "duration" : 0,
+          "armRotation" : 3,
+          "weaponRotation" : 3,
+          "twoHanded" : true,
+
+          "allowRotate" : false,
+          "allowFlip" : false
+        },
+        "cooldown" : {
+          "duration" : 0.15,
+          "armRotation" : 3,
+          "weaponRotation" : 3,
+          "twoHanded" : true,
+
+          "allowRotate" : false,
+          "allowFlip" : false
+        }
+      }
+    },
+
+    //FU weapon stats
+    "critChance" : 4,
+    "critBonus" : 2,
+    "isAmmoBased" : 1,
+    "magazineSize" : 80,
+    "reloadTime" : 3.5,
+
+    "builder" : "/items/buildscripts/buildunrandweapon.lua"
+  }
