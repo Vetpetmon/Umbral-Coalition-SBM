@@ -1,0 +1,21 @@
+{
+	"id" : "ucplasmaplanets",
+	"title" : "Plasma Planets",
+	"description" : "A document provided by the Umbral Coalition about impossible planets.",
+	"icon" : "holocodex.png",
+	"contentPages" : [
+"Plasma planets defy all known laws of the universe. Entering one is similar to entering another universe; only you're entering another dimension. Landing upon these planets will instantly kill you, unless if you have the proper protection.",
+"Said protection has to be more advanced than a regular radiation EPP in terms of defense. Similarly, the EPP must also have dimensional warp protection.",
+"DIMENSIONAL WARP:
+
+Dimensional warp is defined as the modification of sub-atomic particles to become compatible within the dimension, which almost, if not always, kills the lifeform. Rad'ions, which come from these planets, are not affected.",
+"MATTER IN PLASMA PLANETS:
+
+The matter in plasma planets is most made up of solidified  plasma that seems to have been stopped in time and then compressed into solids. This impossible matter is dense, but does not form atoms.",
+"Strange matter is located within the core of plasma planets, and all interaction with the matter is to not be attempted due to it's unknown behaviors. Despite a plasma planet's matter, they are not considered a star."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

@@ -6,6 +6,9 @@
   "ucgammaraywarning" : {
     "text" : "I regret to inform you that a gamma ray burst is rapidly approaching this celestial body. Find a safe area as soon as possible."
   },
+  "ucdimensionalwarpwarning" : {
+    "text" : "^red;Your atomic structure is being manipulated to fit the rules of this dimension. This means your cells will be malformed and possibly destroyed.^reset;"
+  },
   "ucpoisonousplanetwarning" : {
     "text" : "The planet you happen to be on has a poisonous atmosphere, and said atmosphere is slowly weakening you. I'd advise finding protection as soon as you can."
   }
