@@ -22,6 +22,30 @@
     "value" : [250, 207, 120]
   },
 
+  /*{
+    "op" : "add",
+	  "path" : "/visitableTypeDescription/ucplasma",
+    "value" : [
+      "This planet closly resembles a ^#A3C1FF;neutron star^reset; with unknown properties. ^red;You should probably leave this abnormal planet alone.^reset;",
+      "This strange celestial body has no readable surface data. ^red;Enter this planet at your own risk.^reset;",
+      "According to nearby readings, this planet contains massive amounts of ^#ABFF00;strange matter^reset;. ^red;Enter this anomaly at your own expense.^reset;",
+      "This celestial body is supposedly an entry point to the ^#FF00FF;60th dimension^reset;. Of course, entering would ^orange;permanently disfigure you.^reset;",
+      "This giant ^#FF00FF;portal^reset; leads to an unknown dimension. This destination is entirely unknown and is suggested to be ^#ABFF00;highly radioactive^reset;."
+    ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeNames/ucplasma",
+    "value" : "Plasma"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypeColors/ucplasma",
+    "value" : [250, 0, 250]
+  },*/
+
+  // HOSTILE PLANETS
+
   {
     "op" : "add",
 	  "path" : "/visitableTypeDescription/uchostilegarden",
@@ -73,7 +97,7 @@
     "path" : "/displayWeathers/ucgrbairless",
     "value" : {
       "displayName" : "Major Gamma Ray Blast Vulnerability",
-      "icon" : "/interface/cockpit/weather/clear.png"
+      "icon" : "/interface/cockpit/weather/gammaray.png"
     }
   }
 ]
