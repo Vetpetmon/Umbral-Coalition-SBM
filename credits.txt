@@ -12,9 +12,9 @@ From the project manager of UC, Thirran on VPML Discord, 10/5/2019: "Sorry to pi
 
 It has come to my attention that a couple of our previously-known contributors are transphobic/LGBT+-phobic/etc. or are plagiarizing, either it be in our project or in another project. For this very reason, I must make my policy clear and written: If I find anyone on the credits of UC and all of my other projects guilty of being transphobic, homophobic, plagiarizing (in this situation, I will remove the content they had "made" as well for legal reasons. All of it.), or promoting hate or offense content/messages, their credits will be removed, and I will take ownership of their content and modify as needed unless otherwise stated. My #1 rule is no LGBT+-phobia and no plagiarism. Any plagiarism or hate speech will not be tolerated, as this is a LGBT+-friendly community. There will be no forgiveness in any case. Credit removal and bans for the above stated reasons are PERMANENT."
 
------
+===============================================
 CREDITS FOR THOSE WHO HAVE WORKED ON AND HELPED WITH THE DEVELOPMENT OF UC
------
+===============================================
 
 Contributors and devs:
 
@@ -32,6 +32,8 @@ Slugbait - Kyroxian Seed Germination Station sprite
 Inferus[RF] - Sprited Marshmallow spear, T1-3 Handleguns
 Endertrot - Candy cane bricks
 
+===============================================
+
 Testers:
 Endertrot
 Slugbait
@@ -39,9 +41,13 @@ Vetpetmon
 TankSlayer2
 (PLEASE contact Vetpetmon if you have tested UC's git build and your name is not on here!)
 
+===============================================
+
 Other mods:
 
 Green's Dye Suite - Color palettes
+
+===============================================
 
 Special thanks:
 
