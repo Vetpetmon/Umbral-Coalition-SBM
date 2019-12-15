@@ -20,7 +20,7 @@
   "novakidDescription" : "I can bookmark this marker for quick teleportin'.",
   "xenonianDescription" : "The most recognized symbol of the coalition, now as a waypoint.",
   "radionDescription" : "Umbral Coalition-owned waypoint. Serves as a one-way teleportation system.",
-  
+
   "interactAction" : "OpenTeleportDialog",
   "interactData" : "/interface/warping/destinationonly.config",
   "inventoryIcon" : "flagxenonianicon.png",
@@ -34,7 +34,7 @@
       "image" : "flagxenonian.png:<color>.<frame>",
       "flipImages" : true,
       "direction" : "left",
-      "imagePosition" : [-16, 0],
+      "imagePosition" : [0, 0],
       "frames" : 2,
       "animationCycle" : 4.0,
       "spaceScan" : 0.1,
