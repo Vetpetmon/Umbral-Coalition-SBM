@@ -1,6 +1,6 @@
 {
 	"stats": [
-		{
+		/*{
 			"stat": "poisonResistance",
 			"amount": 0.4
 		},
@@ -23,7 +23,7 @@
 		{
 				"stat": "poisonStatusImmunity",
 				"amount": 1
-		}
+		}*/
 	],
 	"diet" : "entity",
 	"envEffects": [

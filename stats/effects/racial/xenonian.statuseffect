@@ -1,0 +1,12 @@
+{
+  "name" : "ucxenonianabilities",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "xenonian.lua"
+  ],
+  //"animationConfig" : "xenonian.animation",
+
+  "label" : "Xenonian"
+}
