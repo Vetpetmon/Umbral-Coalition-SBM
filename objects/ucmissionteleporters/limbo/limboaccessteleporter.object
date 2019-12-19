@@ -28,7 +28,7 @@ Observation. Needs to be powered with a ^green;large nuclear core^reset;.",
 
 Needs to be powered with a ^green;large nuclear core^reset;.",
 
-  "radionDescription" : "A one-way portal into a destroyed universe. This portal must be powered by a ^green;large nuclear core^reset;.",
+  "radionDescription" : "A one-way portal that states that it will lead to an incompletely destroyed universe. This portal must be powered by a ^green;large nuclear core^reset;.",
 
   "ucswarmerDescription" : "Smells like fresh madness. Probably leads to another dimensions!
 
@@ -51,7 +51,7 @@ Needs to be powered with a ^green;large nuclear core^reset;.",
   "trinkDescription" : "Teleportation should not use this much energy.
 
 Needs to be powered with a ^green;large nuclear core^reset;.",
-  "drodenDescription" : "Warning. Highly radioactive power source detected.
+  "drodenDescription" : "Warning. Highly radioactive power source detected. 
 
 Needs to be powered with a ^green;large nuclear core^reset;.",
 

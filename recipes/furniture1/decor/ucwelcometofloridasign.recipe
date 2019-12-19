@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "iron", "count" : 5 },
+    { "item" : "ironbar", "count" : 5 },
     { "item" : "blackdye", "count" : 3 },
     { "item" : "orangedye", "count" : 10 }
   ],

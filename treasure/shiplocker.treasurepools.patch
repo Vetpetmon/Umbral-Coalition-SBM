@@ -7,6 +7,7 @@
 	    {"item" : [ "flashlight" ]},
         {"item" : [ "torch", 10 ]},
         {"item" : [ "ucxeninjectordefunct", 1 ]},
+        {"item" : [ "ucmarsc", 1 ]},
         {"item" : [ "cannedfood", 1 ]},
         {"item" : [ "cannedfood", 1 ]},
         {"item" : [ "cannedfood", 1 ]},

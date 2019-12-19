@@ -16,7 +16,7 @@
   "shortdescription" : "Strange Portal",
   "glitchDescription" : "Observant. A portal to an unknown world.",
 
-  "radionDescription" : "A portal to an unidentified planet. This portal doesn't allow the transportation of sapient life.",
+  "radionDescription" : "A portal to an unidentified planet which uses a bartering system for trade. This portal doesn't allow the transportation of sapient life.",
 
   "lightColor" : [119, 49, 255],
   "flickerDistance" : 0.2,

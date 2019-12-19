@@ -3,7 +3,7 @@
 	"charCreationTooltip" : {
 	"title" : "xenonian",
 	"subTitle" : "O2",
-	"description" : "The Xenonians are a race of slug-like creatures who love their toxic and polluted homeworld, Xen-789."
+	"description" : "The Xenonians are a race of toxin and disease-carrying slug-like creatures from Xen-789."
   },
 
   "statusEffects" : [ "ucxenonianabilities" ],

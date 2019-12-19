@@ -3,7 +3,7 @@
 	"charCreationTooltip" : {
 	"title" : "Rad'ion",
 	"subTitle" : "O3",
-	"description" : "Strange shapeshifters from another dimension, the rad'ion are beings of plasma. Most commonly, if one does not choose to imitate a different organism, they have a representative form that they use as a base for being able to be recognized by other life forms."
+	"description" : "Strange shapeshifters and impersonators from another dimension, the rad'ion are beings of plasma and strange matter. In their homeworld, they are gods, but outside of it, they face a fragile existence."
   },
   "statusEffects" : [ "ucradionabilities" ],
 
@@ -93,6 +93,8 @@
       { "item" : "ucradionmatterlibrary01" },
       { "item" : "ucradionmatterlibrary02" },
       { "item" : "ucradionmatterlibrary03" },
+      { "item" : "ucradionmatterlibrary04" },
+      { "item" : "ucradionmatterlibrary05" },
       // blocks
       { "item" : "ucimpossibiltyblock" },
       { "item" : "uccompressedplasmablock" },
