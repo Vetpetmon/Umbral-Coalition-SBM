@@ -5,7 +5,7 @@
   "rarity" : "rare",
   "description" : "Looks and functions like a toaster in the front. Only deadlier. ^cyan;10/10 would toast again.^reset;",
   "shortdescription" : "Starbringer",
-  "tooltipKind" : "ucgun",
+  "tooltipKind" : "ucgunroblocorp",
   "category" : "pistol",
   "twoHanded" : false,
   "itemTags" : ["weapon","ranged","Roblo League","pistol","energy"],
@@ -88,6 +88,6 @@
   "isAmmoBased" : 1,
   "magazineSize" : 20,
   "reloadTime" : 1.2,
-  
+
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
 }
