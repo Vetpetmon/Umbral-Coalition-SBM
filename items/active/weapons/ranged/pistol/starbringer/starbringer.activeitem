@@ -3,7 +3,7 @@
   "price" : 420,
   "maxStack" : 1,
   "rarity" : "rare",
-  "description" : "Looks and functions like a toaster in the front. Only deadlier. ^cyan;10/10 would toast again.^reset;",
+  "description" : "Looks and functions like a toaster, only much, much deadlier. ^cyan;10/10 would toast again.^reset;",
   "shortdescription" : "Starbringer",
   "tooltipKind" : "ucgunroblocorp",
   "category" : "pistol",
@@ -42,7 +42,7 @@
     "fireTime" : 0.25,
     "baseDps" : 15,
     "energyUsage" : 20,
-    "inaccuracy" : 0.0,
+    "inaccuracy" : 0.05,
 
     "projectileCount" : 2,
     "fireType" : "auto",
@@ -82,7 +82,7 @@
   },
 
   //FU crit stats
-  "critChance" : 4,
+  "critChance" : 5,
   "critBonus" : 3,
 
   "isAmmoBased" : 1,
