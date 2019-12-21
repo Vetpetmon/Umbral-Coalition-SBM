@@ -3,7 +3,7 @@
   "price" : 120,
   "maxStack" : 1,
   "rarity" : "rare",
-  "description" : "An odd but efficient pistol design made by the Umbral Coalition that fires 3 bullets at once.",
+  "description" : "An odd, but efficient pistol design that fires 3 bullets at once.",
   "shortdescription" : "The Marsc",
   "tooltipKind" : "ucgunumbralcoalition",
   "category" : "pistol",
@@ -24,7 +24,7 @@
 
     "animationCustom" : {
       "sounds" : {
-        "fire" : ["/sfx/gun/ar4.ogg"]
+        "fire" : ["/sfx/gun/pulserifle2.ogg"]
       }
   },
 
@@ -40,7 +40,7 @@
     "class" : "GunFire",
 
     "fireTime" : 0.5,
-    "baseDps" : 12.8,
+    "baseDps" : 10,
     "energyUsage" : 13,
     "inaccuracy" : 0.1,
 
@@ -66,8 +66,8 @@
         "weaponRotation" : 3,
         "twoHanded" : false,
 
-        "allowRotate" : false,
-        "allowFlip" : false
+        "allowRotate" : true,
+        "allowFlip" : true
       },
       "cooldown" : {
         "duration" : 0.15,
@@ -75,8 +75,8 @@
         "weaponRotation" : 3,
         "twoHanded" : false,
 
-        "allowRotate" : false,
-        "allowFlip" : false
+        "allowRotate" : true,
+        "allowFlip" : true
       }
     }
   },

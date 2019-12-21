@@ -24,7 +24,7 @@
 
     "animationCustom" : {
       "sounds" : {
-        "fire" : ["/sfx/gun/ar4.ogg"]
+        "fire" : ["/sfx/gun/twigun_shot2.ogg"]
       }
   },
 
@@ -33,21 +33,21 @@
 
   "scripts" : ["/items/active/weapons/ranged/gun.lua"],
 
-  "elementalType" : "physical",
+  "elementalType" : "electric",
 
   "primaryAbility" : {
     "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
     "class" : "GunFire",
 
     "fireTime" : 0.25,
-    "baseDps" : 15,
+    "baseDps" : 12,
     "energyUsage" : 20,
     "inaccuracy" : 0.05,
 
     "projectileCount" : 2,
     "fireType" : "auto",
 
-    "projectileType" : "standardbullet",
+    "projectileType" : "electricplasma",
     "projectileParameters" : {
       "knockback" : 5
     },
@@ -66,8 +66,8 @@
         "weaponRotation" : 3,
         "twoHanded" : false,
 
-        "allowRotate" : false,
-        "allowFlip" : false
+        "allowRotate" : true,
+        "allowFlip" : true
       },
       "cooldown" : {
         "duration" : 0.15,
@@ -75,8 +75,8 @@
         "weaponRotation" : 3,
         "twoHanded" : false,
 
-        "allowRotate" : false,
-        "allowFlip" : false
+        "allowRotate" : true,
+        "allowFlip" : true
       }
     }
   },
