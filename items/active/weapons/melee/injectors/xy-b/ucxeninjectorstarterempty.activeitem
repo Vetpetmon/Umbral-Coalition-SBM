@@ -16,7 +16,7 @@
   // Swamp Water
   // Honey
   "shortdescription" : "Injector Xy-B (Empty)",
-  "tooltipKind" : "ucsyringe",
+  "tooltipKind" : "ucsyringeumbralcoalition",
   "category" : "ucinjector",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","injector"],

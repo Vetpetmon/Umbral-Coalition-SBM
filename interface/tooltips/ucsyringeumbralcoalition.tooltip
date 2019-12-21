@@ -7,83 +7,71 @@
   },
   "moneyIcon" : {
     "type" : "image",
-    "position" : [111, 24],
+    "position" : [97, 23],
     "file" : "/interface/money.png"
   },
   "priceLabel" : {
     "type" : "label",
-    "position" : [124, 24],
+    "position" : [110, 23],
     "hAnchor" : "left",
     "value" : "tree"
   },
 
   "descriptionLabel" : {
     "type" : "label",
-    "position" : [9, 126],
+    "position" : [9, 122],
     "hAnchor" : "left",
     "vAnchor" : "top",
     "wrapWidth" : 140
   },
   "levelLabel" : {
     "type" : "label",
-    "position" : [148, 192],
+    "position" : [148, 196],
     "hAnchor" : "right",
     "vAnchor" : "top",
     "wrapWidth" : 134
   },
   "altAbilityTitleLabel" : {
     "type" : "label",
-    "position" : [9, 34],
+    "position" : [9, 41],
     "hAnchor" : "left",
     "value" : ""
   },
   "altAbilityLabel" : {
     "type" : "label",
-    "position" : [148, 34],
+    "position" : [148, 41],
     "hAnchor" : "right",
     "centered" : true,
     "wrapWidth" : 126
   },
   "damagePerShotTitleLabel" : {
     "type" : "label",
-    "position" : [9, 61],
+    "position" : [9, 59],
     "hAnchor" : "left",
-    "value" : "Damage Per Shot:"
+    "value" : "Damage Per Stab:"
   },
   "damagePerShotLabel" : {
     "type" : "label",
-    "position" : [148, 61],
+    "position" : [148, 59],
     "hAnchor" : "right",
     "wrapWidth" : 126
   },
   "speedTitleLabel" : {
     "type" : "label",
-    "position" : [9, 52],
+    "position" : [9, 50],
     "hAnchor" : "left",
-    "value" : "Rate of Fire:"
+    "value" : "Stab Speed:"
   },
   "speedLabel" : {
     "type" : "label",
-    "position" : [148, 52],
-    "hAnchor" : "right",
-    "wrapWidth" : 126
-  },
-  "energyPerShotTitleLabel" : {
-    "type" : "label",
-    "position" : [9, 43],
-    "hAnchor" : "left",
-    "value" : "Energy Per Shot:"
-  },
-  "energyPerShotLabel" : {
-    "type" : "label",
-    "position" : [148, 43],
+    "position" : [148, 50],
     "hAnchor" : "right",
     "wrapWidth" : 126
   },
 
   "handednessLabel" : {
     "type" : "label",
-    "position" : [100, 184],
+    "position" : [100, 188],
     "hAnchor" : "right",
     "centered" : true,
     "wrapWidth" : 126
@@ -91,10 +79,18 @@
 
   "rarityLabel" : {
     "type" : "label",
-    "position" : [11, 24],
+    "position" : [9, 23],
     "hAnchor" : "left",
     "centered" : true,
     "wrapWidth" : 126
+  },
+  "damageKindImage" : {
+    "type" : "image",
+    "position" : [140, 140],
+    "file" : "",
+    "centered" : true,
+    "maxSize" : [16, 16],
+    "minSize" : [16, 16]
   },
   "objectImage" : {
     "type" : "image",
