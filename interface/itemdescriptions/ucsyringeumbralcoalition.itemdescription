@@ -1,13 +1,7 @@
 {
-  "background" : {
-    "type" : "background",
-    "fileHeader" : "/interface/tooltips/headerucRoblocorp.png",
-    "fileBody" : "/interface/tooltips/bodyobject3ucRoblocorp.png",
-    "fileFooter" : "/interface/tooltips/footerucRoblocorp.png"
-  },
   "moneyIcon" : {
     "type" : "image",
-    "position" : [111, 24],
+    "position" : [125, 0],
     "file" : "/interface/money.png"
   },
   "priceLabel" : {
@@ -22,7 +16,8 @@
     "position" : [9, 126],
     "hAnchor" : "left",
     "vAnchor" : "top",
-    "wrapWidth" : 140
+    "wrapWidth" : 140,
+    "fontSize" : 7
   },
   "levelLabel" : {
     "type" : "label",
@@ -33,54 +28,53 @@
   },
   "altAbilityTitleLabel" : {
     "type" : "label",
-    "position" : [9, 34],
+    "position" : [9, 36],
     "hAnchor" : "left",
     "value" : ""
   },
   "altAbilityLabel" : {
     "type" : "label",
-    "position" : [148, 34],
+    "position" : [148, 36],
     "hAnchor" : "right",
     "centered" : true,
     "wrapWidth" : 126
   },
   "damagePerShotTitleLabel" : {
     "type" : "label",
-    "position" : [9, 61],
+    "position" : [9, 63],
     "hAnchor" : "left",
-    "value" : "Damage Per Shot:"
+    "value" : "Damage Per Stab:"
   },
   "damagePerShotLabel" : {
     "type" : "label",
-    "position" : [148, 61],
+    "position" : [148, 63],
     "hAnchor" : "right",
     "wrapWidth" : 126
   },
   "speedTitleLabel" : {
     "type" : "label",
-    "position" : [9, 52],
+    "position" : [9, 54],
     "hAnchor" : "left",
-    "value" : "Rate of Fire:"
+    "value" : "Stabbing Speed:"
   },
   "speedLabel" : {
     "type" : "label",
-    "position" : [148, 52],
+    "position" : [148, 54],
     "hAnchor" : "right",
     "wrapWidth" : 126
   },
   "energyPerShotTitleLabel" : {
     "type" : "label",
-    "position" : [9, 43],
+    "position" : [9, 45],
     "hAnchor" : "left",
     "value" : "Energy Per Shot:"
   },
   "energyPerShotLabel" : {
     "type" : "label",
-    "position" : [148, 43],
+    "position" : [148, 45],
     "hAnchor" : "right",
     "wrapWidth" : 126
   },
-
   "handednessLabel" : {
     "type" : "label",
     "position" : [100, 184],
@@ -103,5 +97,28 @@
     "centered" : true,
     "maxSize" : [50, 50],
     "minSize" : [50, 50]
+  },
+  "title" : {
+    "type" : "label",
+    "position" : [35, 179],
+    "hAnchor" : "left",
+    "value" : ""
+  },
+  "subTitle" : {
+    "type" : "label",
+    "position" : [35, 169],
+    "hAnchor" : "left",
+    "color" : [185, 181, 178],
+    "value" : ""
+  },
+  "titleIcon" : {
+    "type" : "itemslot",
+    "position" : [9, 167],
+    "callback" : "null",
+    "iconMode" : true,
+    "backingImage" : "/interface/inventory/portrait.png",
+    "showRarity" : false,
+    "showBackingImageWhenFull" : true
   }
+
 }
