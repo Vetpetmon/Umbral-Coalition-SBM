@@ -3,12 +3,14 @@
   "price" : 420,
   "maxStack" : 1,
   "rarity" : "rare",
-  "description" : "Looks and functions like a toaster, only much, much deadlier. ^cyan;10/10 would toast again.^reset;",
+  "description" : "Looks and functions like a toaster, only much, much deadlier.
+
+  ^cyan;10/10 would toast again.^reset;",
   "shortdescription" : "Starbringer",
   "tooltipKind" : "ucgunroblocorp",
   "category" : "pistol",
   "twoHanded" : false,
-  "itemTags" : ["weapon","ranged","Roblo League","pistol","energy"],
+  "itemTags" : ["weapon","ranged","Roblocorp","pistol","energy","electric"],
   "level" : 4,
 
   "inventoryIcon" : "starbringer.png",
