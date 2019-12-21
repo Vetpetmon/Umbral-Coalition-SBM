@@ -19,15 +19,15 @@
 
   "descriptionLabel" : {
     "type" : "label",
-    "position" : [9, 126],
+    "position" : [9, 120],
     "hAnchor" : "left",
     "vAnchor" : "top",
     "wrapWidth" : 140
   },
   "levelLabel" : {
     "type" : "label",
-    "position" : [148, 192],
-    "hAnchor" : "right",
+    "position" : [14, 190],
+    "hAnchor" : "left",
     "vAnchor" : "top",
     "wrapWidth" : 134
   },
@@ -91,7 +91,7 @@
 
   "rarityLabel" : {
     "type" : "label",
-    "position" : [11, 24],
+    "position" : [12, 24],
     "hAnchor" : "left",
     "centered" : true,
     "wrapWidth" : 126

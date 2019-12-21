@@ -7,27 +7,27 @@
   },
   "moneyIcon" : {
     "type" : "image",
-    "position" : [97, 23],
+    "position" : [111, 24],
     "file" : "/interface/money.png"
   },
   "priceLabel" : {
     "type" : "label",
-    "position" : [110, 23],
+    "position" : [124, 24],
     "hAnchor" : "left",
     "value" : "tree"
   },
 
   "descriptionLabel" : {
     "type" : "label",
-    "position" : [9, 122],
+    "position" : [9, 120],
     "hAnchor" : "left",
     "vAnchor" : "top",
     "wrapWidth" : 140
   },
   "levelLabel" : {
     "type" : "label",
-    "position" : [148, 196],
-    "hAnchor" : "right",
+    "position" : [14, 190],
+    "hAnchor" : "left",
     "vAnchor" : "top",
     "wrapWidth" : 134
   },
@@ -79,7 +79,7 @@
 
   "rarityLabel" : {
     "type" : "label",
-    "position" : [9, 23],
+    "position" : [12, 24],
     "hAnchor" : "left",
     "centered" : true,
     "wrapWidth" : 126
