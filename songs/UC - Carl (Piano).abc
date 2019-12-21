@@ -1,0 +1,39 @@
+%abc-2.1
+%%song-title       UC: Carl - Chorus Piano
+%%song-composer    Thirran
+%%song-duration    1:16
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+
+X: 7
+T: UC: Carl (1:16) - Lonely Mountain Bassoon
+%%part-name Lonely Mountain Bassoon
+C: Thirran
+M: 4/4
+L: 1/8
+Q: 240
+K: C maj
+
++p+ z8 z8
+z8 z8
+z8 z8
+z8 z8
+z8 z8
+z8 z8
+z8 z8
+^C,4 C,4 C,4 C,4
+^C,4 C,4 C,4 C,4
+% Bar 10 (0:36)
+^D,4 D,4 D,4 D,4
+^D,4 D,4 D,4 D,4
+E,4 E,4 E,4 E,4
+E,4 E,4 E,4 E,4
+^C,4 C,4 C,4 C,4
+^C,4 C,4 C,4 C,4
+^D,4 D,4 D,4 D,4
+^D,4 D,4 D,4 D,4
+E,4 E,4 E,4 E,4
+E,4 E,4 E,4 E,4
+% Bar 20 (1:16)
+z8 z8  ]

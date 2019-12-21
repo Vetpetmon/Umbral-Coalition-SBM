@@ -1,0 +1,38 @@
+%abc-2.1
+%%song-title       UC: Carl - Music Box
+%%song-composer    Thirran
+%%song-duration    1:16
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 5
+T: UC: Carl (1:16) - Basic Clarinet
+%%part-name Basic Clarinet
+C: Thirran
+M: 4/4
+L: 1/8
+Q: 240
+K: C maj
+
++f+ [^C4^D4] [C4E4] [C4D4] [C4E4]
+[^C4^D4] [C4E4] [C4D4] [C4E4]
+[^C4^D4] [C4E4] [C4D4] [C4E4]
+[^C4^D4] [C4E4] [C4D4] [C4E4]
+[^D4E4] [D4G4] [D4E4] [D4G4]
+[^C4^D4] [C2E2] [C2D2] [C4E4] [C4^G4]
+[^D4E4] [D4G4] [D4E4] [D4G4]
+[^D4E4] [D4G4] [D4E4] [D4G4]
+[^C4^D4] [C2E2] [C2D2] [C4E4] [C4^G4]
+% Bar 10 (0:36)
+[C2A2] [A,2^G2] [A,2A2] [A,2=G2] [C2A2] [^C2^G2] [=C4A4]
+[C2A2] [A,2^G2] [A,2A2] [A,2=G2] [C2A2] [^C2^G2] [=C4A4]
+[^C2^D2] [C2D2] [C4E4] [C2D2] [C2D2] [C4G4]
+[^C2E2] [C2E2] [C4^G4] [C2=G2] [C2G2] [C4A4]
+[^D4E4] [D4G4] [D4E4] [D4G4]
+[^C4^D4] [C2E2] [C2D2] [C4E4] [C4^G4]
+[C2A2] [A,2^G2] [A,2A2] [A,2=G2] [C2A2] [^C2^G2] [=C4A4]
+[C2A2] [A,2^G2] [A,2A2] [A,2=G2] [C2A2] [^C2^G2] [=C4A4]
+[^C2^D2] [C2D2] [C4E4] [C2D2] [C2D2] [C4G4]
+[^C2E2] [C2E2] [C4^G4] [C2=G2] [C2G2] [C4A4]
+% Bar 20 (1:16)
+z8 z8  ]

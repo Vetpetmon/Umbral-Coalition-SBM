@@ -1,0 +1,38 @@
+%abc-2.1
+%%song-title       UC: Carl - Tinkle Bell
+%%song-composer    Thirran
+%%song-duration    1:16
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 9
+T: UC: Carl (1:16) - Traveller's Trusty Fiddle
+%%part-name Traveller's Trusty Fiddle
+C: Thirran
+M: 4/4
+L: 1/8
+Q: 240
+K: C maj
+
++f+ z8 z8
+A,4 ^G,4 A,4 G,4
+A,4 ^G,4 A,4 C4
+^C4 =C4 ^C4 =C4
+^C4 =C4 ^C4 =C4
+^C4 =C4 ^C4 ^D4
+^C4 =C4 ^C4 =C4
+^C4 =C4 ^C4 =C4
+^C4 =C4 ^C4 ^D4
+% Bar 10 (0:36)
+^D4 E4 D4 E4
+^D4 E4 D4 ^C4
+A,4 ^G,4 A,4 G,4
+A,4 ^G,4 A,4 G,4
+^C4 =C4 ^C4 =C4
+^C4 =C4 ^C4 ^D4
+^D4 E4 D4 E4
+^D4 E4 D4 ^C4
+A,4 ^G,4 A,4 G,4
+A,4 ^G,4 A,4 G,4
+% Bar 20 (1:16)
+z8 z8  ]
