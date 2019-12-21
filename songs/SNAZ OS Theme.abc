@@ -12,39 +12,39 @@ L: 1/8
 Q: 302
 K: C maj
 
-+f+ b2 z2 a2 ^a2
-z2 b ^a a =a ^f2
-b2 ^d2 a2 ^a2
-^a [a/b/] a/ b a =a/ ^a/ =a ^f2
-b2 ^d2 a2 ^a2
-^a [a/b/] a/ b a =a/ ^a/ =a ^f2
-d2 a g/ ^f/ ^d2 f a
-^a/ =a/ a/ ^a/ =a b ^a4
-b2 z2 a2 ^a2
++f+ B2 z2 A2 ^A2 |
+z2 B ^A A =A ^F2 |
+B2 ^d2 A2 ^A2 |
+^A [A/B/] A/ B A =A/ ^A/ =A ^F2 |
+B2 ^d2 A2 ^A2 |
+^A [A/B/] A/ B A =A/ ^A/ =A ^F2 |
+d2 A G/ ^F/ ^d2 F A |
+^A/ =A/ A/ ^A/ =A B ^A4 |
+B2 z2 A2 ^A2 |
 % Bar 10 (0:14)
-z2 b ^a a =a ^f2
-b2 ^d2 a2 ^a2
-^a [a/b/] a/ b a =a/ ^a/ =a ^f2
-b2 d2 a2 ^a2
-^g/ =g/ [^f/a/-] a/ b ^a =a a f2
-d2 a g/ ^f/ ^d2 f a
-^a/ =a/ a/ ^a/ =a b ^a4
-b2 z2 a2 ^a2
-z2 b ^a a =a ^f2
-b2 ^d2 a2 ^a2
+z2 B ^A A =A ^F2 |
+B2 ^d2 A2 ^A2 |
+^A [A/B/] A/ B A =A/ ^A/ =A ^F2 |
+B2 d2 A2 ^A2 |
+^G/ =G/ [^F/A/-] A/ B ^A =A A F2 |
+d2 A G/ ^F/ ^d2 F A |
+^A/ =A/ A/ ^A/ =A B ^A4 |
+B2 z2 A2 ^A2 |
+z2 B ^A A =A ^F2 |
+B2 ^d2 A2 ^A2 |
 % Bar 20 (0:30)
-^a [a/b/] a/ b a =a/ ^a/ =a ^f2
-b2 ^d2 a2 ^a2
-^a [a/b/] a/ b a =a/ ^a/ =a ^f2
-d2 a g/ ^f/ ^d2 f a
-^a/ =a/ a/ ^a/ =a b ^a4
-b2 z2 a2 ^a2
-z2 b ^a a =a ^f2
-b2 ^d2 a2 ^a2
-^a [a/b/] a/ b a =a/ ^a/ =a ^f2
-b2 d2 a2 ^a2
+^A [A/B/] A/ B A =A/ ^A/ =A ^F2 |
+B2 ^d2 A2 ^A2 |
+^A [A/B/] A/ B A =A/ ^A/ =A ^F2 |
+d2 A G/ ^F/ ^d2 F A |
+^A/ =A/ A/ ^A/ =A B ^A4 |
+B2 z2 A2 ^A2 |
+z2 B ^A A =A ^F2 |
+B2 ^d2 A2 ^A2 |
+^A [A/B/] A/ B A =A/ ^A/ =A ^F2 |
+B2 d2 A2 ^A2 |
 % Bar 30 (0:46)
-^g/ =g/ [^f/a/-] a/ b ^a =a a f2
-d2 a g/ ^f/ ^d2 f a
-^a/ =a/ a/ ^a/ =a b ^a4
-z8 ]
+^G/ =G/ [^F/A/-] A/ B ^A =A A F2 |
+d2 A G/ ^F/ ^d2 F A |
+^A/ =A/ A/ ^A/ =A B ^A4 |
+z8 |]
