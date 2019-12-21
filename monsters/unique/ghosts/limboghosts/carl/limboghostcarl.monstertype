@@ -135,7 +135,7 @@
       "stats" : {
         "knockbackStunTime" : {"baseValue" : 0.1},
         "grit" : {"baseValue" : 1.0},
-        "maxHealth" : {"baseValue" : 1000},
+        "maxHealth" : {"baseValue" : 2500},
         "protection" : {"baseValue" : 18},
         "healthRegen" : {"baseValue" : 0.25},
         "powerMultiplier" : {"baseValue" : 1.0},
