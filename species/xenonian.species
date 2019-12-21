@@ -124,58 +124,72 @@
     //c7815b 4th shade
     //White
     { "ffc181" : "f4f4f4", "d39c6c" : "cdcdcd", "c7815b" : "ababab" },
-    //Deep Purple
-    { "ffc181" : "3d0f49", "d39c6c" : "2d0b36", "c7815b" : "220829" },
-    //Musty's Deep Purple
-    { "ffc181" : "35094d", "d39c6c" : "21032c", "c7815b" : "14011e" },
-    //Pride Purple
-    { "ffc181" : "e01171", "d39c6c" : "ab0e86", "c7815b" : "59057b" },
-    //Black
+    //Dark Brown
     { "ffc181" : "837667", "d39c6c" : "665D56", "c7815b" : "46403E" },
     //Brown
     { "ffc181" : "86644a", "d39c6c" : "684431", "c7815b" : "40271d" },
     //Cake-ish Brown
     { "ffc181" : "cfa767", "d39c6c" : "b18237", "c7815b" : "805e28" },
-    //Pastel Brown
-    { "ffc181" : "C88E8E", "d39c6c" : "C48484", "c7815b" : "B96F6F" },
-    //Deep Red
-    { "ffc181" : "4d1e0e", "d39c6c" : "3b190d", "c7815b" : "29150d" },
-    //Chocolate Brown
-    { "ffc181" : "502814", "d39c6c" : "3d1f11", "c7815b" : "2f180c" },
     //Ginger
     { "ffc181" : "c88959", "d39c6c" : "9e6a4d", "c7815b" : "784930" },
-    //Pastel Orange
-    { "ffc181" : "FFBF48", "d39c6c" : "FFB60B", "c7815b" : "EAA400" },
-    //Orange
-    { "ffc181" : "f3a333", "d39c6c" : "f16821", "c7815b" : "cd4545" },
-    //Musty's Orange
-    { "ffc181" : "ff8000", "d39c6c" : "d3560e", "c7815b" : "851e52" },
-    //Dirty Orange
-    { "ffc181" : "a6671d", "d39c6c" : "915622", "c7815b" : "743e1d" },
-    //Rusty
-    { "ffc181" : "BE471B", "d39c6c" : "9B2F0C", "c7815b" : "702710" },
     //Cinnamon Brown
     { "ffc181" : "835955", "d39c6c" : "5a4a53", "c7815b" : "3f414f" },
-    //Toxic Green
-    { "ffc181" : "7aaf3a", "d39c6c" : "2c8547", "c7815b" : "245633" },
-    //Forest Green
-    { "ffc181" : "17b978", "d39c6c" : "086972", "c7815b" : "071a52" },
-    //Anomaly 0-0t
-    { "ffc181" : "B0D1CD", "d39c6c" : "98C7C1", "c7815b" : "85BEB7" },
-    //Deep Sea
-    { "ffc181" : "408ab4", "d39c6c" : "34699a", "c7815b" : "113f67" },
-    //Deep Sea ALT
-    { "ffc181" : "009f9d", "d39c6c" : "07456f", "c7815b" : "0f0a3c" },
-    //Pastel teal
-    { "ffc181" : "74BAAC", "d39c6c" : "5EAE9E", "c7815b" : "4A9586" },
-    //Pastel green
-    { "ffc181" : "80B584", "d39c6c" : "6CA870", "c7815b" : "59955C" },
-    //Pastel forest
-    { "ffc181" : "a7d7c5", "d39c6c" : "74b49b", "c7815b" : "5c8d89" },
-    //Dirty Blonde
-    { "ffc181" : "eaa758", "d39c6c" : "cd8b3d", "c7815b" : "93682c" },
     //Bronze
-    { "ffc181" : "CDD11B", "d39c6c" : "C8C800", "c7815b" : "9D9D00" }
+    { "ffc181" : "E9EB9D", "d39c6c" : "C8C800", "c7815b" : "9D9D00" },
+    //Vibrant Bronze
+    { "ffc181" : "CCA568", "d39c6c" : "C76A2D", "c7815b" : "753A2C" },
+    //Xenonian Purple
+    { "ffc181" : "A87E4E", "d39c6c" : "692C4E", "c7815b" : "421659" },
+    //Rusty Metal
+    { "ffc181" : "C2B2A8", "d39c6c" : "83624E", "c7815b" : "4B343A" },
+    //Dull Skin
+    { "ffc181" : "BBAF86", "d39c6c" : "B79469", "c7815b" : "875946" },
+    //Metallic Rose
+    { "ffc181" : "B38570", "d39c6c" : "BC4843", "c7815b" : "790046" },
+    //Crimson Blight
+    { "ffc181" : "A75E5E", "d39c6c" : "911B2A", "c7815b" : "620C28" },
+    //Blighted Bones
+    { "ffc181" : "BA8965", "d39c6c" : "77253A", "c7815b" : "620C28" },
+    //Wilting Rose
+    { "ffc181" : "EAA184", "d39c6c" : "C35951", "c7815b" : "7E3F46" },
+    //Musty's Orange
+    { "ffc181" : "FFCE9C", "d39c6c" : "B96573", "c7815b" : "853F52" },
+    //Sick Lungs
+    { "ffc181" : "EFDBBD", "d39c6c" : "E5B7B8", "c7815b" : "BB6482" },
+    //Blighted Lungs
+    { "ffc181" : "DFD5BC", "d39c6c" : "E7B484", "c7815b" : "9F386A" },
+    //Zombie
+    { "ffc181" : "BBAF86", "d39c6c" : "919668", "c7815b" : "5C6841" },
+    //Dull Plant
+    { "ffc181" : "DAB495", "d39c6c" : "A5A281", "c7815b" : "767053" },
+    //Toxic Jungle
+    { "ffc181" : "37624E", "d39c6c" : "324228", "c7815b" : "282B17" },
+    //Uranium
+    { "ffc181" : "85B626", "d39c6c" : "909113", "c7815b" : "4A5900" },
+    //Depleted Uranium
+    { "ffc181" : "A59E6D", "d39c6c" : "65752E", "c7815b" : "4A5900" },
+    //Enriched Uranium
+    { "ffc181" : "F3E883", "d39c6c" : "8EA32D", "c7815b" : "486200" },
+    //Teal Night
+    { "ffc181" : "95DAD1", "d39c6c" : "499985", "c7815b" : "375E66" },
+    //Snow
+    { "ffc181" : "ECFEFF", "d39c6c" : "B7EDEA", "c7815b" : "75BAC5" },
+    //Tropical Sea
+    { "ffc181" : "51A499", "d39c6c" : "34699A", "c7815b" : "4E4A9D" },
+    //Sea
+    { "ffc181" : "508CAF", "d39c6c" : "34699A", "c7815b" : "453E78" },
+    //Deep Sea
+    { "ffc181" : "508CAF", "d39c6c" : "453E78", "c7815b" : "25084B" },
+    //Musty's Deep Purple
+    { "ffc181" : "BBACC3", "d39c6c" : "673782", "c7815b" : "2C0057" },
+    //Bold Pink
+    { "ffc181" : "EC8A6A", "d39c6c" : "E74084", "c7815b" : "6B005B" },
+    //Rose
+    { "ffc181" : "E25F45", "d39c6c" : "C42146", "c7815b" : "6B005B" },
+    //Organic Metal
+    { "ffc181" : "BB847F", "d39c6c" : "8F727C", "c7815b" : "492F45" },
+    //Blighted Brain
+    { "ffc181" : "FF8E8E", "d39c6c" : "BF6268", "c7815b" : "492F3C" }
   ],
   "undyColor" : [
     { "dc1f00" : "b7ffd9", "be1b00" : "7affce" }, //Toothpaste Green
@@ -186,14 +200,14 @@
     { "dc1f00" : "5757FF", "be1b00" : "0000CE" }, //Saturated Blue
     { "dc1f00" : "df4d19", "be1b00" : "a43737" }, //Deep Red
     { "dc1f00" : "cdffeb", "be1b00" : "65c6c4" }, //Deep Sea
-    { "dc1f00" : "4d76ad", "be1b00" : "395187", "951500" : "20325b" },
-    { "dc1f00" : "7c41b8", "be1b00" : "6c2f90", "951500" : "471962" },
-    { "dc1f00" : "c63442", "be1b00" : "9b2724", "951500" : "6a1210" },
-    { "dc1f00" : "eaa245", "be1b00" : "b47020", "951500" : "834a0c" },
-    { "dc1f00" : "e3e13a", "be1b00" : "a8a614", "951500" : "848008" },
-    { "dc1f00" : "6ab841", "be1b00" : "45902f", "951500" : "296219" },
-    { "dc1f00" : "e6e6e6", "be1b00" : "979797", "951500" : "6f6f6f" },
-    { "dc1f00" : "f794f8", "be1b00" : "d355c1", "951500" : "b72c95" }
+    { "dc1f00" : "F7CD51", "be1b00" : "E9A151" }, //Bright Orange
+    { "dc1f00" : "AD41E7", "be1b00" : "8541C1" }, //Purple
+    { "dc1f00" : "FF3442", "be1b00" : "c63442" }, //Radical Red
+    { "dc1f00" : "FFB745", "be1b00" : "eaa245" }, //Radical Yellow
+    { "dc1f00" : "FFFF3A", "be1b00" : "e3e13a" }, //Radical Yellow
+    { "dc1f00" : "A2D266", "be1b00" : "6ab841" }, //Radical Green
+    { "dc1f00" : "e6e6e6", "be1b00" : "979797" }, //White
+    { "dc1f00" : "f794f8", "be1b00" : "d355c1" } //Hot Pink
   ],
   "hairColor" : [
     // SECONDARY COLOR
@@ -205,9 +219,9 @@
     //RED
     { "fff8b5" : "CD1C38", "fde03f" : "982441", "f6b919" : "69243F" },
     //DARK RED
-    { "fff8b5" : "ad2716", "fde03f" : "8f1f1b", "f6b919" : "731a1a" },
+    //{ "fff8b5" : "ad2716", "fde03f" : "8f1f1b", "f6b919" : "731a1a" },
     //RUSTY RED
-    { "fff8b5" : "BE471B", "fde03f" : "9B2F0C", "f6b919" : "702710" },
+    { "fff8b5" : "E2AD99", "fde03f" : "C68A76", "f6b919" : "B03F2E" },
     //BROWN
     { "fff8b5" : "7d3c1c", "fde03f" : "4d240b", "f6b919" : "2d1606" },
     //RED-ISH ORANGE
@@ -229,7 +243,7 @@
     //TOOTHPASTE GREEN
     { "fff8b5" : "f2ffed", "fde03f" : "b7ffd9", "f6b919" : "4abc80" },
     //DEV'S GREEN
-    { "fff8b5" : "33FDC0", "fde03f" : "03F3AB", "f6b919" : "03EBA6" },
+    { "fff8b5" : "33FDC0", "fde03f" : "03F3AB", "f6b919" : "03EBC0" },
     //LIGHT GREEN
     { "fff8b5" : "A7D13D", "fde03f" : "83AD22", "f6b919" : "6B880B" },
     //NUCLEAR GREEN
@@ -237,7 +251,7 @@
     //GREEN
     { "fff8b5" : "4ece61", "fde03f" : "34ae47", "f6b919" : "228a38" },
     //DARK GREEN
-    { "fff8b5" : "3b7f44", "fde03f" : "2e6a38", "f6b919" : "1d4b28" },
+    //{ "fff8b5" : "3b7f44", "fde03f" : "2e6a38", "f6b919" : "1d4b28" },
     //TORQUOISE
     { "fff8b5" : "5BD5B6", "fde03f" : "4AA9AD", "f6b919" : "237082" },
     //LIGHT TURQUOISE
@@ -253,9 +267,9 @@
     //BLUE
     { "fff8b5" : "5d8bc7", "fde03f" : "4d55b0", "f6b919" : "2e2a73" },
     //DARK BLUE
-    { "fff8b5" : "425879", "fde03f" : "343965", "f6b919" : "242247" },
+    //{ "fff8b5" : "425879", "fde03f" : "343965", "f6b919" : "242247" },
     //DARK PURPLE
-    { "fff8b5" : "7f3b6d", "fde03f" : "6a2e53", "f6b919" : "4b1d30" },
+    //{ "fff8b5" : "7f3b6d", "fde03f" : "6a2e53", "f6b919" : "4b1d30" },
     //PURPLE
     { "fff8b5" : "653b7f", "fde03f" : "562e6a", "f6b919" : "3f1d4b" },
     //HOT PINK
@@ -264,12 +278,14 @@
     { "fff8b5" : "D26BA4", "fde03f" : "A54669", "f6b919" : "89334D" },
     //LIGHT PURPLE
     { "fff8b5" : "ad68e2", "fde03f" : "8d41b0", "f6b919" : "6a2980" },
+    //VIVID PURPLE
+    { "fff8b5" : "E8D5F7", "fde03f" : "CA9BDF", "f6b919" : "A656CA" },
     //BROWN GREY
-    { "fff8b5" : "50422f", "fde03f" : "36261e", "f6b919" : "170f0d" },
+    //{ "fff8b5" : "50422f", "fde03f" : "36261e", "f6b919" : "170f0d" },
     // GREY
-    { "fff8b5" : "74726f", "fde03f" : "53504d", "f6b919" : "2a251e" },
+    //{ "fff8b5" : "74726f", "fde03f" : "53504d", "f6b919" : "2a251e" },
     // GREY BLUE
-    { "fff8b5" : "6f6d85", "fde03f" : "525269", "f6b919" : "3e4352" },
+    //{ "fff8b5" : "6f6d85", "fde03f" : "525269", "f6b919" : "3e4352" },
     // LIGHT GREY
     { "fff8b5" : "b8b8b8", "fde03f" : "828282", "f6b919" : "555555" },
     // WHITE
