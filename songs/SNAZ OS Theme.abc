@@ -1,0 +1,50 @@
+%abc-2.1
+%%song-title       SNAZ OS Theme
+%%song-duration    0:51
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 2
+T: SNAZ OS Theme (0:51) - Basic Harp
+%%part-name Basic Harp
+M: 4/4
+L: 1/8
+Q: 302
+K: C maj
+
++f+ b2 z2 a2 ^a2
+z2 b ^a a =a ^f2
+b2 ^d2 a2 ^a2
+^a [a/b/] a/ b a =a/ ^a/ =a ^f2
+b2 ^d2 a2 ^a2
+^a [a/b/] a/ b a =a/ ^a/ =a ^f2
+d2 a g/ ^f/ ^d2 f a
+^a/ =a/ a/ ^a/ =a b ^a4
+b2 z2 a2 ^a2
+% Bar 10 (0:14)
+z2 b ^a a =a ^f2
+b2 ^d2 a2 ^a2
+^a [a/b/] a/ b a =a/ ^a/ =a ^f2
+b2 d2 a2 ^a2
+^g/ =g/ [^f/a/-] a/ b ^a =a a f2
+d2 a g/ ^f/ ^d2 f a
+^a/ =a/ a/ ^a/ =a b ^a4
+b2 z2 a2 ^a2
+z2 b ^a a =a ^f2
+b2 ^d2 a2 ^a2
+% Bar 20 (0:30)
+^a [a/b/] a/ b a =a/ ^a/ =a ^f2
+b2 ^d2 a2 ^a2
+^a [a/b/] a/ b a =a/ ^a/ =a ^f2
+d2 a g/ ^f/ ^d2 f a
+^a/ =a/ a/ ^a/ =a b ^a4
+b2 z2 a2 ^a2
+z2 b ^a a =a ^f2
+b2 ^d2 a2 ^a2
+^a [a/b/] a/ b a =a/ ^a/ =a ^f2
+b2 d2 a2 ^a2
+% Bar 30 (0:46)
+^g/ =g/ [^f/a/-] a/ b ^a =a a f2
+d2 a g/ ^f/ ^d2 f a
+^a/ =a/ a/ ^a/ =a b ^a4
+z8 ]
