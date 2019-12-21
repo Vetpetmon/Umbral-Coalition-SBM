@@ -192,22 +192,22 @@
     { "ffc181" : "FF8E8E", "d39c6c" : "BF6268", "c7815b" : "492F3C" }
   ],
   "undyColor" : [
-    { "dc1f00" : "b7ffd9", "be1b00" : "7affce" }, //Toothpaste Green
+    { "dc1f00" : "00FFCF", "be1b00" : "00E79D" }, //Toothpaste Green
     { "dc1f00" : "ffe062", "be1b00" : "ffbe62" }, //Bright Orange
-    { "dc1f00" : "B8FD99", "be1b00" : "7CF49A" }, //Bright Green
-    { "dc1f00" : "d8fffd", "be1b00" : "9ffff9" }, //Bright Blue
-    { "dc1f00" : "ebfffb", "be1b00" : "7efaff" }, //Neon Blue
+    { "dc1f00" : "B8FD00", "be1b00" : "B8DD00" }, //Bright Green
+    { "dc1f00" : "787AFF", "be1b00" : "787AE0" }, //Blue
+    { "dc1f00" : "5EF5FB", "be1b00" : "5ECAFB" }, //Cyan
     { "dc1f00" : "5757FF", "be1b00" : "0000CE" }, //Saturated Blue
     { "dc1f00" : "df4d19", "be1b00" : "a43737" }, //Deep Red
     { "dc1f00" : "cdffeb", "be1b00" : "65c6c4" }, //Deep Sea
-    { "dc1f00" : "F7CD51", "be1b00" : "E9A151" }, //Bright Orange
-    { "dc1f00" : "AD41E7", "be1b00" : "8541C1" }, //Purple
+    { "dc1f00" : "FFB551", "be1b00" : "F7CD51" }, //Bright Orange
+    { "dc1f00" : "B741FF", "be1b00" : "AD41E7" }, //Purple
     { "dc1f00" : "FF3442", "be1b00" : "c63442" }, //Radical Red
     { "dc1f00" : "FFB745", "be1b00" : "eaa245" }, //Radical Yellow
     { "dc1f00" : "FFFF3A", "be1b00" : "e3e13a" }, //Radical Yellow
     { "dc1f00" : "A2D266", "be1b00" : "6ab841" }, //Radical Green
-    { "dc1f00" : "e6e6e6", "be1b00" : "979797" }, //White
-    { "dc1f00" : "f794f8", "be1b00" : "d355c1" } //Hot Pink
+    //{ "dc1f00" : "e6e6e6", "be1b00" : "979797" }, White
+    { "dc1f00" : "F741F8", "be1b00" : "E241DB" } //Hot Pink
   ],
   "hairColor" : [
     // SECONDARY COLOR
