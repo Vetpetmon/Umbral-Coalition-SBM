@@ -28,38 +28,38 @@
   },
   "altAbilityTitleLabel" : {
     "type" : "label",
-    "position" : [9, 36],
+    "position" : [9, 41],
     "hAnchor" : "left",
     "value" : ""
   },
   "altAbilityLabel" : {
     "type" : "label",
-    "position" : [148, 36],
+    "position" : [148, 41],
     "hAnchor" : "right",
     "centered" : true,
     "wrapWidth" : 126
   },
   "damagePerShotTitleLabel" : {
     "type" : "label",
-    "position" : [9, 63],
+    "position" : [9, 61],
     "hAnchor" : "left",
     "value" : "Damage Per Swing:"
   },
   "damagePerShotLabel" : {
     "type" : "label",
-    "position" : [148, 63],
+    "position" : [148, 61],
     "hAnchor" : "right",
     "wrapWidth" : 126
   },
   "speedTitleLabel" : {
     "type" : "label",
-    "position" : [9, 54],
+    "position" : [9, 52],
     "hAnchor" : "left",
     "value" : "Attack speed:"
   },
   "speedLabel" : {
     "type" : "label",
-    "position" : [148, 54],
+    "position" : [148, 52],
     "hAnchor" : "right",
     "wrapWidth" : 126
   },

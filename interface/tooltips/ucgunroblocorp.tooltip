@@ -33,50 +33,50 @@
   },
   "altAbilityTitleLabel" : {
     "type" : "label",
-    "position" : [9, 34],
+    "position" : [9, 41],
     "hAnchor" : "left",
     "value" : ""
   },
   "altAbilityLabel" : {
     "type" : "label",
-    "position" : [148, 34],
+    "position" : [148, 41],
     "hAnchor" : "right",
     "centered" : true,
     "wrapWidth" : 126
   },
   "damagePerShotTitleLabel" : {
     "type" : "label",
-    "position" : [9, 61],
+    "position" : [9, 68],
     "hAnchor" : "left",
     "value" : "Damage Per Shot:"
   },
   "damagePerShotLabel" : {
     "type" : "label",
-    "position" : [148, 61],
+    "position" : [148, 68],
     "hAnchor" : "right",
     "wrapWidth" : 126
   },
   "speedTitleLabel" : {
     "type" : "label",
-    "position" : [9, 52],
+    "position" : [9, 59],
     "hAnchor" : "left",
     "value" : "Rate of Fire:"
   },
   "speedLabel" : {
     "type" : "label",
-    "position" : [148, 52],
+    "position" : [148, 59],
     "hAnchor" : "right",
     "wrapWidth" : 126
   },
   "energyPerShotTitleLabel" : {
     "type" : "label",
-    "position" : [9, 43],
+    "position" : [9, 50],
     "hAnchor" : "left",
     "value" : "Energy Per Shot:"
   },
   "energyPerShotLabel" : {
     "type" : "label",
-    "position" : [148, 43],
+    "position" : [148, 50],
     "hAnchor" : "right",
     "wrapWidth" : 126
   },

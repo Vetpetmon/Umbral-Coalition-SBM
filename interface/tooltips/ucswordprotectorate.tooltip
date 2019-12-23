@@ -33,13 +33,13 @@
   },
   "altAbilityTitleLabel" : {
     "type" : "label",
-    "position" : [9, 34],
+    "position" : [9, 41],
     "hAnchor" : "left",
     "value" : ""
   },
   "altAbilityLabel" : {
     "type" : "label",
-    "position" : [148, 34],
+    "position" : [148, 41],
     "hAnchor" : "right",
     "centered" : true,
     "wrapWidth" : 126
