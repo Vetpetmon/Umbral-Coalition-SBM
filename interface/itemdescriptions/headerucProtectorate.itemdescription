@@ -1,0 +1,124 @@
+{
+  "moneyIcon" : {
+    "type" : "image",
+    "position" : [125, 0],
+    "file" : "/interface/money.png"
+  },
+  "priceLabel" : {
+    "type" : "label",
+    "position" : [124, 24],
+    "hAnchor" : "left",
+    "value" : "tree"
+  },
+
+  "descriptionLabel" : {
+    "type" : "label",
+    "position" : [9, 126],
+    "hAnchor" : "left",
+    "vAnchor" : "top",
+    "wrapWidth" : 140,
+    "fontSize" : 7
+  },
+  "levelLabel" : {
+    "type" : "label",
+    "position" : [148, 192],
+    "hAnchor" : "right",
+    "vAnchor" : "top",
+    "wrapWidth" : 134
+  },
+  "altAbilityTitleLabel" : {
+    "type" : "label",
+    "position" : [9, 36],
+    "hAnchor" : "left",
+    "value" : ""
+  },
+  "altAbilityLabel" : {
+    "type" : "label",
+    "position" : [148, 36],
+    "hAnchor" : "right",
+    "centered" : true,
+    "wrapWidth" : 126
+  },
+  "damagePerShotTitleLabel" : {
+    "type" : "label",
+    "position" : [9, 63],
+    "hAnchor" : "left",
+    "value" : "Damage Per Shot:"
+  },
+  "damagePerShotLabel" : {
+    "type" : "label",
+    "position" : [148, 63],
+    "hAnchor" : "right",
+    "wrapWidth" : 126
+  },
+  "speedTitleLabel" : {
+    "type" : "label",
+    "position" : [9, 54],
+    "hAnchor" : "left",
+    "value" : "Rate of Fire:"
+  },
+  "speedLabel" : {
+    "type" : "label",
+    "position" : [148, 54],
+    "hAnchor" : "right",
+    "wrapWidth" : 126
+  },
+  "energyPerShotTitleLabel" : {
+    "type" : "label",
+    "position" : [9, 45],
+    "hAnchor" : "left",
+    "value" : "Energy Per Shot:"
+  },
+  "energyPerShotLabel" : {
+    "type" : "label",
+    "position" : [148, 45],
+    "hAnchor" : "right",
+    "wrapWidth" : 126
+  },
+  "handednessLabel" : {
+    "type" : "label",
+    "position" : [100, 184],
+    "hAnchor" : "right",
+    "centered" : true,
+    "wrapWidth" : 126
+  },
+
+  "rarityLabel" : {
+    "type" : "label",
+    "position" : [11, 24],
+    "hAnchor" : "left",
+    "centered" : true,
+    "wrapWidth" : 126
+  },
+  "objectImage" : {
+    "type" : "image",
+    "position" : [80, 155],
+    "file" : "",
+    "centered" : true,
+    "maxSize" : [50, 50],
+    "minSize" : [50, 50]
+  },
+  "title" : {
+    "type" : "label",
+    "position" : [35, 179],
+    "hAnchor" : "left",
+    "value" : ""
+  },
+  "subTitle" : {
+    "type" : "label",
+    "position" : [35, 169],
+    "hAnchor" : "left",
+    "color" : [185, 181, 178],
+    "value" : ""
+  },
+  "titleIcon" : {
+    "type" : "itemslot",
+    "position" : [9, 167],
+    "callback" : "null",
+    "iconMode" : true,
+    "backingImage" : "/interface/inventory/portrait.png",
+    "showRarity" : false,
+    "showBackingImageWhenFull" : true
+  }
+
+}

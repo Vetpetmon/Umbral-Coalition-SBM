@@ -1,0 +1,107 @@
+{
+  "background" : {
+    "type" : "background",
+    "fileHeader" : "/interface/tooltips/headerucProtectorate.png",
+    "fileBody" : "/interface/tooltips/bodyobject3ucProtectorate.png",
+    "fileFooter" : "/interface/tooltips/footerucProtectorate.png"
+  },
+  "moneyIcon" : {
+    "type" : "image",
+    "position" : [111, 24],
+    "file" : "/interface/money.png"
+  },
+  "priceLabel" : {
+    "type" : "label",
+    "position" : [124, 24],
+    "hAnchor" : "left",
+    "value" : "tree"
+  },
+
+  "descriptionLabel" : {
+    "type" : "label",
+    "position" : [9, 126],
+    "hAnchor" : "left",
+    "vAnchor" : "top",
+    "wrapWidth" : 140
+  },
+  "levelLabel" : {
+    "type" : "label",
+    "position" : [148, 192],
+    "hAnchor" : "right",
+    "vAnchor" : "top",
+    "wrapWidth" : 134
+  },
+  "altAbilityTitleLabel" : {
+    "type" : "label",
+    "position" : [9, 34],
+    "hAnchor" : "left",
+    "value" : ""
+  },
+  "altAbilityLabel" : {
+    "type" : "label",
+    "position" : [148, 34],
+    "hAnchor" : "right",
+    "centered" : true,
+    "wrapWidth" : 126
+  },
+  "damagePerShotTitleLabel" : {
+    "type" : "label",
+    "position" : [9, 61],
+    "hAnchor" : "left",
+    "value" : "Damage Per Shot:"
+  },
+  "damagePerShotLabel" : {
+    "type" : "label",
+    "position" : [148, 61],
+    "hAnchor" : "right",
+    "wrapWidth" : 126
+  },
+  "speedTitleLabel" : {
+    "type" : "label",
+    "position" : [9, 52],
+    "hAnchor" : "left",
+    "value" : "Rate of Fire:"
+  },
+  "speedLabel" : {
+    "type" : "label",
+    "position" : [148, 52],
+    "hAnchor" : "right",
+    "wrapWidth" : 126
+  },
+  "energyPerShotTitleLabel" : {
+    "type" : "label",
+    "position" : [9, 43],
+    "hAnchor" : "left",
+    "value" : "Energy Per Shot:"
+  },
+  "energyPerShotLabel" : {
+    "type" : "label",
+    "position" : [148, 43],
+    "hAnchor" : "right",
+    "wrapWidth" : 126
+  },
+
+  "handednessLabel" : {
+    "type" : "label",
+    "position" : [100, 184],
+    "hAnchor" : "right",
+    "centered" : true,
+    "wrapWidth" : 126
+  },
+
+  "rarityLabel" : {
+    "type" : "label",
+    "position" : [11, 24],
+    "hAnchor" : "left",
+    "centered" : true,
+    "wrapWidth" : 126
+  },
+  "objectImage" : {
+    "type" : "image",
+    "position" : [80, 155],
+    "file" : "",
+    "centered" : true,
+    "maxSize" : [50, 50],
+    "minSize" : [50, 50]
+  }
+}
