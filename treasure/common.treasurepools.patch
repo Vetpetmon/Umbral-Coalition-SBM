@@ -1,0 +1,9 @@
+[
+  //Unique weapons
+
+  //Roblocorp:
+  {"op" : "add", "path" : "/uniqueWeapon/1/1/pool/-", "value" : {"weight" : 0.007, "item" : "ucstarbringer" } },
+  {"op" : "add", "path" : "/uniqueWeapon/1/1/pool/-", "value" : {"weight" : 0.007, "item" : "ucblueline" } },
+  {"op" : "add", "path" : "/uniqueWeapon/2/1/pool/-", "value" : {"weight" : 0.002, "item" : "ucnorthpole" } }
+
+]

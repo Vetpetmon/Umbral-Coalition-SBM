@@ -1,0 +1,51 @@
+[
+  {
+    "op": "add",
+    "path": "/baseParameters/statusSettings/stats/ucObliteratingBurnImmunity",
+    "value": {
+      "baseValue": 1
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/statusSettings/stats/protection",
+    "value": {
+      "baseValue": 40
+    }
+  },
+  {
+    "op": "add",
+    "path": "/baseParameters/statusSettings/stats/physicalResistance",
+    "value": {
+      "baseValue": 0.2
+    }
+  },
+  {
+    "op": "add",
+    "path": "/baseParameters/statusSettings/stats/fireResistance",
+    "value": {
+      "baseValue": 0.2
+    }
+  },
+  {
+    "op": "add",
+    "path": "/baseParameters/statusSettings/stats/electricResistance",
+    "value": {
+      "baseValue": 0.2
+    }
+  },
+  {
+    "op": "add",
+    "path": "/baseParameters/statusSettings/stats/iceResistance",
+    "value": {
+      "baseValue": 0.2
+    }
+  },
+  {
+    "op": "add",
+    "path": "/baseParameters/statusSettings/stats/poisonResistance",
+    "value": {
+      "baseValue": 0.9
+    }
+  }
+]
