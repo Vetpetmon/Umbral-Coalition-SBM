@@ -29,7 +29,7 @@
       }
   },
 
-  "baseOffset" : [0.4, 0.15],
+  "baseOffset" : [0.3, 0.3],
   "muzzleOffset" : [1.9, 0.15],
 
     "scripts" : ["/items/active/weapons/ranged/gun.lua"],
@@ -41,9 +41,9 @@
       "class" : "GunFire",
 
       "fireTime" : 0.05,
-      "baseDps" : 14.2,
-      "energyUsage" : 30,
-      "inaccuracy" : 0.05,
+      "baseDps" : 8.5,
+      "energyUsage" : 50,
+      "inaccuracy" : 0.07,
 
       "projectileCount" : 1,
       "fireType" : "auto",
@@ -72,8 +72,8 @@
         },
         "cooldown" : {
           "duration" : 0.01,
-          "armRotation" : 3,
-          "weaponRotation" : 3,
+          "armRotation" : 1,
+          "weaponRotation" : 1,
           "twoHanded" : true,
 
           "allowRotate" : true,
