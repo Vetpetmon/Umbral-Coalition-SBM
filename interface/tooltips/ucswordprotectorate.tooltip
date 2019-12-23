@@ -33,7 +33,7 @@
   },
   "altAbilityTitleLabel" : {
     "type" : "label",
-    "position" : [9, 41],
+    "position" : [9, 42],
     "hAnchor" : "left",
     "value" : ""
   },
