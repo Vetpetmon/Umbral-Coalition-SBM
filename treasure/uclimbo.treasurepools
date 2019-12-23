@@ -18,8 +18,9 @@
   "uclimboghosthuge": [
     [1, {
       "pool" : [
-        {"weight" : 0.9, "item" : ["ucnightmaricconcentrate", 10]},
-        {"weight" : 0.1, "item" : ["ucnightmaricconcentrate", 15]}
+        {"weight" : 0.7, "item" : ["ucnightmaricconcentrate", 20]},
+        {"weight" : 0.2, "item" : ["ucnightmaricconcentrate", 25]},
+        {"weight" : 0.2, "item" : ["ucnightmaricconcentrate", 30]}
       ]
     } ]
   ]
