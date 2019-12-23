@@ -87,7 +87,7 @@
     "critChance" : 4,
     "critBonus" : 2,
     "isAmmoBased" : 1,
-    "magazineSize" : 80,
+    "magazineSize" : 300,
     "reloadTime" : 3.5,
 
     "builder" : "/items/buildscripts/buildunrandweapon.lua"
