@@ -4,7 +4,8 @@
   "maxStack" : 1,
   "rarity" : "rare",
   "description" : "Fires bullets charged with 500 watts of energy.
-  ^cyan;Fires at insane speeds.^reset;",
+
+^cyan;Fires at insane speeds.^reset;",
   "shortdescription" : "Bullet Co.",
   "tooltipKind" : "ucgunroblocorp",
   "category" : "assaultRifle",
