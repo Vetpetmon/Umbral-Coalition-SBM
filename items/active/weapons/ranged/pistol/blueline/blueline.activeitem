@@ -1,36 +1,34 @@
 {
-  "itemName" : "ucstarbringer",
-  "price" : 420,
+  "itemName" : "ucblueline",
+  "price" : 300,
   "maxStack" : 1,
   "rarity" : "rare",
-  "description" : "Looks and functions like a toaster, only much, much deadlier.
-
-  ^cyan;10/10 would toast again.^reset;",
-  "shortdescription" : "Starbringer",
+  "description" : "A small but powerful pistol meant to peirce through armor.",
+  "shortdescription" : "Blue Line",
   "tooltipKind" : "ucgunroblocorp",
   "category" : "pistol",
   "twoHanded" : false,
   "itemTags" : ["weapon","ranged","Roblocorp","pistol","energy","electric"],
   "level" : 4,
 
-  "inventoryIcon" : "starbringer.png",
+  "inventoryIcon" : "blueline.png",
 
   "animation" : "/items/active/weapons/ranged/gun.animation",
 
     "animationParts" : {
       "butt" : "",
-      "middle" : "starbringer.png",
+      "middle" : "blueline.png",
       "barrel" : "",
       "muzzleFlash" : "/items/active/weapons/ranged/muzzleflash.png"
     },
 
     "animationCustom" : {
       "sounds" : {
-        "fire" : ["/sfx/gun/twigun_shot2.ogg"]
+        "fire" : ["/sfx/gun/mech_gatling1.ogg"]
       }
   },
 
-  "baseOffset" : [0.7, 0.15],
+  "baseOffset" : [0.0, 0.15],
   "muzzleOffset" : [1.0, 0.15],
 
   "scripts" : ["/items/active/weapons/ranged/gun.lua"],
@@ -41,17 +39,17 @@
     "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
     "class" : "GunFire",
 
-    "fireTime" : 0.25,
-    "baseDps" : 10.3,
+    "fireTime" : 0.75,
+    "baseDps" : 12.2,
     "energyUsage" : 20,
     "inaccuracy" : 0.05,
 
-    "projectileCount" : 2,
+    "projectileCount" : 1,
     "fireType" : "auto",
 
     "projectileType" : "electricplasma",
     "projectileParameters" : {
-      "knockback" : 2
+      "knockback" : 10
     },
     "stances" : {
       "idle" : {
@@ -72,7 +70,7 @@
         "allowFlip" : true
       },
       "cooldown" : {
-        "duration" : 0.15,
+        "duration" : 0.3,
         "armRotation" : 3,
         "weaponRotation" : 3,
         "twoHanded" : false,
@@ -84,12 +82,12 @@
   },
 
   //FU crit stats
-  "critChance" : 5,
-  "critBonus" : 3,
+  "critChance" : 2,
+  "critBonus" : 7,
 
   "isAmmoBased" : 1,
-  "magazineSize" : 20,
-  "reloadTime" : 1.2,
+  "magazineSize" : 5,
+  "reloadTime" : 1.5,
 
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
 }

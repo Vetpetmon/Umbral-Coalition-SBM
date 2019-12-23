@@ -135,13 +135,14 @@
       "stats" : {
         "knockbackStunTime" : {"baseValue" : 0.1},
         "grit" : {"baseValue" : 1.0},
-        "maxHealth" : {"baseValue" : 2500},
+        "maxHealth" : {"baseValue" : 10000},
         "protection" : {"baseValue" : 18},
         "healthRegen" : {"baseValue" : 0.25},
         "powerMultiplier" : {"baseValue" : 1.0},
         //vanilla immunities
         "physicalResistance" : {"baseValue" : 1.0},
         "fireResistance" : {"baseValue" : -0.3},
+        "fireStatusImmunity" : {"baseValue" : 1.0},
         "iceResistance" : {"baseValue" : 1.0},
         "iceStatusImmunity" : {"baseValue" : 1.0},
         "electricResistance" : {"baseValue" : -0.2},
