@@ -77,7 +77,7 @@
     }
   ],
   "breakDropOptions" : [
-    [ [ "ucstrawberryseed", 1, { } ] ]
+    [ [ "eecstrawberryseed", 1, { } ] ]
 ],
 
   "maxImmersion" : 0.125,
