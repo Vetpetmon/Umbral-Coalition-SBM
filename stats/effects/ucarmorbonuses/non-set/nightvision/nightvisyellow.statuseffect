@@ -1,0 +1,9 @@
+{
+  "name" : "ucnightvisyellow",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [],
+
+  "animationConfig" : "nightvisyellow.animation"
+}

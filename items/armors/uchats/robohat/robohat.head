@@ -16,7 +16,7 @@
 
   "level" : 3,
 
-  "statusEffects" : [ "glow" ],
+  "statusEffects" : [ "ucnightviscyan" ],
   "leveledStatusEffects" : [
     {
       "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
