@@ -1,0 +1,37 @@
+{
+  "itemName" : "ucmetalcutter",
+  "price" : 200,
+  "level" : 4,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "This sword looks sharp enough to cut through solid steel.",
+  "shortdescription" : "Metal Cutter",
+  "tooltipKind" : "ucswordroblocorp",
+  "category" : "broadsword",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","melee","broadsword"],
+  "inventoryIcon" : "metalcutter.png",
+  "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "metalcutter.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : [ "/sfx/melee/swing_hammer.ogg" ]
+    }
+},
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+  "elementalType" : "poison",
+  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.8,
+    "baseDps" : 19
+  },
+
+  //FU crit stats
+  "critChance" : 2,
+  "critBonus" : 7,
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}
