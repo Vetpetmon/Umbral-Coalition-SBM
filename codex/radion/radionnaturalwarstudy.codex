@@ -1,0 +1,19 @@
+{
+	"id" : "ucradionnaturalwarstudy",
+	"title" : "Rad'ions: The Natural War",
+	"description" : "A long and detailed study on the warfare of the rad'ions",
+	"icon" : "cyancover.png",
+	"contentPages" : [
+"Even though every being that originates from the 60th dimension itself is a rad'ion, their entire population is seperated into two groups: the Razark, and Ragon. Both sections of their population fight viciously for the Great Library of Things, which is said to contain all of the information stored in The Internets, or, at least, access a portion of it.",
+"It was said that the Razark, YYY, was the one to most recently claim this throne of mass information billions of Earth years ago, and it was the one to find the way into every other dimension, allowing for their race to interact with other worlds and life forms.",
+"The Razark are the rad'ions who chose a humanoid form, which makes them highly identical to each other. They are the ones you see openly out in your dimension, and are known for impersonating other life forms. Razarks rarely consider original forms and are limited to shape-shifting into anything around their size or smaller.",
+"The Ragon, on the other hand, resemble actual shoggoths in both behavior and ability. They are not limited to size, and can easily make their own forms. The one area they lack the ability to perform in is impersonation. They have issues trying to \"change\" or copy their personality to match the individual's, however, they have been seen taking the form of fictional characters and \"roleplaying\" or \"kinning\" them at amazing levels.",
+"Some Ragon have been known to take the overall appearance of Razarks in order to spy on them or get access into other dimensions, and in some cases, they have been successful (read: The \"Doukutsu\" and \"Sapient Biscuit\" cases.)",
+"This phenomenon has been reffered to as \"Natural War.\" The Razark have been known to capture and \"convert\" Ragon to their side like humans do when domesticating wildlife, and use their converted Ragon to benefit the rest of the Razark. Hoever, for the Ragon they can't convert, they hunt them down for resources and energy. This can be described as a fight between gods, and can sometimes get extremely destructive.",
+"Natural War has lead to the eventual leaking of rad'ions into other dimensions in an endless conquest for knowledge, and has resulted in extreme extra-dimensional chaos throughout the universe, such as the mysterious appearances of \"Plasma\" planets and unkillable horrors pretending to be the normal fauna and flora found on other planets."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}
