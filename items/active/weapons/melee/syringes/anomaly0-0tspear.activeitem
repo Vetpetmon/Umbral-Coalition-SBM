@@ -7,7 +7,7 @@
   "description" : "A giant syringe full of Anomaly 0-0t.
 \"CHAOS! CHAOS!\" ",
   "shortdescription" : "Syringe (Anomaly 0-0t)",
-  "tooltipKind" : "ucsyringe",
+  "tooltipKind" : "ucsyringeumbralcoalition",
   "category" : "ucsyringe",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","spear"],

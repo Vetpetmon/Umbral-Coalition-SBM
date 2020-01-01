@@ -6,8 +6,8 @@
   "rarity" : "legendary",
   "description" : "A giant syringe full of Xenonian blood.
 \"It's toxic, but do you dare to taste it?\" ",
-  "shortdescription" : "Syringe (uc Blood)",
-  "tooltipKind" : "ucsyringe",
+  "shortdescription" : "Syringe (Xenonian Blood)",
+  "tooltipKind" : "ucsyringeumbralcoalition",
   "category" : "ucsyringe",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","spear"],

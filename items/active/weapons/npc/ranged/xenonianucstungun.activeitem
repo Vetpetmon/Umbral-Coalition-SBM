@@ -5,7 +5,7 @@
   "rarity" : "Legendary",
   "description" : "Why. Why do you have this? Carrying this without your UC Officer license is a crime against society. This can be turned into a deadly weapon in enough hits.",
   "shortdescription" : "UC-issued Stungun",
-  "tooltipKind" : "gun",
+  "tooltipKind" : "ucgunumbralcoalition",
   "category" : "uniqueWeapon",
   "twoHanded" : false,
   "itemTags" : ["weapon","ranged","uc", "stunning"],

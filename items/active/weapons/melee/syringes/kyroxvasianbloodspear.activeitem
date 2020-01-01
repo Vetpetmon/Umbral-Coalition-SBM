@@ -6,8 +6,8 @@
   "rarity" : "legendary",
   "description" : "A giant syringe full of kyroxian blood.
 \"Is it really blood if it's just sugar and nightmares?\" ",
-  "shortdescription" : "Syringe (kyroxian Blood)",
-  "tooltipKind" : "ucsyringe",
+  "shortdescription" : "Syringe (Kyroxian Blood)",
+  "tooltipKind" : "ucsyringeumbralcoalition",
   "category" : "ucsyringe",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","spear"],

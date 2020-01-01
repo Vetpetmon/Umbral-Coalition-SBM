@@ -7,7 +7,7 @@
   "description" : "A giant syringe full of chocolate.
 \"The best way to raise your blood sugar!\" ",
   "shortdescription" : "Syringe (Chocolate)",
-  "tooltipKind" : "ucsyringe",
+  "tooltipKind" : "ucsyringeumbralcoalition",
   "category" : "ucsyringe",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","spear"],
