@@ -10,8 +10,8 @@
       [0.10, "sandstorm"],
       [0.05, "clear"],
       [0.05, "ucheatwave"],
-      [0.05, "windstorm"],
-      [0.01, "ucgrbairless"]
+      [0.05, "windstorm"]
+      //[0.01, "ucgrbairless"]
     ]
   },
   {
@@ -21,8 +21,8 @@
       [0.50, "ucsolarflare"],
       [0.35, "uccoldsnap"],
       [0.10, "sandstorm"],
-      [0.10, "windstorm"],
-      [0.05, "ucgrbairless"]
+      [0.10, "windstorm"]
+      //[0.05, "ucgrbairless"]
     ]
   },
   {
@@ -33,8 +33,8 @@
       [0.35, "ucheatwave"],
       [0.10, "sandstorm"],
       [0.05, "clear"],
-      [0.05, "windstorm"],
-      [0.05, "ucgrbairless"]
+      [0.05, "windstorm"]
+      //[0.05, "ucgrbairless"]
     ]
   },
   {
@@ -42,7 +42,7 @@
   "path" : "/ucmarslikeradioactive",
   "value" : [
       [0.50, "ucsolarflare"],
-      [0.45, "ucgrbairless"],
+      //[0.45, "ucgrbairless"]
       [0.05, "clear"]
     ]
   },
@@ -55,7 +55,7 @@
       [0.07, "uccoldsnap"],
       [0.07, "ucheatwave"],
       [0.07, "glowingrain"],
-      [0.05, "ucgrbairless"],
+      //[0.05, "ucgrbairless"],
       [0.03, "meteorshower"]
     ]
   },
@@ -67,7 +67,7 @@
       [0.3, "ucsolarflare"],
       [0.07, "uccoldsnap"],
       [0.07, "glowingrain"],
-      [0.05, "ucgrbairless"],
+      //[0.05, "ucgrbairless"],
       [0.03, "meteorshower"]
     ]
   }/*,
