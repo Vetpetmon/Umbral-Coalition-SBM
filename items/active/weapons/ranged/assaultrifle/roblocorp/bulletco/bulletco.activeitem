@@ -3,7 +3,7 @@
   "price" : 400,
   "maxStack" : 1,
   "rarity" : "rare",
-  "description" : "Fires bullets charged with 500 watts of energy.
+  "description" : "Fires bullets charged with 500 coulombs of energy.
 
 ^cyan;Fires at insane speeds.^reset;",
   "shortdescription" : "Bullet Co.",
