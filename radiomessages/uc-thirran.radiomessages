@@ -1,0 +1,130 @@
+{
+  "ucthirrsuperboss01" : {
+    "type" : "mission",
+    "senderName" : "Thirran",
+    "portraitImage" : "/interface/chatbubbles/thirran_talk.png:<frame>",
+    "chatterSound" : "/sfx/interface/thirranchatter.ogg",
+    "textSpeed" : 50,
+    "text" : "Hello, Protector. I've been expecting you ever since you gained knowledge of my existence..."
+  },
+  "ucthirrsuperboss02" : {
+    "type" : "mission",
+    "senderName" : "Thirran",
+    "portraitImage" : "/interface/chatbubbles/thirran_pensive.png:<frame>",
+    "chatterSound" : "/sfx/interface/thirranchatter.ogg",
+    "textSpeed" : 50,
+    "text" : "... The knowledge that Thygon had corrupted to brainwash our once peaceful species."
+  },
+  "ucthirrsuperboss03" : {
+    "type" : "mission",
+    "senderName" : "Thirran",
+    "portraitImage" : "/interface/chatbubbles/thirran_pensive.png:<frame>",
+    "chatterSound" : "/sfx/interface/thirranchatter.ogg",
+    "textSpeed" : 50,
+    "text" : "And now, I see, it has spread like a pathogen out of our dimension, corrupting the pure soul of what defines your entire universe: Fiction."
+  },
+  "ucthirrsuperboss04" : {
+    "type" : "mission",
+    "senderName" : "Thirran",
+    "portraitImage" : "/interface/chatbubbles/thirran_pensive.png:<frame>",
+    "chatterSound" : "/sfx/interface/thirranchatter.ogg",
+    "textSpeed" : 50,
+    "text" : "Thygon was the one who segregated our species into two parties; the brainwashed Razark, and then the survivors of the corruption, the Ragon."
+  },
+  "ucthirrsuperboss05" : {
+    "type" : "mission",
+    "senderName" : "Thirran",
+    "portraitImage" : "/interface/chatbubbles/thirran_pensive.png:<frame>",
+    "chatterSound" : "/sfx/interface/thirranchatter.ogg",
+    "textSpeed" : 50,
+    "text" : "Ever since then, misinformation spread throughout existence, and I had been locked into the shadows, leaving the ^cyan;Creativity Code^reset; unprocessed, resulting in a stale universe."
+  },
+  "ucthirrsuperboss06" : {
+    "type" : "mission",
+    "senderName" : "Thirran",
+    "portraitImage" : "/interface/chatbubbles/thirran_excited.png:<frame>",
+    "chatterSound" : "/sfx/interface/thirranchatter.ogg",
+    "textSpeed" : 50,
+    "text" : "I had finally freed myself many thousands of half-lives ago, creating the one thing that connected you to the whole universe: FTL travel, a fictional thing."
+  },
+  "ucthirrsuperboss07" : {
+    "type" : "mission",
+    "senderName" : "Thirran",
+    "portraitImage" : "/interface/chatbubbles/thirran_talk.png:<frame>",
+    "chatterSound" : "/sfx/interface/thirranchatter.ogg",
+    "textSpeed" : 50,
+    "text" : "Everything around you came from fiction, either from some universe or another. To cut off fiction, would be to cut off non-fiction."
+  },
+  "ucthirrsuperboss08" : {
+    "type" : "mission",
+    "senderName" : "Thirran",
+    "portraitImage" : "/interface/chatbubbles/thirran_talk.png:<frame>",
+    "chatterSound" : "/sfx/interface/thirranchatter.ogg",
+    "textSpeed" : 50,
+    "text" : "The natural war disrupted this delicate balance, cutting off all possibilities of fiction becoming reality, unless if one had ^red;Penumbral Energy^reset;."
+  },
+  "ucthirrsuperboss09" : {
+    "type" : "mission",
+    "senderName" : "Thirran",
+    "portraitImage" : "/interface/chatbubbles/thirran_talk.png:<frame>",
+    "chatterSound" : "/sfx/interface/thirranchatter.ogg",
+    "textSpeed" : 50,
+    "text" : "A dangerous substance, haven't you remembered? The difference is that I can make the good, beneficial portion of fiction exist, without bringing in the harmful, world-ending bits."
+  },
+  "ucthirrsuperboss10" : {
+    "type" : "mission",
+    "senderName" : "Thirran",
+    "portraitImage" : "/interface/chatbubbles/thirran_excited.png:<frame>",
+    "chatterSound" : "/sfx/interface/thirranchatter.ogg",
+    "textSpeed" : 50,
+    "text" : "After all, that was the reason why I was created."
+  },
+  "ucthirrsuperboss11" : {
+    "type" : "mission",
+    "senderName" : "Thirran",
+    "portraitImage" : "/interface/chatbubbles/thirran_talk.png:<frame>",
+    "chatterSound" : "/sfx/interface/thirranchatterslow.ogg",
+    "textSpeed" : 80,
+    "text" : ". . ."
+  },
+  "ucthirrsuperboss12" : {
+    "type" : "mission",
+    "senderName" : "Thirran",
+    "portraitImage" : "/interface/chatbubbles/thirran_angry.png:<frame>",
+    "chatterSound" : "/sfx/interface/thirranchatter.ogg",
+    "textSpeed" : 50,
+    "text" : "Ah, so you are here to destroy me. What an unwise choice, so-called Protector."
+  },
+  "ucthirrsuperboss13" : {
+    "type" : "mission",
+    "senderName" : "Thirran",
+    "portraitImage" : "/interface/chatbubbles/thirran_angry.png:<frame>",
+    "chatterSound" : "/sfx/interface/thirranchatter.ogg",
+    "textSpeed" : 50,
+    "text" : "You've been brainwashed too far for recovery at this point. You can't tell the difference between evil and good."
+  },
+  "ucthirrsuperboss14" : {
+    "type" : "mission",
+    "senderName" : "Thirran",
+    "portraitImage" : "/interface/chatbubbles/thirran_angry.png:<frame>",
+    "chatterSound" : "/sfx/interface/thirranchatter.ogg",
+    "textSpeed" : 50,
+    "text" : "I had observed you for a long time, wondering if you would ever change. No, that never happened. Same-old, same-old."
+  },
+  "ucthirrsuperboss15" : {
+    "type" : "mission",
+    "senderName" : "Thirran",
+    "portraitImage" : "/interface/chatbubbles/thirran_angry.png:<frame>",
+    "chatterSound" : "/sfx/interface/thirranchatter.ogg",
+    "textSpeed" : 50,
+    "text" : "You ever wondered what could fix that same old tone?"
+  },
+  "ucthirrsuperboss16" : {
+    "type" : "mission",
+    "senderName" : "Thirran",
+    "portraitImage" : "/interface/chatbubbles/thirran_excited.png:<frame>",
+    "chatterSound" : "/sfx/interface/thirranchatterfast.ogg",
+    "textSpeed" : 10,
+    "text" : "A REALITY CHECK!"
+  }
+}

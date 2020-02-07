@@ -1,0 +1,57 @@
+{
+  "objectName" : "ucmegabossstarter",
+  "printable" : false,
+  "rarity" : "Common",
+  "category" : "crafting",
+  "price" : 70,
+  "inventoryIcon" : "portalicon.png",
+
+  "description" : "What is that? A mutated rad'ion?",
+  "shortdescription" : "Thirran",
+  "glitchDescription" : "Terrified. This being is most certainly more powerful than it looks.",
+
+  "radionDescription" : "Thirran themself. Should be left alone.",
+
+  "scripts" : ["/stagehands/radiomessage.lua"],
+  "broadcastArea" : [-5, -5, 5, 5],
+  "radioMessages" : [
+    "ucthirrsuperboss01",
+    "ucthirrsuperboss02",
+    "ucthirrsuperboss03",
+    "ucthirrsuperboss04",
+    "ucthirrsuperboss05",
+    "ucthirrsuperboss06",
+    "ucthirrsuperboss07",
+    "ucthirrsuperboss08",
+    "ucthirrsuperboss09",
+    "ucthirrsuperboss10",
+    "ucthirrsuperboss11",
+    "ucthirrsuperboss12",
+    "ucthirrsuperboss13",
+    "ucthirrsuperboss14",
+    "ucthirrsuperboss15",
+    "ucthirrsuperboss16"
+  ],
+
+  "orientations" : [
+    {
+      "image" : "thirran.png:<color>.<frame>",
+      "flipImages" : true,
+      "direction" : "left",
+      "imagePosition" : [0, 0],
+      "frames" : 18,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "thirran.png:<color>.<frame>",
+      "direction" : "right",
+      "imagePosition" : [0, 0],
+      "frames" : 18,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}
