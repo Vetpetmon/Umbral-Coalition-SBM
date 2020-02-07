@@ -10,35 +10,35 @@
     "op": "replace",
     "path": "/baseParameters/statusSettings/stats/protection",
     "value": {
-      "baseValue": 40
+      "baseValue": 80
     }
   },
   {
     "op": "add",
     "path": "/baseParameters/statusSettings/stats/physicalResistance",
     "value": {
-      "baseValue": 0.2
+      "baseValue": 0.3
     }
   },
   {
     "op": "add",
     "path": "/baseParameters/statusSettings/stats/fireResistance",
     "value": {
-      "baseValue": 0.2
+      "baseValue": 0.3
     }
   },
   {
     "op": "add",
     "path": "/baseParameters/statusSettings/stats/electricResistance",
     "value": {
-      "baseValue": 0.2
+      "baseValue": 0.3
     }
   },
   {
     "op": "add",
     "path": "/baseParameters/statusSettings/stats/iceResistance",
     "value": {
-      "baseValue": 0.2
+      "baseValue": 0.3
     }
   },
   {
