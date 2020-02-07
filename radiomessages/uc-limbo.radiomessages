@@ -1,17 +1,17 @@
 {
   "uclimbo01" : {
     "type" : "mission",
-    "text" : "You have entered a pocket dimension. The Encyclopedia Galactica only says that this dimension is infamously called 'Limbo.' You have been warned."
+    "text" : "You have entered a pocket dimension. The Encyclopedia Galactica only says that this instance is infamously called 'Limbo.' You have been warned."
   },
   "uclimbo02" : {
     "type" : "mission",
     "senderName" : "Esther Bright",
     "portraitImage" : "/interface/chatbubbles/esthersad.png:<frame>",
-    "text" : "... You're in the Limbo dimension? You have to get out of there!"
+    "text" : "... You're in Limbo? You have to get out of there!"
   },
   "uclimbo03" : {
     "type" : "mission",
-    "text" : "There appears to be an Earth supermarket ahead of you. Said supermarket has been out of business for over 400 Earth years."
+    "text" : "There appears to be an Earth supermarket ahead of you. Said supermarket has been out of business for over 4000 Earth years."
   },
   "uclimbo04" : {
     "type" : "mission",
@@ -30,7 +30,7 @@
   },
   "uclimbo07" : {
     "type" : "mission",
-    "text" : "[CONNECTION AQUIRED]
+    "text" : "[CONNECTION SUCCESSFUL]
     -Readings are showing a slight increase in your mental instability."
   },
   "uclimbo08" : {
@@ -38,5 +38,9 @@
     "senderName" : "Esther Bright",
     "portraitImage" : "/interface/chatbubbles/estherthoughtful.png:<frame>",
     "text" : "What... Happened? Are you alright? Something had interfered with your ship's communication functions, and I'm guessing it was... Whatever that life form was."
-  }
+  },
+  "uclimbo09" : {
+    "type" : "mission",
+    "text" : "There is a strange overflow of cosmic energy heading straight for your location. I suggest leaving as soon as you can."
+  },
 }
