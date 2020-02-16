@@ -1,4 +1,55 @@
 [
+  /*{ "op" : "add",
+    "path" : "/planetTypes/ucplasma",
+    "value" :
+    {
+      "gravityRange" : [10, 80],
+       "threatRange" : [8, 10],
+       "layers" : {
+         "space" : {
+           "primaryRegion" : ["void"]
+         },
+         "atmosphere" : {
+           "primaryRegion" : ["void"]
+         },
+         "surface" : {
+           "primaryRegion" : ["ucplasma"]
+         },
+         "subsurface" : {
+           "primaryRegion" : ["barrenunderground"]
+         },
+         "underground1" : {
+           "primaryRegion" : ["barrenunderground"],
+           "secondaryRegions" : []
+         },
+         "underground2" : {
+           "primaryRegion" : ["midunderground"],
+           "secondaryRegions" : []
+         },
+         "underground3" : {
+           "primaryRegion" : ["deepunderground"],
+           "secondaryRegions" : []
+         },
+         "core" : {
+           "primaryRegion" : ["core"],
+           "baseHeight" : 150
+         }
+      }
+    }
+  },
+  {"op" : "add",
+  "path" : "/regionTypes/ucmarslike",
+  "value" :
+    {
+      "blockSelector" : [ "remixedMountainsSurface" ],
+      "fgCaveSelector" : [ "surfaceCaves" ],
+      "bgCaveSelector" : [ "empty" ],
+      "biome" : [
+        [0, [ "ucplasma" ]]
+      ]
+    }
+  },*/
+
   { "op" : "add",
     "path" : "/planetTypes/ucmarslike",
     "value" :
