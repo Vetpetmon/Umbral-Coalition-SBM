@@ -1,0 +1,63 @@
+{
+  "name" : "ucplasma",
+  "friendlyName" : "Dimensional Node",
+  "airless" : true,
+  "statusEffects" : [ "biomeairless" ],
+
+  "hueShiftOptions" : [-180, -135, -90, -45, 0, 45, 90, 135, 180],
+
+  "weather" : [
+    [0, [
+      "/weather.config:clear"
+    ]]
+  ],
+
+  "skyOptions" : [
+    {
+      // Forever bright
+      "mainColor" : [255, 255, 255],
+
+      "morningColors" : [ [255, 255, 255], [255, 255, 255] ],
+      "dayColors" : [ [255, 255, 255], [255, 255, 255] ],
+      "eveningColors" : [ [255, 255, 255], [255, 255, 255] ],
+      "nightColors" : [ [255, 255, 255], [255, 255, 255] ],
+
+      "morningLightColor" : [255, 255, 255],
+      "dayLightColor" : [255, 255, 255],
+      "eveningLightColor" : [255, 255, 255],
+      "nightLightColor" : [255, 255, 255]
+    }
+  ],
+
+  "mainBlock" : "ucimpossibiltyblock",
+  "subBlocks" : [ "uccompressedplasmablock" ],
+  "ores" : "none",
+
+  "parallax" : "/parallax/surface/barren.parallax",
+
+  "ambientNoises" : {
+    "day" : {
+      "tracks" : [ "/sfx/environmental/space_loop2.ogg" ]
+    },
+    "night" : {
+      "tracks" : [ "/sfx/environmental/space_loop2.ogg" ]
+    }
+  },
+
+  "musicTrack" : {
+    "day" : {
+      "tracks" : [ "/music/Bit-Based.ogg", "/music/Bodysnatchers.ogg", "/music/drosera.ogg", "/music/scorian-flow.ogg", "/music/tentacle-exploration1.ogg", "/music/lava-exploration2.ogg", "/music/lava-exploration1.ogg", "/music/arctic-battle2-loop.ogg" ]
+    },
+    "night" : {
+      "tracks" : [ "/music/Bit-Based.ogg", "/music/Bodysnatchers.ogg", "/music/drosera.ogg", "/music/scorian-flow.ogg", "/music/tentacle-exploration1.ogg", "/music/lava-exploration2.ogg", "/music/lava-exploration1.ogg", "/music/arctic-battle2-loop.ogg" ]
+    }
+  },
+
+  "surfacePlaceables" : {
+    "items" : [ ]
+  },
+
+  "undergroundPlaceables" : {
+    "items" : [ ]
+  }
+}
