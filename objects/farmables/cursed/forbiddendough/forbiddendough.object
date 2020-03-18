@@ -1,0 +1,56 @@
+{
+  "objectName" : "ucforbiddendough",
+  "colonyTags" : ["storage","farming"],
+  "rarity" : "Rare",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "seed",
+  "price" : 100,
+  "description" : "Not even the robots of the Quarantine will touch this.
+^cyan;Made while Thirran was stuck in the 2020 Quarantine.^reset;",
+  "shortdescription" : "Fobidden Dough Bin",
+  "race" : "generic",
+  "health" : 20,
+
+  "apexDescription" : "Someone assumed yeast wouldn't work in a dumpster. Oh, how they were so, very, very wrong.",
+  "avianDescription" : "Must be some sort of alchemical accident gone wrong. Absolutely not going to touch this!",
+  "floranDescription" : "Grossssss dough.",
+  "glitchDescription" : "Disgusted. Proof that yeast works in any condition.",
+  "humanDescription" : "Dear mod developer: Is this a joke? Is this funny to you?",
+  "hylotlDescription" : "No.",
+  "novakidDescription":  "I AAAAAAIN'T TOUCHIN' THAT!",
+
+  "xenonianDescription": "Trash-flavored bread, anybody?",
+  "radionDescription": "A failed baker's mix that still has Saccharomyces cerevisiae in it, that same baker thought it would be a good idea to throw it away in a dumpster. Suggested to be an infinte source of questionable dough.",
+
+  "inventoryIcon" : "dumpstericon.png",
+  "orientations" : [
+    {
+      "image" : "dumpster.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "dumpster.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/shippingcontainer_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/shippingcontainer_close.ogg" ],
+  "slotCount" : 4,
+  "uiConfig" : "/interface/chests/ucitemgenerator4.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600,
+
+  "scripts" : [ "itemgiver.lua" ],
+  "scriptDelta" : 3600
+}

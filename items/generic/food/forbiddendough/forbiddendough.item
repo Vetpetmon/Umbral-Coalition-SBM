@@ -1,0 +1,12 @@
+{
+  "itemName" : "ucforbiddendoughitem",
+  "rarity" : "Common",
+  "price" : 0,
+  "category" : "cookingIngredient",
+  "eventCategory" : "eventCrop",
+  "inventoryIcon" : "forbiddendough.png",
+  "description" : "^red;No.^reset;",
+  "shortdescription" : "Forbidden Dough",
+  "maxStack" : 1000
+  //"learnBlueprintsOnPickup" : [ "" ]
+}
