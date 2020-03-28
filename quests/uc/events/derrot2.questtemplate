@@ -1,0 +1,32 @@
+{
+  "id" : "uceventderrot2",
+  "title" : "^orange;A Strange Fella'",
+  "text" : "'Em things be back again, moldin' ma carrots again! Jus' give me a few carrots an' I'll give ya' tha' seeds.",
+  "completionText" : "Thanks once mo' fo' tha' help! These seeds a' rare ones, so take carea' them. Ya' will finda' use for 'em in this 'ere portal if ya grow 'nough of 'em.",
+  "moneyRange" : [50,50],
+  "ephemeral" : true,
+  "rewards" : [
+    [ [ "uceventpastelcarrot1", 3 ], [ "uceventcarrotportal", 1 ] ]
+  ],
+  "canBeAbandoned" : false,
+
+  "updateDelta" : 120,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : "questGiver",
+      "questComplete" : "questReceiver"
+    },
+
+    "requireTurnIn" : true,
+
+    "conditions" : [
+      {
+        "type" : "gatherItem",
+        "itemName" : "carrot",
+        "count" : 15,
+        "consume" : true
+      }
+    ]
+  }
+}

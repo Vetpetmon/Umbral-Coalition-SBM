@@ -21,6 +21,8 @@
       { "item" : "flagnovakid" },
       { "item" : "radioninventorstable" },
       { "item" : "ucradionplasmagenerator" },
+      { "item" : "ucyei" },
+      { "item" : "ucxox" },
 
     // Anvil
       { "item" : "humantier1head" },

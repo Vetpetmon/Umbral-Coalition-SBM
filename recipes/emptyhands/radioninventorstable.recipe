@@ -1,6 +1,7 @@
 {
   "input" : [
-    { "item" : "ucradionplasma", "count" : 50 }
+    { "item" : "ucxox", "count" : 20 },
+    { "item" : "ucyei", "count" : 10 }
   ],
   "output" : {
     "item" : "radioninventorstable",

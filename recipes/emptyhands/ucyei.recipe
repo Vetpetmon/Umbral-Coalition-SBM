@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "ucradionplasma", "count" : 15 }
+  ],
+  "output" : {
+    "item" : "ucyei",
+    "count" : 1
+  },
+  "groups" : [ "plain", "all" ]
+}
