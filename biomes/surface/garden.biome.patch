@@ -1,6 +1,6 @@
 [
   //MICRODUNGEONS
-  /*{ "op" : "add",
+  { "op" : "add",
 	 "path" : "/surfacePlaceables/items/-",
 	 "value" :
     {
@@ -11,7 +11,8 @@
       "type" : "microdungeon",
       "microdungeons" : [ "ucevent1microdungeon" ]
     }
-  }*/
+  },
+  //CROPS
   {
 		"op": "add",
 		"path": "/surfacePlaceables/items/-",
