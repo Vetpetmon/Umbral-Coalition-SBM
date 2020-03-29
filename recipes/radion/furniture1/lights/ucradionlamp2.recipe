@@ -1,6 +1,8 @@
 {
   "input" : [
-    { "item" : "ucradionplasma", "count" : 50 }
+    { "item" : "ucradionplasma", "count" : 50 },
+    { "item" : "ucxox", "count" : 10 },
+    { "item" : "ucyei", "count" : 10 }
   ],
   "output" : { "item" : "ucradionlamp2", "count" : 1 },
   "groups" : [ "radioncraftingfurniture", "lights", "all" ]

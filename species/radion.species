@@ -80,6 +80,7 @@
       { "item" : "ucradionlamp4" },
       { "item" : "ucradionlamp5" },
       { "item" : "ucradionlamp6" },
+      { "item" : "ucradionlamp7" },
       // tables
       { "item" : "ucradiontable01" },
       { "item" : "ucradiontable02" },

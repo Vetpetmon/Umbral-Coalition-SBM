@@ -1,10 +1,11 @@
 {
   "input" : [
-    { "item" : "ucradionplasma", "count" : 10 }
+    { "item" : "ucxox", "count" : 1 },
+    { "item" : "ucyei", "count" : 1 }
   ],
   "output" : {
     "item" : "ucplasmaplatform",
-    "count" : 5
+    "count" : 25
   },
   "duration" : 0.05,
   "groups"  : [ "radioncraftingfurniture", "materials", "all" ]

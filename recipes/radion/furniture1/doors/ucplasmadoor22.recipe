@@ -1,6 +1,7 @@
 {
   "input" : [
-    { "item" : "ucradionplasma", "count" : 25 }
+    { "item" : "ucxox", "count" : 10 },
+    { "item" : "ucyei", "count" : 5 }
   ],
   "output" : { "item" : "ucplasmadoor22", "count" : 1 },
   "groups" : [ "radioncraftingfurniture", "doors", "all" ]

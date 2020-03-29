@@ -4,6 +4,6 @@
     { "item" : "ucxox", "count" : 10 },
     { "item" : "ucyei", "count" : 5 }
   ],
-  "output" : { "item" : "ucradionlamp1", "count" : 1 },
+  "output" : { "item" : "ucradionlamp7", "count" : 1 },
   "groups" : [ "radioncraftingfurniture", "lights", "all" ]
 }

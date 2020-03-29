@@ -18,8 +18,8 @@
   "humanDescription" : "This marker can be saved as a location for my teleporter. Then I can return to it at any time.",
   "hylotlDescription" : "This marker can act as a way point, enabling me to return to this point using a teleporter.",
   "novakidDescription" : "I can bookmark this marker for quick teleportin'.",
-  "xenonianDescription" : "The most recognized symbol of the coalition, now as a waypoint.",
-  "radionDescription" : "Umbral Coalition-owned waypoint. Serves as a one-way teleportation system.",
+  "xenonianDescription" : "The most recognized symbol of the coalition, now as a waypoint!",
+  "radionDescription" : "An Umbral Coalition-owned waypoint. Serves as a one-way teleportation system.",
 
   "interactAction" : "OpenTeleportDialog",
   "interactData" : "/interface/warping/destinationonly.config",

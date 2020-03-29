@@ -1,0 +1,24 @@
+{
+	"id" : "ucgchguidecodex",
+	//"species" : "human",
+	"title" : "The Great Carrot Harvest!",
+	"description" : "A short and simple guide to the Great Carrot Harvest event.",
+	"icon" : "orangecover.png",
+	//Written by: Vetpetmon
+	"contentPages" : [
+"This is a special, limited-time event where you grow carrots and trade them in for special goods from another dimension.
+
+Though, don't be fooled, for these are not your usual carrots.",
+"You'll recieve your first few special carrots, called Pastel Carrots, from Derrot, after you prove your worth of taking care of such an endangered carrot breed... And it looks like you've already done that!",
+"You'll want to prepare a larger farm than you usually make, but these carrots are rather small, and you can always use your ^cyan;Germination Lab^reset; to speed things up a bit.",
+"With the portal Derrot has given you, you'll notice that you may need other colored pastel carrots to trade in for some stuff. Do not worry, however...",
+"... As long as you plant your first color variant and harvest them regularly, you will come across all of the other colors eventually.",
+"If you're wondering how I know about all of this: do not ask how I snuck this note with the portal. That's beyond your capability of understanding and learning such knowledge will have you sent to Limbo in a human heartbeat.
+
+- Vetpetmon"
+	],
+	"itemConfig" : {
+		"rarity" : "rare",
+		"price" : 50
+	}
+}

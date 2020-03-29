@@ -1,6 +1,8 @@
 {
   "input" : [
-    { "item" : "ucradionplasma", "count" : 200 },
+    { "item" : "ucradionplasma", "count" : 100 },
+    { "item" : "ucxox", "count" : 40 },
+    { "item" : "ucyei", "count" : 20 },
     { "item" : "staticcell", "count" : 5 },
     { "item" : "manipulatormodule", "count" : 1 }
   ],

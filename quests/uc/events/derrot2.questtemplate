@@ -6,7 +6,7 @@
   "moneyRange" : [50,50],
   "ephemeral" : true,
   "rewards" : [
-    [ [ "uceventpastelcarrot1", 3 ], [ "uceventcarrotportal", 1 ] ]
+    [ [ "uceventpastelcarrot1", 3 ], [ "uceventcarrotportal", 1 ], [ "ucgchguidecodex", 1 ] ]
   ],
   "canBeAbandoned" : false,
 
