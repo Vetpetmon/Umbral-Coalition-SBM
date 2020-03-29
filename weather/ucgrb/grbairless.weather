@@ -3,7 +3,7 @@
   "icon" : "/interface/cockpit/weather/gammaray.png",
   "particles" : [ ],
   "projectiles" : [ ],
-  "statusEffects" : [ "ucgrbairless" ],
+  "statusEffects" : [ "ucgrbairlessstatus" ],
   "duration" : [50, 100],
   "lightningFrequency" : 12,
   "weatherNoises" : [ "/sfx/melee/electrobaton_idle2.ogg" ],
