@@ -64,15 +64,10 @@
 
   //Event 1
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ucradionrecipeunlocker" } },
-  
+
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "unicornplush" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ucmustardspraycan" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uclargenuclearcore" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uceventpastelcarrot1" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uceventpastelcarrot2" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uceventpastelcarrot3" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uceventpastelcarrot4" } },
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uceventpastelcarrot5" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "bunnyhead" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "fullbunnyhead" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "flowerstatue" } },
