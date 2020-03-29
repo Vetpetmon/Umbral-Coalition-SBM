@@ -63,6 +63,8 @@
   // EVENTS
 
   //Event 1
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ucradionrecipeunlocker" } },
+  
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "unicornplush" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ucmustardspraycan" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "uclargenuclearcore" } },

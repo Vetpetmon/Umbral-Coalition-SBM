@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "uceventpastelcarrot1", "count" : 22 },
+    { "item" : "uceventpastelcarrot2", "count" : 22 },
+    { "item" : "uceventpastelcarrot3", "count" : 22 },
+    { "item" : "uceventpastelcarrot4", "count" : 22 },
+    { "item" : "uceventpastelcarrot5", "count" : 22 }
+  ],
+  "duration" : 0,
+  "output" : { "item" : "ucradionrecipeunlocker", "count" : 1 },
+  "groups" : [ "ucevent1", "all" ]
+}
