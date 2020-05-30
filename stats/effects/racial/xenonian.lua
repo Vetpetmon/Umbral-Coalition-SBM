@@ -7,7 +7,9 @@ function init()
     {stat = "xenonian", amount = 1},
     {stat = "baseDiseaseImmunity", amount = 1},
     {stat = "poisonResistance", amount = 0.4},
-    {stat = "electricResistance", amount = 0.3},
+    {stat = "maxEnergy", baseMultiplier = 0.9},
+    {stat = "electricResistance", amount = -0.3},
+    {stat = "fireResistance", amount = -0.3},
     {stat = "cosmicResistance", amount = -0.3}
   })
 end

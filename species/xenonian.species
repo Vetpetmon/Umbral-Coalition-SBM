@@ -3,7 +3,8 @@
 	"charCreationTooltip" : {
 	"title" : "xenonian",
 	"subTitle" : "O2",
-	"description" : "The Xenonians are a race of toxin and disease-carrying slug-like creatures from Xen-789."
+	"description" : "A species of slug-like beings, the Xenonians are the dominant species representing the Umbral Coalition. While immune to every toxin known, they prove to be extremely weak in sterile environments.
+^green;Poison, disease, & slime immunities,^reset;^red;less energy, weak to electric and heat.^reset;"
   },
 
   "statusEffects" : [ "ucxenonianabilities" ],

@@ -2,7 +2,7 @@
   "name" : "ucgrbairlessstatus",
 
   "effectConfig" : {},
-  "defaultDuration" : 15,
+  "defaultDuration" : 10,
 
   "scripts" : [
     "grbairless.lua"
