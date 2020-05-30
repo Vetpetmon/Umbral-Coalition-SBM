@@ -4,7 +4,7 @@
 	"title" : "Rad'ion",
 	"subTitle" : "O3",
 	"description" : "Strange shapeshifters and impersonators from another dimension, the rad'ion are beings of plasma and strange matter. In their homeworld, they are gods, but outside of it, they face a fragile existence.
-^green;Resistance to physical + rad, more energy, solar flare immunity,^reset;^red;increased hunger rate, less HP, extremely sensitive to temperature changes.^reset;"
+^green;Resistance to physical + rad, more energy, solar flare immunity,^reset; movement bonuses, ^red;increased hunger rate, less HP, extremely sensitive to temperature changes.^reset;"
   },
   "statusEffects" : [ "ucradionabilities" ],
 
