@@ -263,7 +263,7 @@
     // Cursed
     { "ffe2c5" : "d6c3df", "ffc181" : "cd2354", "d39c6c" : "69284a", "c7815b" : "2f1a2b" },
     // Deep Cosmos
-    { "ffe2c5" : "4ba3ed", "ffc181" : "a672d6", "d39c6c" : "8b4083", "c7815b" : "432153" },
+    { "ffe2c5" : "96d6ff", "ffc181" : "a672d6", "d39c6c" : "8b4083", "c7815b" : "432153" },
     // Odd Blue
     {"d39c6c":"6c4aa3","ffc181":"8e95c4","c7815b":"4b0082","ffe2c5":"b0e0e6"},
     // Retro Blue
@@ -307,7 +307,7 @@
     // Acidic Green
     { "ffe2c5" : "00FFF2", "ffc181" : "00FFB3", "d39c6c" : "00E369", "c7815b" : "00B631" },
     // Retro Green
-    {"ffe2c5":"3a5d3a","ffc181":"72a972","d39c6c":"031203","c7815b":"aaf5aa"},
+    {"ffe2c5":"aaf5aa","ffc181":"031203","d39c6c":"72a972","c7815b":"3a5d3a"},
     // Grass
     { "ffe2c5" : "C4E538", "ffc181" : "A3CB38", "d39c6c" : "009432", "c7815b" : "006266" },
     // Tropical
@@ -345,7 +345,7 @@
     // White/Pale Green
     { "ffe2c5" : "f0f7f4", "ffc181" : "b3bfb8", "d39c6c" : "7e8d85", "c7815b" : "3c493f" },
     // Eldergrowth
-    { "ffe2c5" : "8e24aa", "ffc181" : "572540", "d39c6c" : "424242", "c7815b" : "212121" },
+    { "ffe2c5" : "8e24aa", "ffc181" : "893654", "d39c6c" : "572540", "c7815b" : "190D1B" },
     // Gen Bisque
     {"d39c6c":"bfab93","ffc181":"ffe4c4","c7815b":"7f7262","ffe2c5":"fffff5"}
   ],
