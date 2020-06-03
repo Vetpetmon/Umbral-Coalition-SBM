@@ -208,6 +208,8 @@
     { "ffe2c5" : "EFE6D9", "ffc181" : "F7C331", "d39c6c" : "F7882F", "c7815b" : "6B7A8F" },
     // Pyromaniac
     {"d39c6c":"ff5500","ffc181":"ffaa00","c7815b":"ff0000","ffe2c5":"ffff00"},
+    // Vivid Fire
+    { "ffe2c5" : "fcf173", "ffc181" : "ffb04d", "d39c6c" : "b62c46", "c7815b" : "691e47" },
     // Fire
     { "ffe2c5" : "fff3e0", "ffc181" : "ffb74d", "d39c6c" : "ff9800", "c7815b" : "f57c00" },
     // Orange
@@ -240,6 +242,8 @@
     { "ffe2c5" : "f2a1a1", "ffc181" : "e76d89", "d39c6c" : "8e24aa", "c7815b" : "1d1145" },
     // Cosmic
     { "ffe2c5" : "9ac6c5", "ffc181" : "7785ac", "d39c6c" : "5b2a86", "c7815b" : "360568" },
+    // Pan-like
+    { "ffe2c5" : "f1ffb2", "ffc181" : "a8beff", "d39c6c" : "e360ff", "c7815b" : "e3006d" },
     // Jellywalker w/ Yellow
     { "ffe2c5" : "f3b700", "ffc181" : "FF20E0", "d39c6c" : "962F9F", "c7815b" : "5b2a86" },
     // Jellywalker
@@ -349,8 +353,12 @@
   ],
   //Eye color
   "undyColor" : [
+    // Lost Pink
+    { "f32200" : "ff8a81", "dc1f00" : "ff8a81", "be1b00" : "ff8a81", "951500" : "ff8a81" },
     // Blue Booster
     { "f32200" : "e1f5fe", "dc1f00" : "81d4fa", "be1b00" : "29b6f6", "951500" : "039be5" },
+    // Cybercore
+    { "f32200" : "A9F1E8", "dc1f00" : "A9F1E8", "be1b00" : "A9F1E8", "951500" : "A9F1E8" },
     // Dissolving Cognition
     { "f32200" : "b4b2c0", "dc1f00" : "b4b2c0", "be1b00" : "b4b2c0", "951500" : "b4b2c0" },
     // Curious Notion
@@ -361,14 +369,20 @@
     { "f32200" : "ac73ad", "dc1f00" : "ac73ad", "be1b00" : "ac73ad", "951500" : "ac73ad" },
     // Ocean Core
     { "f32200" : "B8CFD9", "dc1f00" : "B8CFD9", "be1b00" : "B8CFD9", "951500" : "B8CFD9" },
+    // Ocean Core V2
+    { "f32200" : "6BC2C2", "dc1f00" : "6BC2C2", "be1b00" : "6BC2C2", "951500" : "6BC2C2" },
     // Color out of Space
     { "f32200" : "D500F9", "dc1f00" : "D500F9", "be1b00" : "D500F9", "951500" : "D500F9" },
     // Darksynth
     { "f32200" : "87A5B7", "dc1f00" : "87A5B7", "be1b00" : "87A5B7", "951500" : "87A5B7" },
+    // Zombie Green
+    { "f32200" : "969866", "dc1f00" : "969866", "be1b00" : "969866", "951500" : "969866" },
     // Electro Forest
     { "f32200" : "649b40", "dc1f00" : "649b40", "be1b00" : "649b40", "951500" : "649b40" },
     // Synthetic Beach
     { "f32200" : "fefff3", "dc1f00" : "fefff3", "be1b00" : "fefff3", "951500" : "fefff3" },
+    // Zombie Yellow
+    { "f32200" : "F3C266", "dc1f00" : "F3C266", "be1b00" : "F3C266", "951500" : "F3C266" },
     // Yellow Crystal
     { "f32200" : "EFE490", "dc1f00" : "EFE490", "be1b00" : "EFE490", "951500" : "EFE490" },
     // False white
