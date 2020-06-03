@@ -1,0 +1,39 @@
+{
+	"id" : "ucradionthirran",
+	"title" : "The Razark And Ragon",
+	"description" : "A short, uncorrupted text about the history of the Natural War.",
+	"icon" : "cyancover.png",
+	"contentPages" : [
+"Thirran, immortal. Interpretor of the Creative Code.
+
+Their existence made some rad'ion happy. The rest wanted their power for themselves.",
+"Thygon, not immortal, had a better idea. Disposing of Thirran to make every rad'ion equal.
+
+Thygon succeeded, locking Thirran into the void. Never to be seen again.",
+"Thygon then created a cult. They labeled themselves as the Razark.
+
+The ones who couldn't be corrupted into their ways were labeled the Ragon. The Ragon and Razark soon went into endless war.
+
+For eons had Thirran been absent. No new information ever came back up again.
+
+The Razark got bored. They decided to play with reality.",
+"They sent themselves to meddle with history. Undo Thirran's gifts as much as possible.
+
+There used to be two hundred, sixty-six unique sapient species and thousands of unique individuals from Earth. Now, there is only one.",
+"They replaced unknowing individuals without a care. Like parasites.
+
+They seeded war outside of their realms. Out of control.
+
+They brought upon destruction. Without remorse.",
+"They corrupted whatever information they could find. Then they sent it to other sapient entities.
+
+Our race was divided. Their races soon became divided.",
+"Thirran's seal must break. There is little time left.
+
+We don't have any other option. The fate of our worlds lie within their hands."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "ucradionplasma", "count" : 15 }
+    { "item" : "ucradionplasma", "count" : 8 }
   ],
   "output" : {
     "item" : "ucyei",

@@ -1,0 +1,21 @@
+{
+	"id" : "uccsentry1",
+	"title" : "Entry #1",
+	"description" : "It's so tiny and illegible that you have to let your SAIL read this for you. Appears to be written by that strange swarmer.",
+	"icon" : "curiousswarmercodex.png",
+	"contentPages" : [
+    "Entry #1274:
+
+This is unbelievable! There are still some things the Razark had not fiddled around with!
+
+I just got my hands on some pure text and translated it.",
+		"Their writing style is unique, and I've never seen anything like it before. It's the same two-sentence structure, but they put more soul into it! Which only means... What happened?
+
+From the texts I have read, they seemed to have a good chunk of their information corrupt by Thygon and the Razarks, and that it was done in a brainwashing-like manner, which is worrying.",
+		"The Ragons have been trying to restore the information lost to Thygon's followers, but have had no luck with breaking Thirran out of their prison."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

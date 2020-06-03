@@ -11,7 +11,7 @@
   "humanoidOverrides" : { "bodyFullbright" : true },
 
   "nameGen" : [ "/species/xenoniannamegen.config:names", "/species/xenoniannamegen.config:names" ],
-  "ouchNoises" : [ "/sfx/humanoid/Radion_Hurt.ogg", "/sfx/humanoid/Radion_Hurt.ogg" ],
+  "ouchNoises" : [ "/sfx/humanoid/Radion_Hurt2.ogg", "/sfx/humanoid/Radion_Hurt2.ogg" ],
   "charGenTextLabels" : [ "Plasma color", "Reactors", "Shirt", "Legwear", "Eye color", "", "Shirt color", "Legwear color", "RAD'ION", "Personality" ],
   "skull" : "/humanoid/radion/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=8af062FF?replace=31a6ffFF=40bf21FF",
@@ -184,6 +184,8 @@
     {"d39c6c":"a09e4e","ffc181":"d8d077","c7815b":"5f6229","ffe2c5":"f1eabb"},
     // Yellow Booster
     { "ffe2c5" : "fffde7", "ffc181" : "ffff8d", "d39c6c" : "fff176", "c7815b" : "ffea00" },
+    // Sunrise
+    { "ffe2c5" : "FDF7C0", "ffc181" : "fde03f", "d39c6c" : "f6b919", "c7815b" : "352b12" },
     // Yellow
     { "ffe2c5" : "fff8b5", "ffc181" : "fde03f", "d39c6c" : "f6b919", "c7815b" : "352b12" },
     // Vivid Yellow
@@ -198,6 +200,10 @@
     { "ffe2c5" : "FFFF9C", "ffc181" : "FFE967", "d39c6c" : "F9A21C", "c7815b" : "BA4712" },
     // Gold
     {"d39c6c":"977437","ffc181":"cbb96f","c7815b":"642f00","ffe2c5":"ffffa7"},
+    // Bright Fire
+    {"ffe2c5":"FFC312","ffc181":"F79F1F","d39c6c":"EE5A24","c7815b":"F16E88"},
+    // Dull Fire
+    {"ffe2c5":"F4F0D4","ffc181":"FEE1BE","d39c6c":"FCB2A9","c7815b":"EA2027"},
     // Fruity Core
     { "ffe2c5" : "EFE6D9", "ffc181" : "F7C331", "d39c6c" : "F7882F", "c7815b" : "6B7A8F" },
     // Pyromaniac
@@ -246,6 +252,8 @@
     { "ffe2c5" : "ea80fc", "ffc181" : "e040fb", "d39c6c" : "d500f9", "c7815b" : "aa00ff" },
     // Purple
     { "ffe2c5" : "fedbff", "ffc181" : "da89f7", "d39c6c" : "ae38f1", "c7815b" : "340e52" },
+    // Natural Purple
+    { "ffe2c5" : "FEF3DB", "ffc181" : "EBC4E9", "d39c6c" : "B18ABD", "c7815b" : "665384" },
     // Mitiden
     //{ "ffe2c5" : "ffeb3b", "ffc181" : "3f51b5", "d39c6c" : "3f51b5", "c7815b" : "673ab7" },
     // Vivid Cosmos
@@ -286,6 +294,8 @@
     { "ffe2c5" : "c3fffc", "ffc181" : "4df4df", "d39c6c" : "0cd6b8", "c7815b" : "0c482d" },
     // Fine Leaf
     {"d39c6c":"0e7a7c","ffc181":"5dc280","c7815b":"00426b","ffe2c5":"cbef54"},
+    // Pine
+    {"ffe2c5":"EFDCAF","ffc181":"CFB27D","d39c6c":"6B704D","c7815b":"394C42"},
     // Fading Leaf
     {"d39c6c":"747c34","ffc181":"b9a91a","c7815b":"2f4f4f","ffe2c5":"ffd700"},
     // May Include Side Effects
@@ -295,7 +305,9 @@
     // Acidic Green
     { "ffe2c5" : "00FFF2", "ffc181" : "00FFB3", "d39c6c" : "00E369", "c7815b" : "00B631" },
     // Retro Green
-    {"d39c6c":"3a5d3a","ffc181":"72a972","c7815b":"031203","ffe2c5":"aaf5aa"},
+    {"ffe2c5":"3a5d3a","ffc181":"72a972","d39c6c":"031203","c7815b":"aaf5aa"},
+    // Grass
+    { "ffe2c5" : "C4E538", "ffc181" : "A3CB38", "d39c6c" : "009432", "c7815b" : "006266" },
     // Tropical
     { "ffe2c5" : "c7ffdc", "ffc181" : "649b40", "d39c6c" : "506b34", "c7815b" : "4f543d" },
     // Green Booster
@@ -330,6 +342,8 @@
     { "ffe2c5" : "deffff", "ffc181" : "a2dbdb", "d39c6c" : "6ea2a9", "c7815b" : "222d33" },
     // White/Pale Green
     { "ffe2c5" : "f0f7f4", "ffc181" : "b3bfb8", "d39c6c" : "7e8d85", "c7815b" : "3c493f" },
+    // Eldergrowth
+    { "ffe2c5" : "8e24aa", "ffc181" : "6a1b9a", "d39c6c" : "424242", "c7815b" : "212121" },
     // Gen Bisque
     {"d39c6c":"bfab93","ffc181":"ffe4c4","c7815b":"7f7262","ffe2c5":"fffff5"}
   ],
@@ -345,12 +359,18 @@
     { "f32200" : "dbcada", "dc1f00" : "dbcada", "be1b00" : "dbcada", "951500" : "dbcada" },
     // Tainted Core
     { "f32200" : "ac73ad", "dc1f00" : "ac73ad", "be1b00" : "ac73ad", "951500" : "ac73ad" },
+    // Ocean Core
+    { "f32200" : "B8CFD9", "dc1f00" : "B8CFD9", "be1b00" : "B8CFD9", "951500" : "B8CFD9" },
+    // Color out of Space
+    { "f32200" : "D500F9", "dc1f00" : "D500F9", "be1b00" : "D500F9", "951500" : "D500F9" },
     // Darksynth
     { "f32200" : "87A5B7", "dc1f00" : "87A5B7", "be1b00" : "87A5B7", "951500" : "87A5B7" },
     // Electro Forest
     { "f32200" : "649b40", "dc1f00" : "649b40", "be1b00" : "649b40", "951500" : "649b40" },
     // Synthetic Beach
     { "f32200" : "fefff3", "dc1f00" : "fefff3", "be1b00" : "fefff3", "951500" : "fefff3" },
+    // Yellow Crystal
+    { "f32200" : "EFE490", "dc1f00" : "EFE490", "be1b00" : "EFE490", "951500" : "EFE490" },
     // False white
     { "f32200" : "ECECE1", "dc1f00" : "ECECE1", "be1b00" : "ECECE1", "951500" : "ECECE1" },
     // Overgrowth 1

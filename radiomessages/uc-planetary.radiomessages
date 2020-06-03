@@ -1,15 +1,18 @@
 {
   "uchostileplanetmsg" : {
-    //"type" : "tutorial",
+    "unique" : false,
     "text" : "There is a series of devices producing psychic waves all across the planet that supposedly drives all sentient life mad. You have been warned"
   },
   "ucgammaraywarning" : {
+    "unique" : false,
     "text" : "I regret to inform you that a gamma ray burst is rapidly approaching this celestial body. Find a safe area as soon as possible."
   },
   "ucdimensionalwarpwarning" : {
+    "unique" : false,
     "text" : "^red;Your atomic structure is being manipulated to fit the rules of this dimension. This means your cells will be malformed and possibly destroyed.^reset;"
   },
   "ucpoisonousplanetwarning" : {
+    "unique" : false,
     "text" : "The planet you happen to be on has a poisonous atmosphere, and said atmosphere is slowly weakening you. I'd advise finding protection as soon as you can."
   }
 }
