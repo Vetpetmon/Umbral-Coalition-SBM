@@ -11,6 +11,10 @@
     "unique" : false,
     "text" : "^red;Your atomic structure is being manipulated to fit the rules of this dimension. This means your cells will be malformed and possibly destroyed.^reset;"
   },
+  "ucdimensionalwarpmaxwarning" : {
+    "unique" : false,
+    "text" : "^red;Your very existence is being warped to fit the rules of this^reset;^#FF00FF; bizarre dimension.^reset; LEAVE THIS PLACE IMMEDIATELY."
+  },
   "ucpoisonousplanetwarning" : {
     "unique" : false,
     "text" : "The planet you happen to be on has a poisonous atmosphere, and said atmosphere is slowly weakening you. I'd advise finding protection as soon as you can."

@@ -11,6 +11,7 @@ function init()
     {stat = "ucsolarflareImmunity", amount = 1},
     {stat = "baseDiseaseImmunity", amount = 1},
     {stat = "radiationburnImmunity", amount = 1},
+    {stat = "60thdimensionresist", amount = 1},
     {stat = "biomeradiationImmunity", amount = 1},
     {stat = "foodDelta", baseMultiplier = 1.35},
     {stat = "physicalResistance", amount = 0.4},
