@@ -8,6 +8,7 @@ function init()
   self.tickTime = 1
   self.tickTimer = self.tickTime
   self.killTimer = self.killTime
+  self.invalid = false
   if not self.severity <= 1 and self.severity >= 3 then
 
     if self.severity == 1 or self.severity == 2 then
@@ -17,8 +18,10 @@ function init()
       world.sendEntityMessage(entity.id(), "queueRadioMessage", "ucdimensionalwarpmaxwarning",1)
     end
   else
-    sb.logInfo("ERROR: INVALID SEVERITY LEVEL GIVEN. PLEASE CONTACT THIRRAN. WARP SCRIPT STOPPED.")
-    uninit()
+    if self.invalid == false then --while not stopping the script, it does spit a warning out ONCE in the log while performing everything else.
+    sb.logInfo("ERROR: INVALID SEVERITY LEVEL GIVEN. PLEASE CONTACT THIRRAN.")
+    self.invalid = true
+    end
   end
 end
 

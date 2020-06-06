@@ -1,5 +1,5 @@
 [
   //CODICES
 
-  {"op" : "add", "path" : "/humancampLore/1/pool/-", "value" : {"weight" : 0.05, "item" : "ucthebadstarcodex" } }
+  {"op" : "add", "path" : "/humancampLore/0/1/pool/-", "value" : {"weight" : 0.05, "item" : "ucthebadstarcodex" } }
 ]

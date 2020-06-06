@@ -1,11 +1,11 @@
 {
   "input" : [
-    { "item" : "ucxox", "count" : 15 },
-    { "item" : "ucyei", "count" : 15 }
+    { "item" : "ucxox", "count" : 10 },
+    { "item" : "ucyei", "count" : 10 }
   ],
   "output" : {
     "item" : "uccompressedplasmablock",
-    "count" : 50
+    "count" : 30
   },
   "duration" : 0.3,
   "groups"  : [ "radioncraftingfurniture", "materials", "all" ]

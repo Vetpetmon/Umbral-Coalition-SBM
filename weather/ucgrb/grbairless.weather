@@ -4,7 +4,7 @@
   "particles" : [ ],
   "projectiles" : [ ],
   "statusEffects" : [ "ucgrbairlessstatus" ],
-  "duration" : [50, 100],
+  "duration" : [40, 60],
   "lightningFrequency" : 12,
   "weatherNoises" : [ "/sfx/melee/electrobaton_idle2.ogg" ],
   "maximumWind" : 180.0

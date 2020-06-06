@@ -1,7 +1,7 @@
 {
   "input" : [
-    { "item" : "ucxox", "count" : 15 },
-    { "item" : "ucyei", "count" : 15 }
+    { "item" : "ucxox", "count" : 10 },
+    { "item" : "ucyei", "count" : 10 }
   ],
   "output" : {
     "item" : "ucimpossibiltyblock",
