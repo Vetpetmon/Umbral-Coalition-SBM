@@ -49,6 +49,14 @@
   // MOON
   {
   "op" : "add",
+  "path" : "/moonpeaceful",
+  "value" : [
+      [0.8, "clear"],
+      [0.2, "glowingrain"]
+    ]
+  },
+  {
+  "op" : "add",
   "path" : "/moongrb",
   "value" : [
       [0.65, "clear"],
