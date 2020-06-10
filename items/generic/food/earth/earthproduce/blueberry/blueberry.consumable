@@ -1,0 +1,20 @@
+{
+  "itemName" : "eecblueberry",
+  "rarity" : "Common",
+  "price" : 15,
+  "category" : "food",
+  "eventCategory" : "eventCrop",
+  "inventoryIcon" : "blueberry.png",
+  "description" : "The ripe fruit of a blueberry bush.",
+  "shortdescription" : "Blueberry",
+  "foodValue" : 2,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 2.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup" : [ "eecblueberryseed" ]
+}

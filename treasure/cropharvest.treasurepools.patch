@@ -420,5 +420,22 @@
         "poolRounds" : [ [0.6, 1], [0.4, 2] ]
         } ]
       ]
+  },
+  // [BLUEBERRY]
+  { "op" : "add",
+    "path" : "/eecBlueberryseedHarvest",
+    "value" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.1, "item" : ["eecblueberry", 3]},
+          {"weight" : 0.3, "item" : ["eecblueberry", 2]},
+          {"weight" : 0.4, "item" : ["eecblueberry", 1]},
+          {"weight" : 0.15, "item" : ["plantfibre", 1]},
+          {"weight" : 0.1, "item" : ["plantfibre", 2]},
+          {"weight" : 0.05, "item" : ["plantfibre", 3]}
+        ],
+        "poolRounds" : [ [0.5, 1], [0.5, 2] ]
+        } ]
+      ]
   }
 ]
