@@ -1,0 +1,7 @@
+{
+  "name" : "uclildogsolar",
+  "category" : "uclildogsolar",
+  "type" : "solarbody",
+
+  "frames" : {"body" : "lildogSolar.png"}
+}

@@ -1,0 +1,50 @@
+{
+  "ucradionsmall": [
+    [1, {
+      "pool" : [
+        {"weight" : 0.4, "item" : ["ucxox", 2]},
+        {"weight" : 0.4, "item" : ["ucyei", 2]},
+        {"weight" : 0.2, "item" : ["ucradionplasma", 5]},
+        {"weight" : 0.1, "item" : ["ucradionplasma", 10]}
+      ]
+    } ]
+  ],
+  "ucradionsmallbonus": [
+    [1, {
+      "pool" : [
+        {"weight" : 0.5, "item" : ["ucxox", 2]},
+        {"weight" : 0.5, "item" : ["ucyei", 2]},
+        {"weight" : 0.3, "item" : ["ucradionplasma", 5]},
+        {"weight" : 0.2, "item" : ["ucradionplasma", 10]}
+      ]
+    } ]
+  ],
+  "ucradionlarge": [
+    [1, {
+      "pool" : [
+        {"weight" : 0.4, "item" : ["ucxox", 5]},
+        {"weight" : 0.4, "item" : ["ucyei", 5]},
+        {"weight" : 0.3, "item" : ["ucradionplasma", 10]}
+      ]
+    } ]
+  ],
+  "ucradionlargebonus": [
+    [1, {
+      "pool" : [
+        {"weight" : 0.6, "item" : ["ucxox", 5]},
+        {"weight" : 0.6, "item" : ["ucyei", 5]},
+        {"weight" : 0.5, "item" : ["ucradionplasma", 10]}
+      ]
+    } ]
+  ],
+  "ucradionhuge": [
+    [1, {
+      "pool" : [
+        {"weight" : 0.5, "item" : ["ucxox", 10]},
+        {"weight" : 0.5, "item" : ["ucyei", 10]},
+        {"weight" : 0.3, "item" : ["ucradionplasma", 10]},
+        {"weight" : 0.2, "item" : ["ucradionplasma", 20]}
+      ]
+    } ]
+  ]
+}

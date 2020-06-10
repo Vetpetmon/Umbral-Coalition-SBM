@@ -1,14 +1,14 @@
 {
-  "type" : "uccrimsontop",
-  "shortdescription" : "Crimsontop",
-  "description" : "This poptop's song is known to inflict insanity upon those who hear it.",
+  "type" : "uclildogsolar",
+  "shortdescription" : "Lil Dog",
+  "description" : "The little dog to the big one.",
 
-  "categories" : [ "uccrimsontop" ],
-  "parts" : [ "body" ],
+  "categories" : [ "uclildogsolar" ],
+  "parts" : [ "solarbody" ],
 
-  "animation" : "crimsontop.animation",
+  "animation" : "lildogsolar.animation",
 
-  "dropPools" : [ { "default" : "poptopTreasure", "bow" : "poptopHunting" } ],
+  "dropPools" : [ { "default" : "ucradionsmall", "bow" : "ucradionsmallbonus" } ],
 
   "baseParameters" : {
     "scripts" : [
@@ -16,6 +16,7 @@
     ],
 
     "behavior" : "monster",
+    "damageBar" : "special",
 
     "behaviorConfig" : {
       "damageOnTouch" : true,
@@ -61,8 +62,8 @@
             "maxJumps" : 8,
             "moveState" : "run",
             "jumpXVelocity" : 22,
-            "jumpYVelocity" : 50,
-            "jumpXControlForce" : 50,
+            "jumpYVelocity" : 30,
+            "jumpXControlForce" : 30,
             "minXRange" : 10,
             "run" : true
           }
@@ -128,12 +129,12 @@
 
       "mass" : 1.0,
       "walkSpeed" : 1,
-      "runSpeed" : 20,
+      "runSpeed" : 10,
 
       "airFriction" : 0,
 
       "airJumpProfile" : {
-        "jumpSpeed" : 45.0,
+        "jumpSpeed" : 30.0,
         "jumpInitialPercentage" : 1.0,
         "jumpHoldTime" : 0.0
       }
@@ -170,40 +171,40 @@
           "baseValue" : 11
         },
         "maxHealth" : {
-          "baseValue" : 130
+          "baseValue" : 360
         },
         "protection" : {
-          "baseValue" : 4.0
+          "baseValue" : 5.0
         },
         "healthRegen" : {
-          "baseValue" : 0.0
+          "baseValue" : 0.1
         },
         "powerMultiplier" : {
-          "baseValue" : 1.5
+          "baseValue" : 1.1
         },
         "physicalResistance" : {
-          "baseValue" : 0.5
+          "baseValue" : 0.4
         },
         "fireResistance" : {
-          "baseValue" : 0.0
+          "baseValue" : 1.0
         },
         "fireStatusImmunity" : {
-          "baseValue" : 0.0
+          "baseValue" : 1.0
         },
         "iceResistance" : {
-          "baseValue" : 0.2
+          "baseValue" : -0.5
         },
-        "iceStatusImmunity" : {
-          "baseValue" : 0.0
+        "radioactiveResistance" : {
+          "baseValue" : 0.7
         },
-        "electricResistance" : {
-          "baseValue" : 0.2
+        "shadowResistance" : {
+          "baseValue" : -0.5
         },
-        "electricStatusImmunity" : {
-          "baseValue" : 0.0
+        "ucObliteratingBurnImmunity" : {
+          "baseValue" : 1.0
         },
         "poisonResistance" : {
-          "baseValue" : 0.6
+          "baseValue" : 1.0
         },
         "poisonStatusImmunity" : {
           "baseValue" : 1.0
@@ -225,9 +226,8 @@
 
     "mouthOffset" : [0, 0],
     "feetOffset" : [0, -8],
-    "capturable" : true,
-    "captureHealthFraction" : 0.5,
-    "nametagColor" : [64, 200, 255],
-    "captureCollectables" : { "monsters" : "crimsontop" }
+    "capturable" : false,
+    "captureHealthFraction" : 0.00001,
+    "nametagColor" : [64, 200, 255]
   }
 }
