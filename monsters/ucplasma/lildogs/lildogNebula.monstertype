@@ -1,12 +1,12 @@
 {
-  "type" : "uclildogsolar",
+  "type" : "uclildognebula",
   "shortdescription" : "Lil Dog",
   "description" : "The little dog to the big one.",
 
-  "categories" : [ "uclildogsolar" ],
-  "parts" : [ "solarbody" ],
+  "categories" : [ "uclildognebula" ],
+  "parts" : [ "nebulabody" ],
 
-  "animation" : "lildogsolar.animation",
+  "animation" : "lildognebula.animation",
 
   "dropPools" : [ { "default" : "ucradionsmall", "bow" : "ucradionsmallbonus" } ],
 
@@ -170,13 +170,13 @@
           "baseValue" : 11
         },
         "maxHealth" : {
-          "baseValue" : 360
+          "baseValue" : 300
         },
         "protection" : {
-          "baseValue" : 5.0
+          "baseValue" : 7.0
         },
         "healthRegen" : {
-          "baseValue" : 0.1
+          "baseValue" : 0.5
         },
         "powerMultiplier" : {
           "baseValue" : 1.1
@@ -185,19 +185,19 @@
           "baseValue" : 0.4
         },
         "fireResistance" : {
-          "baseValue" : 1.0
+          "baseValue" : 0.1
         },
         "fireStatusImmunity" : {
           "baseValue" : 1.0
         },
         "iceResistance" : {
-          "baseValue" : -0.5
+          "baseValue" : 0.1
         },
         "radioactiveResistance" : {
           "baseValue" : 0.7
         },
         "shadowResistance" : {
-          "baseValue" : -0.5
+          "baseValue" : -0.8
         },
         "ucObliteratingBurnImmunity" : {
           "baseValue" : 1.0

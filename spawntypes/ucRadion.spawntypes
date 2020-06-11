@@ -1,0 +1,21 @@
+[
+  {
+   "name" : "ucradionslildogs",
+
+   "spawnParameters" : {
+     "area" : "surface",
+     "region" : "all",
+     "time" : "all"
+   },
+
+   "groupSize" : [1, 2],
+   "spawnChance" : 0.05,
+   "monsterType" : [
+     [0.5, "uclildogsolar"],
+     [0.5, "uclildognebula"]
+   ],
+   "monsterParameters" : {
+     "aggressive" : true
+   }
+  }
+]

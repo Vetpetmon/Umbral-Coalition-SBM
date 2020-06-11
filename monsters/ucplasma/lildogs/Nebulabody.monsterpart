@@ -1,0 +1,7 @@
+{
+  "name" : "uclildognebula",
+  "category" : "uclildognebula",
+  "type" : "nebulabody",
+
+  "frames" : {"body" : "lildogNebula.png"}
+}
