@@ -1,5 +1,5 @@
 {
-  "name" : "dimensionalwarpmax",
+  "name" : "ucdimensionalwarpmax",
   "blockingStat" : "60thdimensionresist",
 
   "effectConfig" : {

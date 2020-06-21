@@ -2,7 +2,7 @@
   "name" : "ucplasma",
   "friendlyName" : "Dimensional Node",
   "airless" : true,
-  "statusEffects" : [ "dimensionalwarpmax" ],
+  "statusEffects" : [ "ucdimensionalwarpmax" ],
 
   "spawnProfile" : {
     "groups" : [
