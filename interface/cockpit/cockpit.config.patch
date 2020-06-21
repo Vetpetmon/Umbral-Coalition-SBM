@@ -92,13 +92,13 @@
       "displayName" : "Solar Flare",
       "icon" : "/interface/cockpit/weather/clear.png"
     }
-  },
-  {
+  }
+  /*{
     "op" : "add",
     "path" : "/displayWeathers/ucgrbairless",
     "value" : {
       "displayName" : "Major Gamma Ray Blast Vulnerability",
       "icon" : "/interface/cockpit/weather/gammaray.png"
     }
-  }
+  }*/
 ]
